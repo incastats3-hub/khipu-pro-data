@@ -1,0 +1,3602 @@
+{
+  "Ajax": {
+    "Tiros": {
+      "name": "Wout Weghorst",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 4.5,
+        "remates_a_puerta_p90": 2.1,
+        "toques_area_rival_p90": 7
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Kasper Dolberg",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.8,
+        "porcentaje_tiros_a_puerta": "58.0%",
+        "goles_por_tiro_a_puerta": 0.31
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Branco van den Boomen",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.2,
+        "presiones_exitosas_p90": 6.9,
+        "porcentaje_duelos_defensivos_ganados": "57%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Josip Šutalo",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.2
+      }
+    },
+    "Tackles": {
+      "name": "Kenneth Taylor",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.1,
+        "intercepciones_p90": 1.9,
+        "recuperaciones_balon_p90": 8
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Ko Itakura",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.2,
+        "bloqueos_p90": 1.3,
+        "intercepciones_p90": 2.1
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Oscar Gloukh",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 2.8,
+        "pases_clave_p90": 2.5,
+        "acciones_creacion_tiro_p90": 5.5
+      }
+    }
+  },
+  "Arsenal": {
+    "Tiros": {
+      "name": "Viktor Gyökeres",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Farsenal-viktor-gyo-keres--peep5qma.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 4.8,
+        "remates_a_puerta_p90": 2.3,
+        "toques_area_rival_p90": 7.5
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Bukayo Saka",
+      "photoUrl": "",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.9,
+        "porcentaje_tiros_a_puerta": "55.0%",
+        "goles_por_tiro_a_puerta": 0.29
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Declan Rice",
+      "photoUrl": "",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2,
+        "presiones_exitosas_p90": 8.1,
+        "porcentaje_duelos_defensivos_ganados": "65%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Kai Havertz",
+      "photoUrl": "",
+      "position": "Centrocampista",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1
+      }
+    },
+    "Tackles": {
+      "name": "Martin Zubimendi",
+      "photoUrl": "",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.4,
+        "intercepciones_p90": 2.5,
+        "recuperaciones_balon_p90": 8.8
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "William Saliba",
+      "photoUrl": "",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4,
+        "bloqueos_p90": 1.2,
+        "intercepciones_p90": 2
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Martin Ødegaard",
+      "photoUrl": "",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 2.4,
+        "pases_clave_p90": 3.5,
+        "acciones_creacion_tiro_p90": 6.2
+      }
+    }
+  },
+  "Athletic Club": {
+    "Tiros": {
+      "name": "Iñaki Williams",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fathletic-club-in-aki-williams--m5b0zmzi.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 3.1,
+        "remates_a_puerta_p90": 1.4,
+        "toques_area_rival_p90": 6.5
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Gorka Guruzeta",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fathletic-club-gorka-guruzeta--o0psnecs.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.5,
+        "porcentaje_tiros_a_puerta": "52.0%",
+        "goles_por_tiro_a_puerta": 0.28
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Iñigo Ruiz De Galarreta",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.4,
+        "presiones_exitosas_p90": 7.2,
+        "porcentaje_duelos_defensivos_ganados": "61%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Daniel Vivian",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 0.9
+      }
+    },
+    "Tackles": {
+      "name": "Beñat Prados",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.3,
+        "intercepciones_p90": 2.1,
+        "recuperaciones_balon_p90": 8.2
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Aitor Paredes",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.5,
+        "bloqueos_p90": 1.1,
+        "intercepciones_p90": 1.9
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Nico Williams",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fathletic-club-nico-williams--kextrknv.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 3.8,
+        "pases_clave_p90": 2.2,
+        "acciones_creacion_tiro_p90": 5.9
+      }
+    }
+  },
+  "Atalanta BC": {
+    "Tiros": {
+      "name": "Gianluca Scamacca",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 4.2,
+        "remates_a_puerta_p90": 1.9,
+        "toques_area_rival_p90": 6.8
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Ademola Lookman",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fatalanta-ademola-lookman--pfkjnwkr.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.7,
+        "porcentaje_tiros_a_puerta": "53.0%",
+        "goles_por_tiro_a_puerta": 0.3
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Marten de Roon",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.5,
+        "presiones_exitosas_p90": 7.1,
+        "porcentaje_duelos_defensivos_ganados": "62%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Berat Djimsiti",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.1
+      }
+    },
+    "Tackles": {
+      "name": "Éderson",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.5,
+        "intercepciones_p90": 2.3,
+        "recuperaciones_balon_p90": 8.5
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Isak Hien",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.1,
+        "bloqueos_p90": 1.4,
+        "intercepciones_p90": 2.2
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Charles De Ketelaere",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fatalanta-charles-de-ketelaere--3rcc1mhu.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 2.1,
+        "pases_clave_p90": 2.6,
+        "acciones_creacion_tiro_p90": 5.4
+      }
+    }
+  },
+  "Atlético de Madrid": {
+    "Tiros": {
+      "name": "Julián Álvarez",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fatletico-madrid-julian-alvarez--dj6zu12f.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 4,
+        "remates_a_puerta_p90": 1.8,
+        "toques_area_rival_p90": 6.9
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Antoine Griezmann",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fantoine-griezmann-atle-tico-madrid--qgxfpha3.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.6,
+        "porcentaje_tiros_a_puerta": "56.0%",
+        "goles_por_tiro_a_puerta": 0.32
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Koke",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.1,
+        "presiones_exitosas_p90": 6.8,
+        "porcentaje_duelos_defensivos_ganados": "60%"
+      }
+    },
+    "Tarjetas": {
+      "name": "José María Giménez",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.3
+      }
+    },
+    "Tackles": {
+      "name": "Conor Gallagher",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fatletico-madrid-conor-gallagher---ffpmin4.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.6,
+        "intercepciones_p90": 2,
+        "recuperaciones_balon_p90": 8.1
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Robin Le Normand",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.8,
+        "bloqueos_p90": 1.5,
+        "intercepciones_p90": 2.3
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Álex Baena",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fatletico-madrid-alex-baena--yqts8pgb.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 2.5,
+        "pases_clave_p90": 2.9,
+        "acciones_creacion_tiro_p90": 5.7
+      }
+    }
+  },
+  "B Dortmund": {
+    "Tiros": {
+      "name": "Serhou Guirassy",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fdortmund-serhou-guirassy--tv8zyvk0.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 3.9,
+        "remates_a_puerta_p90": 1.9,
+        "toques_area_rival_p90": 6.5
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Karim Adeyemi",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fdortmund-karim-adeyemi--ymcfnlno.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.5,
+        "porcentaje_tiros_a_puerta": "50.0%",
+        "goles_por_tiro_a_puerta": 0.27
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Emre Can",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.3,
+        "presiones_exitosas_p90": 7,
+        "porcentaje_duelos_defensivos_ganados": "61%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Nico Schlotterbeck",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1
+      }
+    },
+    "Tackles": {
+      "name": "Marcel Sabitzer",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3,
+        "intercepciones_p90": 1.8,
+        "recuperaciones_balon_p90": 7.7
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Niklas Süle",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.3,
+        "bloqueos_p90": 1.2,
+        "intercepciones_p90": 2
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Julian Brandt",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fdortmund-julian-brandt--ekgqa6gs.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 2.2,
+        "pases_clave_p90": 3.1,
+        "acciones_creacion_tiro_p90": 5.8
+      }
+    }
+  },
+  "FC Barcelona": {
+    "Tiros": {
+      "name": "Robert Lewandowski",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fbarcelona-robert-lewandowski--rqmefntx.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 4.1,
+        "remates_a_puerta_p90": 2,
+        "toques_area_rival_p90": 6.8
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Marcus Rashford",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fbarcelona-marcus-rashford--mbnrsiyf.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.8,
+        "porcentaje_tiros_a_puerta": "54.0%",
+        "goles_por_tiro_a_puerta": 0.3
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Gavi",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fbarcelona-gavi--xoqxl7di.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.8,
+        "presiones_exitosas_p90": 8.9,
+        "porcentaje_duelos_defensivos_ganados": "63%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Ronald Araújo",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fbarcelona-ronald-arau-joi--346xe2m2.png&w=600&f=webp",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.1
+      }
+    },
+    "Tackles": {
+      "name": "Frenkie de Jong",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fbarcelona-frenkie-de-jong--34wi0ze4.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 2.9,
+        "intercepciones_p90": 1.9,
+        "recuperaciones_balon_p90": 7.8
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Jules Koundé",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fbarcelona-jules-kounde--4k39yqs1.png&w=600&f=webp",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 3.8,
+        "bloqueos_p90": 1.1,
+        "intercepciones_p90": 2.2
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Lamine Yamal",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fbarcelona-lamine-yamal2025--ucxuf5-t.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 4,
+        "pases_clave_p90": 2.4,
+        "acciones_creacion_tiro_p90": 6
+      }
+    }
+  },
+  "FC Bayern München": {
+    "Tiros": {
+      "name": "Harry Kane",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fbayern-harry-kane--syw1lqf_.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 4.9,
+        "remates_a_puerta_p90": 2.5,
+        "toques_area_rival_p90": 7.2
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Nicolas Jackson",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fchelsea-nicolas-jackson--zjwzy2f8.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.7,
+        "porcentaje_tiros_a_puerta": "51.0%",
+        "goles_por_tiro_a_puerta": 0.28
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Leon Goretzka",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2,
+        "presiones_exitosas_p90": 7.5,
+        "porcentaje_duelos_defensivos_ganados": "63%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Joshua Kimmich",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fbayern-joshua-kimmich--r5hcsp8o.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.2
+      }
+    },
+    "Tackles": {
+      "name": "Konrad Laimer",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.4,
+        "intercepciones_p90": 2.2,
+        "recuperaciones_balon_p90": 8.3
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Dayot Upamecano",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fbayern-dayot-upamecano--b0kq0ans.png&w=600&f=webp",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.2,
+        "bloqueos_p90": 1.3,
+        "intercepciones_p90": 2.4
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Jamal Musiala",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fbayern-jamal-musiala--zverekdb.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 4.2,
+        "pases_clave_p90": 2.8,
+        "acciones_creacion_tiro_p90": 6.5
+      }
+    }
+  },
+  "SL Benfica": {
+    "Tiros": {
+      "name": "Vangelis Pavlidis",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 4.3,
+        "remates_a_puerta_p90": 2,
+        "toques_area_rival_p90": 6.9
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Dodô Lukebakio",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.6,
+        "porcentaje_tiros_a_puerta": "52.0%",
+        "goles_por_tiro_a_puerta": 0.29
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Fredrik Aursnes",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.3,
+        "presiones_exitosas_p90": 7.8,
+        "porcentaje_duelos_defensivos_ganados": "64%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Nicolás Otamendi",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.4
+      }
+    },
+    "Tackles": {
+      "name": "Richard Ríos",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.2,
+        "intercepciones_p90": 2.4,
+        "recuperaciones_balon_p90": 8.4
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "António Silva",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.5,
+        "bloqueos_p90": 1.2,
+        "intercepciones_p90": 2.1
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Georgiy Sudakov",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 2.6,
+        "pases_clave_p90": 3,
+        "acciones_creacion_tiro_p90": 5.8
+      }
+    }
+  },
+  "FK Bodø/Glimt": {
+    "Tiros": {
+      "name": "Kasper Høgh",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 3.2,
+        "remates_a_puerta_p90": 1.5,
+        "toques_area_rival_p90": 5.8
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Jens Petter Hauge",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.4,
+        "porcentaje_tiros_a_puerta": "51.0%",
+        "goles_por_tiro_a_puerta": 0.25
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Patrick Berg",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.1,
+        "presiones_exitosas_p90": 7,
+        "porcentaje_duelos_defensivos_ganados": "60%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Brede Moe",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.2
+      }
+    },
+    "Tackles": {
+      "name": "Ulrik Saltnes",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 2.9,
+        "intercepciones_p90": 1.8,
+        "recuperaciones_balon_p90": 7.5
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Jostein Gundersen",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4,
+        "bloqueos_p90": 1.1,
+        "intercepciones_p90": 2
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Håkon Evjen",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 2.5,
+        "pases_clave_p90": 2.1,
+        "acciones_creacion_tiro_p90": 5
+      }
+    }
+  },
+  "Chelsea FC": {
+    "Tiros": {
+      "name": "João Pedro",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fchelsea-joao-pedro--dukatbkb.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 3.5,
+        "remates_a_puerta_p90": 1.6,
+        "toques_area_rival_p90": 6
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Cole Palmer",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fchelsea-cole-palmer-min--vjd3irri.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.8,
+        "porcentaje_tiros_a_puerta": "55.0%",
+        "goles_por_tiro_a_puerta": 0.3
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Moisés Caicedo",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fchelsea-moises-caicedo--u30bvmmc.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.9,
+        "presiones_exitosas_p90": 8.5,
+        "porcentaje_duelos_defensivos_ganados": "64%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Enzo Fernández",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fchelsea-enzo-fernandez--eeuqjly3.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.2
+      }
+    },
+    "Tackles": {
+      "name": "Malo Gusto",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fchelsea-malo-gusto--mxan5wvm.png&w=600&f=webp",
+      "position": "Defensa",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.8,
+        "intercepciones_p90": 2.1,
+        "recuperaciones_balon_p90": 8
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Levi Colwill",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fchelsea-levi-colwill--aasnmw9x.png&w=600&f=webp",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4,
+        "bloqueos_p90": 1.3,
+        "intercepciones_p90": 1.9
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Alejandro Garnacho",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fchelsea-alejandro-garnacho--bvzk4nty.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 3.2,
+        "pases_clave_p90": 2.3,
+        "acciones_creacion_tiro_p90": 5.5
+      }
+    }
+  },
+  "Club Brugge KV": {
+    "Tiros": {
+      "name": "Gustaf Nilsson",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 3.4,
+        "remates_a_puerta_p90": 1.6,
+        "toques_area_rival_p90": 6.2
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Christos Tzolis",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.5,
+        "porcentaje_tiros_a_puerta": "53.0%",
+        "goles_por_tiro_a_puerta": 0.28
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Hans Vanaken",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 1.9,
+        "presiones_exitosas_p90": 6.5,
+        "porcentaje_duelos_defensivos_ganados": "58%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Brandon Mechele",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1
+      }
+    },
+    "Tackles": {
+      "name": "Raphael Onyedika",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.7,
+        "intercepciones_p90": 2.5,
+        "recuperaciones_balon_p90": 8.8
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Jorne Spileers",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.6,
+        "bloqueos_p90": 1.3,
+        "intercepciones_p90": 2.1
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Hugo Vetlesen",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 2.3,
+        "pases_clave_p90": 2,
+        "acciones_creacion_tiro_p90": 4.9
+      }
+    }
+  },
+  "FC Copenhagen": {
+    "Tiros": {
+      "name": "Youssoufa Moukoko",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 3.8,
+        "remates_a_puerta_p90": 1.7,
+        "toques_area_rival_p90": 6.4
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Mohamed Elyounoussi",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.3,
+        "porcentaje_tiros_a_puerta": "49.0%",
+        "goles_por_tiro_a_puerta": 0.24
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Lukas Lerager",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.2,
+        "presiones_exitosas_p90": 7.1,
+        "porcentaje_duelos_defensivos_ganados": "61%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Pantelis Hatzidiakos",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.1
+      }
+    },
+    "Tackles": {
+      "name": "Thomas Delaney",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.1,
+        "intercepciones_p90": 2,
+        "recuperaciones_balon_p90": 7.9
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Gabriel Pereira",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.9,
+        "bloqueos_p90": 1.6,
+        "intercepciones_p90": 2.3
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Viktor Claesson",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 2,
+        "pases_clave_p90": 2.4,
+        "acciones_creacion_tiro_p90": 5.1
+      }
+    }
+  },
+  "Eintracht Frankfurt": {
+    "Tiros": {
+      "name": "Elye Wahi",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 3.6,
+        "remates_a_puerta_p90": 1.7,
+        "toques_area_rival_p90": 6.1
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Jonathan Burkardt",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Ffrankfurt-jonathan-burkardt--nagfq3jr.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.4,
+        "porcentaje_tiros_a_puerta": "50.0%",
+        "goles_por_tiro_a_puerta": 0.26
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Ellyes Skhiri",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.2,
+        "presiones_exitosas_p90": 7.8,
+        "porcentaje_duelos_defensivos_ganados": "63%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Robin Koch",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1
+      }
+    },
+    "Tackles": {
+      "name": "Hugo Larsson",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Ffrankfurt-hugo-larsson--yx_1azah.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.2,
+        "intercepciones_p90": 2.1,
+        "recuperaciones_balon_p90": 8
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Arthur Theate",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.4,
+        "bloqueos_p90": 1.4,
+        "intercepciones_p90": 2.2
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Farès Chaïbi",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 2.7,
+        "pases_clave_p90": 2.5,
+        "acciones_creacion_tiro_p90": 5.4
+      }
+    }
+  },
+  "Galatasaray AŞ": {
+    "Tiros": {
+      "name": "Victor Osimhen",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 4.7,
+        "remates_a_puerta_p90": 2.4,
+        "toques_area_rival_p90": 7.1
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Mauro Icardi",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.9,
+        "porcentaje_tiros_a_puerta": "59.0%",
+        "goles_por_tiro_a_puerta": 0.35
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Lucas Torreira",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.9,
+        "presiones_exitosas_p90": 8.6,
+        "porcentaje_duelos_defensivos_ganados": "66%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Abdülkerim Bardakcı",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.2
+      }
+    },
+    "Tackles": {
+      "name": "İlkay Gündoğan",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fman-city-ilkay-gu-ndogan-2024--p2f3sp6e.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 2.8,
+        "intercepciones_p90": 1.8,
+        "recuperaciones_balon_p90": 7.6
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Davinson Sánchez",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 5,
+        "bloqueos_p90": 1.5,
+        "intercepciones_p90": 2.2
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Leroy Sané",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fbayern-leroy-sane--86iw1raj.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 3.5,
+        "pases_clave_p90": 2.8,
+        "acciones_creacion_tiro_p90": 6.1
+      }
+    }
+  },
+  "FC Internazionale Milano": {
+    "Tiros": {
+      "name": "Lautaro Martínez",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Finter-lautaro-martinez--e-nlw6s5.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 4.3,
+        "remates_a_puerta_p90": 2.1,
+        "toques_area_rival_p90": 7
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Marcus Thuram",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Finter-marcus-thuram--ch_9kcge.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.7,
+        "porcentaje_tiros_a_puerta": "54.0%",
+        "goles_por_tiro_a_puerta": 0.31
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Hakan Çalhanoğlu",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Finter-hakan-calhanoglu--aaplji7-.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2,
+        "presiones_exitosas_p90": 7,
+        "porcentaje_duelos_defensivos_ganados": "61%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Nicolò Barella",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Finter-nicolo-barella--z2do9uio.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.1
+      }
+    },
+    "Tackles": {
+      "name": "Henrikh Mkhitaryan",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Finter-henrikh-mkhitaryan--wgkwuh6h.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3,
+        "intercepciones_p90": 1.9,
+        "recuperaciones_balon_p90": 7.8
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Alessandro Bastoni",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Finter-alessandro-bastoni--a15d0mbu.png&w=600&f=webp",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.1,
+        "bloqueos_p90": 1.2,
+        "intercepciones_p90": 2.1
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Federico Dimarco",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Finter-federico-dimarco--wiqyg8ey.png&w=600&f=webps",
+      "position": "Defensa",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 1.8,
+        "pases_clave_p90": 3,
+        "acciones_creacion_tiro_p90": 5.3
+      }
+    }
+  },
+  "Juventus": {
+    "Tiros": {
+      "name": "Dušan Vlahović",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fjuventus-dusan-vlahovic--mg0h4n1z.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 4.5,
+        "remates_a_puerta_p90": 2.2,
+        "toques_area_rival_p90": 7.1
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Loïs Openda",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fjuventus-loi-s-openda--6yhc8wsc.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.9,
+        "porcentaje_tiros_a_puerta": "55.0%",
+        "goles_por_tiro_a_puerta": 0.32
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Weston McKennie",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fjuventus-weston-mckennie--4mx4jwjc.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.1,
+        "presiones_exitosas_p90": 7.2,
+        "porcentaje_duelos_defensivos_ganados": "60%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Bremer",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.3
+      }
+    },
+    "Tackles": {
+      "name": "Manuel Locatelli",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.3,
+        "intercepciones_p90": 2.4,
+        "recuperaciones_balon_p90": 8.5
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Federico Gatti",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.8,
+        "bloqueos_p90": 1.4,
+        "intercepciones_p90": 2
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Teun Koopmeiners",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fjuventus-teun-koopmeiners--bzgp_gh6.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 2,
+        "pases_clave_p90": 2.8,
+        "acciones_creacion_tiro_p90": 5.6
+      }
+    }
+  },
+  "FC Kairat Almaty": {
+    "Tiros": {
+      "name": "Jorginho",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 3,
+        "remates_a_puerta_p90": 1.4,
+        "toques_area_rival_p90": 5.5
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Ricardinho",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.2,
+        "porcentaje_tiros_a_puerta": "48.0%",
+        "goles_por_tiro_a_puerta": 0.22
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Dan Glazer",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.4,
+        "presiones_exitosas_p90": 6.8,
+        "porcentaje_duelos_defensivos_ganados": "59%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Egor Sorokin",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.3
+      }
+    },
+    "Tackles": {
+      "name": "Adilet Sadybekov",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3,
+        "intercepciones_p90": 2,
+        "recuperaciones_balon_p90": 7.8
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Luka Gadrani",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 5.1,
+        "bloqueos_p90": 1.5,
+        "intercepciones_p90": 2.4
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Giorgi Zaria",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 2.1,
+        "pases_clave_p90": 2.3,
+        "acciones_creacion_tiro_p90": 4.9
+      }
+    }
+  },
+  "Bayer 04 Leverkusen": {
+    "Tiros": {
+      "name": "Patrik Schick",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fleverkusen-patrik-schick--colfltig.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 4,
+        "remates_a_puerta_p90": 1.9,
+        "toques_area_rival_p90": 6.7
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Nathan Tella",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.5,
+        "porcentaje_tiros_a_puerta": "51.0%",
+        "goles_por_tiro_a_puerta": 0.27
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Exequiel Palacios",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.3,
+        "presiones_exitosas_p90": 8,
+        "porcentaje_duelos_defensivos_ganados": "64%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Edmond Tapsoba",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 0.9
+      }
+    },
+    "Tackles": {
+      "name": "Robert Andrich",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.1,
+        "intercepciones_p90": 2,
+        "recuperaciones_balon_p90": 8
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Jarell Quansah",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 3.9,
+        "bloqueos_p90": 1.1,
+        "intercepciones_p90": 1.9
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Alejandro Grimaldo",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fleverkusen-alex-grimaldo--ebqtruhw.png&w=600&f=webp",
+      "position": "Defensa",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 1.9,
+        "pases_clave_p90": 3.2,
+        "acciones_creacion_tiro_p90": 5.9
+      }
+    }
+  },
+  "Liverpool FC": {
+    "Tiros": {
+      "name": "Alexander Isak",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fliverpool-alexander-isak--vgf2_y7k.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 3.8,
+        "remates_a_puerta_p90": 1.8,
+        "toques_area_rival_p90": 6.5
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Mohamed Salah",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fliverpool-mohamed-salah24--iohe6tvt.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 2.1,
+        "porcentaje_tiros_a_puerta": "58.0%",
+        "goles_por_tiro_a_puerta": 0.33
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Wataru Endo",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.4,
+        "presiones_exitosas_p90": 8.2,
+        "porcentaje_duelos_defensivos_ganados": "62%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Ibrahima Konaté",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fliverpool-ibrahima-konate--vii6alde.png&w=600&f=webp",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1
+      }
+    },
+    "Tackles": {
+      "name": "Dominik Szoboszlai",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fliverpool-dominik-szoboszlai--iw9it82v.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3,
+        "intercepciones_p90": 1.8,
+        "recuperaciones_balon_p90": 7.9
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Virgil van Dijk",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fliverpool-virgil-van-dijk--sbeqnwi8.png&w=600&f=webp",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.6,
+        "bloqueos_p90": 1.2,
+        "intercepciones_p90": 1.8
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Florian Wirtz",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fliverpool-florian-wirtz--c8nqiqs9.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 3.9,
+        "pases_clave_p90": 3.4,
+        "acciones_creacion_tiro_p90": 6.8
+      }
+    }
+  },
+  "Manchester City": {
+    "Tiros": {
+      "name": "Erling Haaland",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fman-city-erling-haaland--b0fuwl1a.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 5.2,
+        "remates_a_puerta_p90": 2.8,
+        "toques_area_rival_p90": 8
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Phil Foden",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fman-city-phil-foden--mont3zdk.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.9,
+        "porcentaje_tiros_a_puerta": "57.0%",
+        "goles_por_tiro_a_puerta": 0.32
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Rodri",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fman-city-rodri--ipaum2vy.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 1.9,
+        "presiones_exitosas_p90": 8.5,
+        "porcentaje_duelos_defensivos_ganados": "68%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Rúben Dias",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fman-city-ruben-dias--k2s4bb92.png&w=600&f=webp",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 0.8
+      }
+    },
+    "Tackles": {
+      "name": "Mateo Kovačić",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 2.8,
+        "intercepciones_p90": 1.7,
+        "recuperaciones_balon_p90": 7.5
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Joško Gvardiol",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fman-city-josko-gvardiol--hmoofurn.png&w=600&f=webp",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 3.5,
+        "bloqueos_p90": 1.3,
+        "intercepciones_p90": 2
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Jérémy Doku",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fman-city-jeremy-doku--wgwx8vot.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 4.5,
+        "pases_clave_p90": 2.5,
+        "acciones_creacion_tiro_p90": 6.7
+      }
+    }
+  },
+  "Olympique de Marseille": {
+    "Tiros": {
+      "name": "Pierre-Emerick Aubameyang",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fpierre-emerick-aubameyang-marseilla--62-jw9kw.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 3.9,
+        "remates_a_puerta_p90": 1.8,
+        "toques_area_rival_p90": 6.6
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Mason Greenwood",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.7,
+        "porcentaje_tiros_a_puerta": "53.0%",
+        "goles_por_tiro_a_puerta": 0.3
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Geoffrey Kondogbia",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.5,
+        "presiones_exitosas_p90": 7,
+        "porcentaje_duelos_defensivos_ganados": "61%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Facundo Medina",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.2
+      }
+    },
+    "Tackles": {
+      "name": "Pierre-Emile Højbjerg",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.4,
+        "intercepciones_p90": 2.2,
+        "recuperaciones_balon_p90": 8.3
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Leonardo Balerdi",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.5,
+        "bloqueos_p90": 1.3,
+        "intercepciones_p90": 2.1
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Ángel Gomes",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 2.8,
+        "pases_clave_p90": 2.6,
+        "acciones_creacion_tiro_p90": 5.7
+      }
+    }
+  },
+  "AS Monaco": {
+    "Tiros": {
+      "name": "Folarin Balogun",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 3.7,
+        "remates_a_puerta_p90": 1.8,
+        "toques_area_rival_p90": 6.4
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "George Ilenikhena",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.6,
+        "porcentaje_tiros_a_puerta": "52.0%",
+        "goles_por_tiro_a_puerta": 0.29
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Denis Zakaria",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.4,
+        "presiones_exitosas_p90": 7.5,
+        "porcentaje_duelos_defensivos_ganados": "62%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Mohammed Salisu",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.1
+      }
+    },
+    "Tackles": {
+      "name": "Paul Pogba",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.2,
+        "intercepciones_p90": 2,
+        "recuperaciones_balon_p90": 8
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Thilo Kehrer",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.2,
+        "bloqueos_p90": 1.2,
+        "intercepciones_p90": 2
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Aleksandr Golovin",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 2.9,
+        "pases_clave_p90": 2.7,
+        "acciones_creacion_tiro_p90": 5.8
+      }
+    }
+  },
+  "SSC Napoli": {
+    "Tiros": {
+      "name": "Rasmus Højlund",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fnapoli-rasmus-hojlund--r07kei0l.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 3.6,
+        "remates_a_puerta_p90": 1.7,
+        "toques_area_rival_p90": 6.3
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Noa Lang",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.5,
+        "porcentaje_tiros_a_puerta": "51.0%",
+        "goles_por_tiro_a_puerta": 0.28
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Frank Anguissa",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fnapoli-andre-frank-zambo-anguissa--ilbvjjuh.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2,
+        "presiones_exitosas_p90": 7.1,
+        "porcentaje_duelos_defensivos_ganados": "62%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Amir Rrahmani",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1
+      }
+    },
+    "Tackles": {
+      "name": "Stanislav Lobotka",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.1,
+        "intercepciones_p90": 2.2,
+        "recuperaciones_balon_p90": 8.2
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Alessandro Buongiorno",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.7,
+        "bloqueos_p90": 1.5,
+        "intercepciones_p90": 2.3
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Kevin De Bruyne",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fnapoli-kevin-de-bruyne--6jpyqsgx.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 2.2,
+        "pases_clave_p90": 3.8,
+        "acciones_creacion_tiro_p90": 6.5
+      }
+    }
+  },
+  "Newcastle United FC": {
+    "Tiros": {
+      "name": "Anthony Gordon",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fnewcastle-anthony-gordon-generic--up0mnr5x.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 3.3,
+        "remates_a_puerta_p90": 1.5,
+        "toques_area_rival_p90": 6.1
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Harvey Barnes",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fnewcastle-harvey-barnes--uwo3k_7s.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.4,
+        "porcentaje_tiros_a_puerta": "52.0%",
+        "goles_por_tiro_a_puerta": 0.28
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Joelinton",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fnewcastle-joelinton-generic--lrbd5q-2.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.6,
+        "presiones_exitosas_p90": 7.8,
+        "porcentaje_duelos_defensivos_ganados": "63%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Bruno Guimarães",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fnewcastle-bruno-guimaraes-generic--vwsixdcg.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.3
+      }
+    },
+    "Tackles": {
+      "name": "Sandro Tonali",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fnewcastle-sandro-tonali--qs9zps19.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.2,
+        "intercepciones_p90": 2.1,
+        "recuperaciones_balon_p90": 8.1
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Sven Botman",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.5,
+        "bloqueos_p90": 1.2,
+        "intercepciones_p90": 2
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Jacob Ramsey",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fnewcastle-jacob-ramsey--g2mkqa5n.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 2.5,
+        "pases_clave_p90": 2.2,
+        "acciones_creacion_tiro_p90": 5.2
+      }
+    }
+  },
+  "Olympiacos FC": {
+    "Tiros": {
+      "name": "Mehdi Taremi",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 3.8,
+        "remates_a_puerta_p90": 1.8,
+        "toques_area_rival_p90": 6.8
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Ayoub El Kaabi",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.6,
+        "porcentaje_tiros_a_puerta": "55.0%",
+        "goles_por_tiro_a_puerta": 0.31
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Santiago Hezze",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.5,
+        "presiones_exitosas_p90": 7.5,
+        "porcentaje_duelos_defensivos_ganados": "62%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Panagiotis Retsos",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.2
+      }
+    },
+    "Tackles": {
+      "name": "Dani García",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.3,
+        "intercepciones_p90": 2.2,
+        "recuperaciones_balon_p90": 8.1
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Lorenzo Pirola",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.8,
+        "bloqueos_p90": 1.4,
+        "intercepciones_p90": 2.1
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Daniel Podence",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 3,
+        "pases_clave_p90": 2.4,
+        "acciones_creacion_tiro_p90": 5.6
+      }
+    }
+  },
+  "Pafos FC": {
+    "Tiros": {
+      "name": "Nany Dimata",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 3.1,
+        "remates_a_puerta_p90": 1.5,
+        "toques_area_rival_p90": 5.9
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Mislav Oršić",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.3,
+        "porcentaje_tiros_a_puerta": "50.0%",
+        "goles_por_tiro_a_puerta": 0.25
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Ivan Šunjić",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.6,
+        "presiones_exitosas_p90": 7.2,
+        "porcentaje_duelos_defensivos_ganados": "60%"
+      }
+    },
+    "Tarjetas": {
+      "name": "David Goldar",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.4
+      }
+    },
+    "Tackles": {
+      "name": "Pêpê",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3,
+        "intercepciones_p90": 2.1,
+        "recuperaciones_balon_p90": 7.9
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "David Luiz",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.9,
+        "bloqueos_p90": 1.3,
+        "intercepciones_p90": 2
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Ken Sema",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 2.4,
+        "pases_clave_p90": 2,
+        "acciones_creacion_tiro_p90": 5
+      }
+    }
+  },
+  "Paris Saint-Germain": {
+    "Tiros": {
+      "name": "Désiré Doué",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fpsg-de-sire-doue--6ftklpn4.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 2.5,
+        "remates_a_puerta_p90": 2.6,
+        "toques_area_rival_p90": 4.5
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Ousmane Dembélé",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fpsg-ousmane-dembele--lhjgxe1y.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.6,
+        "porcentaje_tiros_a_puerta": "48.0%",
+        "goles_por_tiro_a_puerta": 0.22
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Warren Zaïre-Emery",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fpsg-warren-zaire-emery--o66js4xq.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 1.8,
+        "presiones_exitosas_p90": 7.5,
+        "porcentaje_duelos_defensivos_ganados": "61%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Lucas Hernández",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.1
+      }
+    },
+    "Tackles": {
+      "name": "João Neves",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fpsg-joa-o-neves--zmetllx1.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.5,
+        "intercepciones_p90": 2.3,
+        "recuperaciones_balon_p90": 8.5
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Marquinhos",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fpsg-marquinhos--qmk__wx5.png&w=600&f=webp",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.3,
+        "bloqueos_p90": 1.3,
+        "intercepciones_p90": 2.1
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Khvicha Kvaratskhelia",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fpsg-khvicha-kvaratskhelia--niz5h-gl.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 4.5,
+        "pases_clave_p90": 3,
+        "acciones_creacion_tiro_p90": 7
+      }
+    }
+  },
+  "PSV Eindhoven": {
+    "Tiros": {
+      "name": "Ricardo Pepi",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 3.7,
+        "remates_a_puerta_p90": 1.8,
+        "toques_area_rival_p90": 6.7
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Myron Boadu",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.6,
+        "porcentaje_tiros_a_puerta": "53.0%",
+        "goles_por_tiro_a_puerta": 0.29
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Jerdy Schouten",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.1,
+        "presiones_exitosas_p90": 7.4,
+        "porcentaje_duelos_defensivos_ganados": "62%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Armando Obispo",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.1
+      }
+    },
+    "Tackles": {
+      "name": "Joey Veerman",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3,
+        "intercepciones_p90": 1.8,
+        "recuperaciones_balon_p90": 7.7
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Ryan Flamingo",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.2,
+        "bloqueos_p90": 1.1,
+        "intercepciones_p90": 2
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Ismael Saibari",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 2.8,
+        "pases_clave_p90": 2.5,
+        "acciones_creacion_tiro_p90": 5.6
+      }
+    }
+  },
+  "Qarabağ FK": {
+    "Tiros": {
+      "name": "Musa Gurbanli",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 3.4,
+        "remates_a_puerta_p90": 1.6,
+        "toques_area_rival_p90": 6
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Leandro Andrade",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.3,
+        "porcentaje_tiros_a_puerta": "49.0%",
+        "goles_por_tiro_a_puerta": 0.24
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Marko Janković",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.3,
+        "presiones_exitosas_p90": 6.9,
+        "porcentaje_duelos_defensivos_ganados": "58%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Bahlul Mustafazade",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.2
+      }
+    },
+    "Tackles": {
+      "name": "Elvin Jafarguliyev",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.1,
+        "intercepciones_p90": 2.1,
+        "recuperaciones_balon_p90": 7.7
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Kevin Medina",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.5,
+        "bloqueos_p90": 1.3,
+        "intercepciones_p90": 2.2
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Abdullah Zoubir",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 2.9,
+        "pases_clave_p90": 2.5,
+        "acciones_creacion_tiro_p90": 5.5
+      }
+    }
+  },
+  "Real Madrid C.F.": {
+    "Tiros": {
+      "name": "Kylian Mbappé",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Freal-madrid-kylian-mbappe--odqrhi8g.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 5.1,
+        "remates_a_puerta_p90": 2.7,
+        "toques_area_rival_p90": 9.2
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Vinícius Júnior",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Freal-madrid-vinicius-junior--nnavobx-.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 2.2,
+        "porcentaje_tiros_a_puerta": "56.0%",
+        "goles_por_tiro_a_puerta": 0.34
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Eduardo Camavinga",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Freal-madrid-eduardo-camavinga--qwdrk6e8.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.3,
+        "presiones_exitosas_p90": 8.1,
+        "porcentaje_duelos_defensivos_ganados": "63%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Antonio Rüdiger",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Freal-madrid-antonio-ru-diger--pula0iny.png&w=600&f=webp",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.2
+      }
+    },
+    "Tackles": {
+      "name": "Aurélien Tchouaméni",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Freal-madrid-aure-lien-tchouameni--3h_udiew.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.6,
+        "intercepciones_p90": 2.5,
+        "recuperaciones_balon_p90": 8.9
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Éder Militão",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.4,
+        "bloqueos_p90": 1.3,
+        "intercepciones_p90": 2.2
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Jude Bellingham",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Freal-madrid-jude-bellingham--veximzqq.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 3,
+        "pases_clave_p90": 2.8,
+        "acciones_creacion_tiro_p90": 6.1
+      }
+    }
+  },
+  "SK Slavia Praha": {
+    "Tiros": {
+      "name": "Mojmír Chytil",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 3.5,
+        "remates_a_puerta_p90": 1.7,
+        "toques_area_rival_p90": 6.2
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Vasil Kušej",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.4,
+        "porcentaje_tiros_a_puerta": "51.0%",
+        "goles_por_tiro_a_puerta": 0.27
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Tomáš Holeš",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.2,
+        "presiones_exitosas_p90": 7,
+        "porcentaje_duelos_defensivos_ganados": "60%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Igoh Ogbu",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.3
+      }
+    },
+    "Tackles": {
+      "name": "Michal Sadílek",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.2,
+        "intercepciones_p90": 2.1,
+        "recuperaciones_balon_p90": 8
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "David Zima",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.7,
+        "bloqueos_p90": 1.4,
+        "intercepciones_p90": 2.3
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Christos Zafeiris",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 2.6,
+        "pases_clave_p90": 2.4,
+        "acciones_creacion_tiro_p90": 5.4
+      }
+    }
+  },
+  "Sporting Clube de Portugal": {
+    "Tiros": {
+      "name": "Fotis Ioannidis",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 4.1,
+        "remates_a_puerta_p90": 2,
+        "toques_area_rival_p90": 6.9
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Pedro Gonçalves",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.8,
+        "porcentaje_tiros_a_puerta": "56.0%",
+        "goles_por_tiro_a_puerta": 0.31
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Morten Hjulmand",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.4,
+        "presiones_exitosas_p90": 8,
+        "porcentaje_duelos_defensivos_ganados": "64%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Gonçalo Inácio",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1
+      }
+    },
+    "Tackles": {
+      "name": "Ousmane Diomande",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.1,
+        "intercepciones_p90": 2.3,
+        "recuperaciones_balon_p90": 8
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Zeno Debast",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.1,
+        "bloqueos_p90": 1.2,
+        "intercepciones_p90": 1.9
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Geny Catamo",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 3.2,
+        "pases_clave_p90": 2.6,
+        "acciones_creacion_tiro_p90": 5.9
+      }
+    }
+  },
+  "Tottenham Hotspur": {
+    "Tiros": {
+      "name": "Richarlison",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Ftottenham-richarlison-min--rozw0jnx.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 3.4,
+        "remates_a_puerta_p90": 1.6,
+        "toques_area_rival_p90": 6.3
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Dominic Solanke",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Ftottenham-dominic-solanke-generic--yaejcnk1.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.5,
+        "porcentaje_tiros_a_puerta": "52.0%",
+        "goles_por_tiro_a_puerta": 0.29
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Rodrigo Bentancur",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.2,
+        "presiones_exitosas_p90": 7.3,
+        "porcentaje_duelos_defensivos_ganados": "61%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Cristian Romero",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Ftottenham-cristian-romero-min--s8abrml2.png&w=600&f=webp",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.4
+      }
+    },
+    "Tackles": {
+      "name": "João Palhinha",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Ftottenham-joao-palhinha--uubj_xb6.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 4.5,
+        "intercepciones_p90": 2,
+        "recuperaciones_balon_p90": 8.7
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Micky van de Ven",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Ftottenham-micky-van-de-ven--kwp4ckjq.png&w=600&f=webp",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4,
+        "bloqueos_p90": 1.1,
+        "intercepciones_p90": 1.8
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Xavi Simons",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Ftottenham-xavi-simons--ykwo7gm4.png&w=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 3.6,
+        "pases_clave_p90": 3.1,
+        "acciones_creacion_tiro_p90": 6.3
+      }
+    }
+  },
+  "R Union Saint-Gilloise": {
+    "Tiros": {
+      "name": "Promise David",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 3.3,
+        "remates_a_puerta_p90": 1.5,
+        "toques_area_rival_p90": 5.8
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Kevin Rodriguez",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.4,
+        "porcentaje_tiros_a_puerta": "50.0%",
+        "goles_por_tiro_a_puerta": 0.26
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Mathias Rasmussen",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.1,
+        "presiones_exitosas_p90": 6.9,
+        "porcentaje_duelos_defensivos_ganados": "59%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Christian Burgess",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.3
+      }
+    },
+    "Tackles": {
+      "name": "Kevin Mac Allister",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.4,
+        "intercepciones_p90": 2.2,
+        "recuperaciones_balon_p90": 8.2
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Ross Sykes",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 5,
+        "bloqueos_p90": 1.5,
+        "intercepciones_p90": 2.4
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Anouar Ait El Hadj",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 2.7,
+        "pases_clave_p90": 2.3,
+        "acciones_creacion_tiro_p90": 5.3
+      }
+    }
+  },
+  "Villarreal CF": {
+    "Tiros": {
+      "name": "Gerard Moreno",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fvillarreal-gerard-moreno--g3bbsgmf.png&w=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 3.8,
+        "remates_a_puerta_p90": 1.9,
+        "toques_area_rival_p90": 6.8
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Georges Mikautadze",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 1.7,
+        "porcentaje_tiros_a_puerta": "54.0%",
+        "goles_por_tiro_a_puerta": 0.3
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Thomas Partey",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 2.2,
+        "presiones_exitosas_p90": 7.6,
+        "porcentaje_duelos_defensivos_ganados": "63%"
+      }
+    },
+    "Tarjetas": {
+      "name": "Rafa Marín",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tarjetas_amarillas_totales": 0,
+        "faltas_por_tarjeta": 0,
+        "entradas_malogradas_p90": 1.1
+      }
+    },
+    "Tackles": {
+      "name": "Juan Foyth",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Más Entradas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "entradas_exitosas_p90": 3.5,
+        "intercepciones_p90": 2.3,
+        "recuperaciones_balon_p90": 8.4
+      }
+    },
+    "Concede Saques de Banda": {
+      "name": "Willy Kambwala",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Defensa",
+      "specialty": "Acciones Defensivas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "despejes_p90": 4.6,
+        "bloqueos_p90": 1.4,
+        "intercepciones_p90": 2.1
+      }
+    },
+    "Provoca Saques de Meta": {
+      "name": "Alberto Moleiro",
+      "photoUrl": "https://i.postimg.cc/Nj4NSjTW/Gemini-Generated-Image-1xiqqp1xiqqp1xiq.png",
+      "position": "Centrocampista",
+      "specialty": "Creación de Peligro",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "regates_exitosos_p90": 3.1,
+        "pases_clave_p90": 2.7,
+        "acciones_creacion_tiro_p90": 5.9
+      }
+    }
+  }
+}

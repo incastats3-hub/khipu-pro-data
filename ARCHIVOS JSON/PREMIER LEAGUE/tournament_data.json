@@ -1,0 +1,330 @@
+{
+  "tournament_name": "Premier League 2025/2026",
+  "data_last_updated": "2025-10-18",
+  "team_standings": [
+    {
+      "position": 1,
+      "team": "Arsenal",
+      "played": 8,
+      "wins": 6,
+      "draws": 1,
+      "losses": 1,
+      "goals_for": 15,
+      "goals_against": 3,
+      "points": 19
+    },
+    {
+      "position": 2,
+      "team": "Manchester City",
+      "played": 8,
+      "wins": 5,
+      "draws": 1,
+      "losses": 2,
+      "goals_for": 17,
+      "goals_against": 6,
+      "points": 16
+    },
+    {
+      "position": 3,
+      "team": "Liverpool",
+      "played": 7,
+      "wins": 5,
+      "draws": 0,
+      "losses": 2,
+      "goals_for": 13,
+      "goals_against": 9,
+      "points": 15
+    },
+    {
+      "position": 4,
+      "team": "Bournemouth",
+      "played": 8,
+      "wins": 4,
+      "draws": 3,
+      "losses": 1,
+      "goals_for": 14,
+      "goals_against": 11,
+      "points": 15
+    },
+    {
+      "position": 5,
+      "team": "Tottenham Hotspur",
+      "played": 7,
+      "wins": 4,
+      "draws": 2,
+      "losses": 1,
+      "goals_for": 13,
+      "goals_against": 5,
+      "points": 14
+    },
+    {
+      "position": 6,
+      "team": "Chelsea",
+      "played": 8,
+      "wins": 4,
+      "draws": 2,
+      "losses": 2,
+      "goals_for": 16,
+      "goals_against": 9,
+      "points": 14
+    },
+    {
+      "position": 7,
+      "team": "Sunderland",
+      "played": 8,
+      "wins": 4,
+      "draws": 2,
+      "losses": 2,
+      "goals_for": 9,
+      "goals_against": 6,
+      "points": 14
+    },
+    {
+      "position": 8,
+      "team": "Crystal Palace",
+      "played": 8,
+      "wins": 3,
+      "draws": 4,
+      "losses": 1,
+      "goals_for": 12,
+      "goals_against": 8,
+      "points": 13
+    },
+    {
+      "position": 9,
+      "team": "Brighton & Hove Albion",
+      "played": 8,
+      "wins": 3,
+      "draws": 3,
+      "losses": 2,
+      "goals_for": 12,
+      "goals_against": 11,
+      "points": 12
+    },
+    {
+      "position": 10,
+      "team": "Everton",
+      "played": 8,
+      "wins": 3,
+      "draws": 2,
+      "losses": 3,
+      "goals_for": 9,
+      "goals_against": 9,
+      "points": 11
+    },
+    {
+      "position": 11,
+      "team": "Manchester United",
+      "played": 7,
+      "wins": 3,
+      "draws": 1,
+      "losses": 3,
+      "goals_for": 9,
+      "goals_against": 11,
+      "points": 10
+    },
+    {
+      "position": 12,
+      "team": "Newcastle United",
+      "played": 8,
+      "wins": 2,
+      "draws": 3,
+      "losses": 3,
+      "goals_for": 7,
+      "goals_against": 7,
+      "points": 9
+    },
+    {
+      "position": 13,
+      "team": "Aston Villa",
+      "played": 7,
+      "wins": 2,
+      "draws": 3,
+      "losses": 2,
+      "goals_for": 6,
+      "goals_against": 7,
+      "points": 9
+    },
+    {
+      "position": 14,
+      "team": "Fulham",
+      "played": 8,
+      "wins": 2,
+      "draws": 2,
+      "losses": 4,
+      "goals_for": 8,
+      "goals_against": 12,
+      "points": 8
+    },
+    {
+      "position": 15,
+      "team": "Leeds United",
+      "played": 8,
+      "wins": 2,
+      "draws": 2,
+      "losses": 4,
+      "goals_for": 7,
+      "goals_against": 13,
+      "points": 8
+    },
+    {
+      "position": 16,
+      "team": "Brentford",
+      "played": 7,
+      "wins": 2,
+      "draws": 1,
+      "losses": 4,
+      "goals_for": 9,
+      "goals_against": 12,
+      "points": 7
+    },
+    {
+      "position": 17,
+      "team": "Burnley",
+      "played": 8,
+      "wins": 2,
+      "draws": 1,
+      "losses": 5,
+      "goals_for": 9,
+      "goals_against": 15,
+      "points": 7
+    },
+    {
+      "position": 18,
+      "team": "Nottingham Forest",
+      "played": 8,
+      "wins": 1,
+      "draws": 2,
+      "losses": 5,
+      "goals_for": 5,
+      "goals_against": 15,
+      "points": 5
+    },
+    {
+      "position": 19,
+      "team": "West Ham United",
+      "played": 7,
+      "wins": 1,
+      "draws": 1,
+      "losses": 5,
+      "goals_for": 6,
+      "goals_against": 16,
+      "points": 4
+    },
+    {
+      "position": 20,
+      "team": "Wolverhampton Wanderers",
+      "played": 8,
+      "wins": 0,
+      "draws": 2,
+      "losses": 6,
+      "goals_for": 5,
+      "goals_against": 16,
+      "points": 2
+    }
+  ],
+  "team_form": {
+    "Liverpool": [ "D", "V", "D", "V", "V" ],
+    "Chelsea": [ "V", "V", "V", "D", "D" ],
+    "Arsenal": [ "V", "V", "V", "V", "V" ],
+    "Tottenham Hotspur": [ "E", "V", "E", "V", "V" ],
+    "Everton": [ "D", "D", "V", "V", "D" ],
+    "Sunderland": [ "V", "D", "D", "V", "E" ],
+    "Bournemouth": [ "E", "V", "V", "E", "V" ],
+    "Crystal Palace": [ "E", "V", "D", "V", "E" ],
+    "Manchester United": [ "V", "V", "D", "V", "D" ],
+    "Nottingham Forest": [ "D", "D", "D", "D", "E" ],
+    "Brighton & Hove Albion": [ "E", "E", "V", "D", "V" ],
+    "Leeds United": [ "D", "V", "D", "D", "E" ],
+    "Manchester City": [ "E", "D", "V", "V", "E" ],
+    "Burnley": [ "D", "V", "E", "D", "D" ],
+    "Brentford": [ "D", "D", "D", "V", "E" ],
+    "West Ham United": [ "D", "D", "V", "D", "V" ],
+    "Newcastle United": [ "D", "V", "D", "V", "E" ],
+    "Fulham": [ "D", "D", "D", "V", "V" ],
+    "Aston Villa": [ "E", "D", "V", "E", "E" ],
+    "Wolverhampton Wanderers": [ "D", "E", "D", "D", "D" ]
+  },
+  "team_stats": {
+    "Arsenal": {
+      "home_stats": { "shots_per_game": 17.1, "shots_on_target_per_game": 5.9, "fouls_per_game": 9.8, "corners_per_game": 7.2, "yellow_cards_per_game": 1.6 },
+      "away_stats": { "shots_per_game": 14.0, "shots_on_target_per_game": 4.8, "fouls_per_game": 10.8, "corners_per_game": 5.8, "yellow_cards_per_game": 1.8 }
+    },
+    "Aston Villa": {
+      "home_stats": { "shots_per_game": 14.5, "shots_on_target_per_game": 5.1, "fouls_per_game": 11.2, "corners_per_game": 6.5, "yellow_cards_per_game": 2.1 },
+      "away_stats": { "shots_per_game": 11.8, "shots_on_target_per_game": 4.0, "fouls_per_game": 12.1, "corners_per_game": 4.9, "yellow_cards_per_game": 2.3 }
+    },
+    "Bournemouth": {
+      "home_stats": { "shots_per_game": 13.9, "shots_on_target_per_game": 4.5, "fouls_per_game": 12.8, "corners_per_game": 6.1, "yellow_cards_per_game": 2.4 },
+      "away_stats": { "shots_per_game": 11.2, "shots_on_target_per_game": 3.8, "fouls_per_game": 13.5, "corners_per_game": 4.5, "yellow_cards_per_game": 2.7 }
+    },
+    "Brentford": {
+      "home_stats": { "shots_per_game": 14.2, "shots_on_target_per_game": 5.0, "fouls_per_game": 9.5, "corners_per_game": 5.3, "yellow_cards_per_game": 1.7 },
+      "away_stats": { "shots_per_game": 11.5, "shots_on_target_per_game": 4.1, "fouls_per_game": 10.1, "corners_per_game": 4.4, "yellow_cards_per_game": 1.9 }
+    },
+    "Brighton & Hove Albion": {
+      "home_stats": { "shots_per_game": 15.5, "shots_on_target_per_game": 5.4, "fouls_per_game": 11.8, "corners_per_game": 6.3, "yellow_cards_per_game": 2.0 },
+      "away_stats": { "shots_per_game": 13.1, "shots_on_target_per_game": 4.5, "fouls_per_game": 12.5, "corners_per_game": 5.1, "yellow_cards_per_game": 2.2 }
+    },
+    "Burnley": {
+      "home_stats": { "shots_per_game": 12.5, "shots_on_target_per_game": 4.0, "fouls_per_game": 11.5, "corners_per_game": 5.1, "yellow_cards_per_game": 2.2 },
+      "away_stats": { "shots_per_game": 9.5, "shots_on_target_per_game": 3.1, "fouls_per_game": 12.2, "corners_per_game": 4.1, "yellow_cards_per_game": 2.4 }
+    },
+    "Chelsea": {
+      "home_stats": { "shots_per_game": 16.8, "shots_on_target_per_game": 5.8, "fouls_per_game": 11.5, "corners_per_game": 6.9, "yellow_cards_per_game": 2.5 },
+      "away_stats": { "shots_per_game": 13.5, "shots_on_target_per_game": 4.7, "fouls_per_game": 12.3, "corners_per_game": 5.5, "yellow_cards_per_game": 2.8 }
+    },
+    "Crystal Palace": {
+      "home_stats": { "shots_per_game": 13.1, "shots_on_target_per_game": 4.4, "fouls_per_game": 11.1, "corners_per_game": 5.8, "yellow_cards_per_game": 1.9 },
+      "away_stats": { "shots_per_game": 10.9, "shots_on_target_per_game": 3.7, "fouls_per_game": 11.9, "corners_per_game": 4.7, "yellow_cards_per_game": 2.1 }
+    },
+    "Everton": {
+      "home_stats": { "shots_per_game": 14.8, "shots_on_target_per_game": 4.9, "fouls_per_game": 11.4, "corners_per_game": 6.0, "yellow_cards_per_game": 2.0 },
+      "away_stats": { "shots_per_game": 10.5, "shots_on_target_per_game": 3.5, "fouls_per_game": 12.0, "corners_per_game": 4.2, "yellow_cards_per_game": 2.3 }
+    },
+    "Fulham": {
+      "home_stats": { "shots_per_game": 13.5, "shots_on_target_per_game": 4.6, "fouls_per_game": 11.0, "corners_per_game": 5.9, "yellow_cards_per_game": 2.1 },
+      "away_stats": { "shots_per_game": 10.8, "shots_on_target_per_game": 3.6, "fouls_per_game": 11.6, "corners_per_game": 4.6, "yellow_cards_per_game": 2.4 }
+    },
+    "Leeds United": {
+      "home_stats": { "shots_per_game": 12.8, "shots_on_target_per_game": 4.1, "fouls_per_game": 11.7, "corners_per_game": 5.3, "yellow_cards_per_game": 2.3 },
+      "away_stats": { "shots_per_game": 9.8, "shots_on_target_per_game": 3.3, "fouls_per_game": 12.4, "corners_per_game": 4.3, "yellow_cards_per_game": 2.5 }
+    },
+    "Liverpool": {
+      "home_stats": { "shots_per_game": 18.5, "shots_on_target_per_game": 6.5, "fouls_per_game": 10.5, "corners_per_game": 7.8, "yellow_cards_per_game": 1.7 },
+      "away_stats": { "shots_per_game": 15.2, "shots_on_target_per_game": 5.4, "fouls_per_game": 11.2, "corners_per_game": 6.2, "yellow_cards_per_game": 1.9 }
+    },
+    "Manchester City": {
+      "home_stats": { "shots_per_game": 17.8, "shots_on_target_per_game": 6.1, "fouls_per_game": 8.9, "corners_per_game": 7.5, "yellow_cards_per_game": 1.4 },
+      "away_stats": { "shots_per_game": 15.5, "shots_on_target_per_game": 5.3, "fouls_per_game": 9.4, "corners_per_game": 6.5, "yellow_cards_per_game": 1.6 }
+    },
+    "Manchester United": {
+      "home_stats": { "shots_per_game": 15.9, "shots_on_target_per_game": 5.5, "fouls_per_game": 10.8, "corners_per_game": 6.4, "yellow_cards_per_game": 2.2 },
+      "away_stats": { "shots_per_game": 12.9, "shots_on_target_per_game": 4.4, "fouls_per_game": 11.5, "corners_per_game": 5.3, "yellow_cards_per_game": 2.5 }
+    },
+    "Newcastle United": {
+      "home_stats": { "shots_per_game": 16.5, "shots_on_target_per_game": 5.7, "fouls_per_game": 10.2, "corners_per_game": 6.8, "yellow_cards_per_game": 1.7 },
+      "away_stats": { "shots_per_game": 12.1, "shots_on_target_per_game": 4.1, "fouls_per_game": 11.0, "corners_per_game": 5.0, "yellow_cards_per_game": 2.0 }
+    },
+    "Nottingham Forest": {
+      "home_stats": { "shots_per_game": 13.2, "shots_on_target_per_game": 4.3, "fouls_per_game": 10.9, "corners_per_game": 5.4, "yellow_cards_per_game": 2.2 },
+      "away_stats": { "shots_per_game": 9.8, "shots_on_target_per_game": 3.2, "fouls_per_game": 11.7, "corners_per_game": 4.0, "yellow_cards_per_game": 2.5 }
+    },
+    "Sunderland": {
+      "home_stats": { "shots_per_game": 12.2, "shots_on_target_per_game": 3.9, "fouls_per_game": 11.3, "corners_per_game": 4.9, "yellow_cards_per_game": 2.1 },
+      "away_stats": { "shots_per_game": 9.2, "shots_on_target_per_game": 3.0, "fouls_per_game": 12.0, "corners_per_game": 3.9, "yellow_cards_per_game": 2.3 }
+    },
+    "Tottenham Hotspur": {
+      "home_stats": { "shots_per_game": 16.2, "shots_on_target_per_game": 5.8, "fouls_per_game": 11.3, "corners_per_game": 6.6, "yellow_cards_per_game": 2.3 },
+      "away_stats": { "shots_per_game": 13.8, "shots_on_target_per_game": 4.9, "fouls_per_game": 12.0, "corners_per_game": 5.6, "yellow_cards_per_game": 2.5 }
+    },
+    "West Ham United": {
+      "home_stats": { "shots_per_game": 14.1, "shots_on_target_per_game": 4.8, "fouls_per_game": 10.7, "corners_per_game": 5.7, "yellow_cards_per_game": 2.0 },
+      "away_stats": { "shots_per_game": 11.4, "shots_on_target_per_game": 3.9, "fouls_per_game": 11.4, "corners_per_game": 4.8, "yellow_cards_per_game": 2.3 }
+    },
+    "Wolverhampton Wanderers": {
+      "home_stats": { "shots_per_game": 12.8, "shots_on_target_per_game": 4.2, "fouls_per_game": 12.5, "corners_per_game": 5.2, "yellow_cards_per_game": 2.4 },
+      "away_stats": { "shots_per_game": 10.2, "shots_on_target_per_game": 3.4, "fouls_per_game": 13.1, "corners_per_game": 4.3, "yellow_cards_per_game": 2.6 }
+    }
+  }
+}

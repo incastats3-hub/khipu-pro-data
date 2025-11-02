@@ -1,0 +1,97 @@
+{
+  "Clément Turpin": {
+    "yellows_per_game": 3.22,
+    "reds_per_game": 0.18,
+    "fouls_per_game": 21.0
+  },
+  "François Letexier": {
+    "yellows_per_game": 3.51,
+    "reds_per_game": 0.15,
+    "fouls_per_game": 22.0
+  },
+  "Stéphanie Frappart": {
+    "yellows_per_game": 2.90,
+    "reds_per_game": 0.10,
+    "fouls_per_game": 20.0
+  },
+  "Jérôme Brisard": {
+    "yellows_per_game": 3.72,
+    "reds_per_game": 0.14,
+    "fouls_per_game": 22.0
+  },
+  "Benoît Bastien": {
+    "yellows_per_game": 3.80,
+    "reds_per_game": 0.16,
+    "fouls_per_game": 22.0
+  },
+  "Willy Delajod": {
+    "yellows_per_game": 3.68,
+    "reds_per_game": 0.16,
+    "fouls_per_game": 22.0
+  },
+  "Bastien Dechepy": {
+    "yellows_per_game": 3.60,
+    "reds_per_game": 0.14,
+    "fouls_per_game": 21.0
+  },
+  "Eric Wattellier": {
+    "yellows_per_game": 3.35,
+    "reds_per_game": 0.12,
+    "fouls_per_game": 21.0
+  },
+  "Hakim Ben El Hadj": {
+    "yellows_per_game": 3.50,
+    "reds_per_game": 0.13,
+    "fouls_per_game": 22.0
+  },
+  "Jérémie Pignard": {
+    "yellows_per_game": 3.90,
+    "reds_per_game": 0.14,
+    "fouls_per_game": 23.0
+  },
+  "Jeremy Stinat": {
+    "yellows_per_game": 3.74,
+    "reds_per_game": 0.14,
+    "fouls_per_game": 22.0
+  },
+  "Benoît Millot": {
+    "yellows_per_game": 3.88,
+    "reds_per_game": 0.18,
+    "fouls_per_game": 22.0
+  },
+  "Romain Lissorgue": {
+    "yellows_per_game": 3.45,
+    "reds_per_game": 0.15,
+    "fouls_per_game": 21.0
+  },
+  "Thomas Leonard": {
+    "yellows_per_game": 3.60,
+    "reds_per_game": 0.14,
+    "fouls_per_game": 22.0
+  },
+  "Marc Bollengier": {
+    "yellows_per_game": 3.70,
+    "reds_per_game": 0.15,
+    "fouls_per_game": 22.0
+  },
+  "Abdelatif Kherradji": {
+    "yellows_per_game": 3.60,
+    "reds_per_game": 0.13,
+    "fouls_per_game": 21.0
+  },
+  "Mathieu Vernice": {
+    "yellows_per_game": 3.53,
+    "reds_per_game": 0.12,
+    "fouls_per_game": 22.0
+  },
+  "Guillaume Paradis": {
+    "yellows_per_game": 3.40,
+    "reds_per_game": 0.12,
+    "fouls_per_game": 21.0
+  },
+  "Ruddy Buquet": {
+    "yellows_per_game": 3.65,
+    "reds_per_game": 0.15,
+    "fouls_per_game": 22.0
+  }
+}

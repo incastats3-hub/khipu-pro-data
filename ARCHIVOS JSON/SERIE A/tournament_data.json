@@ -1,0 +1,130 @@
+{
+  "tournament_name": "Serie A 2025/2026",
+  "data_last_updated": "2025-10-19",
+  "team_standings": [
+    { "position": 1, "team": "AC Milan", "played": 7, "wins": 5, "draws": 1, "losses": 1, "goals_for": 11, "goals_against": 4, "points": 16 },
+    { "position": 2, "team": "Inter", "played": 7, "wins": 5, "draws": 0, "losses": 2, "goals_for": 18, "goals_against": 8, "points": 15 },
+    { "position": 3, "team": "SSC Napoli", "played": 7, "wins": 5, "draws": 0, "losses": 2, "goals_for": 12, "goals_against": 7, "points": 15 },
+    { "position": 4, "team": "AS Roma", "played": 7, "wins": 5, "draws": 0, "losses": 2, "goals_for": 7, "goals_against": 3, "points": 15 },
+    { "position": 5, "team": "Bologna FC", "played": 7, "wins": 4, "draws": 1, "losses": 2, "goals_for": 11, "goals_against": 5, "points": 13 },
+    { "position": 6, "team": "Como 1907", "played": 7, "wins": 3, "draws": 3, "losses": 1, "goals_for": 9, "goals_against": 5, "points": 12 },
+    { "position": 7, "team": "Juventus", "played": 7, "wins": 3, "draws": 3, "losses": 1, "goals_for": 9, "goals_against": 7, "points": 12 },
+    { "position": 8, "team": "Atalanta BC", "played": 7, "wins": 2, "draws": 5, "losses": 0, "goals_for": 11, "goals_against": 5, "points": 11 },
+    { "position": 9, "team": "US Sassuolo", "played": 7, "wins": 3, "draws": 1, "losses": 3, "goals_for": 8, "goals_against": 8, "points": 10 },
+    { "position": 10, "team": "US Cremonese", "played": 6, "wins": 2, "draws": 3, "losses": 1, "goals_for": 7, "goals_against": 8, "points": 9 },
+    { "position": 11, "team": "Udinese Calcio", "played": 6, "wins": 2, "draws": 2, "losses": 2, "goals_for": 6, "goals_against": 9, "points": 8 },
+    { "position": 12, "team": "SS Lazio", "played": 7, "wins": 2, "draws": 2, "losses": 3, "goals_for": 10, "goals_against": 7, "points": 8 },
+    { "position": 13, "team": "Cagliari Calcio", "played": 7, "wins": 2, "draws": 2, "losses": 3, "goals_for": 6, "goals_against": 8, "points": 8 },
+    { "position": 14, "team": "Torino FC", "played": 7, "wins": 2, "draws": 2, "losses": 3, "goals_for": 6, "goals_against": 13, "points": 8 },
+    { "position": 15, "team": "Parma Calcio", "played": 7, "wins": 1, "draws": 3, "losses": 3, "goals_for": 3, "goals_against": 7, "points": 6 },
+    { "position": 16, "team": "US Lecce", "played": 7, "wins": 1, "draws": 3, "losses": 3, "goals_for": 5, "goals_against": 10, "points": 6 },
+    { "position": 17, "team": "Hellas Verona", "played": 7, "wins": 0, "draws": 4, "losses": 3, "goals_for": 2, "goals_against": 9, "points": 4 },
+    { "position": 18, "team": "ACF Fiorentina", "played": 7, "wins": 0, "draws": 3, "losses": 4, "goals_for": 5, "goals_against": 10, "points": 3 },
+    { "position": 19, "team": "Genoa CFC", "played": 7, "wins": 0, "draws": 3, "losses": 4, "goals_for": 3, "goals_against": 9, "points": 3 },
+    { "position": 20, "team": "Pisa SC", "played": 7, "wins": 0, "draws": 3, "losses": 4, "goals_for": 3, "goals_against": 10, "points": 3 }
+  ],
+  "team_form": {
+    "AC Milan": ["V", "V", "V", "V", "E"],
+    "Inter": ["V", "V", "V", "E", "V"],
+    "SSC Napoli": ["D", "V", "V", "V", "V"],
+    "AS Roma": ["V", "V", "E", "V", "V"],
+    "Bologna FC": ["D", "V", "V", "E", "V"],
+    "Como 1907": ["V", "E", "V", "E", "V"],
+    "Juventus": ["D", "E", "E", "V", "V"],
+    "Atalanta BC": ["V", "D", "E", "V", "V"],
+    "US Sassuolo": ["E", "V", "D", "V", "E"],
+    "US Cremonese": ["D", "V", "E", "V", "D"],
+    "Udinese Calcio": ["E", "D", "D", "E", "E"],
+    "SS Lazio": ["V", "E", "D", "V", "D"],
+    "Cagliari Calcio": ["D", "E", "D", "D", "E"],
+    "Torino FC": ["V", "D", "D", "E", "V"],
+    "Parma Calcio": ["E", "V", "D", "E", "D"],
+    "US Lecce": ["V", "D", "E", "D", "D"],
+    "Hellas Verona": ["E", "D", "D", "D", "E"],
+    "ACF Fiorentina": ["D", "D", "E", "D", "E"],
+    "Genoa CFC": ["D", "E", "D", "D", "D"],
+    "Pisa SC": ["D", "E", "D", "D", "D"]
+  },
+  "team_stats": {
+    "Atalanta BC": {
+      "home_stats": { "shots_per_game": 16.5, "shots_on_target_per_game": 5.8, "fouls_per_game": 12.1, "corners_per_game": 5.9, "yellow_cards_per_game": 2.1 },
+      "away_stats": { "shots_per_game": 14.8, "shots_on_target_per_game": 5.1, "fouls_per_game": 13.3, "corners_per_game": 5.2, "yellow_cards_per_game": 2.4 }
+    },
+    "Bologna FC": {
+      "home_stats": { "shots_per_game": 14.2, "shots_on_target_per_game": 4.9, "fouls_per_game": 11.8, "corners_per_game": 5.4, "yellow_cards_per_game": 2.0 },
+      "away_stats": { "shots_per_game": 12.9, "shots_on_target_per_game": 4.2, "fouls_per_game": 13.0, "corners_per_game": 4.8, "yellow_cards_per_game": 2.3 }
+    },
+    "Cagliari Calcio": {
+      "home_stats": { "shots_per_game": 12.8, "shots_on_target_per_game": 4.1, "fouls_per_game": 13.5, "corners_per_game": 4.7, "yellow_cards_per_game": 2.4 },
+      "away_stats": { "shots_per_game": 11.5, "shots_on_target_per_game": 3.6, "fouls_per_game": 14.5, "corners_per_game": 4.1, "yellow_cards_per_game": 2.7 }
+    },
+    "Como 1907": {
+       "home_stats": { "shots_per_game": 11.5, "shots_on_target_per_game": 3.8, "fouls_per_game": 14.0, "corners_per_game": 4.5, "yellow_cards_per_game": 2.5 },
+       "away_stats": { "shots_per_game": 10.2, "shots_on_target_per_game": 3.1, "fouls_per_game": 15.1, "corners_per_game": 3.9, "yellow_cards_per_game": 2.8 }
+     },
+    "US Cremonese": {
+       "home_stats": { "shots_per_game": 12.2, "shots_on_target_per_game": 4.0, "fouls_per_game": 13.8, "corners_per_game": 4.6, "yellow_cards_per_game": 2.4 },
+       "away_stats": { "shots_per_game": 10.8, "shots_on_target_per_game": 3.4, "fouls_per_game": 14.9, "corners_per_game": 4.0, "yellow_cards_per_game": 2.7 }
+     },
+    "ACF Fiorentina": {
+      "home_stats": { "shots_per_game": 15.8, "shots_on_target_per_game": 5.5, "fouls_per_game": 12.5, "corners_per_game": 5.7, "yellow_cards_per_game": 2.2 },
+      "away_stats": { "shots_per_game": 14.1, "shots_on_target_per_game": 4.8, "fouls_per_game": 13.7, "corners_per_game": 5.0, "yellow_cards_per_game": 2.5 }
+    },
+    "Genoa CFC": {
+      "home_stats": { "shots_per_game": 13.1, "shots_on_target_per_game": 4.4, "fouls_per_game": 13.2, "corners_per_game": 4.9, "yellow_cards_per_game": 2.3 },
+      "away_stats": { "shots_per_game": 11.9, "shots_on_target_per_game": 3.9, "fouls_per_game": 14.2, "corners_per_game": 4.3, "yellow_cards_per_game": 2.6 }
+    },
+    "Inter": {
+      "home_stats": { "shots_per_game": 18.0, "shots_on_target_per_game": 6.7, "fouls_per_game": 10.8, "corners_per_game": 6.5, "yellow_cards_per_game": 1.7 },
+      "away_stats": { "shots_per_game": 16.2, "shots_on_target_per_game": 6.0, "fouls_per_game": 11.9, "corners_per_game": 5.8, "yellow_cards_per_game": 2.0 }
+    },
+    "Juventus": {
+      "home_stats": { "shots_per_game": 17.2, "shots_on_target_per_game": 6.3, "fouls_per_game": 11.2, "corners_per_game": 6.1, "yellow_cards_per_game": 1.9 },
+      "away_stats": { "shots_per_game": 15.5, "shots_on_target_per_game": 5.6, "fouls_per_game": 12.5, "corners_per_game": 5.4, "yellow_cards_per_game": 2.2 }
+    },
+    "SS Lazio": {
+      "home_stats": { "shots_per_game": 14.9, "shots_on_target_per_game": 5.1, "fouls_per_game": 12.8, "corners_per_game": 5.5, "yellow_cards_per_game": 2.3 },
+      "away_stats": { "shots_per_game": 13.5, "shots_on_target_per_game": 4.5, "fouls_per_game": 14.0, "corners_per_game": 4.9, "yellow_cards_per_game": 2.6 }
+    },
+    "US Lecce": {
+      "home_stats": { "shots_per_game": 13.5, "shots_on_target_per_game": 4.6, "fouls_per_game": 13.0, "corners_per_game": 5.0, "yellow_cards_per_game": 2.2 },
+      "away_stats": { "shots_per_game": 12.1, "shots_on_target_per_game": 4.0, "fouls_per_game": 14.1, "corners_per_game": 4.4, "yellow_cards_per_game": 2.5 }
+    },
+    "AC Milan": {
+      "home_stats": { "shots_per_game": 17.5, "shots_on_target_per_game": 6.5, "fouls_per_game": 11.0, "corners_per_game": 6.3, "yellow_cards_per_game": 1.8 },
+      "away_stats": { "shots_per_game": 15.8, "shots_on_target_per_game": 5.8, "fouls_per_game": 12.2, "corners_per_game": 5.6, "yellow_cards_per_game": 2.1 }
+    },
+    "SSC Napoli": {
+      "home_stats": { "shots_per_game": 16.8, "shots_on_target_per_game": 6.1, "fouls_per_game": 11.5, "corners_per_game": 6.0, "yellow_cards_per_game": 1.9 },
+      "away_stats": { "shots_per_game": 15.2, "shots_on_target_per_game": 5.4, "fouls_per_game": 12.8, "corners_per_game": 5.3, "yellow_cards_per_game": 2.2 }
+    },
+    "Parma Calcio": {
+       "home_stats": { "shots_per_game": 13.0, "shots_on_target_per_game": 4.5, "fouls_per_game": 13.0, "corners_per_game": 5.1, "yellow_cards_per_game": 2.3 },
+       "away_stats": { "shots_per_game": 11.7, "shots_on_target_per_game": 3.9, "fouls_per_game": 14.2, "corners_per_game": 4.5, "yellow_cards_per_game": 2.6 }
+     },
+    "Pisa SC": {
+       "home_stats": { "shots_per_game": 11.8, "shots_on_target_per_game": 3.9, "fouls_per_game": 14.2, "corners_per_game": 4.6, "yellow_cards_per_game": 2.6 },
+       "away_stats": { "shots_per_game": 10.5, "shots_on_target_per_game": 3.3, "fouls_per_game": 15.3, "corners_per_game": 4.0, "yellow_cards_per_game": 2.9 }
+     },
+    "AS Roma": {
+      "home_stats": { "shots_per_game": 16.2, "shots_on_target_per_game": 5.9, "fouls_per_game": 12.0, "corners_per_game": 5.8, "yellow_cards_per_game": 2.0 },
+      "away_stats": { "shots_per_game": 14.5, "shots_on_target_per_game": 5.2, "fouls_per_game": 13.2, "corners_per_game": 5.1, "yellow_cards_per_game": 2.3 }
+    },
+    "US Sassuolo": {
+       "home_stats": { "shots_per_game": 13.9, "shots_on_target_per_game": 4.7, "fouls_per_game": 12.6, "corners_per_game": 5.2, "yellow_cards_per_game": 2.1 },
+       "away_stats": { "shots_per_game": 12.5, "shots_on_target_per_game": 4.1, "fouls_per_game": 13.8, "corners_per_game": 4.6, "yellow_cards_per_game": 2.4 }
+     },
+    "Torino FC": {
+      "home_stats": { "shots_per_game": 13.6, "shots_on_target_per_game": 4.5, "fouls_per_game": 13.4, "corners_per_game": 5.1, "yellow_cards_per_game": 2.4 },
+      "away_stats": { "shots_per_game": 12.0, "shots_on_target_per_game": 3.8, "fouls_per_game": 14.6, "corners_per_game": 4.4, "yellow_cards_per_game": 2.7 }
+    },
+    "Udinese Calcio": {
+      "home_stats": { "shots_per_game": 12.5, "shots_on_target_per_game": 4.2, "fouls_per_game": 13.7, "corners_per_game": 4.8, "yellow_cards_per_game": 2.5 },
+      "away_stats": { "shots_per_game": 11.1, "shots_on_target_per_game": 3.5, "fouls_per_game": 14.8, "corners_per_game": 4.2, "yellow_cards_per_game": 2.8 }
+    },
+    "Hellas Verona": {
+      "home_stats": { "shots_per_game": 12.0, "shots_on_target_per_game": 3.9, "fouls_per_game": 14.1, "corners_per_game": 4.6, "yellow_cards_per_game": 2.6 },
+      "away_stats": { "shots_per_game": 10.7, "shots_on_target_per_game": 3.3, "fouls_per_game": 15.2, "corners_per_game": 4.0, "yellow_cards_per_game": 2.9 }
+    }
+  }
+}

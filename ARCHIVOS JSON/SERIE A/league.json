@@ -1,0 +1,224 @@
+{
+  "teams": {
+    "AC Milan": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg",
+      "jerseyColor": "#E51937",
+      "shieldColor": "#E51937",
+      "secondaryColor": "#000000",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#ADD8E6",
+      "stadium": "San Siro",
+      "location": "Milán, Italia",
+      "manager": "Massimiliano Allegri"
+    },
+    "Inter": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/250px-FC_Internazionale_Milano_2021.svg.png",
+      "jerseyColor": "#004A9C",
+      "shieldColor": "#004A9C",
+      "secondaryColor": "#000000",
+      "numberColor": "#40E0D0",
+      "gkJerseyColor": "#FFFF00",
+      "stadium": "San Siro",
+      "location": "Milán, Italia",
+      "manager": "Cristian Chivu"
+    },
+    "SSC Napoli": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SSC_Napoli_2025_%28white_and_azure%29.svg/1200px-SSC_Napoli_2025_%28white_and_azure%29.svg.png",
+      "jerseyColor": "#12A0D7",
+      "shieldColor": "#003C82",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#008000",
+      "stadium": "Stadio Diego Armando Maradona",
+      "location": "Nápoles, Italia",
+      "manager": "Antonio Conte"
+    },
+    "AS Roma": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f7/AS_Roma_logo_%282017%29.svg",
+      "jerseyColor": "#8E1F2F",
+      "shieldColor": "#8E1F2F",
+      "secondaryColor": "#F0BC42",
+      "numberColor": "#F0BC42",
+      "gkJerseyColor": "#000000",
+      "stadium": "Stadio Olimpico",
+      "location": "Roma, Italia",
+      "manager": "Gian Piero Gasperini"
+    },
+    "Bologna FC": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bologna_F.C._1909_logo.svg/782px-Bologna_F.C._1909_logo.svg.png",
+      "jerseyColor": "#A61D24",
+      "shieldColor": "#A61D24",
+      "secondaryColor": "#1A2F48",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#008000",
+      "stadium": "Stadio Renato Dall'Ara",
+      "location": "Bolonia, Italia",
+      "manager": "Vincenzo Italiano"
+    },
+    "Como 1907": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Calcio_Como_-_logo_%28Italy%2C_2019-%29.svg",
+      "jerseyColor": "#1D3B62",
+      "shieldColor": "#1D3B62",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#FF0000",
+      "stadium": "Stadio Giuseppe Sinigaglia",
+      "location": "Como, Italia",
+      "manager": "Cesc Fàbregas"
+    },
+    "Juventus": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/760px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png",
+      "jerseyColor": "#FFFFFF",
+      "shieldColor": "#000000",
+      "secondaryColor": "#000000",
+      "numberColor": "#FF69B4",
+      "gkJerseyColor": "#636363",
+      "stadium": "Allianz Stadium",
+      "location": "Turín, Italia",
+      "manager": "Igor Tudor"
+    },
+    "Atalanta BC": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_Atalanta_Bergamo.svg/250px-Logo_Atalanta_Bergamo.svg.png",
+      "jerseyColor": "#2D5CAE",
+      "shieldColor": "#2D5CAE",
+      "secondaryColor": "#000000",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#FFFF00",
+      "stadium": "Gewiss Stadium",
+      "location": "Bérgamo, Italia",
+      "manager": "Ivan Jurić"
+    },
+    "US Sassuolo": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/US_Sassuolo_Calcio_logo.svg/1095px-US_Sassuolo_Calcio_logo.svg.png",
+      "jerseyColor": "#00A752",
+      "shieldColor": "#00A752",
+      "secondaryColor": "#000000",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#ADD8E6",
+      "stadium": "Mapei Stadium - Città del Tricolore",
+      "location": "Sassuolo, Italia",
+      "manager": "Fabio Grosso"
+    },
+    "US Cremonese": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/US_Cremonese_logo.svg/1200px-US_Cremonese_logo.svg.png",
+      "jerseyColor": "#ED1C24",
+      "shieldColor": "#ED1C24",
+      "secondaryColor": "#808285",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#FFA500",
+      "stadium": "Stadio Giovanni Zini",
+      "location": "Cremona, Italia",
+      "manager": "Davide Nicola"
+    },
+    "Udinese Calcio": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Udinese_Calcio_2010.svg/250px-Udinese_Calcio_2010.svg.png",
+      "jerseyColor": "#FFFFFF",
+      "shieldColor": "#000000",
+      "secondaryColor": "#000000",
+      "numberColor": "#000000",
+      "gkJerseyColor": "#FFD700",
+      "stadium": "Bluenergy Stadium",
+      "location": "Údine, Italia",
+      "manager": "Kosta Runjaić"
+    },
+    "SS Lazio": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/S.S._Lazio_badge.svg/1200px-S.S._Lazio_badge.svg.png",
+      "jerseyColor": "#00AEEF",
+      "shieldColor": "#003DA5",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#FFFF00",
+      "stadium": "Stadio Olimpico",
+      "location": "Roma, Italia",
+      "manager": "Maurizio Sarri"
+    },
+    "Cagliari Calcio": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Cagliari_Calcio_1920.svg/992px-Cagliari_Calcio_1920.svg.png",
+      "jerseyColor": "#EE2B33",
+      "shieldColor": "#EE2B33",
+      "secondaryColor": "#002350",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#FFA500",
+      "stadium": "Unipol Domus",
+      "location": "Cagliari, Italia",
+      "manager": "Fabio Pisacane"
+    },
+    "Torino FC": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Torino_FC_Logo.svg/1002px-Torino_FC_Logo.svg.png",
+      "jerseyColor": "#8A1E03",
+      "shieldColor": "#8A1E03",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#0000FF",
+      "stadium": "Stadio Olimpico Grande Torino",
+      "location": "Turín, Italia",
+      "manager": "Marco Baroni"
+    },
+    "Parma Calcio": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_Parma_Calcio_1913_%28adozione_2016%29.svg/983px-Logo_Parma_Calcio_1913_%28adozione_2016%29.svg.png",
+      "jerseyColor": "#FFFFFF",
+      "shieldColor": "#24338A",
+      "secondaryColor": "#000000",
+      "numberColor": "#000000",
+      "gkJerseyColor": "#00FF00",
+      "stadium": "Stadio Ennio Tardini",
+      "location": "Parma, Italia",
+      "manager": "Carlos Cuesta"
+    },
+    "US Lecce": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/US_Lecce_crest.svg/962px-US_Lecce_crest.svg.png",
+      "jerseyColor": "#E51937",
+      "shieldColor": "#E51937",
+      "secondaryColor": "#FCED0B",
+      "numberColor": "#006086",
+      "gkJerseyColor": "#000000",
+      "stadium": "Stadio Via del mare",
+      "location": "Lecce, Italia",
+      "manager": "Eusebio Di Francesco"
+    },
+    "Hellas Verona": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Hellas_Verona_FC_logo_%282020%29.svg/1176px-Hellas_Verona_FC_logo_%282020%29.svg.png",
+      "jerseyColor": "#004A8F",
+      "shieldColor": "#004A8F",
+      "secondaryColor": "#FFD700",
+      "numberColor": "#FFD700",
+      "gkJerseyColor": "#008000",
+      "stadium": "Stadio Marcantonio Bentegodi",
+      "location": "Verona, Italia",
+      "manager": "Paolo Zanetti"
+    },
+    "ACF Fiorentina": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/200px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png",
+      "jerseyColor": "#482E92",
+      "shieldColor": "#482E92",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#FFFF00",
+      "stadium": "Stadio Artemio Franchi",
+      "location": "Florencia, Italia",
+      "manager": "Stefano Pioli"
+    },
+    "Genoa CFC": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Genoa_CFC_crest.svg/896px-Genoa_CFC_crest.svg.png",
+      "jerseyColor": "#E31E24",
+      "shieldColor": "#E31E24",
+      "secondaryColor": "#003865",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#FFFF00",
+      "stadium": "Stadio Luigi Ferraris",
+      "location": "Génova, Italia",
+      "manager": "Patrick Vieira"
+    },
+    "Pisa SC": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Pisa_SC_crest.svg/947px-Pisa_SC_crest.svg.png",
+      "jerseyColor": "#004370",
+      "shieldColor": "#004370",
+      "secondaryColor": "#000000",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#FFFF00",
+      "stadium": "Arena Garibaldi – Stadio Romeo Anconetani",
+      "location": "Pisa, Italia",
+      "manager": "Alberto Gilardino"
+    }
+  }
+}

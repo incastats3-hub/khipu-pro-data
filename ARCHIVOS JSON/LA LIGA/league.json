@@ -1,0 +1,104 @@
+{
+  "teams": {
+    "Deportivo Alavés": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png",
+      "jerseyColor": "#0053A0", "shieldColor": "#0053A0", "secondaryColor": "#FFFFFF", "numberColor": "#FFFFFF", "gkJerseyColor": "#FFC72C",
+      "stadium": "Mendizorroza", "location": "Vitoria-Gasteiz, España", "manager": "Coudet"
+    },
+    "Athletic Club": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Club_Athletic_Bilbao_logo.svg/1200px-Club_Athletic_Bilbao_logo.svg.png",
+      "jerseyColor": "#DA291C", "shieldColor": "#DA291C", "secondaryColor": "#FFFFFF", "numberColor": "#FFFFFF", "gkJerseyColor": "#000000",
+      "stadium": "San Mamés", "location": "Bilbao, España", "manager": "Valverde"
+    },
+    "Atlético de Madrid": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/935px-Atletico_Madrid_Logo_2024.svg.png",
+      "jerseyColor": "#D90000", "shieldColor": "#002B64", "secondaryColor": "#FFFFFF", "numberColor": "#002B64", "gkJerseyColor": "#4CAF50",
+      "stadium": "Estadio Metropolitano", "location": "Madrid, España", "manager": "Simeone"
+    },
+    "FC Barcelona": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1200px-FC_Barcelona_%28crest%29.svg.png",
+      "jerseyColor": "#A50044", "shieldColor": "#A50044", "secondaryColor": "#004D98", "numberColor": "#EDBB00", "gkJerseyColor": "#000000",
+      "stadium": "Camp Nou", "location": "Barcelona, España", "manager": "Hansi Flick"
+    },
+    "Real Betis": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/1200px-Real_betis_logo.svg.png",
+      "jerseyColor": "#00A750", "shieldColor": "#00A750", "secondaryColor": "#FFFFFF", "numberColor": "#000000", "gkJerseyColor": "#FF7F00",
+      "stadium": "Benito Villamarín", "location": "Sevilla, España", "manager": "Manuel Pellegrini"
+    },
+    "RC Celta de Vigo": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/1200px-RC_Celta_de_Vigo_logo.svg.png",
+      "jerseyColor": "#87CEEB", "shieldColor": "#87CEEB", "secondaryColor": "#FFFFFF", "numberColor": "#FFFFFF", "gkJerseyColor": "#D9531E",
+      "stadium": "Balaídos", "location": "Vigo, España", "manager": "Claudio Giráldez"
+    },
+    "Elche CF": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Elche_CF_logo.svg/1200px-Elche_CF_logo.svg.png",
+      "jerseyColor": "#FFFFFF", "shieldColor": "#00642E", "secondaryColor": "#00642E", "numberColor": "#00642E", "gkJerseyColor": "#000000",
+      "stadium": "Martínez Valero", "location": "Elche, España", "manager": "Eder Sarabia"
+    },
+    "Getafe CF": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png",
+      "jerseyColor": "#0059A5", "shieldColor": "#0059A5", "secondaryColor": "#FFFFFF", "numberColor": "#FFFFFF", "gkJerseyColor": "#E60026",
+      "stadium": "Coliseum Alfonso Pérez", "location": "Getafe, España", "manager": "José Bordalás"
+    },
+    "Girona FC": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Girona_FC_Logo.svg/1200px-Girona_FC_Logo.svg.png",
+      "jerseyColor": "#E30613", "shieldColor": "#E30613", "secondaryColor": "#FFFFFF", "numberColor": "#0053A0", "gkJerseyColor": "#000000",
+      "stadium": "Montilivi", "location": "Girona, España", "manager": "Míchel"
+    },
+    "Levante UD": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg/987px-Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg.png",
+      "jerseyColor": "#B20035", "shieldColor": "#B20035", "secondaryColor": "#003A70", "numberColor": "#FFFFFF", "gkJerseyColor": "#00A651",
+      "stadium": "Ciutat de València", "location": "Valencia, España", "manager": "Calero"
+    },
+    "CA Osasuna": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Osasuna_logo.svg/1200px-Osasuna_logo.svg.png",
+      "jerseyColor": "#D81920", "shieldColor": "#002C55", "secondaryColor": "#002C55", "numberColor": "#FFFFFF", "gkJerseyColor": "#FFDF00",
+      "stadium": "El Sadar", "location": "Pamplona, España", "manager": "Alessio Lisci"
+    },
+    "RCD Mallorca": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/1200px-Rcd_mallorca.svg.png",
+      "jerseyColor": "#E20613", "shieldColor": "#E20613", "secondaryColor": "#000000", "numberColor": "#000000", "gkJerseyColor": "#F7DC00",
+      "stadium": "Son Moix", "location": "Palma, España", "manager": "Jagoba Arrasate"
+    },
+    "Rayo Vallecano": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Rayo_Vallecano_logo.svg/1200px-Rayo_Vallecano_logo.svg.png",
+      "jerseyColor": "#FFFFFF", "shieldColor": "#DD0000", "secondaryColor": "#DD0000", "numberColor": "#000000", "gkJerseyColor": "#00AEEF",
+      "stadium": "Vallecas", "location": "Madrid, España", "manager": "Íñigo Pérez"
+    },
+    "RCD Espanyol": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Rcd_espanyol_logo.svg/1200px-Rcd_espanyol_logo.svg.png",
+      "jerseyColor": "#007DC5", "shieldColor": "#007DC5", "secondaryColor": "#FFFFFF", "numberColor": "#FFFFFF", "gkJerseyColor": "#FFD700",
+      "stadium": "Stage Front Stadium", "location": "Barcelona, España", "manager": "Manolo González"
+    },
+    "Real Madrid": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png",
+      "jerseyColor": "#FFFFFF", "shieldColor": "#FEBE10", "secondaryColor": "#00529F", "numberColor": "#000000", "gkJerseyColor": "#FF8C00",
+      "stadium": "Santiago Bernabéu", "location": "Madrid, España", "manager": "Xabi Alonso"
+    },
+    "Real Oviedo": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Real_Oviedo_logo.svg/827px-Real_Oviedo_logo.svg.png",
+      "jerseyColor": "#0053A0", "shieldColor": "#0053A0", "secondaryColor": "#FFFFFF", "numberColor": "#FFFFFF", "gkJerseyColor": "#FECB00",
+      "stadium": "Carlos Tartiere", "location": "Oviedo, España", "manager": "Paunovic"
+    },
+    "Real Sociedad": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/1200px-Real_Sociedad_logo.svg.png",
+      "jerseyColor": "#0067B1", "shieldColor": "#0067B1", "secondaryColor": "#FFFFFF", "numberColor": "#FFFFFF", "gkJerseyColor": "#FF5733",
+      "stadium": "Anoeta", "location": "San Sebastián, España", "manager": "Sergio Francisco"
+    },
+    "Sevilla FC": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sevilla_FC_logo.svg/1200px-Sevilla_FC_logo.svg.png",
+      "jerseyColor": "#FFFFFF", "shieldColor": "#D41B2C", "secondaryColor": "#D41B2C", "numberColor": "#D41B2C", "gkJerseyColor": "#1A1A1A",
+      "stadium": "Ramón Sánchez Pizjuán", "location": "Sevilla, España", "manager": "Matías Almeyda"
+    },
+    "Valencia CF": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/250px-Valenciacf.svg.png",
+      "jerseyColor": "#FFFFFF", "shieldColor": "#F47920", "secondaryColor": "#000000", "numberColor": "#000000", "gkJerseyColor": "#FFC107",
+      "stadium": "Mestalla", "location": "Valencia, España", "manager": "Carlos Corberán"
+    },
+    "Villarreal CF": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b9/Villarreal_CF_logo-en.svg",
+      "jerseyColor": "#FBEC5D", "shieldColor": "#004C99", "secondaryColor": "#004C99", "numberColor": "#004C99", "gkJerseyColor": "#D3003A",
+      "stadium": "Estadio de la Cerámica", "location": "Villarreal, España", "manager": "Marcelino"
+    }
+  }
+}

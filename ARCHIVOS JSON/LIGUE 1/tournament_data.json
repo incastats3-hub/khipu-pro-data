@@ -1,0 +1,190 @@
+{
+  "tournament_name": "Ligue 1 & Ligue 2 - Temporada 2024/2025 (Datos Finales)",
+  "data_last_updated": "2025-05-18",
+  "team_standings": [
+    {
+      "position": 1,
+      "team": "Olympique Marseille",
+      "played": 8, "wins": 6, "draws": 0, "losses": 2, "goals_for": 21, "goals_against": 7, "points": 18
+    },
+    {
+      "position": 2,
+      "team": "Paris Saint-Germain",
+      "played": 8, "wins": 5, "draws": 2, "losses": 1, "goals_for": 16, "goals_against": 8, "points": 17
+    },
+    {
+      "position": 3,
+      "team": "RC Strasbourg",
+      "played": 8, "wins": 5, "draws": 1, "losses": 2, "goals_for": 17, "goals_against": 10, "points": 16
+    },
+    {
+      "position": 4,
+      "team": "RC Lens",
+      "played": 8, "wins": 5, "draws": 1, "losses": 2, "goals_for": 12, "goals_against": 7, "points": 16
+    },
+    {
+      "position": 5,
+      "team": "Olympique Lyonnais",
+      "played": 8, "wins": 5, "draws": 0, "losses": 3, "goals_for": 11, "goals_against": 8, "points": 15
+    },
+    {
+      "position": 6,
+      "team": "Lille OSC",
+      "played": 8, "wins": 4, "draws": 2, "losses": 2, "goals_for": 16, "goals_against": 10, "points": 14
+    },
+    {
+      "position": 7,
+      "team": "AS Monaco",
+      "played": 8, "wins": 4, "draws": 2, "losses": 2, "goals_for": 17, "goals_against": 13, "points": 14
+    },
+    {
+      "position": 8,
+      "team": "Toulouse FC",
+      "played": 8, "wins": 4, "draws": 1, "losses": 3, "goals_for": 15, "goals_against": 12, "points": 13
+    },
+    {
+        "position": 9,
+        "team": "Stade Rennais",
+        "played": 8, "wins": 2, "draws": 5, "losses": 1, "goals_for": 11, "goals_against": 12, "points": 11
+    },
+    {
+        "position": 10,
+        "team": "OGC Nice",
+        "played": 8, "wins": 3, "draws": 2, "losses": 3, "goals_for": 12, "goals_against": 14, "points": 11
+    },
+    {
+        "position": 11,
+        "team": "Paris FC",
+        "played": 8, "wins": 3, "draws": 1, "losses": 4, "goals_for": 13, "goals_against": 15, "points": 10
+    },
+    {
+        "position": 12,
+        "team": "Stade Brestois",
+        "played": 8, "wins": 2, "draws": 3, "losses": 3, "goals_for": 14, "goals_against": 14, "points": 9
+    },
+    {
+        "position": 13,
+        "team": "FC Lorient",
+        "played": 8, "wins": 2, "draws": 2, "losses": 4, "goals_for": 12, "goals_against": 19, "points": 8
+    },
+    {
+        "position": 14,
+        "team": "AJ Auxerre",
+        "played": 8, "wins": 2, "draws": 1, "losses": 5, "goals_for": 7, "goals_against": 12, "points": 7
+    },
+    {
+        "position": 15,
+        "team": "FC Nantes",
+        "played": 8, "wins": 1, "draws": 3, "losses": 4, "goals_for": 5, "goals_against": 9, "points": 6
+    },
+    {
+      "position": 16,
+      "team": "Le Havre AC",
+      "played": 8, "wins": 1, "draws": 3, "losses": 4, "goals_for": 10, "goals_against": 16, "points": 6
+    },
+    {
+      "position": 17,
+      "team": "Angers SCO",
+      "played": 8, "wins": 1, "draws": 3, "losses": 4, "goals_for": 4, "goals_against": 12, "points": 6
+    },
+    {
+      "position": 18,
+      "team": "FC Metz",
+      "played": 8, "wins": 0, "draws": 2, "losses": 6, "goals_for": 5, "goals_against": 20, "points": 2
+    }
+  ],
+  "team_form": {
+    "Olympique Marseille": ["V", "V", "V", "V", "V"],
+    "Paris Saint-Germain": ["V", "D", "V", "E", "V"],
+    "RC Strasbourg": ["E", "V", "D", "V", "V"],
+    "RC Lens": ["V", "E", "V", "D", "V"],
+    "Olympique Lyonnais": ["D", "V", "D", "V", "V"],
+    "Lille OSC": ["V", "E", "D", "V", "D"],
+    "AS Monaco": ["E", "D", "V", "V", "V"],
+    "Toulouse FC": ["V", "E", "D", "D", "V"],
+    "Stade Rennais": ["E", "V", "E", "E", "D"],
+    "OGC Nice": ["V", "E", "E", "D", "D"],
+    "Paris FC": ["D", "V", "V", "E", "D"],
+    "Stade Brestois": ["E", "V", "V", "D", "E"],
+    "FC Lorient": ["E", "V", "D", "D", "D"],
+    "AJ Auxerre": ["V", "D", "D", "D", "D"],
+    "FC Nantes": ["D", "E", "E", "V", "D"],
+    "Le Havre AC": ["D", "E", "E", "D", "E"],
+    "Angers SCO": ["E", "D", "D", "D", "E"],
+    "FC Metz": ["E", "D", "D", "D", "D"]
+  },
+  "team_stats": {
+    "Paris Saint-Germain": {
+      "home_stats": { "shots_per_game": 19.5, "shots_on_target_per_game": 7.5, "fouls_per_game": 9.1, "corners_per_game": 6.8, "yellow_cards_per_game": 1.5 },
+      "away_stats": { "shots_per_game": 15.5, "shots_on_target_per_game": 6.1, "fouls_per_game": 10.2, "corners_per_game": 5.8, "yellow_cards_per_game": 1.8 }
+    },
+    "AS Monaco": {
+      "home_stats": { "shots_per_game": 15.1, "shots_on_target_per_game": 5.9, "fouls_per_game": 11.5, "corners_per_game": 5.5, "yellow_cards_per_game": 2.1 },
+      "away_stats": { "shots_per_game": 14.2, "shots_on_target_per_game": 5.5, "fouls_per_game": 12.8, "corners_per_game": 4.9, "yellow_cards_per_game": 2.3 }
+    },
+    "Lille OSC": {
+      "home_stats": { "shots_per_game": 16.0, "shots_on_target_per_game": 5.8, "fouls_per_game": 10.8, "corners_per_game": 6.8, "yellow_cards_per_game": 1.7 },
+      "away_stats": { "shots_per_game": 13.9, "shots_on_target_per_game": 5.1, "fouls_per_game": 12.1, "corners_per_game": 5.2, "yellow_cards_per_game": 1.9 }
+    },
+    "Stade Brestois": {
+      "home_stats": { "shots_per_game": 14.0, "shots_on_target_per_game": 5.0, "fouls_per_game": 11.2, "corners_per_game": 5.1, "yellow_cards_per_game": 1.9 },
+      "away_stats": { "shots_per_game": 12.5, "shots_on_target_per_game": 4.5, "fouls_per_game": 13.5, "corners_per_game": 4.3, "yellow_cards_per_game": 2.2 }
+    },
+    "OGC Nice": {
+      "home_stats": { "shots_per_game": 13.5, "shots_on_target_per_game": 4.8, "fouls_per_game": 10.1, "corners_per_game": 5.3, "yellow_cards_per_game": 1.6 },
+      "away_stats": { "shots_per_game": 11.8, "shots_on_target_per_game": 4.1, "fouls_per_game": 12.4, "corners_per_game": 4.6, "yellow_cards_per_game": 1.9 }
+    },
+    "Olympique Lyonnais": {
+      "home_stats": { "shots_per_game": 15.8, "shots_on_target_per_game": 5.7, "fouls_per_game": 10.5, "corners_per_game": 5.9, "yellow_cards_per_game": 1.8 },
+      "away_stats": { "shots_per_game": 13.2, "shots_on_target_per_game": 4.8, "fouls_per_game": 11.7, "corners_per_game": 4.7, "yellow_cards_per_game": 2.1 }
+    },
+    "RC Lens": {
+      "home_stats": { "shots_per_game": 14.8, "shots_on_target_per_game": 5.2, "fouls_per_game": 11.0, "corners_per_game": 6.1, "yellow_cards_per_game": 1.9 },
+      "away_stats": { "shots_per_game": 12.9, "shots_on_target_per_game": 4.5, "fouls_per_game": 12.5, "corners_per_game": 5.0, "yellow_cards_per_game": 2.2 }
+    },
+    "Olympique Marseille": {
+      "home_stats": { "shots_per_game": 15.8, "shots_on_target_per_game": 5.5, "fouls_per_game": 11.3, "corners_per_game": 6.5, "yellow_cards_per_game": 2.0 },
+      "away_stats": { "shots_per_game": 14.0, "shots_on_target_per_game": 4.9, "fouls_per_game": 12.9, "corners_per_game": 5.1, "yellow_cards_per_game": 2.3 }
+    },
+    "Stade Rennais": {
+      "home_stats": { "shots_per_game": 14.5, "shots_on_target_per_game": 5.3, "fouls_per_game": 10.2, "corners_per_game": 5.7, "yellow_cards_per_game": 1.7 },
+      "away_stats": { "shots_per_game": 12.8, "shots_on_target_per_game": 4.6, "fouls_per_game": 11.9, "corners_per_game": 4.9, "yellow_cards_per_game": 2.0 }
+    },
+    "RC Strasbourg": {
+      "home_stats": { "shots_per_game": 12.1, "shots_on_target_per_game": 4.1, "fouls_per_game": 11.5, "corners_per_game": 4.8, "yellow_cards_per_game": 1.9 },
+      "away_stats": { "shots_per_game": 10.5, "shots_on_target_per_game": 3.5, "fouls_per_game": 13.2, "corners_per_game": 4.0, "yellow_cards_per_game": 2.2 }
+    },
+    "Toulouse FC": {
+      "home_stats": { "shots_per_game": 13.0, "shots_on_target_per_game": 4.4, "fouls_per_game": 12.0, "corners_per_game": 5.0, "yellow_cards_per_game": 2.1 },
+      "away_stats": { "shots_per_game": 11.5, "shots_on_target_per_game": 3.9, "fouls_per_game": 13.8, "corners_per_game": 4.2, "yellow_cards_per_game": 2.4 }
+    },
+    "AJ Auxerre": {
+      "home_stats": { "shots_per_game": 12.8, "shots_on_target_per_game": 4.3, "fouls_per_game": 11.1, "corners_per_game": 4.9, "yellow_cards_per_game": 1.9 },
+      "away_stats": { "shots_per_game": 10.9, "shots_on_target_per_game": 3.6, "fouls_per_game": 12.9, "corners_per_game": 4.1, "yellow_cards_per_game": 2.2 }
+    },
+    "FC Nantes": {
+      "home_stats": { "shots_per_game": 11.5, "shots_on_target_per_game": 3.8, "fouls_per_game": 12.2, "corners_per_game": 4.5, "yellow_cards_per_game": 2.0 },
+      "away_stats": { "shots_per_game": 9.8, "shots_on_target_per_game": 3.2, "fouls_per_game": 14.1, "corners_per_game": 3.8, "yellow_cards_per_game": 2.3 }
+    },
+    "Le Havre AC": {
+      "home_stats": { "shots_per_game": 10.8, "shots_on_target_per_game": 3.5, "fouls_per_game": 12.5, "corners_per_game": 4.2, "yellow_cards_per_game": 1.8 },
+      "away_stats": { "shots_per_game": 9.2, "shots_on_target_per_game": 3.0, "fouls_per_game": 14.5, "corners_per_game": 3.5, "yellow_cards_per_game": 2.1 }
+    },
+    "Angers SCO": {
+      "home_stats": { "shots_per_game": 11.2, "shots_on_target_per_game": 3.7, "fouls_per_game": 11.8, "corners_per_game": 4.4, "yellow_cards_per_game": 1.9 },
+      "away_stats": { "shots_per_game": 9.5, "shots_on_target_per_game": 3.1, "fouls_per_game": 13.6, "corners_per_game": 3.7, "yellow_cards_per_game": 2.2 }
+    },
+    "FC Lorient": {
+      "home_stats": { "shots_per_game": 13.8, "shots_on_target_per_game": 4.9, "fouls_per_game": 10.5, "corners_per_game": 5.2, "yellow_cards_per_game": 1.8 },
+      "away_stats": { "shots_per_game": 11.9, "shots_on_target_per_game": 4.1, "fouls_per_game": 12.1, "corners_per_game": 4.4, "yellow_cards_per_game": 2.0 }
+    },
+    "Paris FC": {
+      "home_stats": { "shots_per_game": 14.1, "shots_on_target_per_game": 5.0, "fouls_per_game": 11.0, "corners_per_game": 5.5, "yellow_cards_per_game": 1.9 },
+      "away_stats": { "shots_per_game": 12.2, "shots_on_target_per_game": 4.3, "fouls_per_game": 12.8, "corners_per_game": 4.7, "yellow_cards_per_game": 2.2 }
+    },
+    "FC Metz": {
+      "home_stats": { "shots_per_game": 12.5, "shots_on_target_per_game": 4.2, "fouls_per_game": 11.3, "corners_per_game": 4.8, "yellow_cards_per_game": 2.0 },
+      "away_stats": { "shots_per_game": 10.7, "shots_on_target_per_game": 3.5, "fouls_per_game": 13.1, "corners_per_game": 4.0, "yellow_cards_per_game": 2.3 }
+    }
+  }
+}

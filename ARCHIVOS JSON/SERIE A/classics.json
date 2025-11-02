@@ -1,0 +1,97 @@
+{
+  "Derby d'Italia": {
+    "teams": ["Inter", "Juventus"],
+    "review": "El Clásico de Italia. Una rivalidad histórica que enfrenta a dos de los clubes más laureados y con más seguidores del país. Batallas épicas por el Scudetto, estrellas mundiales y una tensión que trasciende regiones.",
+    "headerText": "El Clásico Italiano",
+    "customTheme": "derby-ditalia-theme",
+    "last_5_matches": [
+      { "fecha": "2025-11-01", "competicion": "Serie A", "resultado": "Inter Milan 1 - 1 Juventus" },
+      { "fecha": "2025-04-12", "competicion": "Serie A", "resultado": "Juventus 0 - 1 Inter Milan" },
+      { "fecha": "2024-11-26", "competicion": "Serie A", "resultado": "Inter Milan 2 - 2 Juventus" },
+      { "fecha": "2024-02-04", "competicion": "Serie A", "resultado": "Juventus 1 - 1 Inter Milan" },
+      { "fecha": "2023-04-26", "competicion": "Coppa Italia", "resultado": "Inter Milan 1 - 0 Juventus" }
+    ],
+    "avg_stats": {
+      "goles_por_partido": { "equipo_a": 1.0, "equipo_b": 0.8 },
+      "posesion_promedio_pct": { "equipo_a": 52.5, "equipo_b": 47.5 },
+      "tiros_totales_por_partido": { "equipo_a": 13.0, "equipo_b": 11.5 },
+      "tiros_a_puerta_por_partido": { "equipo_a": 4.8, "equipo_b": 4.2 }
+    }
+  },
+  "Derby della Madonnina": {
+    "teams": ["Inter", "AC Milan"],
+    "review": "El Derbi de Milán. La ciudad se divide en Nerazzurri y Rossoneri. Una rivalidad centenaria entre vecinos de estadio, llena de pasión, historia, leyendas y batallas memorables tanto en Italia como en Europa.",
+    "headerText": "El Corazón de Milán",
+    "customTheme": "derby-madonnina-theme",
+    "last_5_matches": [
+      { "fecha": "2025-10-19", "competicion": "Serie A", "resultado": "Inter Milan 2 - 0 AC Milan" },
+      { "fecha": "2025-04-22", "competicion": "Serie A", "resultado": "AC Milan 1 - 2 Inter Milan" },
+      { "fecha": "2024-09-16", "competicion": "Serie A", "resultado": "Inter Milan 5 - 1 AC Milan" },
+      { "fecha": "2024-05-16", "competicion": "Champions League", "resultado": "Inter Milan 1 - 0 AC Milan" },
+      { "fecha": "2024-05-10", "competicion": "Champions League", "resultado": "AC Milan 0 - 2 Inter Milan" }
+    ],
+    "avg_stats": {
+      "goles_por_partido": { "equipo_a": 2.4, "equipo_b": 0.4 },
+      "posesion_promedio_pct": { "equipo_a": 48.0, "equipo_b": 52.0 },
+      "tiros_totales_por_partido": { "equipo_a": 14.2, "equipo_b": 13.5 },
+      "tiros_a_puerta_por_partido": { "equipo_a": 6.0, "equipo_b": 4.0 }
+    }
+  },
+  "Derby della Capitale": {
+    "teams": ["AS Roma", "SS Lazio"],
+    "review": "El Derbi de Roma. Una de las rivalidades más feroces y apasionadas del mundo. La ciudad eterna se paraliza cuando Giallorossi y Biancocelesti se enfrentan. Orgullo, historia y una tensión incomparable en el Olímpico.",
+    "headerText": "Batalla por Roma",
+    "customTheme": "derby-capitale-theme",
+    "last_5_matches": [
+      { "fecha": "2025-11-09", "competicion": "Serie A", "resultado": "AS Roma 1 - 1 SS Lazio" },
+      { "fecha": "2025-04-06", "competicion": "Serie A", "resultado": "AS Roma 1 - 0 SS Lazio" },
+      { "fecha": "2025-01-10", "competicion": "Coppa Italia", "resultado": "SS Lazio 1 - 0 AS Roma" },
+      { "fecha": "2024-11-12", "competicion": "Serie A", "resultado": "SS Lazio 0 - 0 AS Roma" },
+      { "fecha": "2024-03-19", "competicion": "Serie A", "resultado": "SS Lazio 1 - 0 AS Roma" }
+    ],
+    "avg_stats": {
+      "goles_por_partido": { "equipo_a": 0.4, "equipo_b": 0.6 },
+      "posesion_promedio_pct": { "equipo_a": 51.8, "equipo_b": 48.2 },
+      "tiros_totales_por_partido": { "equipo_a": 10.8, "equipo_b": 9.6 },
+      "tiros_a_puerta_por_partido": { "equipo_a": 3.2, "equipo_b": 3.0 }
+    }
+  },
+  "Derby della Mole": {
+    "teams": ["Juventus", "Torino FC"],
+    "review": "El Derbi de Turín. La Vecchia Signora, gigante de Italia, contra el Toro, el orgullo granata de la ciudad. Aunque la Juve ha dominado históricamente, es un partido con profundo significado local y orgullo en juego.",
+    "headerText": "El Alma de Turín",
+    "customTheme": "derby-della-mole-theme",
+    "last_5_matches": [
+      { "fecha": "2025-10-26", "competicion": "Serie A", "resultado": "Juventus 1 - 0 Torino" },
+      { "fecha": "2025-04-13", "competicion": "Serie A", "resultado": "Torino 0 - 0 Juventus" },
+      { "fecha": "2024-10-07", "competicion": "Serie A", "resultado": "Juventus 2 - 0 Torino" },
+      { "fecha": "2024-02-28", "competicion": "Serie A", "resultado": "Juventus 4 - 2 Torino" },
+      { "fecha": "2023-10-15", "competicion": "Serie A", "resultado": "Torino 0 - 1 Juventus" }
+    ],
+    "avg_stats": {
+      "goles_por_partido": { "equipo_a": 1.4, "equipo_b": 0.4 },
+      "posesion_promedio_pct": { "equipo_a": 55.5, "equipo_b": 44.5 },
+      "tiros_totales_por_partido": { "equipo_a": 13.8, "equipo_b": 10.2 },
+      "tiros_a_puerta_por_partido": { "equipo_a": 5.2, "equipo_b": 3.4 }
+    }
+  },
+  "Derby del Sole": {
+    "teams": ["SSC Napoli", "AS Roma"],
+    "review": "El Derbi del Sol enfrenta a los dos clubes más representativos del sur de Italia. Una rivalidad intensa entre Nápoles y Roma, con aficiones apasionadas y partidos que suelen ser vibrantes y llenos de color.",
+    "headerText": "Fuego del Sur",
+    "customTheme": "derby-del-sole-theme",
+    "last_5_matches": [
+      { "fecha": "2025-09-14", "competicion": "Serie A", "resultado": "Napoli 0 - 0 AS Roma" },
+      { "fecha": "2025-04-28", "competicion": "Serie A", "resultado": "Napoli 2 - 2 AS Roma" },
+      { "fecha": "2024-12-23", "competicion": "Serie A", "resultado": "AS Roma 2 - 0 Napoli" },
+      { "fecha": "2024-01-29", "competicion": "Serie A", "resultado": "Napoli 2 - 1 AS Roma" },
+      { "fecha": "2023-10-23", "competicion": "Serie A", "resultado": "AS Roma 0 - 1 Napoli" }
+    ],
+    "avg_stats": {
+      "goles_por_partido": { "equipo_a": 1.0, "equipo_b": 1.0 },
+      "posesion_promedio_pct": { "equipo_a": 57.0, "equipo_b": 43.0 },
+      "tiros_totales_por_partido": { "equipo_a": 15.2, "equipo_b": 9.8 },
+      "tiros_a_puerta_por_partido": { "equipo_a": 5.0, "equipo_b": 3.6 }
+    }
+  }
+}

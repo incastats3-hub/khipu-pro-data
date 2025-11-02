@@ -1,0 +1,97 @@
+{
+  "Der Klassiker": {
+    "teams": ["Bayern Munich", "Borussia Dortmund"],
+    "review": "La cumbre del fútbol alemán. El poderío bávaro frente a la pasión de Dortmund. Un choque que define títulos, paraliza al país y regala momentos inolvidables. Intensidad, estrellas y la lucha por la supremacía germana.",
+    "headerText": "La Cima Alemana",
+    "customTheme": "der-klassiker-theme",
+    "last_5_matches": [
+      { "fecha": "2025-11-02", "competicion": "Bundesliga", "resultado": "Bayern Munich 2 - 2 Borussia Dortmund" },
+      { "fecha": "2025-04-01", "competicion": "Bundesliga", "resultado": "Borussia Dortmund 0 - 3 Bayern Munich" },
+      { "fecha": "2024-11-06", "competicion": "Bundesliga", "resultado": "Bayern Munich 4 - 2 Borussia Dortmund" },
+      { "fecha": "2024-04-08", "competicion": "DFB-Pokal", "resultado": "Bayern Munich 1 - 2 Borussia Dortmund" },
+      { "fecha": "2023-11-05", "competicion": "Bundesliga", "resultado": "Borussia Dortmund 2 - 3 Bayern Munich" }
+    ],
+    "avg_stats": {
+      "goles_por_partido": { "equipo_a": 2.6, "equipo_b": 1.6 },
+      "posesion_promedio_pct": { "equipo_a": 58.5, "equipo_b": 41.5 },
+      "tiros_totales_por_partido": { "equipo_a": 16.2, "equipo_b": 11.8 },
+      "tiros_a_puerta_por_partido": { "equipo_a": 6.8, "equipo_b": 4.5 }
+    }
+  },
+  "Rheinderby": {
+    "teams": ["1 FC Köln", "Borussia M'gladbach"],
+    "review": "El Derbi del Rin. Una de las rivalidades locales más intensas y antiguas de Alemania. La Catedral contra los Potros. Orgullo, pasión y una lucha encarnizada por el dominio en la ribera del Rin.",
+    "headerText": "Orgullo del Rin",
+    "customTheme": "rheinderby-theme",
+    "last_5_matches": [
+      { "fecha": "2025-09-20", "competicion": "Bundesliga", "resultado": "1 FC Köln 1 - 1 Borussia M'gladbach" },
+      { "fecha": "2025-02-18", "competicion": "Bundesliga", "resultado": "Borussia M'gladbach 2 - 0 1 FC Köln" },
+      { "fecha": "2024-10-22", "competicion": "Bundesliga", "resultado": "1 FC Köln 3 - 1 Borussia M'gladbach" },
+      { "fecha": "2024-04-02", "competicion": "Bundesliga", "resultado": "1 FC Köln 0 - 0 Borussia M'gladbach" },
+      { "fecha": "2023-10-09", "competicion": "Bundesliga", "resultado": "Borussia M'gladbach 5 - 2 1 FC Köln" }
+    ],
+    "avg_stats": {
+      "goles_por_partido": { "equipo_a": 1.2, "equipo_b": 1.8 },
+      "posesion_promedio_pct": { "equipo_a": 47.3, "equipo_b": 52.7 },
+      "tiros_totales_por_partido": { "equipo_a": 10.5, "equipo_b": 13.1 },
+      "tiros_a_puerta_por_partido": { "equipo_a": 3.9, "equipo_b": 5.0 }
+    }
+  },
+  "Revierderby": {
+    "teams": ["Borussia Dortmund", "FC Schalke 04"],
+    "review": "El 'Derbi de la Cuenca del Ruhr'. Posiblemente la rivalidad más visceral y apasionada de Alemania. El amarillo y negro contra el azul real. Un choque de identidades obreras, orgullo minero y una historia llena de tensión.",
+    "headerText": "Corazón de Acero",
+    "customTheme": "revierderby-theme",
+    "last_5_matches": [
+      { "fecha": "2024-03-11", "competicion": "Bundesliga", "resultado": "FC Schalke 04 2 - 2 Borussia Dortmund" },
+      { "fecha": "2023-09-17", "competicion": "Bundesliga", "resultado": "Borussia Dortmund 1 - 0 FC Schalke 04" },
+      { "fecha": "2022-02-26", "competicion": "Bundesliga", "resultado": "FC Schalke 04 0 - 4 Borussia Dortmund" },
+      { "fecha": "2021-10-24", "competicion": "Bundesliga", "resultado": "Borussia Dortmund 3 - 0 FC Schalke 04" },
+      { "fecha": "2020-05-16", "competicion": "Bundesliga", "resultado": "Borussia Dortmund 4 - 0 FC Schalke 04" }
+    ],
+    "avg_stats": {
+      "goles_por_partido": { "equipo_a": 2.8, "equipo_b": 0.4 },
+      "posesion_promedio_pct": { "equipo_a": 60.1, "equipo_b": 39.9 },
+      "tiros_totales_por_partido": { "equipo_a": 15.8, "equipo_b": 8.2 },
+      "tiros_a_puerta_por_partido": { "equipo_a": 6.5, "equipo_b": 2.1 }
+    }
+  },
+  "Nordderby": {
+    "teams": ["Hamburger SV", "Werder Bremen"],
+    "review": "El Clásico del Norte. Una de las rivalidades con más historia y tradición de la Bundesliga. El orgullo hanseático de Hamburgo contra la pasión verde y blanca de Bremen. Partidos siempre disputados con fervor.",
+    "headerText": "Dominio del Norte",
+    "customTheme": "nordderby-theme",
+    "last_5_matches": [
+      { "fecha": "2025-10-18", "competicion": "Bundesliga", "resultado": "Hamburger SV 0 - 1 Werder Bremen" },
+      { "fecha": "2025-03-01", "competicion": "Bundesliga", "resultado": "Werder Bremen 2 - 1 Hamburger SV" },
+      { "fecha": "2022-02-19", "competicion": "2. Bundesliga", "resultado": "Werder Bremen 2 - 3 Hamburger SV" },
+      { "fecha": "2021-09-18", "competicion": "2. Bundesliga", "resultado": "Hamburger SV 0 - 2 Werder Bremen" },
+      { "fecha": "2018-02-24", "competicion": "Bundesliga", "resultado": "Werder Bremen 1 - 0 Hamburger SV" }
+    ],
+    "avg_stats": {
+      "goles_por_partido": { "equipo_a": 0.8, "equipo_b": 1.6 },
+      "posesion_promedio_pct": { "equipo_a": 49.0, "equipo_b": 51.0 },
+      "tiros_totales_por_partido": { "equipo_a": 11.2, "equipo_b": 12.4 },
+      "tiros_a_puerta_por_partido": { "equipo_a": 4.0, "equipo_b": 4.8 }
+    }
+  },
+  "Südderby": {
+    "teams": ["Bayern Munich", "VfB Stuttgart"],
+    "review": "El Derbi del Sur enfrenta a los dos gigantes de Baviera y Suabia. Aunque el dominio reciente es bávaro, la rivalidad histórica y geográfica asegura partidos con orgullo regional en juego y a menudo con buen fútbol.",
+    "headerText": "Gigantes del Sur",
+    "customTheme": "suedderby-theme",
+    "last_5_matches": [
+      { "fecha": "2025-05-04", "competicion": "Bundesliga", "resultado": "Bayern Munich 1 - 3 VfB Stuttgart" },
+      { "fecha": "2024-12-17", "competicion": "Bundesliga", "resultado": "VfB Stuttgart 0 - 3 Bayern Munich" },
+      { "fecha": "2024-03-04", "competicion": "Bundesliga", "resultado": "VfB Stuttgart 1 - 2 Bayern Munich" },
+      { "fecha": "2023-09-10", "competicion": "Bundesliga", "resultado": "Bayern Munich 2 - 2 VfB Stuttgart" },
+      { "fecha": "2023-03-12", "competicion": "Bundesliga", "resultado": "Bayern Munich 2 - 2 VfB Stuttgart" }
+    ],
+    "avg_stats": {
+      "goles_por_partido": { "equipo_a": 2.0, "equipo_b": 1.6 },
+      "posesion_promedio_pct": { "equipo_a": 61.2, "equipo_b": 38.8 },
+      "tiros_totales_por_partido": { "equipo_a": 17.5, "equipo_b": 10.3 },
+      "tiros_a_puerta_por_partido": { "equipo_a": 7.1, "equipo_b": 4.0 }
+    }
+  }
+}

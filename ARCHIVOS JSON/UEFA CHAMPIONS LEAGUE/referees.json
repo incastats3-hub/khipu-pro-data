@@ -1,0 +1,398 @@
+{
+  "István Kovács": {
+    "nationality": "Rumania",
+    "fouls_per_game": 25.23,
+    "yellows_per_game": 5.34,
+    "reds_per_game": 0.1
+  },
+  "François Letexier": {
+    "nationality": "Francia",
+    "fouls_per_game": 22.75,
+    "yellows_per_game": 3.86,
+    "reds_per_game": 0.12
+  },
+  "Michael Oliver": {
+    "nationality": "Inglaterra",
+    "fouls_per_game": 21.89,
+    "yellows_per_game": 3.38,
+    "reds_per_game": 0.04
+  },
+  "Sandro Schärer": {
+    "nationality": "Suiza",
+    "fouls_per_game": 24.47,
+    "yellows_per_game": 4.13,
+    "reds_per_game": 0.1
+  },
+  "Espen Eskås": {
+    "nationality": "Noruega",
+    "fouls_per_game": 23.98,
+    "yellows_per_game": 3.52,
+    "reds_per_game": 0.05
+  },
+  "Alejandro José Hernández Hernández": {
+    "nationality": "España",
+    "fouls_per_game": 26.31,
+    "yellows_per_game": 5.35,
+    "reds_per_game": 0.11
+  },
+  "Szymon Marciniak": {
+    "nationality": "Polonia",
+    "fouls_per_game": 24.08,
+    "yellows_per_game": 4.25,
+    "reds_per_game": 0.08
+  },
+  "Maurizio Mariani": {
+    "nationality": "Italia",
+    "fouls_per_game": 24.33,
+    "yellows_per_game": 4.8,
+    "reds_per_game": 0.09
+  },
+  "Alejandro Muñiz Ruiz": {
+    "nationality": "España",
+    "fouls_per_game": 27.53,
+    "yellows_per_game": 5.16,
+    "reds_per_game": 0.22
+  },
+  "Rade Obrenović": {
+    "nationality": "Eslovenia",
+    "fouls_per_game": 22.84,
+    "yellows_per_game": 4.23,
+    "reds_per_game": 0.11
+  },
+  "Irfan Peljto": {
+    "nationality": "Bosnia y Herzegovina",
+    "fouls_per_game": 25.13,
+    "yellows_per_game": 4.67,
+    "reds_per_game": 0.05
+  },
+  "Donatas Rumšas": {
+    "nationality": "Lituania",
+    "fouls_per_game": 20.76,
+    "yellows_per_game": 3.91,
+    "reds_per_game": 0.09
+  },
+  "José María Sánchez Martínez": {
+    "nationality": "España",
+    "fouls_per_game": 25.68,
+    "yellows_per_game": 5.18,
+    "reds_per_game": 0.1
+  },
+  "João Pedro Silva Pinheiro": {
+    "nationality": "Portugal",
+    "fouls_per_game": 27.1,
+    "yellows_per_game": 4.88,
+    "reds_per_game": 0.13
+  },
+  "Anthony Taylor": {
+    "nationality": "Inglaterra",
+    "fouls_per_game": 22.56,
+    "yellows_per_game": 3.66,
+    "reds_per_game": 0.06
+  },
+  "Clément Turpin": {
+    "nationality": "Francia",
+    "fouls_per_game": 23.3,
+    "yellows_per_game": 3.23,
+    "reds_per_game": 0.09
+  },
+  "Slavko Vinčić": {
+    "nationality": "Eslovenia",
+    "fouls_per_game": 23.75,
+    "yellows_per_game": 4.19,
+    "reds_per_game": 0.06
+  },
+  "Felix Zwayer": {
+    "nationality": "Alemania",
+    "fouls_per_game": 21.96,
+    "yellows_per_game": 4.39,
+    "reds_per_game": 0.05
+  },
+  "Danny Desmond Makkelie": {
+    "nationality": "Países Bajos",
+    "fouls_per_game": 21.85,
+    "yellows_per_game": 3.45,
+    "reds_per_game": 0.08
+  },
+  "Davide Massa": {
+    "nationality": "Italia",
+    "fouls_per_game": 24.11,
+    "yellows_per_game": 4.89,
+    "reds_per_game": 0.13
+  },
+  "Benoît Bastien": {
+    "nationality": "Francia",
+    "fouls_per_game": 23.57,
+    "yellows_per_game": 3.79,
+    "reds_per_game": 0.11
+  },
+  "John Beaton": {
+    "nationality": "Escocia",
+    "fouls_per_game": 22.41,
+    "yellows_per_game": 3.98,
+    "reds_per_game": 0.07
+  },
+  "Srdjan Jovanović": {
+    "nationality": "Serbia",
+    "fouls_per_game": 25.82,
+    "yellows_per_game": 4.71,
+    "reds_per_game": 0.09
+  },
+  "Ivan Kružliak": {
+    "nationality": "Eslovaquia",
+    "fouls_per_game": 26.04,
+    "yellows_per_game": 4.95,
+    "reds_per_game": 0.1
+  },
+  "António Emanuel Carvalho Nobre": {
+    "nationality": "Portugal",
+    "fouls_per_game": 27.88,
+    "yellows_per_game": 5.43,
+    "reds_per_game": 0.15
+  },
+  "Andrea Colombo": {
+    "nationality": "Italia",
+    "fouls_per_game": 25.01,
+    "yellows_per_game": 4.67,
+    "reds_per_game": 0.08
+  },
+  "Joey Kooij": {
+    "nationality": "Países Bajos",
+    "fouls_per_game": 20.15,
+    "yellows_per_game": 3.28,
+    "reds_per_game": 0.09
+  },
+  "Erik Lambrechts": {
+    "nationality": "Bélgica",
+    "fouls_per_game": 23.17,
+    "yellows_per_game": 4.51,
+    "reds_per_game": 0.12
+  },
+  "Andy Madley": {
+    "nationality": "Inglaterra",
+    "fouls_per_game": 21.5,
+    "yellows_per_game": 3.81,
+    "reds_per_game": 0.05
+  },
+  "Mykola Balakin": {
+    "nationality": "Ucrania",
+    "fouls_per_game": 24.62,
+    "yellows_per_game": 4.88,
+    "reds_per_game": 0.07
+  },
+  "Zorbay Küçük": {
+    "nationality": "Turquía",
+    "fouls_per_game": 25.93,
+    "yellows_per_game": 5.14,
+    "reds_per_game": 0.16
+  },
+  "Nathan Verboomen": {
+    "nationality": "Bélgica",
+    "fouls_per_game": 21.36,
+    "yellows_per_game": 4.02,
+    "reds_per_game": 0.08
+  },
+  "Marian Alexandru Barbu": {
+    "nationality": "Rumania",
+    "fouls_per_game": 26.18,
+    "yellows_per_game": 5.05,
+    "reds_per_game": 0.1
+  },
+  "Arda Kardeşler": {
+    "nationality": "Turquía",
+    "fouls_per_game": 25.8,
+    "yellows_per_game": 4.95,
+    "reds_per_game": 0.18
+  },
+  "Luís Emanuel Branco Godinho": {
+    "nationality": "Portugal",
+    "fouls_per_game": 26.5,
+    "yellows_per_game": 5.1,
+    "reds_per_game": 0.14
+  },
+  "Andrei Chivulete": {
+    "nationality": "Rumania",
+    "fouls_per_game": 24.9,
+    "yellows_per_game": 5.2,
+    "reds_per_game": 0.11
+  },
+  "Matteo Marcenaro": {
+    "nationality": "Italia",
+    "fouls_per_game": 23.1,
+    "yellows_per_game": 4.4,
+    "reds_per_game": 0.1
+  },
+  "Miguel Bertolo Nogueira": {
+    "nationality": "Portugal",
+    "fouls_per_game": 28.1,
+    "yellows_per_game": 5.8,
+    "reds_per_game": 0.2
+  },
+  "Jasper Vergoote": {
+    "nationality": "Bélgica",
+    "fouls_per_game": 20.5,
+    "yellows_per_game": 3.9,
+    "reds_per_game": 0.07
+  },
+  "Adam Ladebäck": {
+    "nationality": "Suecia",
+    "fouls_per_game": 22.4,
+    "yellows_per_game": 3.7,
+    "reds_per_game": 0.09
+  },
+  "Damian Sylwestrzak": {
+    "nationality": "Polonia",
+    "fouls_per_game": 24.3,
+    "yellows_per_game": 4.8,
+    "reds_per_game": 0.13
+  },
+  "Ishmael Barbara": {
+    "nationality": "Malta",
+    "fouls_per_game": 23.5,
+    "yellows_per_game": 4.6,
+    "reds_per_game": 0.15
+  },
+  "Christian-Petru Ciochirca": {
+    "nationality": "Austria",
+    "fouls_per_game": 24.1,
+    "yellows_per_game": 4.7,
+    "reds_per_game": 0.1
+  },
+  "Goga Kikacheishvili": {
+    "nationality": "Georgia",
+    "fouls_per_game": 27.2,
+    "yellows_per_game": 5.3,
+    "reds_per_game": 0.17
+  },
+  "Viktor Kopievskyi": {
+    "nationality": "Ucrania",
+    "fouls_per_game": 23.8,
+    "yellows_per_game": 4.9,
+    "reds_per_game": 0.08
+  },
+  "Ante Čulina": {
+    "nationality": "Croacia",
+    "fouls_per_game": 25.4,
+    "yellows_per_game": 4.8,
+    "reds_per_game": 0.12
+  },
+  "Damian Kos": {
+    "nationality": "Polonia",
+    "fouls_per_game": 23.9,
+    "yellows_per_game": 4.5,
+    "reds_per_game": 0.1
+  },
+  "Romain Lissorgue": {
+    "nationality": "Francia",
+    "fouls_per_game": 20.8,
+    "yellows_per_game": 3.4,
+    "reds_per_game": 0.09
+  },
+  "Antoni Bandić": {
+    "nationality": "Bosnia y Herzegovina",
+    "fouls_per_game": 26.1,
+    "yellows_per_game": 5.5,
+    "reds_per_game": 0.18
+  },
+  "Sayat Karabayev": {
+    "nationality": "Kazajistán",
+    "fouls_per_game": 22.5,
+    "yellows_per_game": 4.1,
+    "reds_per_game": 0.11
+  },
+  "Elçin Masiyev": {
+    "nationality": "Azerbaiyán",
+    "fouls_per_game": 27.0,
+    "yellows_per_game": 5.2,
+    "reds_per_game": 0.15
+  },
+  "Ben Meester": {
+    "nationality": "Países Bajos",
+    "fouls_per_game": 19.5,
+    "yellows_per_game": 3.1,
+    "reds_per_game": 0.08
+  },
+  "Igor Stojchevski": {
+    "nationality": "Macedonia del Norte",
+    "fouls_per_game": 24.8,
+    "yellows_per_game": 5.0,
+    "reds_per_game": 0.14
+  },
+  "Jakob Alexander Sundberg": {
+    "nationality": "Dinamarca",
+    "fouls_per_game": 21.2,
+    "yellows_per_game": 3.6,
+    "reds_per_game": 0.07
+  },
+  "Martin Matoša": {
+    "nationality": "Eslovenia",
+    "fouls_per_game": 23.3,
+    "yellows_per_game": 4.3,
+    "reds_per_game": 0.1
+  },
+  "Christos Vergetis": {
+    "nationality": "Grecia",
+    "fouls_per_game": 26.4,
+    "yellows_per_game": 4.9,
+    "reds_per_game": 0.13
+  },
+  "Aliyar Aghayev": {
+    "nationality": "Azerbaiyán",
+    "fouls_per_game": 26.25,
+    "yellows_per_game": 4.25,
+    "reds_per_game": 0.15
+  },
+  "Chris Kavanagh": {
+    "nationality": "Inglaterra",
+    "fouls_per_game": 21.4,
+    "yellows_per_game": 4.84,
+    "reds_per_game": 0.12
+  },
+  "Daniel Siebert": {
+    "nationality": "Alemania",
+    "fouls_per_game": 23.71,
+    "yellows_per_game": 4.41,
+    "reds_per_game": 0.12
+  },
+  "Glenn Nyberg": {
+    "nationality": "Suecia",
+    "fouls_per_game": 30.09,
+    "yellows_per_game": 4.36,
+    "reds_per_game": 0.06
+  },
+  "Jesús Gil Manzano": {
+    "nationality": "España",
+    "fouls_per_game": 23.05,
+    "yellows_per_game": 6.05,
+    "reds_per_game": 0.16
+  },
+  "Manfredas Lukjančukas": {
+    "nationality": "Lituania",
+    "fouls_per_game": 22.42,
+    "yellows_per_game": 4.0,
+    "reds_per_game": 0.08
+  },
+  "Marco Guida": {
+    "nationality": "Italia",
+    "fouls_per_game": 23.56,
+    "yellows_per_game": 4.78,
+    "reds_per_game": 0.33
+  },
+  "Serdar Gözübüyük": {
+    "nationality": "Países Bajos",
+    "fouls_per_game": 21.36,
+    "yellows_per_game": 3.32,
+    "reds_per_game": 0.04
+  },
+  "Simone Sozza": {
+    "nationality": "Italia",
+    "fouls_per_game": 24.06,
+    "yellows_per_game": 3.82,
+    "reds_per_game": 0.0
+  },
+  "Urs Schnyder": {
+    "nationality": "Suiza",
+    "fouls_per_game": 21.61,
+    "yellows_per_game": 4.11,
+    "reds_per_game": 0.11
+  }
+}

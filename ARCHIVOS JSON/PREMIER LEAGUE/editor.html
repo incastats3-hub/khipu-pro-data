@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editor de Datos Khipu v2.1 (Debug Dorsales)</title>
+    
+    <style>
+        /* Estilo base inspirado en el tema oscuro de Khipu Pro */
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #0D1117;
+            color: #E2E8F0;
+            margin: 0;
+            padding: 2rem;
+        }
+
+        .hidden { display: none !important; }
+
+        header {
+            text-align: center;
+            border-bottom: 1px solid #30363D;
+            padding-bottom: 1.5rem;
+            margin-bottom: 2rem;
+            position: relative;
+        }
+
+        header h1 {
+            color: #22C55E; /* Verde Inca */
+            margin: 0.5rem 0;
+        }
+        header p {
+            color: #8b949e;
+            font-size: 1.1rem;
+            margin: 0;
+        }
+
+        .back-button {
+            position: absolute;
+            top: 0;
+            left: 0;
+            background: #30363D;
+            color: white;
+            border: none;
+            border-radius: 0.5rem;
+            padding: 0.5rem 1rem;
+            font-weight: 600;
+            cursor: pointer;
+        }
+        .back-button:hover { background: #484f58; }
+
+        .cta-button {
+            display: block;
+            width: 50%;
+            margin: 2rem auto 0 auto;
+            padding: 1rem;
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: white;
+            background: #238636;
+            border: none;
+            border-radius: 0.5rem;
+            cursor: pointer;
+            transition: background-color 0.2s ease;
+        }
+        .cta-button:hover { background: #2ea043; }
+        .cta-button:disabled {
+            background: #161b22;
+            color: #484f58;
+            cursor: not-allowed;
+        }
+
+        /* --- Página 1: Selector de Liga --- */
+        .league-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 1.5rem;
+        }
+        .league-card {
+            background: #161b22;
+            border: 1px solid #30363D;
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .league-card:hover {
+            transform: translateY(-5px);
+            border-color: #22C55E;
+            box-shadow: 0 5px 20px rgba(34, 197, 94, 0.1);
+        }
+        .league-card img {
+            width: 80px;
+            height: 80px;
+            object-fit: contain;
+            margin-bottom: 1rem;
+        }
+        .league-card h3 {
+            margin: 0;
+            font-size: 1.1rem;
+            color: white;
+        }
+        .league-card p {
+            margin: 0;
+            font-size: 0.9rem;
+            color: #8b949e;
+        }
+
+        /* --- Página 2: Cargador de Archivos --- */
+        .file-upload-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 1rem;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .file-upload-card {
+            background: #161b22;
+            border: 1px solid #30363D;
+            border-radius: 0.5rem;
+            padding: 1rem 1.5rem;
+            display: grid;
+            grid-template-columns: 1fr auto auto;
+            align-items: center;
+            gap: 1rem;
+        }
+        .file-upload-card.loaded {
+            border-left: 4px solid #22C55E;
+        }
+        .file-upload-card.error {
+            border-left: 4px solid #DA2C1C;
+        }
+        .file-upload-card .file-title {
+            font-weight: 600;
+            font-size: 1.1rem;
+        }
+        .file-upload-card .file-subtitle {
+            color: #8b949e;
+            font-family: monospace;
+        }
+        .file-label {
+            display: inline-block;
+            padding: 0.6rem 1rem;
+            border-radius: 0.5rem;
+            cursor: pointer;
+            font-weight: 500;
+            background: #30363D;
+            color: #E2E8F0;
+            transition: background-color 0.2s ease;
+            min-width: 100px;
+            text-align: center;
+        }
+        .file-upload-card.loaded .file-label {
+            background: #238636;
+        }
+        .file-upload-card.error .file-label {
+            background: #b92c1e;
+        }
+        .file-label:hover { background: #484f58; }
+        .file-upload-card input[type="file"] { display: none; }
+
+        /* --- Página 3: Lista de Equipos --- */
+        .team-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 1rem;
+        }
+        .team-list-item {
+            background: #161b22;
+            border: 1px solid #30363D;
+            border-radius: 0.5rem;
+            padding: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .team-list-item:hover {
+            border-color: #22C55E;
+            background: #222a35;
+        }
+        .team-list-item img {
+            width: 40px;
+            height: 40px;
+            object-fit: contain;
+            background: white;
+            border-radius: 50%;
+        }
+        .team-list-item span {
+            font-size: 1.1rem;
+            font-weight: 600;
+        }
+
+        /* --- Página 4: Editor de Equipo --- */
+        #download-buttons-container {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            margin-top: 1rem;
+        }
+        .download-button {
+            background: #0052FF;
+            color: white;
+            border: none;
+            border-radius: 0.5rem;
+            padding: 0.5rem 1rem;
+            font-weight: 600;
+            cursor: pointer;
+        }
+        .download-button:hover { background: #337aff; }
+
+        #team-editor-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .editor-section {
+            background: #161b22;
+            border: 1px solid #30363D;
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+        }
+        .editor-section h2 {
+            color: #22C55E;
+            margin-top: 0;
+            border-bottom: 1px solid #30363D;
+            padding-bottom: 0.75rem;
+        }
+        .form-group {
+            margin-bottom: 1.25rem;
+        }
+        .form-group label {
+            display: block;
+            font-weight: 500;
+            color: #8b949e;
+            margin-bottom: 0.5rem;
+            font-size: 0.9rem;
+        }
+        .form-input {
+            background-color: #0D1117;
+            border: 1px solid #30363D;
+            color: #E2E8F0;
+            padding: 0.75rem;
+            border-radius: 0.375rem;
+            font-family: inherit;
+            font-size: 1rem;
+            width: 100%;
+            box-sizing: border-box; /* Importante */
+        }
+        .form-input:focus {
+            outline: none;
+            border-color: #22C55E;
+            box-shadow: 0 0 10px rgba(34, 197, 94, 0.2);
+        }
+        .color-inputs {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1rem;
+        }
+        .player-list {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid #30363D;
+            border-radius: 0.5rem;
+            padding: 0.5rem;
+        }
+        /* --- MODIFICACIÓN CSS PARA EL DEBUG --- */
+        .player-item {
+            display: grid;
+            grid-template-columns: 30px 50px 1fr 80px; /* Añadida columna para el debug */
+            gap: 0.5rem;
+            align-items: center;
+            padding: 0.25rem 0.5rem;
+        }
+        /* --- FIN MODIFICACIÓN CSS --- */
+        .player-item:hover { background: #222a35; }
+
+        /* Estilo para el input de color */
+        input[type="color"] {
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            appearance: none;
+            width: 100%;
+            height: 40px;
+            background-color: transparent;
+            border: none;
+            cursor: pointer;
+        }
+        input[type="color"]::-webkit-color-swatch {
+            border-radius: 0.375rem;
+            border: 2px solid #30363D;
+        }
+        input[type="color"]::-moz-color-swatch {
+            border-radius: 0.375rem;
+            border: 2px solid #30363D;
+        }
+
+    </style>
+    </head>
+<body>
+
+    <div id="page-league-selector" class="page-container">
+        <header>
+            <h1>Editor de Base de Datos Khipu</h1>
+            <p>Selecciona una liga para cargar o editar sus datos.</p>
+        </header>
+        <main>
+            <div id="league-grid" class="league-grid">
+                </div>
+        </main>
+    </div>
+
+    <div id="page-data-loader" class="page-container hidden">
+        <header>
+            <button class="back-button" onclick="showPage('page-league-selector')">&larr; Volver</button>
+            <h1 id="loader-title">Cargar Datos de Liga</h1>
+            <p>Sube los 5 archivos JSON requeridos para esta liga.</p>
+        </header>
+        <main>
+            <div class="file-upload-grid">
+                <div class="file-upload-card" id="card-league-file">
+                    <span class="file-title">Datos de Liga</span>
+                    <span class="file-subtitle">league.json</span>
+                    <label for="file-league" class="file-label" id="label-league">Seleccionar</label>
+                    <input type="file" id="file-league" data-file-type="league" accept=".json">
+                </div>
+                <div class="file-upload-card" id="card-players-file">
+                    <span class="file-title">Jugadores y Tácticas</span>
+                    <span class="file-subtitle">players.json</span>
+                    <label for="file-players" class="file-label" id="label-players">Seleccionar</label>
+                    <input type="file" id="file-players" data-file-type="players" accept=".json">
+                </div>
+                <div class="file-upload-card" id="card-referees-file">
+                    <span class="file-title">Árbitros</span>
+                    <span class="file-subtitle">referees.json</span>
+                    <label for="file-referees" class="file-label" id="label-referees">Seleccionar</label>
+                    <input type="file" id="file-referees" data-file-type="referees" accept=".json">
+                </div>
+                <div class="file-upload-card" id="card-faces-file">
+                    <span class="file-title">Protagonistas (Faces)</span>
+                    <span class="file-subtitle">faces.json</span>
+                    <label for="file-faces" class="file-label" id="label-faces">Seleccionar</label>
+                    <input type="file" id="file-faces" data-file-type="faces" accept=".json">
+                </div>
+                <div class="file-upload-card" id="card-tournament-file">
+                    <span class="file-title">Datos del Torneo</span>
+                    <span class="file-subtitle">tournament_data.json</span>
+                    <label for="file-tournament" class="file-label" id="label-tournament">Seleccionar</label>
+                    <input type="file" id="file-tournament" data-file-type="tournament" accept=".json">
+                </div>
+            </div>
+            <button id="load-team-list-btn" class="cta-button" disabled>Ver Lista de Equipos</button>
+        </main>
+    </div>
+
+    <div id="page-team-list" class="page-container hidden">
+        <header>
+            <button class="back-button" onclick="showPage('page-data-loader')">&larr; Volver al Cargador</button>
+            <h1 id="team-list-title">Equipos de la Liga</h1>
+            <p>Selecciona un equipo para editar todos sus datos.</p>
+        </header>
+        <main>
+            <div id="team-list-container" class="team-list">
+                </div>
+        </main>
+    </div>
+
+    <div id="page-team-editor" class="page-container hidden">
+        <header>
+            <button class="back-button" onclick="showPage('page-team-list')">&larr; Volver a la Lista</button>
+            <h1 id="editor-team-name">Editando Equipo</h1>
+            <div id="download-buttons-container">
+                <button class="download-button" data-file-type="league">Descargar league.json</button>
+                <button class="download-button" data-file-type="players">Descargar players.json</button>
+                <button class="download-button" data-file-type="faces">Descargar faces.json</button>
+                <button class="download-button" data-file-type="referees">Descargar referees.json</button>
+                <button class="download-button" data-file-type="tournament">Descargar tournament_data.json</button>
+            </div>
+        </header>
+        <main>
+            <div id="team-editor-content">
+                </div>
+        </main>
+    </div>
+
+    <script>
+        // --- ============================================ ---
+        // ---         ESTADO GLOBAL DEL EDITOR           ---
+        // --- ============================================ ---
+        // Objeto que simula el APP_STATE de Khipu Pro
+        const EDITOR_STATE = {
+            currentLeague: null, // Ej: 'premier'
+            league: null,        // Contenido de league.json
+            players: null,       // Contenido de players.json
+            referees: null,      // Contenido de referees.json
+            faces: null,         // Contenido de faces.json
+            tournament: null     // Contenido de tournament_data.json
+        };
+
+        // Configuración de las ligas (puedes expandir esto)
+        const leagues = [
+            { id: 'premier', name: 'Premier League', logo: 'https://a.espncdn.com/i/leaguelogos/soccer/500/23.png', country: 'Inglaterra' },
+            { id: 'laliga', name: 'La Liga', logo: 'https://a.espncdn.com/i/leaguelogos/soccer/500/15.png', country: 'España' },
+            { id: 'bundesliga', name: 'Bundesliga', logo: 'https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1024px-Bundesliga_logo_%282017%29.svg.png', country: 'Alemania' },
+            { id: 'ligue1', name: 'Ligue 1', logo: 'https://upload.wikimedia.org/wikipedia/commons/8/8e/Ligue_1_2024_Logo.png', country: 'Francia' },
+            { id: 'seriea', name: 'Serie A', logo: 'https://a.espncdn.com/i/leaguelogos/soccer/500/12.png', country: 'Italia' },
+            { id: 'champions', name: 'Champions League', logo: 'https://a.espncdn.com/i/leaguelogos/soccer/500/2.png', country: 'Europa' },
+            { id: 'europa', name: 'Europa League', logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/UEFA_Europa_League_logo_%282024_version%29.svg/960px-UEFA_Europa_League_logo_%282024_version%29.svg.png', country: 'Europa' }
+        ];
+
+
+        // --- ============================================ ---
+        // ---         INICIO DE LA APLICACIÓN            ---
+        // --- ============================================ ---
+        document.addEventListener('DOMContentLoaded', () => {
+            renderLeagueSelector();
+            
+            // Listeners para los 5 cargadores de archivos
+            document.querySelectorAll('#page-data-loader input[type="file"]').forEach(input => {
+                input.addEventListener('change', handleFileUpload);
+            });
+
+            // Listener para el botón de "Ver Equipos"
+            document.getElementById('load-team-list-btn').addEventListener('click', () => {
+                renderTeamList();
+                showPage('page-team-list');
+            });
+
+            // Listeners para los botones de descarga
+            document.querySelectorAll('.download-button').forEach(button => {
+                button.addEventListener('click', () => downloadModifiedJSON(button.dataset.fileType));
+            });
+        });
+
+        // --- ============================================ ---
+        // ---     FUNCIONES DE NAVEGACIÓN Y CARGA        ---
+        // --- ============================================ ---
+
+        // Muestra una "página" y oculta las demás
+        function showPage(pageId) {
+            document.querySelectorAll('.page-container').forEach(page => {
+                page.classList.add('hidden');
+            });
+            document.getElementById(pageId).classList.remove('hidden');
+        }
+
+        // Renderiza el selector de ligas en la página 1
+        function renderLeagueSelector() {
+            const grid = document.getElementById('league-grid');
+            grid.innerHTML = '';
+            leagues.forEach(league => {
+                const card = document.createElement('div');
+                card.className = 'league-card';
+                card.innerHTML = `
+                    <img src="${league.logo}" alt="${league.name}">
+                    <h3>${league.name}</h3>
+                    <p>${league.country}</p>
+                `;
+                card.addEventListener('click', () => loadLeagueEditor(league));
+                grid.appendChild(card);
+            });
+        }
+
+        // Prepara la página 2 (Cargador) para una liga específica
+        function loadLeagueEditor(league) {
+            EDITOR_STATE.currentLeague = league.id;
+            
+            // Resetea el estado si cambiamos de liga
+            EDITOR_STATE.league = null;
+            EDITOR_STATE.players = null;
+            EDITOR_STATE.referees = null;
+            EDITOR_STATE.faces = null;
+            EDITOR_STATE.tournament = null;
+
+            document.getElementById('loader-title').textContent = `Cargar Datos de: ${league.name}`;
+            
+            // Limpiar el estado visual de los cargadores
+            document.querySelectorAll('.file-upload-card').forEach(card => {
+                card.classList.remove('loaded', 'error');
+                const fileType = card.querySelector('input[type="file"]').dataset.fileType; // Obtener fileType del input
+                card.querySelector('.file-label').textContent = 'Seleccionar';
+            });
+            document.querySelectorAll('#page-data-loader input[type="file"]').forEach(input => input.value = '');
+            document.getElementById('load-team-list-btn').disabled = true;
+
+            showPage('page-data-loader');
+        }
+
+        // *** ¡¡FUNCIÓN CORREGIDA!! ***
+        // Lee un archivo JSON subido y lo guarda en el EDITOR_STATE
+        function handleFileUpload(event) {
+            const file = event.target.files[0];
+            const fileType = event.target.dataset.fileType; // 'league', 'players', etc.
+            const card = document.getElementById(`card-${fileType}-file`);
+            const label = document.getElementById(`label-${fileType}`);
+
+            if (!file) {
+                // Si el usuario cancela, resetea
+                EDITOR_STATE[fileType] = null;
+                card.classList.remove('loaded', 'error');
+                label.textContent = 'Seleccionar';
+                checkAllFilesLoaded();
+                return;
+            }
+
+            // --- ESTA ES LA CORRECCIÓN ---
+            // Muestra que el archivo está "Cargando..." al instante.
+            label.textContent = 'Cargando...';
+            card.classList.remove('error');
+            card.classList.add('loaded'); // Lo marca visualmente
+
+            const reader = new FileReader();
+            reader.onload = (e) => {
+                try {
+                    const data = JSON.parse(e.target.result);
+                    EDITOR_STATE[fileType] = data; // Guarda los datos en el estado global
+                    
+                    // Ahora sí, confirma la carga
+                    label.textContent = 'Cargado ✔';
+                    card.classList.remove('error');
+                    
+                    checkAllFilesLoaded(); // Revisa si ya están todos
+                } catch (error) {
+                    alert(`Error al leer ${file.name}: ${error.message}\n\nAsegúrate de que sea un JSON válido.`);
+                    // Si falla, resetea esta fila
+                    EDITOR_STATE[fileType] = null;
+                    card.classList.remove('loaded');
+                    card.classList.add('error');
+                    label.textContent = 'Error';
+                    checkAllFilesLoaded();
+                }
+            };
+            reader.onerror = () => {
+                // Manejo de error de lectura
+                alert(`No se pudo leer el archivo ${file.name}.`);
+                EDITOR_STATE[fileType] = null;
+                card.classList.remove('loaded');
+                card.classList.add('error');
+                label.textContent = 'Error';
+                checkAllFilesLoaded();
+            };
+            reader.readAsText(file);
+        }
+
+        // Revisa si los 5 archivos se han cargado para habilitar el botón
+        function checkAllFilesLoaded() {
+            const allLoaded = EDITOR_STATE.league && EDITOR_STATE.players && EDITOR_STATE.referees && EDITOR_STATE.faces && EDITOR_STATE.tournament;
+            document.getElementById('load-team-list-btn').disabled = !allLoaded;
+        }
+
+        // --- ============================================ ---
+        // ---   PÁGINA 3: RENDERIZAR LISTA DE EQUIPOS    ---
+        // --- ============================================ ---
+        function renderTeamList() {
+            const container = document.getElementById('team-list-container');
+            container.innerHTML = '';
+            
+            if (!EDITOR_STATE.league || !EDITOR_STATE.league.teams) {
+                container.innerHTML = '<p>Error: No se encontró `league.json` o no tiene el formato correcto.</p>';
+                return;
+            }
+
+            // Ordena los equipos alfabéticamente
+            const teamNames = Object.keys(EDITOR_STATE.league.teams).sort();
+
+            teamNames.forEach(teamName => {
+                const team = EDITOR_STATE.league.teams[teamName];
+                const item = document.createElement('div');
+                item.className = 'team-list-item';
+                item.innerHTML = `
+                    <img src="${team.logoUrl}" alt="${teamName}" onerror="this.style.backgroundColor='grey'; this.src='https://placehold.co/40x40/30363D/E2E8F0?text=?';">
+                    <span>${teamName}</span>
+                `;
+                item.addEventListener('click', () => renderTeamEditor(teamName));
+                container.appendChild(item);
+            });
+        }
+
+        // --- ============================================ ---
+        // ---   PÁGINA 4: RENDERIZAR EDITOR DE EQUIPO    ---
+        // --- ============================================ ---
+        function renderTeamEditor(teamName) {
+            document.getElementById('editor-team-name').textContent = `Editando: ${teamName}`;
+            const content = document.getElementById('team-editor-content');
+            content.innerHTML = ''; // Limpiar editor
+
+            // ----- 1. DATOS DE LEAGUE.JSON -----
+            const teamDataLeague = EDITOR_STATE.league.teams[teamName];
+            let leagueHTML = `
+                <div class="editor-section">
+                    <h2>Datos de Liga (league.json)</h2>
+                    <div class="form-group">
+                        <label for="edit-logoUrl">URL del Logo</label>
+                        <input type="text" id="edit-logoUrl" class="form-input" data-file="league" data-team="${teamName}" data-field="logoUrl" value="${teamDataLeague.logoUrl || ''}">
+                    </div>
+                    <div class="form-group">
+                        <label for="edit-stadium">Estadio</label>
+                        <input type="text" id="edit-stadium" class="form-input" data-file="league" data-team="${teamName}" data-field="stadium" value="${teamDataLeague.stadium || ''}">
+                    </div>
+                    <div class="form-group">
+                        <label for="edit-location">Sede (Ciudad, País)</label>
+                        <input type="text" id="edit-location" class="form-input" data-file="league" data-team="${teamName}" data-field="location" value="${teamDataLeague.location || ''}">
+                    </div>
+                    <label>Colores de Equipación</label>
+                    <div class="color-inputs">
+                        <div class="form-group">
+                            <label for="edit-jerseyColor">Camiseta</label>
+                            <input type="color" id="edit-jerseyColor" class="form-input" data-file="league" data-team="${teamName}" data-field="jerseyColor" value="${teamDataLeague.jerseyColor || '#FFFFFF'}">
+                        </div>
+                        <div class="form-group">
+                            <label for="edit-gkJerseyColor">Arquero</label>
+                            <input type="color" id="edit-gkJerseyColor" class="form-input" data-file="league" data-team="${teamName}" data-field="gkJerseyColor" value="${teamDataLeague.gkJerseyColor || '#FFFFFF'}">
+                        </div>
+                        <div class="form-group">
+                            <label for="edit-numberColor">Dorsal</label>
+                            <input type="color" id="edit-numberColor" class="form-input" data-file="league" data-team="${teamName}" data-field="numberColor" value="${teamDataLeague.numberColor || '#000000'}">
+                        </div>
+                        <div class="form-group">
+                            <label for="edit-shieldColor">Escudo (Gráficos)</label>
+                            <input type="color" id="edit-shieldColor" class="form-input" data-file="league" data-team="${teamName}" data-field="shieldColor" value="${teamDataLeague.shieldColor || '#FFFFFF'}">
+                        </div>
+                    </div>
+                </div>
+            `;
+            content.innerHTML += leagueHTML;
+
+            // ----- 2. DATOS DE PLAYERS.JSON -----
+            const teamDataPlayers = EDITOR_STATE.players[teamName];
+            let playersHTML = `
+                <div class="editor-section">
+                    <h2>Plantilla y Tácticas (players.json)</h2>
+                    <div class="form-group">
+                        <label>Plantilla (Jugadores)</label>
+                        <div class="player-list">
+                            ${(teamDataPlayers.plantilla || []).map((player, index) => `
+                                <div class="player-item">
+                                    <span style="text-align: right; padding-right: 5px; color: yellow;">${player.number}</span>
+                                    <input type="number" class="form-input" data-file="players" data-team="${teamName}" data-index="${index}" data-field="number" value="${player.number || ''}" title="Dorsal">
+                                    <input type="text" class="form-input" data-file="players" data-team="${teamName}" data-index="${index}" data-field="name" value="${player.name || ''}" title="Nombre">
+                                    <input type="text" class="form-input" data-file="players" data-team="${teamName}" data-index="${index}" data-field="position_general" value="${player.position_general || ''}" title="Posición">
+                                    </div>
+                            `).join('')}
+                        </div>
+                    </div>
+                    </div>
+            `;
+            content.innerHTML += playersHTML;
+
+            // ----- 3. DATOS DE FACES.JSON -----
+            const teamDataFaces = EDITOR_STATE.faces[teamName] || {};
+            let facesHTML = `
+                <div class="editor-section">
+                    <h2>Protagonistas (faces.json)</h2>
+                    ${Object.keys(teamDataFaces).length > 0 ? Object.keys(teamDataFaces).map(specialty => `
+                        <div class="form-group">
+                            <label>${specialty} (URL de la foto)</label>
+                            <p style="font-size: 0.9rem; color: #8b949e; margin-top: -0.5rem; margin-bottom: 0.5rem;">${teamDataFaces[specialty].name || 'Nombre no definido'}</p>
+                            <input type="text" class="form-input" data-file="faces" data-team="${teamName}" data-specialty="${specialty}" data-field="photoUrl" value="${teamDataFaces[specialty].photoUrl || ''}">
+                        </div>
+                    `).join('') : '<p>No se encontraron protagonistas para este equipo.</p>'}
+                </div>
+            `;
+            content.innerHTML += facesHTML;
+
+            // ----- 4. DATOS DE TOURNAMENT_DATA.JSON -----
+            const teamStats = findTeamStats(teamName, EDITOR_STATE.tournament.team_stats);
+            let statsHTML = `
+                <div class="editor-section">
+                    <h2>Estadísticas (tournament_data.json)</h2>
+                    <p style="color: #8b949e; font-size: 0.9rem;">Esto es solo una vista. Editar estadísticas es complejo y requiere recalcular todo. Por ahora, enfócate en los otros archivos.</p>
+                    <div class="form-group">
+                        <label>Goles de Local (p/p)</label>
+                        <input type="number" class="form-input" value="${teamStats?.home_stats?.goals_per_game || 0}" readonly>
+                    </div>
+                    <div class="form-group">
+                        <label>Goles de Visita (p/p)</label>
+                        <input type="number" class="form-input" value="${teamStats?.away_stats?.goals_per_game || 0}" readonly>
+                    </div>
+                </div>
+            `;
+            content.innerHTML += statsHTML;
+
+
+            // ----- 5. AÑADIR LISTENERS A TODOS LOS INPUTS CREADOS -----
+            content.querySelectorAll('.form-input').forEach(input => {
+                if (input.readOnly) return; // No agregar listeners a los de solo lectura
+                input.addEventListener('input', handleTeamDataChange);
+            });
+            
+            showPage('page-team-editor');
+        }
+
+        // (Función de ayuda para encontrar estadísticas)
+        function findTeamStats(teamName, statsObject) {
+            if (!statsObject) return null;
+            const cleanTeamName = teamName.toLowerCase().replace('afc', '').trim();
+            const foundKey = Object.keys(statsObject).find(key => {
+                const cleanKey = key.toLowerCase().replace('afc', '').trim();
+                return cleanKey.includes(cleanTeamName) || cleanTeamName.includes(cleanKey);
+            });
+            return foundKey ? statsObject[foundKey] : null;
+        }
+
+
+        // --- ============================================ ---
+        // ---   FUNCIONES DE EDICIÓN Y DESCARGA          ---
+        // --- ============================================ ---
+
+        // Esta función se activa CADA VEZ que escribes en un input
+        function handleTeamDataChange(event) {
+            const input = event.target;
+            const { file, team, field, index, specialty } = input.dataset;
+            let value = input.value;
+            
+            try {
+                switch (file) {
+                    case 'league':
+                        // Ej: EDITOR_STATE.league.teams['Arsenal']['logoUrl'] = '...';
+                        EDITOR_STATE.league.teams[team][field] = value;
+                        break;
+                    
+                    case 'players':
+                        // Ej: EDITOR_STATE.players['Arsenal'].plantilla[10]['name'] = '...';
+                        if (field === 'number') value = parseInt(value, 10) || 0;
+                        EDITOR_STATE.players[team].plantilla[index][field] = value;
+                        break;
+                    
+                    case 'faces':
+                        // Ej: EDITOR_STATE.faces['Arsenal']['Mayor Rematador']['photoUrl'] = '...';
+                        EDITOR_STATE.faces[team][specialty][field] = value;
+                        break;
+                }
+            } catch (error) {
+                console.error("Error al actualizar el estado:", error, input.dataset);
+            }
+        }
+
+        // Descarga el archivo JSON modificado
+        function downloadModifiedJSON(fileType) {
+            const data = EDITOR_STATE[fileType];
+            if (!data) {
+                alert(`No hay datos cargados para ${fileType}`);
+                return;
+            }
+            
+            const fileName = `${fileType}.json`;
+            const jsonString = JSON.stringify(data, null, 2); // 'null, 2' lo formatea bonito
+            const blob = new Blob([jsonString], { type: "application/json" });
+            const enlace = document.createElement("a");
+
+            enlace.href = URL.createObjectURL(blob);
+            enlace.download = fileName;
+            
+            enlace.click(); // Simula el clic
+
+            URL.revokeObjectURL(enlace.href); // Limpia
+        }
+
+    </script>
+    </body>
+</html>

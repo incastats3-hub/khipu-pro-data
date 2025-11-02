@@ -1,0 +1,224 @@
+{
+  "teams": {
+    "Arsenal": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1021px-Arsenal_FC.svg.png",
+      "jerseyColor": "#EF0107",
+      "shieldColor": "#EF0107",
+      "secondaryColor": "#063672",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#00e5ff",
+      "stadium": "Emirates Stadium",
+      "location": "Londres, Inglaterra",
+      "manager": "Mikel Arteta"
+    },
+    "Aston Villa": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aston_Villa_FC_new_crest.svg/887px-Aston_Villa_FC_new_crest.svg.png",
+      "jerseyColor": "#670E36",
+      "shieldColor": "#670E36",
+      "secondaryColor": "#95BFE5",
+      "numberColor": "#95BFE5",
+      "gkJerseyColor": "#000000",
+      "stadium": "Villa Park",
+      "location": "Birmingham, Inglaterra",
+      "manager": "Unai Emery"
+    },
+    "Bournemouth": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e5/AFC_Bournemouth_%282013%29.svg",
+      "jerseyColor": "#DA291C",
+      "shieldColor": "#DA291C",
+      "secondaryColor": "#000000",
+      "numberColor": "#000000",
+      "gkJerseyColor": "#00DDFF",
+      "stadium": "Vitality Stadium",
+      "location": "Bournemouth, Inglaterra",
+      "manager": "Andoni Iraola"
+    },
+    "Brentford": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/1200px-Brentford_FC_crest.svg.png",
+      "jerseyColor": "#E30613",
+      "shieldColor": "#E30613",
+      "secondaryColor": "#000000",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#000000",
+      "stadium": "Gtech Community Stadium",
+      "location": "Londres, Inglaterra",
+      "manager": "Keith Andrews"
+    },
+    "Brighton & Hove Albion": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/1200px-Brighton_and_Hove_Albion_FC_crest.svg.png",
+      "jerseyColor": "#0057B8",
+      "shieldColor": "#0057B8",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#FFC500",
+      "stadium": "Amex Stadium",
+      "location": "Brighton, Inglaterra",
+      "manager": "Fabian Hürzeler"
+    },
+    "Burnley": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Burnley_FC_Logo.svg/1044px-Burnley_FC_Logo.svg.png",
+      "jerseyColor": "#6C1D45",
+      "shieldColor": "#6C1D45",
+      "secondaryColor": "#99D6EA",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#FFFFFF",
+      "stadium": "Turf Moor",
+      "location": "Burnley, Inglaterra",
+      "manager": "Scott Parker"
+    },
+    "Chelsea": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+      "jerseyColor": "#034694",
+      "shieldColor": "#034694",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#F26322",
+      "stadium": "Stamford Bridge",
+      "location": "Londres, Inglaterra",
+      "manager": "Enzo Maresca"
+    },
+    "Crystal Palace": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a2/Crystal_Palace_FC_logo_%282022%29.svg",
+      "jerseyColor": "#1B458F",
+      "shieldColor": "#C4122E",
+      "secondaryColor": "#1B458F",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#A7A5A6",
+      "stadium": "Selhurst Park",
+      "location": "Londres, Inglaterra",
+      "manager": "Oliver Glasner"
+    },
+    "Everton": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/1174px-Everton_FC_logo.svg.png",
+      "jerseyColor": "#003399",
+      "shieldColor": "#003399",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#F36A23",
+      "stadium": "Goodison Park",
+      "location": "Liverpool, Inglaterra",
+      "manager": "David Moyes"
+    },
+    "Fulham": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Fulham_FC_%28shield%29.svg/901px-Fulham_FC_%28shield%29.svg.png",
+      "jerseyColor": "#FFFFFF",
+      "shieldColor": "#CC0000",
+      "secondaryColor": "#000000",
+      "numberColor": "#000000",
+      "gkJerseyColor": "#000000",
+      "stadium": "Craven Cottage",
+      "location": "Londres, Inglaterra",
+      "manager": "Marco Silva"
+    },
+    "Leeds United": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png",
+      "jerseyColor": "#FFFFFF",
+      "shieldColor": "#FFCD00",
+      "secondaryColor": "#1D428A",
+      "numberColor": "#1D428A",
+      "gkJerseyColor": "#FF0000",
+      "stadium": "Elland Road",
+      "location": "Leeds, Inglaterra",
+      "manager": "Daniel Farke"
+    },
+    "Liverpool": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "jerseyColor": "#C8102E",
+      "shieldColor": "#C8102E",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#000000",
+      "stadium": "Anfield",
+      "location": "Liverpool, Inglaterra",
+      "manager": "Arne Slot"
+    },
+    "Manchester City": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/250px-Manchester_City_FC_badge.png",
+      "jerseyColor": "#6CABDD",
+      "shieldColor": "#6CABDD",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#1A2F53",
+      "stadium": "Etihad Stadium",
+      "location": "Mánchester, Inglaterra",
+      "manager": "Pep Guardiola"
+    },
+    "Manchester United": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg",
+      "jerseyColor": "#DA291C",
+      "shieldColor": "#DA291C",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#333333",
+      "stadium": "Old Trafford",
+      "location": "Mánchester, Inglaterra",
+      "manager": "Ruben Amorim"
+    },
+    "Newcastle United": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1192px-Newcastle_United_Logo.svg.png",
+      "jerseyColor": "#241F20",
+      "shieldColor": "#241F20",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#d3d3d3",
+      "stadium": "St James' Park",
+      "location": "Newcastle upon Tyne, Inglaterra",
+      "manager": "Eddie Howe"
+    },
+    "Nottingham Forest": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/564px-Nottingham_Forest_F.C._logo.svg.png",
+      "jerseyColor": "#E53233",
+      "shieldColor": "#E53233",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#000000",
+      "stadium": "City Ground",
+      "location": "Nottingham, Inglaterra",
+      "manager": "Sean Dyche"
+    },
+    "Sunderland": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Logo_Sunderland.svg/1200px-Logo_Sunderland.svg.png",
+      "jerseyColor": "#EB172B",
+      "shieldColor": "#EB172B",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#000000",
+      "stadium": "Stadium of Light",
+      "location": "Sunderland, Inglaterra",
+      "manager": "Régis Le Bris"
+    },
+    "Tottenham Hotspur": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg",
+      "jerseyColor": "#FFFFFF",
+      "shieldColor": "#132257",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#132257",
+      "gkJerseyColor": "#132257",
+      "stadium": "Tottenham Hotspur Stadium",
+      "location": "Londres, Inglaterra",
+      "manager": "Thomas Frank"
+    },
+    "West Ham United": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1079px-West_Ham_United_FC_logo.svg.png",
+      "jerseyColor": "#7A263A",
+      "shieldColor": "#7A263A",
+      "secondaryColor": "#1BB1A4",
+      "numberColor": "#F9E21A",
+      "gkJerseyColor": "#1BB1A4",
+      "stadium": "London Stadium",
+      "location": "Londres, Inglaterra",
+      "manager": "Graham Potter"
+    },
+    "Wolverhampton Wanderers": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/1200px-Wolverhampton_Wanderers_FC_crest.svg.png",
+      "jerseyColor": "#FDB913",
+      "shieldColor": "#FDB913",
+      "secondaryColor": "#000000",
+      "numberColor": "#000000",
+      "gkJerseyColor": "#000000",
+      "stadium": "Molineux Stadium",
+      "location": "Wolverhampton, Inglaterra",
+      "manager": "Vitor Pereira"
+    }
+  }
+}

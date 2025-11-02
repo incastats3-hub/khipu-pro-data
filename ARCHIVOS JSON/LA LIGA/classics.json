@@ -1,0 +1,128 @@
+{
+  "El Clásico": {
+    "teams": ["FC Barcelona", "Real Madrid"],
+    "review": "El partido de clubes más grande del mundo. Una rivalidad que va más allá de lo deportivo, con profundas raíces políticas y culturales entre Cataluña y la capital española. En los últimos años ha estado marcado por la igualdad, con el Real Madrid mostrando una ligera superioridad en los enfrentamientos directos en La Liga.",
+    "headerText": "El Clásico del Mundo",
+    "last_5_matches": [
+      { "fecha": "2025-05-11", "competicion": "La Liga", "resultado": "FC Barcelona 3 - 2 Real Madrid" },
+      { "fecha": "2024-10-27", "competicion": "La Liga", "resultado": "Real Madrid 0 - 4 FC Barcelona" },
+      { "fecha": "2024-04-21", "competicion": "La Liga", "resultado": "Real Madrid 3 - 2 FC Barcelona" },
+      { "fecha": "2024-01-14", "competicion": "Supercopa de España", "resultado": "Real Madrid 4 - 1 FC Barcelona" },
+      { "fecha": "2023-10-28", "competicion": "La Liga", "resultado": "FC Barcelona 1 - 2 Real Madrid" }
+    ],
+    "avg_stats": {
+      "goles_por_partido": { "equipo_a": 2.2, "equipo_b": 2.2 },
+      "posesion_promedio_pct": { "equipo_a": 60.1, "equipo_b": 39.9 },
+      "tiros_totales_por_partido": { "equipo_a": 18.2, "equipo_b": 10.4 },
+      "tiros_a_puerta_por_partido": { "equipo_a": 7.6, "equipo_b": 5.0 }
+    }
+  },
+  "El Derbi Madrileño": {
+    "teams": ["Atlético de Madrid", "Real Madrid"],
+    "review": "La batalla por la capital, que enfrenta la identidad históricamente obrera y de resistencia del Atlético contra el poder y la élite del Real Madrid. La era Simeone ha convertido esta rivalidad en un duelo táctico de primer nivel, con el Atlético mostrando una gran solidez en La Liga.",
+    "headerText": "La Batalla por Madrid",
+    "last_5_matches": [
+      { "fecha": "2025-02-09", "competicion": "La Liga", "resultado": "Real Madrid 1 - 1 Atlético de Madrid" },
+      { "fecha": "2024-09-29", "competicion": "La Liga", "resultado": "Atlético de Madrid 0 - 3 Real Madrid" },
+      { "fecha": "2024-02-04", "competicion": "La Liga", "resultado": "Real Madrid 1 - 1 Atlético de Madrid" },
+      { "fecha": "2024-01-18", "competicion": "Copa del Rey", "resultado": "Atlético de Madrid 4 - 2 Real Madrid" },
+      { "fecha": "2024-01-10", "competicion": "Supercopa de España", "resultado": "Real Madrid 5 - 3 Atlético de Madrid" }
+    ],
+    "avg_stats": {
+      "goles_por_partido": { "equipo_a": 2.0, "equipo_b": 2.4 },
+      "posesion_promedio_pct": { "equipo_a": 43.4, "equipo_b": 56.6 },
+      "tiros_totales_por_partido": { "equipo_a": 10.2, "equipo_b": 11.0 },
+      "tiros_a_puerta_por_partido": { "equipo_a": 4.0, "equipo_b": 4.2 }
+    }
+  },
+  "El Gran Derbi": {
+    "teams": ["Sevilla FC", "Real Betis"],
+    "review": "Uno de los derbis más pasionales y coloridos del mundo, que divide la ciudad de Sevilla. Caracterizado por una igualdad máxima y una tensión extrema en los últimos años, con partidos muy cerrados y de pocos goles donde el miedo a perder a menudo supera a la ambición de ganar.",
+    "headerText": "La Pasión de Sevilla",
+    "last_5_matches": [
+      { "fecha": "2025-03-30", "competicion": "La Liga", "resultado": "Sevilla FC 1 - 0 Real Betis" },
+      { "fecha": "2024-10-06", "competicion": "La Liga", "resultado": "Real Betis 1 - 2 Sevilla FC" },
+      { "fecha": "2024-04-28", "competicion": "La Liga", "resultado": "Real Betis 1 - 1 Sevilla FC" },
+      { "fecha": "2023-11-12", "competicion": "La Liga", "resultado": "Sevilla FC 1 - 1 Real Betis" },
+      { "fecha": "2023-05-21", "competicion": "La Liga", "resultado": "Sevilla FC 0 - 0 Real Betis" }
+    ],
+    "avg_stats": {
+      "goles_por_partido": { "equipo_a": 1.0, "equipo_b": 0.6 },
+      "posesion_promedio_pct": { "equipo_a": 48.6, "equipo_b": 51.4 },
+      "tiros_totales_por_partido": { "equipo_a": 9.8, "equipo_b": 10.4 },
+      "tiros_a_puerta_por_partido": { "equipo_a": 3.2, "equipo_b": 3.6 }
+    }
+  },
+  "El Derbi Vasco": {
+    "teams": ["Athletic Club", "Real Sociedad"],
+    "review": "Una rivalidad única basada en el respeto mutuo y una identidad vasca compartida. Aunque las aficiones confraternizan, en el campo la competencia es feroz. Recientemente, el Athletic Club ha impuesto su dominio, especialmente en su fortaleza de San Mamés.",
+    "headerText": "El Orgullo de Euskadi",
+    "last_5_matches": [
+      { "fecha": "2025-05-04", "competicion": "La Liga", "resultado": "Real Sociedad 1 - 1 Athletic Club" },
+      { "fecha": "2024-10-06", "competicion": "La Liga", "resultado": "Athletic Club 1 - 1 Real Sociedad" },
+      { "fecha": "2024-01-13", "competicion": "La Liga", "resultado": "Athletic Club 2 - 1 Real Sociedad" },
+      { "fecha": "2023-09-30", "competicion": "La Liga", "resultado": "Real Sociedad 3 - 0 Athletic Club" },
+      { "fecha": "2023-04-15", "competicion": "La Liga", "resultado": "Athletic Club 2 - 0 Real Sociedad" }
+    ],
+    "avg_stats": {
+      "goles_por_partido": { "equipo_a": 1.2, "equipo_b": 1.2 },
+      "posesion_promedio_pct": { "equipo_a": 45.0, "equipo_b": 55.0 },
+      "tiros_totales_por_partido": { "equipo_a": 11.0, "equipo_b": 11.4 },
+      "tiros_a_puerta_por_partido": { "equipo_a": 3.4, "equipo_b": 3.2 }
+    }
+  },
+  "Derbi de la Comunitat": {
+    "teams": ["Valencia CF", "Villarreal CF"],
+    "review": "Una rivalidad moderna nacida de la ambición del Villarreal por desafiar la hegemonía regional del Valencia. Se ha convertido en un duelo muy igualado entre dos equipos que a menudo compiten por los mismos puestos europeos en La Liga.",
+    "headerText": "Hegemonía Valenciana",
+    "last_5_matches": [
+      { "fecha": "2025-02-15", "competicion": "La Liga", "resultado": "Villarreal 1 - 1 Valencia CF" },
+      { "fecha": "2024-08-31", "competicion": "La Liga", "resultado": "Valencia CF 1 - 1 Villarreal" },
+      { "fecha": "2024-03-17", "competicion": "La Liga", "resultado": "Villarreal 1 - 0 Valencia CF" },
+      { "fecha": "2024-01-02", "competicion": "La Liga", "resultado": "Valencia CF 3 - 1 Villarreal" },
+      { "fecha": "2023-05-03", "competicion": "La Liga", "resultado": "Valencia CF 1 - 1 Villarreal" }
+    ],
+    "avg_stats": {
+      "goles_por_partido": { "equipo_a": 1.2, "equipo_b": 1.0 },
+      "posesion_promedio_pct": { "equipo_a": 46.8, "equipo_b": 53.2 },
+      "tiros_totales_por_partido": { "equipo_a": 12.8, "equipo_b": 10.2 },
+      "tiros_a_puerta_por_partido": { "equipo_a": 4.2, "equipo_b": 3.8 }
+    }
+  },
+  "Derbi del Turia": {
+    "teams": ["Valencia CF", "Levante UD"],
+    "review": "El derbi histórico de la ciudad de Valencia. Aunque el Valencia CF tiene un palmarés muy superior, el Levante UD, club decano de la ciudad, siempre compite con una intensidad especial. Los últimos encuentros han sido sorprendentemente abiertos y con muchos goles.",
+    "headerText": "El Derbi de la Ciudad",
+    "last_5_matches": [
+      { "fecha": "2022-04-30", "competicion": "La Liga", "resultado": "Valencia CF 1 - 1 Levante UD" },
+      { "fecha": "2021-12-20", "competicion": "La Liga", "resultado": "Levante UD 3 - 4 Valencia CF" },
+      { "fecha": "2021-03-12", "competicion": "La Liga", "resultado": "Levante UD 1 - 0 Valencia CF" },
+      { "fecha": "2020-09-13", "competicion": "La Liga", "resultado": "Valencia CF 4 - 2 Levante UD" },
+      { "fecha": "2020-06-12", "competicion": "La Liga", "resultado": "Valencia CF 1 - 1 Levante UD" }
+    ],
+    "avg_stats": {
+      "goles_por_partido": { "equipo_a": 2.0, "equipo_b": 1.6 },
+      "posesion_promedio_pct": { "equipo_a": 43.0, "equipo_b": 57.0 },
+      "tiros_totales_por_partido": { "equipo_a": 10.0, "equipo_b": 15.3 },
+      "tiros_a_puerta_por_partido": { "equipo_a": 5.0, "equipo_b": 5.0 }
+    }
+  },
+  "El Derbi Barceloní": {
+    "teams": ["FC Barcelona", "RCD Espanyol"],
+    "review": "La rivalidad más desigual de España, marcada por el dominio casi total del Barça. Para el Espanyol, el derbi es una oportunidad de resistencia y de lograr hazañas memorables, como los empates que ha conseguido arrancar en los últimos años a pesar de la enorme diferencia de presupuesto y calidad.",
+    "headerText": "El Duelo Catalán",
+    "last_5_matches": [
+      { "fecha": "2023-05-14", "competicion": "La Liga", "resultado": "RCD Espanyol 2 - 4 FC Barcelona" },
+      { "fecha": "2022-12-31", "competicion": "La Liga", "resultado": "FC Barcelona 1 - 1 RCD Espanyol" },
+      { "fecha": "2022-02-13", "competicion": "La Liga", "resultado": "RCD Espanyol 2 - 2 FC Barcelona" },
+      { "fecha": "2021-11-20", "competicion": "La Liga", "resultado": "FC Barcelona 1 - 0 RCD Espanyol" },
+      { "fecha": "2020-07-08", "competicion": "La Liga", "resultado": "FC Barcelona 1 - 0 RCD Espanyol" }
+    ],
+    "avg_stats": {
+      "goles_por_partido": { "equipo_a": 1.8, "equipo_b": 1.0 },
+      "posesion_promedio_pct": { "equipo_a": 72.1, "equipo_b": 27.9 },
+      "tiros_totales_por_partido": { "equipo_a": 15.8, "equipo_b": 9.6 },
+      "tiros_a_puerta_por_partido": { "equipo_a": 5.8, "equipo_b": 3.4 }
+    }
+  }
+}

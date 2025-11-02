@@ -1,0 +1,97 @@
+{
+  "Le Classique": {
+    "teams": ["Paris Saint-Germain", "Olympique Marseille"],
+    "review": "El partido más mediático y tenso de Francia. Enfrenta el poder de la capital, PSG, contra el orgullo y la pasión del club más popular del sur, el OM. Una rivalidad moderna nacida en los 90, cargada de tensión social, deportiva y con episodios inolvidables que paralizan el país.",
+    "headerText": "El Orgullo de Francia",
+    "customTheme": "le-classique-theme",
+    "last_5_matches": [
+      { "fecha": "2025-09-22", "competicion": "Ligue 1", "resultado": "Olympique Marseille 1 - 0 Paris Saint-Germain" },
+      { "fecha": "2025-03-16", "competicion": "Ligue 1", "resultado": "Paris Saint-Germain 3 - 1 Olympique Marseille" },
+      { "fecha": "2024-10-27", "competicion": "Ligue 1", "resultado": "Olympique Marseille 0 - 3 Paris Saint-Germain" },
+      { "fecha": "2024-03-31", "competicion": "Ligue 1", "resultado": "Olympique Marseille 0 - 2 Paris Saint-Germain" },
+      { "fecha": "2023-09-24", "competicion": "Ligue 1", "resultado": "Paris Saint-Germain 4 - 0 Olympique Marseille" }
+    ],
+    "avg_stats": {
+      "goles_por_partido": { "equipo_a": 2.0, "equipo_b": 0.8 },
+      "posesion_promedio_pct": { "equipo_a": 62.1, "equipo_b": 37.9 },
+      "tiros_totales_por_partido": { "equipo_a": 15.5, "equipo_b": 9.8 },
+      "tiros_a_puerta_por_partido": { "equipo_a": 6.1, "equipo_b": 3.5 }
+    }
+  },
+  "Choc des Olympiques": {
+    "teams": ["Olympique Lyonnais", "Olympique Marseille"],
+    "review": "El 'Choque de los Olímpicos' enfrenta a dos de los clubes más grandes e históricos fuera de París. Una rivalidad intensa que a menudo ha definido la lucha por los puestos europeos e incluso el título, especialmente durante el dominio del Lyon en los 2000. Partidos siempre cargados de goles y tensión.",
+    "headerText": "Batalla de Olímpicos",
+    "customTheme": "choc-olympiques-theme",
+    "last_5_matches": [
+      { "fecha": "2025-08-17", "competicion": "Ligue 1", "resultado": "Olympique Lyonnais 2 - 2 Olympique Marseille" },
+      { "fecha": "2025-02-04", "competicion": "Ligue 1", "resultado": "Olympique Marseille 1 - 1 Olympique Lyonnais" },
+      { "fecha": "2024-11-06", "competicion": "Ligue 1", "resultado": "Olympique Lyonnais 3 - 0 Olympique Marseille" },
+      { "fecha": "2024-05-14", "competicion": "Ligue 1", "resultado": "Olympique Marseille 1 - 2 Olympique Lyonnais" },
+      { "fecha": "2023-10-29", "competicion": "Ligue 1", "resultado": "Olympique Lyonnais 1 - 0 Olympique Marseille" }
+    ],
+    "avg_stats": {
+      "goles_por_partido": { "equipo_a": 1.6, "equipo_b": 0.8 },
+      "posesion_promedio_pct": { "equipo_a": 51.5, "equipo_b": 48.5 },
+      "tiros_totales_por_partido": { "equipo_a": 13.1, "equipo_b": 12.5 },
+      "tiros_a_puerta_por_partido": { "equipo_a": 5.0, "equipo_b": 4.6 }
+    }
+  },
+  "Derby du Nord": {
+    "teams": ["Lille OSC", "RC Lens"],
+    "review": "El Derbi del Norte es una de las rivalidades regionales más feroces de Francia. Enfrenta a Lille, la capital de Flandes, contra Lens, corazón de la cuenca minera. Más allá de lo deportivo, es un choque de identidades y orgullo local que garantiza ambientes eléctricos y partidos disputados al límite.",
+    "headerText": "El Corazón del Norte",
+    "customTheme": "derby-du-nord-theme",
+    "last_5_matches": [
+      { "fecha": "2025-10-04", "competicion": "Ligue 1", "resultado": "Lille OSC 1 - 1 RC Lens" },
+      { "fecha": "2025-03-29", "competicion": "Ligue 1", "resultado": "RC Lens 1 - 1 Lille OSC" },
+      { "fecha": "2024-10-08", "competicion": "Ligue 1", "resultado": "Lille OSC 1 - 0 RC Lens" },
+      { "fecha": "2024-03-04", "competicion": "Ligue 1", "resultado": "RC Lens 1 - 1 Lille OSC" },
+      { "fecha": "2023-10-09", "competicion": "Ligue 1", "resultado": "Lille OSC 1 - 0 RC Lens" }
+    ],
+    "avg_stats": {
+      "goles_por_partido": { "equipo_a": 0.8, "equipo_b": 0.6 },
+      "posesion_promedio_pct": { "equipo_a": 53.0, "equipo_b": 47.0 },
+      "tiros_totales_por_partido": { "equipo_a": 11.5, "equipo_b": 10.9 },
+      "tiros_a_puerta_por_partido": { "equipo_a": 4.1, "equipo_b": 3.7 }
+    }
+  },
+  "Derby de la Côte d'Azur": {
+    "teams": ["AS Monaco", "OGC Nice"],
+    "review": "El glamour de la Costa Azul se traslada al césped en este derbi. Mónaco, con su historia de títulos y estrellas, se mide al Nice, club en crecimiento y con una afición muy pasional. La cercanía geográfica y la lucha por ser el rey de la Riviera garantizan partidos intensos y con buen fútbol.",
+    "headerText": "La Joya de la Riviera",
+    "customTheme": "derby-cote-azur-theme",
+    "last_5_matches": [
+      { "fecha": "2025-09-21", "competicion": "Ligue 1", "resultado": "AS Monaco 1 - 0 OGC Nice" },
+      { "fecha": "2025-02-11", "competicion": "Ligue 1", "resultado": "OGC Nice 2 - 3 AS Monaco" },
+      { "fecha": "2024-09-22", "competicion": "Ligue 1", "resultado": "AS Monaco 0 - 1 OGC Nice" },
+      { "fecha": "2024-02-26", "competicion": "Ligue 1", "resultado": "AS Monaco 0 - 3 OGC Nice" },
+      { "fecha": "2023-09-04", "competicion": "Ligue 1", "resultado": "OGC Nice 0 - 1 AS Monaco" }
+    ],
+    "avg_stats": {
+      "goles_por_partido": { "equipo_a": 1.0, "equipo_b": 1.4 },
+      "posesion_promedio_pct": { "equipo_a": 50.5, "equipo_b": 49.5 },
+      "tiros_totales_por_partido": { "equipo_a": 12.0, "equipo_b": 11.8 },
+      "tiros_a_puerta_por_partido": { "equipo_a": 4.4, "equipo_b": 4.8 }
+    }
+  },
+  "Derby Breton": {
+    "teams": ["Stade Rennais", "FC Nantes"],
+    "review": "El principal derbi de Bretaña enfrenta a Rennes y Nantes, dos históricos del fútbol francés. Más allá de la clasificación, es un partido cargado de orgullo regional, con aficiones muy entregadas y una rivalidad que se remonta a décadas de enfrentamientos por la supremacía bretona.",
+    "headerText": "Orgullo Bretón",
+    "customTheme": "derby-breton-theme",
+    "last_5_matches": [
+      { "fecha": "2025-08-10", "competicion": "Ligue 1", "resultado": "Stade Rennais 3 - 0 FC Nantes" },
+      { "fecha": "2025-04-20", "competicion": "Ligue 1", "resultado": "FC Nantes 0 - 3 Stade Rennais" },
+      { "fecha": "2024-10-01", "competicion": "Ligue 1", "resultado": "Stade Rennais 3 - 1 FC Nantes" },
+      { "fecha": "2024-02-26", "competicion": "Ligue 1", "resultado": "FC Nantes 0 - 1 Stade Rennais" },
+      { "fecha": "2023-10-09", "competicion": "Ligue 1", "resultado": "Stade Rennais 3 - 0 FC Nantes" }
+    ],
+    "avg_stats": {
+      "goles_por_partido": { "equipo_a": 2.4, "equipo_b": 0.2 },
+      "posesion_promedio_pct": { "equipo_a": 58.2, "equipo_b": 41.8 },
+      "tiros_totales_por_partido": { "equipo_a": 14.9, "equipo_b": 8.1 },
+      "tiros_a_puerta_por_partido": { "equipo_a": 5.7, "equipo_b": 2.5 }
+    }
+  }
+}

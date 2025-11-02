@@ -1,0 +1,202 @@
+{
+  "teams": {
+    "Bayern Munich": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
+      "jerseyColor": "#DC052D",
+      "shieldColor": "#DC052D",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#3A3A3A",
+      "stadium": "Allianz Arena",
+      "location": "Múnich, Alemania",
+      "manager": "Vincent Kompany"
+    },
+    "Bayer Leverkusen": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png",
+      "jerseyColor": "#E32221",
+      "shieldColor": "#000000",
+      "secondaryColor": "#000000",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#F3E500",
+      "stadium": "BayArena",
+      "location": "Leverkusen, Alemania",
+      "manager": "Kasper Hjulmand"
+    },
+    "VfL Wolfsburg": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/1200px-VfL_Wolfsburg_Logo.svg.png",
+      "jerseyColor": "#65B32E",
+      "shieldColor": "#65B32E",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#1D1D1B",
+      "stadium": "Volkswagen Arena",
+      "location": "Wolfsburgo, Alemania",
+      "manager": "Paul Simonis"
+    },
+    "FC Augsburg": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/FC_Augsburg_logo.svg/920px-FC_Augsburg_logo.svg.png",
+      "jerseyColor": "#FFFFFF",
+      "shieldColor": "#BA3733",
+      "secondaryColor": "#46714D",
+      "numberColor": "#000000",
+      "gkJerseyColor": "#FFD42E",
+      "stadium": "WWK Arena",
+      "location": "Augsburgo, Alemania",
+      "manager": "Sandro Wagner"
+    },
+    "Union Berlin": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/1._FC_Union_Berlin_Logo.svg/1200px-1._FC_Union_Berlin_Logo.svg.png",
+      "jerseyColor": "#D4011D",
+      "shieldColor": "#FCEA10",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#000000",
+      "stadium": "Stadion An der Alten Försterei",
+      "location": "Berlín, Alemania",
+      "manager": "Steffen Baumgart"
+    },
+    "FC St Pauli": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/FC_St._Pauli_logo.svg/250px-FC_St._Pauli_logo.svg.png",
+      "jerseyColor": "#663300",
+      "shieldColor": "#D40000",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#000000",
+      "stadium": "Millerntor-Stadion",
+      "location": "Hamburgo, Alemania",
+      "manager": "Alexander Blessin"
+    },
+    "TSG Hoffenheim": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_TSG_Hoffenheim.svg/1200px-Logo_TSG_Hoffenheim.svg.png",
+      "jerseyColor": "#1C63B7",
+      "shieldColor": "#1C63B7",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#E5E5E5",
+      "stadium": "PreZero Arena",
+      "location": "Sinsheim, Alemania",
+      "manager": "Christian Ilzer"
+    },
+    "1 FC Heidenheim": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/1._FC_Heidenheim_1846.svg",
+      "jerseyColor": "#E2001A",
+      "shieldColor": "#003B79",
+      "secondaryColor": "#003B79",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#FFFF00",
+      "stadium": "Voith-Arena",
+      "location": "Heidenheim, Alemania",
+      "manager": "Frank Schmidt"
+    },
+    "1 FC Köln": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg/250px-1._FC_Koeln_Logo_2014%E2%80%93.svg.png",
+      "jerseyColor": "#FFFFFF",
+      "shieldColor": "#ED1C24",
+      "secondaryColor": "#ED1C24",
+      "numberColor": "#ED1C24",
+      "gkJerseyColor": "#FFFF00",
+      "stadium": "RheinEnergieStadion",
+      "location": "Colonia, Alemania",
+      "manager": "Lukas Kwasniok"
+    },
+    "Hamburger SV": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamburger_SV_logo.svg/1200px-Hamburger_SV_logo.svg.png",
+      "jerseyColor": "#FFFFFF",
+      "shieldColor": "#00549A",
+      "secondaryColor": "#E2001A",
+      "numberColor": "#E2001A",
+      "gkJerseyColor": "#000000",
+      "stadium": "Volksparkstadion",
+      "location": "Hamburgo, Alemania",
+      "manager": "Merle Polzin"
+    },
+    "Eintracht Frankfurt": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/1200px-Eintracht_Frankfurt_crest.svg.png",
+      "jerseyColor": "#000000",
+      "shieldColor": "#E1000F",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#F47920",
+      "stadium": "Deutsche Bank Park",
+      "location": "Fráncfort del Meno, Alemania",
+      "manager": "Dino Toppmöller"
+    },
+    "Borussia Dortmund": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png",
+      "jerseyColor": "#FDE100",
+      "shieldColor": "#FDE100",
+      "secondaryColor": "#000000",
+      "numberColor": "#000000",
+      "gkJerseyColor": "#4A4A4A",
+      "stadium": "Signal Iduna Park",
+      "location": "Dortmund, Alemania",
+      "manager": "Niko Kovač"
+    },
+    "SC Freiburg": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/SC_Freiburg_logo.svg/250px-SC_Freiburg_logo.svg.png",
+      "jerseyColor": "#FFFFFF",
+      "shieldColor": "#000000",
+      "secondaryColor": "#E2001A",
+      "numberColor": "#000000",
+      "gkJerseyColor": "#00A950",
+      "stadium": "Europa-Park Stadion",
+      "location": "Friburgo de Brisgovia, Alemania",
+      "manager": "Julian Schuster"
+    },
+    "Mainz 05": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+      "jerseyColor": "#ED1C24",
+      "shieldColor": "#ED1C24",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#FFD700",
+      "stadium": "Mewa Arena",
+      "location": "Maguncia, Alemania",
+      "manager": "Bo Henriksen"
+    },
+    "RB Leipzig": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/RB_Leipzig_2014_logo.svg/1200px-RB_Leipzig_2014_logo.svg.png",
+      "jerseyColor": "#FFFFFF",
+      "shieldColor": "#DE023F",
+      "secondaryColor": "#DE023F",
+      "numberColor": "#001E46",
+      "gkJerseyColor": "#001E46",
+      "stadium": "Red Bull Arena",
+      "location": "Leipzig, Alemania",
+      "manager": "Ole Werner"
+    },
+    "Werder Bremen": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/1200px-SV-Werder-Bremen-Logo.svg.png",
+      "jerseyColor": "#1D9053",
+      "shieldColor": "#1D9053",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#F47920",
+      "stadium": "Weserstadion",
+      "location": "Bremen, Alemania",
+      "manager": "Heor H. Steffen"
+    },
+    "VfB Stuttgart": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png",
+      "jerseyColor": "#FFFFFF",
+      "shieldColor": "#E2001A",
+      "secondaryColor": "#E2001A",
+      "numberColor": "#E2001A",
+      "gkJerseyColor": "#1A1A1A",
+      "stadium": "MHPArena",
+      "location": "Stuttgart, Alemania",
+      "manager": "Sebastian Hoeneß"
+    },
+    "Borussia M'gladbach": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/250px-Borussia_M%C3%B6nchengladbach_logo.svg.png",
+      "jerseyColor": "#FFFFFF",
+      "shieldColor": "#000000",
+      "secondaryColor": "#009933",
+      "numberColor": "#000000",
+      "gkJerseyColor": "#F7DC6F",
+      "stadium": "Borussia-Park",
+      "location": "Mönchengladbach, Alemania",
+      "manager": "Eren Polatinski"
+    }
+  }
+}

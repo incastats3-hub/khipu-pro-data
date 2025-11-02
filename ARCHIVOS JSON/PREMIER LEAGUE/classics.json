@@ -1,0 +1,167 @@
+{
+  "North-West Derby": {
+    "teams": ["Liverpool", "Manchester United"],
+    "review": "Considerado el clásico más grande de Inglaterra, esta rivalidad trasciende el fútbol, arraigada en la competencia industrial, económica y cultural entre las ciudades de Liverpool y Manchester desde el siglo XIX. La construcción del Canal de Manchester fue un catalizador clave que avivó las tensiones. En el campo, es una batalla entre los dos clubes más laureados del país, cada uno con períodos de dominio absoluto que alimentaron el antagonismo. La atmósfera es eléctrica, la tensión es palpable y los partidos son conocidos por su intensidad implacable, representando una lucha por la supremacía histórica y el orgullo del noroeste.",
+    "headerText": "RIVALIDAD, HISTORIA Y SUPREMACÍA",
+    "h2h_stats": {
+      "last_5_matches": [
+        {"date": "2025-01-05", "home": "Liverpool", "score": "2-2", "away": "Manchester United"},
+        {"date": "2024-09-01", "home": "Manchester United", "score": "0-3", "away": "Liverpool"},
+        {"date": "2024-04-07", "home": "Manchester United", "score": "2-2", "away": "Liverpool"},
+        {"date": "2024-03-17", "home": "Manchester United", "score": "4-3", "away": "Liverpool"},
+        {"date": "2023-12-17", "home": "Liverpool", "score": "0-0", "away": "Manchester United"}
+      ],
+      "avg_stats": { "shots": 36.2, "shots_on_target": 12.0, "fouls": 24.2, "yellow_cards": 5.2 }
+    }
+  },
+  "The Modern Classic": {
+    "teams": ["Manchester City", "Liverpool"],
+    "review": "Una rivalidad forjada en la era moderna, definida por la batalla directa por el título de la Premier League. Bajo el mando de Pep Guardiola y Jürgen Klopp, estos dos equipos elevaron el nivel del fútbol inglés, protagonizando algunas de las carreras por el título más reñidas y de mayor calidad en la historia. A diferencia de las rivalidades geográficas, esta se basa en la excelencia futbolística, los estilos de juego contrastantes (posesión vs. Gegenpressing) y la competencia directa por la gloria. Cada encuentro es una clase magistral táctica de alta intensidad, un choque de titanes que define épocas.",
+    "headerText": "LA BATALLA POR LA EXCELENCIA",
+    "h2h_stats": {
+      "last_5_matches": [
+        {"date": "2025-02-23", "home": "Manchester City", "score": "0-2", "away": "Liverpool"},
+        {"date": "2024-12-01", "home": "Liverpool", "score": "2-0", "away": "Manchester City"},
+        {"date": "2024-03-10", "home": "Liverpool", "score": "1-1", "away": "Manchester City"},
+        {"date": "2023-11-25", "home": "Manchester City", "score": "1-1", "away": "Liverpool"},
+        {"date": "2023-04-01", "home": "Manchester City", "score": "4-1", "away": "Liverpool"}
+      ],
+      "avg_stats": { "shots": 23.4, "shots_on_target": 8.8, "fouls": 21.0, "yellow_cards": 5.0 }
+    }
+  },
+  "North London Derby": {
+    "teams": ["Arsenal", "Tottenham Hotspur"],
+    "review": "Una de las rivalidades más feroces y arraigadas del fútbol inglés, el Derbi del Norte de Londres es pura pasión territorial. La enemistad se encendió en 1913 cuando el Arsenal se mudó de Woolwich al norte de Londres, invadiendo el territorio que el Tottenham consideraba suyo. La controversia que rodeó la elección del Arsenal para la primera división en 1919 a expensas de los Spurs cimentó un odio que ha perdurado por más de un siglo. Es un choque de identidades, estilos y estatus, donde el derecho a presumir en la ciudad es tan importante como los puntos en la tabla.",
+    "headerText": "EL NORTE DE LONDRES TIENE UN SOLO REY",
+    "h2h_stats": {
+      "last_5_matches": [
+        {"date": "2025-01-14", "home": "Tottenham Hotspur", "score": "1-3", "away": "Arsenal"},
+        {"date": "2024-09-15", "home": "Arsenal", "score": "3-0", "away": "Tottenham Hotspur"},
+        {"date": "2024-04-28", "home": "Tottenham Hotspur", "score": "2-3", "away": "Arsenal"},
+        {"date": "2023-09-24", "home": "Arsenal", "score": "2-2", "away": "Tottenham Hotspur"},
+        {"date": "2023-01-15", "home": "Tottenham Hotspur", "score": "0-2", "away": "Arsenal"}
+      ],
+      "avg_stats": { "shots": 28.0, "shots_on_target": 9.4, "fouls": 22.8, "yellow_cards": 6.8 }
+    }
+  },
+  "Merseyside Derby": {
+    "teams": ["Everton", "Liverpool"],
+    "review": "El derbi de la ciudad de Liverpool, conocido como el 'Friendly Derby' en el pasado por las familias mixtas que apoyaban a ambos clubes, pero que en el campo es todo menos amistoso. La rivalidad nació de una disputa interna en el Everton sobre el alquiler de Anfield, que llevó a la creación del Liverpool FC, quienes se quedaron en el estadio. Separados solo por el Stanley Park, la proximidad geográfica es máxima. A pesar de la disparidad de éxitos en la era moderna, este partido se juega con una intensidad y un orgullo local inigualables, siendo históricamente uno de los partidos con más tarjetas de la Premier League.",
+    "headerText": "LA BATALLA POR EL MERSEY",
+    "h2h_stats": {
+      "last_5_matches": [
+        {"date": "2024-10-21", "home": "Liverpool", "score": "2-0", "away": "Everton"},
+        {"date": "2024-04-24", "home": "Everton", "score": "2-0", "away": "Liverpool"},
+        {"date": "2023-02-13", "home": "Liverpool", "score": "2-0", "away": "Everton"},
+        {"date": "2022-09-03", "home": "Everton", "score": "0-0", "away": "Liverpool"},
+        {"date": "2022-04-24", "home": "Liverpool", "score": "2-0", "away": "Everton"}
+      ],
+      "avg_stats": { "shots": 28.6, "shots_on_target": 9.2, "fouls": 24.0, "yellow_cards": 5.8 }
+    }
+  },
+  "Manchester Derby": {
+    "teams": ["Manchester United", "Manchester City"],
+    "review": "Un derbi que ha evolucionado de una simple rivalidad local a un enfrentamiento de talla mundial. Históricamente dominado por el United, el equilibrio de poder cambió drásticamente con la adquisición del City en 2008. Esto transformó el derbi en una batalla por los títulos más importantes y por la supremacía en la ciudad de Manchester. El famoso gol de Agüero en 2012 para arrebatarle el título al United en el último segundo personifica la intensidad y el drama de esta era. Ahora, es un choque entre un gigante histórico y una nueva superpotencia global, lleno de calidad, estrellas y una tensión palpable.",
+    "headerText": "LA CIUDAD ESTÁ EN JUEGO",
+    "h2h_stats": {
+      "last_5_matches": [
+        {"date": "2025-05-25", "home": "Manchester City", "score": "1-2", "away": "Manchester United"},
+        {"date": "2025-04-05", "home": "Manchester City", "score": "0-1", "away": "Manchester United"},
+        {"date": "2024-11-10", "home": "Manchester United", "score": "0-3", "away": "Manchester City"},
+        {"date": "2024-03-03", "home": "Manchester City", "score": "3-1", "away": "Manchester United"},
+        {"date": "2023-10-29", "home": "Manchester United", "score": "0-3", "away": "Manchester City"}
+      ],
+      "avg_stats": { "shots": 29.8, "shots_on_target": 11.2, "fouls": 18.2, "yellow_cards": 4.6 }
+    }
+  },
+  "Tyne-Wear Derby": {
+    "teams": ["Newcastle United", "Sunderland"],
+    "review": "Posiblemente la rivalidad más intensa y hostil de Inglaterra, que se extiende mucho más allá del fútbol. Sus raíces se remontan al siglo XVII, a la Guerra Civil Inglesa, donde las ciudades de Newcastle y Sunderland tomaron bandos opuestos. Esta división histórica, combinada con la competencia industrial en la minería y la construcción naval, ha creado una animosidad profundamente arraigada. El día del partido, la región se paraliza. La atmósfera es intimidante y la pasión de los aficionados es legendaria. No es solo un partido de fútbol, es una cuestión de identidad regional y orgullo histórico.",
+    "headerText": "MÁS QUE FÚTBOL, ORGULLO REGIONAL",
+    "h2h_stats": {
+      "last_5_matches": [
+        {"date": "2024-01-06", "home": "Sunderland", "score": "0-3", "away": "Newcastle United"},
+        {"date": "2016-03-20", "home": "Newcastle United", "score": "1-1", "away": "Sunderland"},
+        {"date": "2015-10-25", "home": "Sunderland", "score": "3-0", "away": "Newcastle United"},
+        {"date": "2015-04-05", "home": "Sunderland", "score": "1-0", "away": "Newcastle United"},
+        {"date": "2014-12-21", "home": "Newcastle United", "score": "0-1", "away": "Sunderland"}
+      ],
+      "avg_stats": { "shots": 26.2, "shots_on_target": 8.0, "fouls": 24.8, "yellow_cards": 6.2 }
+    }
+  },
+  "Roses Rivalry": {
+    "teams": ["Leeds United", "Manchester United"],
+    "review": "Una rivalidad histórica y transpenina que representa el conflicto entre Yorkshire y Lancashire, conocido como la 'Guerra de las Rosas' del siglo XV. Esta animosidad regional se trasladó al campo de fútbol, especialmente durante las décadas de 1960 y 1970, cuando ambos clubes, bajo las legendarias figuras de Don Revie y Matt Busby, luchaban por los máximos honores. El juego es conocido por su ferocidad y tackles contundentes, reflejando el orgullo y la identidad de sus respectivas regiones. La intensidad de esta rivalidad nunca se ha desvanecido, a pesar de los años de Leeds fuera de la máxima categoría.",
+    "headerText": "LA GUERRA DE LAS ROSAS",
+    "h2h_stats": {
+      "last_5_matches": [
+        {"date": "2023-02-12", "home": "Leeds United", "score": "0-2", "away": "Manchester United"},
+        {"date": "2023-02-08", "home": "Manchester United", "score": "2-2", "away": "Leeds United"},
+        {"date": "2022-02-20", "home": "Leeds United", "score": "2-4", "away": "Manchester United"},
+        {"date": "2021-08-14", "home": "Manchester United", "score": "5-1", "away": "Leeds United"},
+        {"date": "2021-04-25", "home": "Leeds United", "score": "0-0", "away": "Manchester United"}
+      ],
+      "avg_stats": { "shots": 25.8, "shots_on_target": 10.0, "fouls": 25.4, "yellow_cards": 6.0 }
+    }
+  },
+  "M23 Derby": {
+    "teams": ["Crystal Palace", "Brighton & Hove Albion"],
+    "review": "Una rivalidad moderna y peculiar, no basada en la proximidad geográfica, sino en una animosidad que surgió en la década de 1970. Con ambos equipos luchando por el ascenso desde la tercera división bajo los managers Terry Venables (Palace) y Alan Mullery (Brighton), una serie de enfrentamientos polémicos en la FA Cup encendió la mecha. El apodo 'M23 Derby' proviene de la autopista que conecta el sur de Londres con Sussex. Es una rivalidad intensa y genuinamente sentida por ambas aficiones, a menudo desconcertante para los forasteros pero increíblemente 'picante' para los involucrados.",
+    "headerText": "EL DERBI DE LA AUTOPISTA",
+    "h2h_stats": {
+      "last_5_matches": [
+        {"date": "2025-05-18", "home": "Brighton & Hove Albion", "score": "1-0", "away": "Crystal Palace"},
+        {"date": "2024-12-21", "home": "Crystal Palace", "score": "1-1", "away": "Brighton & Hove Albion"},
+        {"date": "2024-02-03", "home": "Brighton & Hove Albion", "score": "4-1", "away": "Crystal Palace"},
+        {"date": "2023-12-21", "home": "Crystal Palace", "score": "1-1", "away": "Brighton & Hove Albion"},
+        {"date": "2023-03-15", "home": "Brighton & Hove Albion", "score": "1-0", "away": "Crystal Palace"}
+      ],
+      "avg_stats": { "shots": 22.8, "shots_on_target": 6.8, "fouls": 26.6, "yellow_cards": 5.6 }
+    }
+  },
+  "West London Derby": {
+    "teams": ["Chelsea", "Arsenal"],
+    "review": "Un derbi londinense que ha ganado una inmensa importancia en la era de la Premier League. Aunque siempre fue un partido importante, la ascensión del Chelsea a la élite del fútbol europeo a principios de los 2000 lo convirtió en un enfrentamiento directo por títulos. Los duelos entre los 'Invencibles' del Arsenal de Wenger y el Chelsea de Mourinho definieron una era. Representa un choque entre el viejo dinero y la nueva potencia de Londres, con partidos a menudo llenos de drama, calidad técnica y momentos inolvidables.",
+    "headerText": "CHOQUE DE GIGANTES EN LONDRES",
+    "h2h_stats": {
+      "last_5_matches": [
+        {"date": "2025-03-01", "home": "Arsenal", "score": "1-2", "away": "Chelsea"},
+        {"date": "2024-10-19", "home": "Chelsea", "score": "1-3", "away": "Arsenal"},
+        {"date": "2024-04-23", "home": "Arsenal", "score": "5-0", "away": "Chelsea"},
+        {"date": "2023-10-21", "home": "Chelsea", "score": "2-2", "away": "Arsenal"},
+        {"date": "2023-05-02", "home": "Arsenal", "score": "3-1", "away": "Chelsea"}
+      ],
+      "avg_stats": { "shots": 26.2, "shots_on_target": 10.4, "fouls": 22.6, "yellow_cards": 6.6 }
+    }
+  },
+  "London Derby": {
+    "teams": ["Chelsea", "Tottenham Hotspur"],
+    "review": "Un derbi londinense cargado de animosidad y momentos dramáticos. La rivalidad se intensificó notablemente en la 'Batalla del Puente' en 2016, un partido increíblemente violento donde el empate 2-2 del Chelsea le arrebató el título de la Premier League al Tottenham, entregándoselo al Leicester City. Desde entonces, cada encuentro ha tenido un extra de tensión. Para los aficionados del Chelsea, es un partido para afirmar su dominio y éxito superior en la capital, mientras que para los del Tottenham, es una oportunidad de vencer a un rival odiado que a menudo se ha interpuesto en su camino.",
+    "headerText": "LA BATALLA DEL PUENTE",
+    "h2h_stats": {
+      "last_5_matches": [
+        {"date": "2025-02-08", "home": "Tottenham Hotspur", "score": "0-2", "away": "Chelsea"},
+        {"date": "2024-10-26", "home": "Chelsea", "score": "3-1", "away": "Tottenham Hotspur"},
+        {"date": "2024-05-02", "home": "Chelsea", "score": "2-0", "away": "Tottenham Hotspur"},
+        {"date": "2023-11-06", "home": "Tottenham Hotspur", "score": "1-4", "away": "Chelsea"},
+        {"date": "2023-02-26", "home": "Tottenham Hotspur", "score": "2-0", "away": "Chelsea"}
+      ],
+      "avg_stats": { "shots": 26.0, "shots_on_target": 9.6, "fouls": 23.4, "yellow_cards": 7.4 }
+    }
+  },
+  "West Midlands Derby": {
+    "teams": ["Aston Villa", "Wolverhampton Wanderers"],
+    "review": "Una de las rivalidades más antiguas del fútbol inglés, entre dos de los miembros fundadores de la Football League. Este derbi de las West Midlands es una batalla por el orgullo regional entre dos clubes con una rica historia. Aunque a menudo eclipsado por otros derbis de la región (como los de Birmingham o el Black Country), la consistencia de ambos equipos en la Premier League ha reavivado esta histórica contienda. Los partidos son típicamente reñidos, físicos y jugados frente a aficiones apasionadas que entienden la profunda historia detrás del enfrentamiento.",
+    "headerText": "EL DERBI MÁS ANTIGUO DE INGLATERRA",
+    "h2h_stats": {
+      "last_5_matches": [
+        {"date": "2025-03-15", "home": "Wolverhampton Wanderers", "score": "2-2", "away": "Aston Villa"},
+        {"date": "2024-11-02", "home": "Aston Villa", "score": "4-1", "away": "Wolverhampton Wanderers"},
+        {"date": "2024-03-30", "home": "Aston Villa", "score": "2-0", "away": "Wolverhampton Wanderers"},
+        {"date": "2023-10-08", "home": "Wolverhampton Wanderers", "score": "1-1", "away": "Aston Villa"},
+        {"date": "2023-05-06", "home": "Wolverhampton Wanderers", "score": "1-0", "away": "Aston Villa"}
+      ],
+      "avg_stats": { "shots": 23.8, "shots_on_target": 9.0, "fouls": 24.4, "yellow_cards": 6.4 }
+    }
+  }
+}

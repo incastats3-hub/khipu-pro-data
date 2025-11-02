@@ -1,0 +1,128 @@
+Bundesliga 2024/2025 - Estadísticas Promedio por Partido (Local/Visitante)
+-----------------------------------------------------------------------
+Nota General: Salvo indicación, los desgloses L/V son simulados realistamente.
+Los datos de Köln y Hamburg son estimados/ajustados de su rendimiento en 2. Bundesliga.
+Los datos de St. Pauli reflejan su rendimiento en 1. Bundesliga 2024/25.
+
+Equipo: Bayern Munich
+  Shots             | Home: 20.88 | Away: 17.12
+  Shots on Target   | Home: 9.12  | Away: 6.65
+  Corners           | Home: 7.76  | Away: 5.18
+  Yellow Cards      | Home: 1.18  | Away: 1.65  (Real)
+  Fouls Committed   | Home: 7.82  | Away: 9.53
+
+Equipo: Borussia Dortmund
+  Shots             | Home: 16.96 | Away: 14.04
+  Shots on Target   | Home: 6.02  | Away: 4.98
+  Corners           | Home: 6.35  | Away: 5.25
+  Yellow Cards      | Home: 1.68  | Away: 1.92
+  Fouls Committed   | Home: 9.61  | Away: 11.39
+
+Equipo: RB Leipzig
+  Shots             | Home: 17.68 | Away: 14.32
+  Shots on Target   | Home: 6.41  | Away: 5.19
+  Corners           | Home: 5.97  | Away: 5.03
+  Yellow Cards      | Home: 1.99  | Away: 2.21
+  Fouls Committed   | Home: 10.98 | Away: 13.02
+
+Equipo: Bayer Leverkusen
+  Shots             | Home: 18.62 | Away: 15.38
+  Shots on Target   | Home: 6.57  | Away: 5.43
+  Corners           | Home: 6.68  | Away: 5.52
+  Yellow Cards      | Home: 1.78  | Away: 2.02
+  Fouls Committed   | Home: 10.07 | Away: 11.93
+
+Equipo: Eintracht Frankfurt
+  Shots             | Home: 14.65 | Away: 12.35
+  Shots on Target   | Home: 4.93  | Away: 4.07
+  Corners           | Home: 5.64  | Away: 4.76
+  Yellow Cards      | Home: 2.15  | Away: 2.45
+  Fouls Committed   | Home: 10.53 | Away: 12.47
+
+Equipo: Union Berlin
+  Shots             | Home: 11.94 | Away: 10.06
+  Shots on Target   | Home: 4.16  | Away: 3.44
+  Corners           | Home: 4.93  | Away: 4.07
+  Yellow Cards      | Home: 2.06  | Away: 2.34
+  Fouls Committed   | Home: 11.90 | Away: 14.10
+
+Equipo: SC Freiburg
+  Shots             | Home: 13.56 | Away: 11.44
+  Shots on Target   | Home: 4.60  | Away: 3.80
+  Corners           | Home: 5.26  | Away: 4.34
+  Yellow Cards      | Home: 1.78  | Away: 2.02
+  Fouls Committed   | Home: 10.25 | Away: 12.15
+
+Equipo: VfL Wolfsburg
+  Shots             | Home: 14.17 | Away: 11.83
+  Shots on Target   | Home: 4.82  | Away: 3.98
+  Corners           | Home: 5.34  | Away: 4.46
+  Yellow Cards      | Home: 2.25  | Away: 2.55
+  Fouls Committed   | Home: 11.44 | Away: 13.56
+
+Equipo: Borussia M'gladbach
+  Shots             | Home: 13.89 | Away: 11.71
+  Shots on Target   | Home: 5.26  | Away: 4.34
+  Corners           | Home: 5.48  | Away: 4.52
+  Yellow Cards      | Home: 1.87  | Away: 2.13
+  Fouls Committed   | Home: 9.88  | Away: 11.72
+
+Equipo: TSG Hoffenheim
+  Shots             | Home: 15.19 | Away: 12.81
+  Shots on Target   | Home: 5.48  | Away: 4.52
+  Corners           | Home: 5.58  | Away: 4.62
+  Yellow Cards      | Home: 2.15  | Away: 2.45
+  Fouls Committed   | Home: 11.71 | Away: 13.89
+
+Equipo: Mainz 05
+  Shots             | Home: 14.32 | Away: 12.08
+  Shots on Target   | Home: 5.04  | Away: 4.16
+  Corners           | Home: 5.75  | Away: 4.85
+  Yellow Cards      | Home: 2.34  | Away: 2.66
+  Fouls Committed   | Home: 12.35 | Away: 14.65
+
+Equipo: VfB Stuttgart
+  Shots             | Home: 16.28 | Away: 13.72
+  Shots on Target   | Home: 5.69  | Away: 4.71
+  Corners           | Home: 6.13  | Away: 5.07
+  Yellow Cards      | Home: 1.59  | Away: 1.81
+  Fouls Committed   | Home: 9.15  | Away: 10.85
+
+Equipo: Werder Bremen
+  Shots             | Home: 13.02 | Away: 10.98
+  Shots on Target   | Home: 4.38  | Away: 3.62
+  Corners           | Home: 5.04  | Away: 4.16
+  Yellow Cards      | Home: 1.96  | Away: 2.24
+  Fouls Committed   | Home: 10.79 | Away: 12.81
+
+Equipo: 1. FC Heidenheim
+  Shots             | Home: 11.39 | Away: 9.61
+  Shots on Target   | Home: 3.72  | Away: 3.08
+  Corners           | Home: 4.34  | Away: 3.66
+  Yellow Cards      | Home: 2.15  | Away: 2.45
+  Fouls Committed   | Home: 11.81 | Away: 13.99
+
+Equipo: FC St. Pauli (Datos 1. Bundesliga 24/25)
+  Shots             | Home: 12.08 | Away: 10.12  
+  Shots on Target   | Home: 4.01  | Away: 3.39   
+  Corners           | Home: 4.97  | Away: 4.03   
+  Yellow Cards      | Home: 2.27  | Away: 2.53   
+  Fouls Committed   | Home: 11.81 | Away: 14.19
+  
+--- Equipos Ascendidos (Datos Estimados/Ajustados) ---
+
+Equipo: 1. FC Köln (Colonia)
+  Shots             | Home: 13.96 | Away: 11.64  (Estimado Total ~12.8)
+  Shots on Target   | Home: 4.69  | Away: 3.91   (Estimado Total ~4.3)
+  Corners           | Home: 5.45  | Away: 4.55   (Estimado Total ~5.0)
+  Yellow Cards      | Home: 1.79  | Away: 2.01   (Estimado Total ~1.9)
+  Fouls Committed   | Home: 10.39 | Away: 12.21  (Estimado Total ~11.3)
+
+Equipo: Hamburger SV (Hamburgo)
+  Shots             | Home: 14.49 | Away: 12.11  (Estimado Total ~13.3)
+  Shots on Target   | Home: 4.99  | Away: 4.21   (Estimado Total ~4.6)
+  Corners           | Home: 5.67  | Away: 4.73   (Estimado Total ~5.2)
+  Yellow Cards      | Home: 1.89  | Away: 2.11   (Estimado Total ~2.0)
+  Fouls Committed   | Home: 10.87 | Away: 12.73  (Estimado Total ~11.8)
+
+-----------------------------------------------------------------------

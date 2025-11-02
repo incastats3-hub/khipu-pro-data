@@ -1,0 +1,202 @@
+{
+  "teams": {
+    "Olympique Marseille": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Olympique_Marseille_logo.svg/1200px-Olympique_Marseille_logo.svg.png",
+      "jerseyColor": "#FFFFFF",
+      "shieldColor": "#0099CC",
+      "secondaryColor": "#C8AF6B",
+      "numberColor": "#0099CC",
+      "gkJerseyColor": "#FFA500",
+      "stadium": "Orange Vélodrome",
+      "location": "Marsella, Francia",
+      "manager": "Roberto De Zerbi"
+    },
+    "Paris Saint-Germain": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png",
+      "jerseyColor": "#004170",
+      "shieldColor": "#DA291C",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#F7D75B",
+      "stadium": "Parc des Princes",
+      "location": "París, Francia",
+      "manager": "Luis Enrique"
+    },
+    "RC Strasbourg": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Racing_Club_de_Strasbourg_logo.svg/1200px-Racing_Club_de_Strasbourg_logo.svg.png",
+      "jerseyColor": "#00509A",
+      "shieldColor": "#FFFFFF",
+      "secondaryColor": "#ED1C24",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#FFD700",
+      "stadium": "Stade de la Meinau",
+      "location": "Estrasburgo, Francia",
+      "manager": "Patrick Vieira"
+    },
+    "RC Lens": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/RC_Lens_logo.svg/893px-RC_Lens_logo.svg.png",
+      "jerseyColor": "#EF1921",
+      "shieldColor": "#FFF200",
+      "secondaryColor": "#000000",
+      "numberColor": "#FFF200",
+      "gkJerseyColor": "#000000",
+      "stadium": "Stade Bollaert-Delelis",
+      "location": "Lens, Francia",
+      "manager": "Will Still"
+    },
+    "Olympique Lyonnais": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Olympique_Lyonnais_logo.svg/1031px-Olympique_Lyonnais_logo.svg.png",
+      "jerseyColor": "#FFFFFF",
+      "shieldColor": "#004D98",
+      "secondaryColor": "#DB0A2A",
+      "numberColor": "#004D98",
+      "gkJerseyColor": "#2A2A2A",
+      "stadium": "Groupama Stadium",
+      "location": "Décines-Charpieu (Lyon), Francia",
+      "manager": "Pierre Sage"
+    },
+    "Lille OSC": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Lille_OSC_2018_logo.svg/250px-Lille_OSC_2018_logo.svg.png",
+      "jerseyColor": "#E01E2E",
+      "shieldColor": "#1B223F",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#FFA500",
+      "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
+      "location": "Villeneuve-d'Ascq (Lille), Francia",
+      "manager": "Bruno Génésio"
+    },
+    "AS Monaco": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cf/LogoASMonacoFC2021.svg",
+      "jerseyColor": "#EF3241",
+      "shieldColor": "#FFFFFF",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#00AEEF",
+      "stadium": "Stade Louis II",
+      "location": "Mónaco",
+      "manager": "Adi Hütter"
+    },
+    "Toulouse FC": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Toulouse_FC_2018_logo.svg/1200px-Toulouse_FC_2018_logo.svg.png",
+      "jerseyColor": "#5C2D91",
+      "shieldColor": "#FFFFFF",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#FFAE00",
+      "stadium": "Stadium de Toulouse",
+      "location": "Toulouse, Francia",
+      "manager": "Carles Martínez Novell"
+    },
+    "Stade Rennais": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Stade_Rennais_FC.svg/983px-Stade_Rennais_FC.svg.png",
+      "jerseyColor": "#E4002B",
+      "shieldColor": "#000000",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#FFDF00",
+      "stadium": "Roazhon Park",
+      "location": "Rennes, Francia",
+      "manager": "Julien Stéphan"
+    },
+    "OGC Nice": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/OGC_Nice_logo.svg/973px-OGC_Nice_logo.svg.png",
+      "jerseyColor": "#D71920",
+      "shieldColor": "#000000",
+      "secondaryColor": "#BFA14F",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#FFCB05",
+      "stadium": "Allianz Riviera",
+      "location": "Niza, Francia",
+      "manager": "Franck Haise"
+    },
+    "Paris FC": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Paris_FC_logo.svg/1012px-Paris_FC_logo.svg.png",
+      "jerseyColor": "#003366",
+      "shieldColor": "#FFFFFF",
+      "secondaryColor": "#EE2E24",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#FF9900",
+      "stadium": "Stade Charléty",
+      "location": "París, Francia",
+      "manager": "Stéphane Gilli"
+    },
+    "Stade Brestois": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Stade_Brestois_29_logo.svg/990px-Stade_Brestois_29_logo.svg.png",
+      "jerseyColor": "#E2001A",
+      "shieldColor": "#FFFFFF",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#00B4D8",
+      "stadium": "Stade Francis-Le Blé",
+      "location": "Brest, Francia",
+      "manager": "Éric Roy"
+    },
+    "FC Lorient": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/FC_Lorient_logo.svg",
+      "jerseyColor": "#F58220",
+      "shieldColor": "#000000",
+      "secondaryColor": "#000000",
+      "numberColor": "#000000",
+      "gkJerseyColor": "#4CAF50",
+      "stadium": "Stade du Moustoir",
+      "location": "Lorient, Francia",
+      "manager": "Olivier Pantaloni"
+    },
+    "AJ Auxerre": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/AJAuxerreLogo.svg/950px-AJAuxerreLogo.svg.png",
+      "jerseyColor": "#FFFFFF",
+      "shieldColor": "#0059B0",
+      "secondaryColor": "#0059B0",
+      "numberColor": "#0059B0",
+      "gkJerseyColor": "#FFCC00",
+      "stadium": "Stade de l'Abbé-Deschamps",
+      "location": "Auxerre, Francia",
+      "manager": "Christophe Pélissier"
+    },
+    "FC Nantes": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_FC_Nantes_%28avec_fond%29_-_2019.svg/250px-Logo_FC_Nantes_%28avec_fond%29_-_2019.svg.png",
+      "jerseyColor": "#FFF200",
+      "shieldColor": "#00A551",
+      "secondaryColor": "#00A551",
+      "numberColor": "#00A551",
+      "gkJerseyColor": "#ED1C24",
+      "stadium": "Stade de la Beaujoire",
+      "location": "Nantes, Francia",
+      "manager": "Antoine Kombouaré"
+    },
+    "Le Havre AC": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Le_Havre_AC_logo.svg/986px-Le_Havre_AC_logo.svg.png",
+      "jerseyColor": "#005AAA",
+      "shieldColor": "#7EBEE7",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#FF6B6B",
+      "stadium": "Stade Océane",
+      "location": "Le Havre, Francia",
+      "manager": "Didier Digard"
+    },
+    "Angers SCO": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Angers_SCO_logo.svg/1006px-Angers_SCO_logo.svg.png",
+      "jerseyColor": "#FFFFFF",
+      "shieldColor": "#000000",
+      "secondaryColor": "#FFD700",
+      "numberColor": "#000000",
+      "gkJerseyColor": "#FFDF00",
+      "stadium": "Stade Raymond Kopa",
+      "location": "Angers, Francia",
+      "manager": "Alexandre Dujeux"
+    },
+    "FC Metz": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/FC_Metz_2021_Logo.svg",
+      "jerseyColor": "#9A122E",
+      "shieldColor": "#FFFFFF",
+      "secondaryColor": "#FFFFFF",
+      "numberColor": "#FFFFFF",
+      "gkJerseyColor": "#F7DC6F",
+      "stadium": "Stade Saint-Symphorien",
+      "location": "Metz, Francia",
+      "manager": "Stéphane Le Mignan"
+    }
+  }
+}

@@ -1,0 +1,1442 @@
+{
+    "Athletic Club": {
+        "Tiros": {
+            "name": "Iñaki Williams",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fathletic-club-in-aki-williams--m5b0zmzi.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Mayor Rematador",
+            "matches_played": 35,
+            "goals": 6,
+            "assists": 8,
+            "specialty_stats": {
+                "remates_totales_p90": 1.63,
+                "remates_a_puerta_p90": 0.81,
+                "toques_area_rival_p90": 5.09
+            }
+        },
+        "Tiros a Puerta": {
+            "name": "Iñaki Williams",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fathletic-club-in-aki-williams--m5b0zmzi.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Remates a Puerta",
+            "matches_played": 35,
+            "goals": 6,
+            "assists": 8,
+            "specialty_stats": {
+                "tiros_a_puerta_p90": 0.81,
+                "porcentaje_tiros_a_puerta": "50.0%",
+                "goles_por_tiro_a_puerta": 0.25
+            }
+        },
+        "Faltas Cometidas": {
+            "name": "Ruiz de Galarreta",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Faltas Cometidas",
+            "matches_played": 31,
+            "goals": 1,
+            "assists": 4,
+            "specialty_stats": {
+                "faltas_cometidas_p90": 1.91,
+                "presiones_exitosas_p90": 9.2,
+                "porcentaje_duelos_defensivos_ganados": "61%"
+            }
+        },
+        "Tarjetas": {
+            "name": "Beñat Prados",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Más Amonestado",
+            "matches_played": 30,
+            "goals": 1,
+            "assists": 0,
+            "specialty_stats": {
+                "tarjetas_amarillas_totales": 11,
+                "faltas_por_tarjeta": 5.71,
+                "entradas_malogradas_p90": 0.9
+            }
+        },
+        "Tackles": {
+            "name": "Mikel Jauregizar",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Más Entradas",
+            "matches_played": 25,
+            "goals": 0,
+            "assists": 1,
+            "specialty_stats": {
+                "entradas_exitosas_p90": 4.2,
+                "intercepciones_p90": 1.15,
+                "recuperaciones_balon_p90": 2.25
+            }
+        }
+    },
+    "Atlético de Madrid": {
+        "Tiros": {
+            "name": "Alexander Sørloth",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fatletico-madrid-alexander-s-rloth--txwopd0a.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Mayor Rematador",
+            "matches_played": 35,
+            "goals": 20,
+            "assists": 2,
+            "specialty_stats": {
+                "remates_totales_p90": 4.55,
+                "remates_a_puerta_p90": 2.42,
+                "toques_area_rival_p90": 6.98
+            }
+        },
+        "Tiros a Puerta": {
+            "name": "Julián Álvarez",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fatletico-madrid-julian-alvarez--dj6zu12f.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Remates a Puerta",
+            "matches_played": 35,
+            "goals": 20,
+            "assists": 2,
+            "specialty_stats": {
+                "tiros_a_puerta_p90": 2.42,
+                "porcentaje_tiros_a_puerta": "53.1%",
+                "goles_por_tiro_a_puerta": 0.47
+            }
+        },
+        "Faltas Cometidas": {
+            "name": "Javi Galán",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Faltas Cometidas",
+            "matches_played": 25,
+            "goals": 0,
+            "assists": 3,
+            "specialty_stats": {
+                "faltas_cometidas_p90": 1.92,
+                "presiones_exitosas_p90": 7.8,
+                "porcentaje_duelos_defensivos_ganados": "55%"
+            }
+        },
+        "Tarjetas": {
+            "name": "Clément Lenglet",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Más Amonestado",
+            "matches_played": 23,
+            "goals": 2,
+            "assists": 1,
+            "specialty_stats": {
+                "tarjetas_amarillas_totales": 9,
+                "faltas_por_tarjeta": 3.11,
+                "entradas_malogradas_p90": 0.7
+            }
+        },
+        "Tackles": {
+            "name": "Marcos Llorente",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fatle-tico-madrid-marcos-llorente--dm3la_so.png&w=600&f=webp",
+            "position": "Centrocampista",
+            "specialty": "Más Entradas",
+            "matches_played": 33,
+            "goals": 2,
+            "assists": 4,
+            "specialty_stats": {
+                "entradas_exitosas_p90": 2.12,
+                "intercepciones_p90": 0.65,
+                "recuperaciones_balon_p90": 2.77
+            }
+        }
+    },
+    "CA Osasuna": {
+        "Tiros": {
+            "name": "Ante Budimir",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fosasuna-ante-budimir--mjpwmhr-.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Mayor Rematador",
+            "matches_played": 38,
+            "goals": 21,
+            "assists": 4,
+            "specialty_stats": {
+                "remates_totales_p90": 2.4,
+                "remates_a_puerta_p90": 1.12,
+                "toques_area_rival_p90": 5.75
+            }
+        },
+        "Tiros a Puerta": {
+            "name": "Ante Budimir",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fosasuna-ante-budimir--mjpwmhr-.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Remates a Puerta",
+            "matches_played": 38,
+            "goals": 21,
+            "assists": 4,
+            "specialty_stats": {
+                "tiros_a_puerta_p90": 1.12,
+                "porcentaje_tiros_a_puerta": "37.3%",
+                "goles_por_tiro_a_puerta": 0.56
+            }
+        },
+        "Faltas Cometidas": {
+            "name": "Lucas Torró",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Faltas Cometidas",
+            "matches_played": 35,
+            "goals": 3,
+            "assists": 0,
+            "specialty_stats": {
+                "faltas_cometidas_p90": 2.28,
+                "presiones_exitosas_p90": 10.1,
+                "porcentaje_duelos_defensivos_ganados": "64%"
+            }
+        },
+        "Tarjetas": {
+            "name": "Alejandro Catena",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Más Amonestado",
+            "matches_played": 35,
+            "goals": 1,
+            "assists": 3,
+            "specialty_stats": {
+                "tarjetas_amarillas_totales": 11,
+                "faltas_por_tarjeta": 3.27,
+                "entradas_malogradas_p90": 0.5
+            }
+        },
+        "Tackles": {
+            "name": "Lucas Torró",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Más Entradas",
+            "matches_played": 35,
+            "goals": 3,
+            "assists": 0,
+            "specialty_stats": {
+                "entradas_exitosas_p90": 2.25,
+                "intercepciones_p90": 1.1,
+                "recuperaciones_balon_p90": 8.38
+            }
+        }
+    },
+    "RC Celta de Vigo": {
+        "Tiros": {
+            "name": "Iago Aspas",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fcelta-iago-aspas--o_u4ktf8.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Mayor Rematador",
+            "matches_played": 31,
+            "goals": 10,
+            "assists": 5,
+            "specialty_stats": {
+                "remates_totales_p90": 2.28,
+                "remates_a_puerta_p90": 1.24,
+                "toques_area_rival_p90": 3.76
+            }
+        },
+        "Tiros a Puerta": {
+            "name": "Borja Iglesias",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Delantero",
+            "specialty": "Remates a Puerta",
+            "matches_played": 37,
+            "goals": 11,
+            "assists": 3,
+            "specialty_stats": {
+                "tiros_a_puerta_p90": 1.28,
+                "porcentaje_tiros_a_puerta": "71.8%",
+                "goles_por_tiro_a_puerta": 0.39
+            }
+        },
+        "Faltas Cometidas": {
+            "name": "Borja Iglesias",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Delantero",
+            "specialty": "Faltas Cometidas",
+            "matches_played": 37,
+            "goals": 11,
+            "assists": 3,
+            "specialty_stats": {
+                "faltas_cometidas_p90": 1.83,
+                "presiones_exitosas_p90": 6.5,
+                "porcentaje_duelos_defensivos_ganados": "48%"
+            }
+        },
+        "Tarjetas": {
+            "name": "Óscar Mingueza",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fcelta-vigo-o-scar-mingueza--ksg0-yss.png&w=600&f=webp",
+            "position": "Defensa",
+            "specialty": "Más Amonestado",
+            "matches_played": 31,
+            "goals": 3,
+            "assists": 0,
+            "specialty_stats": {
+                "tarjetas_amarillas_totales": 10,
+                "faltas_por_tarjeta": 3.44,
+                "entradas_malogradas_p90": 0.6
+            }
+        },
+        "Tackles": {
+            "name": "Ilaix Moriba",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Más Entradas",
+            "matches_played": 33,
+            "goals": 1,
+            "assists": 1,
+            "specialty_stats": {
+                "entradas_exitosas_p90": 2.87,
+                "intercepciones_p90": 0.5,
+                "recuperaciones_balon_p90": 1.9
+            }
+        }
+    },
+    "Deportivo Alavés": {
+        "Tiros": {
+            "name": "Carlos Vicente",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Delantero",
+            "specialty": "Mayor Rematador",
+            "matches_played": 35,
+            "goals": 13,
+            "assists": 0,
+            "specialty_stats": {
+                "remates_totales_p90": 1.87,
+                "remates_a_puerta_p90": 0.95,
+                "toques_area_rival_p90": 4.55
+            }
+        },
+        "Tiros a Puerta": {
+            "name": "Carlos Vicente",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Delantero",
+            "specialty": "Remates a Puerta",
+            "matches_played": 35,
+            "goals": 13,
+            "assists": 0,
+            "specialty_stats": {
+                "tiros_a_puerta_p90": 0.95,
+                "porcentaje_tiros_a_puerta": "50.9%",
+                "goles_por_tiro_a_puerta": 0.48
+            }
+        },
+        "Faltas Cometidas": {
+            "name": "Antonio Blanco",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Faltas Cometidas",
+            "matches_played": 35,
+            "goals": 0,
+            "assists": 1,
+            "specialty_stats": {
+                "faltas_cometidas_p90": 2.02,
+                "presiones_exitosas_p90": 11.5,
+                "porcentaje_duelos_defensivos_ganados": "62%"
+            }
+        },
+        "Tarjetas": {
+            "name": "J. Pacheco",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Más Amonestado",
+            "matches_played": 29,
+            "goals": 0,
+            "assists": 1,
+            "specialty_stats": {
+                "tarjetas_amarillas_totales": 14,
+                "faltas_por_tarjeta": 3.61,
+                "entradas_malogradas_p90": 1.1
+            }
+        },
+        "Tackles": {
+            "name": "Nahuel Tenaglia",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Más Entradas",
+            "matches_played": 34,
+            "goals": 2,
+            "assists": 1,
+            "specialty_stats": {
+                "entradas_exitosas_p90": 2.95,
+                "intercepciones_p90": 1.48,
+                "recuperaciones_balon_p90": 4.67
+            }
+        }
+    },
+    "Elche CF": {
+        "Tiros": {
+            "name": "Rafa Mir",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Felche-rafa-mir--8bbawcee.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Mayor Rematador",
+            "matches_played": 7,
+            "goals": 3,
+            "assists": 0,
+            "specialty_stats": {
+                "remates_totales_p90": 1.46,
+                "remates_a_puerta_p90": 0.63,
+                "toques_area_rival_p90": 4.17
+            }
+        },
+        "Tiros a Puerta": {
+            "name": "Rafa Mir",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Felche-rafa-mir--8bbawcee.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Remates a Puerta",
+            "matches_played": 7,
+            "goals": 3,
+            "assists": 0,
+            "specialty_stats": {
+                "tiros_a_puerta_p90": 0.63,
+                "porcentaje_tiros_a_puerta": "42.8%",
+                "goles_por_tiro_a_puerta": 1.0
+            }
+        },
+        "Faltas Cometidas": {
+            "name": "Rafa Mir",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Felche-rafa-mir--8bbawcee.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Faltas Cometidas",
+            "matches_played": 7,
+            "goals": 3,
+            "assists": 0,
+            "specialty_stats": {
+                "faltas_cometidas_p90": 3.33,
+                "presiones_exitosas_p90": 5.1,
+                "porcentaje_duelos_defensivos_ganados": "45%"
+            }
+        },
+        "Tarjetas": {
+            "name": "Adrià Pedrosa",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Más Amonestado",
+            "matches_played": 3,
+            "goals": 1,
+            "assists": 0,
+            "specialty_stats": {
+                "tarjetas_amarillas_totales": 4,
+                "faltas_por_tarjeta": 2.0,
+                "entradas_malogradas_p90": 1.2
+            }
+        },
+        "Tackles": {
+            "name": "David Affengruber",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Más Entradas",
+            "matches_played": 7,
+            "goals": 0,
+            "assists": 0,
+            "specialty_stats": {
+                "entradas_exitosas_p90": 1.23,
+                "intercepciones_p90": 2.1,
+                "recuperaciones_balon_p90": 2.31
+            }
+        }
+    },
+    "FC Barcelona": {
+        "Tiros": {
+            "name": "Lamine Yamal",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fbarcelona-lamine-yamal2025--ucxuf5-t.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Mayor Rematador",
+            "matches_played": 35,
+            "goals": 9,
+            "assists": 13,
+            "specialty_stats": {
+                "remates_totales_p90": 4.5,
+                "remates_a_puerta_p90": 1.48,
+                "toques_area_rival_p90": 7.92
+            }
+        },
+        "Tiros a Puerta": {
+            "name": "Robert Lewandowski",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fbarcelona-robert-lewandowski--rqmefntx.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Remates a Puerta",
+            "matches_played": 34,
+            "goals": 27,
+            "assists": 2,
+            "specialty_stats": {
+                "tiros_a_puerta_p90": 1.61,
+                "porcentaje_tiros_a_puerta": "53.3%",
+                "goles_por_tiro_a_puerta": 0.56
+            }
+        },
+        "Faltas Cometidas": {
+            "name": "Jules Koundé",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fbarcelona-jules-kounde--4k39yqs1.png&w=600&f=webp",
+            "position": "Defensa",
+            "specialty": "Faltas Cometidas",
+            "matches_played": 32,
+            "goals": 1,
+            "assists": 1,
+            "specialty_stats": {
+                "faltas_cometidas_p90": 2.5,
+                "presiones_exitosas_p90": 7.1,
+                "porcentaje_duelos_defensivos_ganados": "65%"
+            }
+        },
+        "Tarjetas": {
+            "name": "Jules Koundé",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fbarcelona-jules-kounde--4k39yqs1.png&w=600&f=webp",
+            "position": "Defensa",
+            "specialty": "Más Amonestado",
+            "matches_played": 34,
+            "goals": 2,
+            "assists": 3,
+            "specialty_stats": {
+                "tarjetas_amarillas_totales": 7,
+                "faltas_por_tarjeta": 3.87,
+                "entradas_malogradas_p90": 0.8
+            }
+        },
+        "Tackles": {
+            "name": "Jules Koundé",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fbarcelona-jules-kounde--4k39yqs1.png&w=600&f=webp",
+            "position": "Defensa",
+            "specialty": "Más Entradas",
+            "matches_played": 34,
+            "goals": 2,
+            "assists": 3,
+            "specialty_stats": {
+                "entradas_exitosas_p90": 1.86,
+                "intercepciones_p90": 0.77,
+                "recuperaciones_balon_p90": 4.5
+            }
+        }
+    },
+    "Getafe CF": {
+        "Tiros": {
+            "name": "Borja Mayoral",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fgetafe-club-borja-mayoral--iksd8a3m.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Mayor Rematador",
+            "matches_played": 31,
+            "goals": 5,
+            "assists": 1,
+            "specialty_stats": {
+                "remates_totales_p90": 1.45,
+                "remates_a_puerta_p90": 0.61,
+                "toques_area_rival_p90": 3.12
+            }
+        },
+        "Tiros a Puerta": {
+            "name": "Mauro Arambarri",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Remates a Puerta",
+            "matches_played": 35,
+            "goals": 10,
+            "assists": 0,
+            "specialty_stats": {
+                "tiros_a_puerta_p90": 0.64,
+                "porcentaje_tiros_a_puerta": "33.9%",
+                "goles_por_tiro_a_puerta": 0.52
+            }
+        },
+        "Faltas Cometidas": {
+            "name": "Luis Milla",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fgetafe-luis-milla--fjxiomub.png&w=600&f=webp",
+            "position": "Centrocampista",
+            "specialty": "Faltas Cometidas",
+            "matches_played": 34,
+            "goals": 4,
+            "assists": 6,
+            "specialty_stats": {
+                "faltas_cometidas_p90": 2.31,
+                "presiones_exitosas_p90": 12.5,
+                "porcentaje_duelos_defensivos_ganados": "59%"
+            }
+        },
+        "Tarjetas": {
+            "name": "Djené Dakonam",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Más Amonestado",
+            "matches_played": 31,
+            "goals": 0,
+            "assists": 0,
+            "specialty_stats": {
+                "tarjetas_amarillas_totales": 11,
+                "faltas_por_tarjeta": 4.0,
+                "entradas_malogradas_p90": 1.0
+            }
+        },
+        "Tackles": {
+            "name": "Diego Rico",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Más Entradas",
+            "matches_played": 33,
+            "goals": 0,
+            "assists": 3,
+            "specialty_stats": {
+                "entradas_exitosas_p90": 2.58,
+                "intercepciones_p90": 1.2,
+                "recuperaciones_balon_p90": 5.1
+            }
+        }
+    },
+    "Girona FC": {
+        "Tiros": {
+            "name": "Abel Ruiz",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Mayor Rematador",
+            "matches_played": 29,
+            "goals": 4,
+            "assists": 3,
+            "specialty_stats": {
+                "remates_totales_p90": 1.31,
+                "remates_a_puerta_p90": 0.55,
+                "toques_area_rival_p90": 2.57
+            }
+        },
+        "Tiros a Puerta": {
+            "name": "Cristhian Stuani",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Delantero",
+            "specialty": "Remates a Puerta",
+            "matches_played": 26,
+            "goals": 11,
+            "assists": 1,
+            "specialty_stats": {
+                "tiros_a_puerta_p90": 1.6,
+                "porcentaje_tiros_a_puerta": "63.3%",
+                "goles_por_tiro_a_puerta": 0.57
+            }
+        },
+        "Faltas Cometidas": {
+            "name": "Iván Martín",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Faltas Cometidas",
+            "matches_played": 29,
+            "goals": 4,
+            "assists": 3,
+            "specialty_stats": {
+                "faltas_cometidas_p90": 2.86,
+                "presiones_exitosas_p90": 11.2,
+                "porcentaje_duelos_defensivos_ganados": "57%"
+            }
+        },
+        "Tarjetas": {
+            "name": "Arnau",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Más Amonestado",
+            "matches_played": 28,
+            "goals": 1,
+            "assists": 1,
+            "specialty_stats": {
+                "tarjetas_amarillas_totales": 11,
+                "faltas_por_tarjeta": 2.9,
+                "entradas_malogradas_p90": 0.9
+            }
+        },
+        "Tackles": {
+            "name": "David López",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Más Entradas",
+            "matches_played": 25,
+            "goals": 3,
+            "assists": 0,
+            "specialty_stats": {
+                "entradas_exitosas_p90": 1.4,
+                "intercepciones_p90": 1.2,
+                "recuperaciones_balon_p90": 4.8
+            }
+        }
+    },
+    "Rayo Vallecano": {
+        "Tiros": {
+            "name": "Álvaro García",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Mayor Rematador",
+            "matches_played": 36,
+            "goals": 4,
+            "assists": 5,
+            "specialty_stats": {
+                "remates_totales_p90": 1.93,
+                "remates_a_puerta_p90": 0.91,
+                "toques_area_rival_p90": 4.49
+            }
+        },
+        "Tiros a Puerta": {
+            "name": "Álvaro García",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Remates a Puerta",
+            "matches_played": 36,
+            "goals": 4,
+            "assists": 5,
+            "specialty_stats": {
+                "tiros_a_puerta_p90": 0.91,
+                "porcentaje_tiros_a_puerta": "47.2%",
+                "goles_por_tiro_a_puerta": 0.15
+            }
+        },
+        "Faltas Cometidas": {
+            "name": "Óscar Valentín",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Faltas Cometidas",
+            "matches_played": 34,
+            "goals": 0,
+            "assists": 1,
+            "specialty_stats": {
+                "faltas_cometidas_p90": 2.4,
+                "presiones_exitosas_p90": 13.1,
+                "porcentaje_duelos_defensivos_ganados": "54%"
+            }
+        },
+        "Tarjetas": {
+            "name": "Pathé Ciss",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Más Amonestado",
+            "matches_played": 33,
+            "goals": 4,
+            "assists": 1,
+            "specialty_stats": {
+                "tarjetas_amarillas_totales": 16,
+                "faltas_por_tarjeta": 3.75,
+                "entradas_malogradas_p90": 1.3
+            }
+        },
+        "Tackles": {
+            "name": "Andrei Ratiu",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Más Entradas",
+            "matches_played": 32,
+            "goals": 2,
+            "assists": 3,
+            "specialty_stats": {
+                "entradas_exitosas_p90": 2.41,
+                "intercepciones_p90": 1.18,
+                "recuperaciones_balon_p90": 4.5
+            }
+        }
+    },
+    "RCD Espanyol": {
+        "Tiros": {
+            "name": "Javi Puado",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fespanyol-javi-puado--n0z8x34c.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Mayor Rematador",
+            "matches_played": 35,
+            "goals": 12,
+            "assists": 4,
+            "specialty_stats": {
+                "remates_totales_p90": 1.78,
+                "remates_a_puerta_p90": 0.72,
+                "toques_area_rival_p90": 3.13
+            }
+        },
+        "Tiros a Puerta": {
+            "name": "Javi Puado",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fespanyol-javi-puado--n0z8x34c.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Remates a Puerta",
+            "matches_played": 35,
+            "goals": 12,
+            "assists": 4,
+            "specialty_stats": {
+                "tiros_a_puerta_p90": 0.72,
+                "porcentaje_tiros_a_puerta": "40.6%",
+                "goles_por_tiro_a_puerta": 0.5
+            }
+        },
+        "Faltas Cometidas": {
+            "name": "Pol Lozano",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Faltas Cometidas",
+            "matches_played": 30,
+            "goals": 0,
+            "assists": 1,
+            "specialty_stats": {
+                "faltas_cometidas_p90": 2.57,
+                "presiones_exitosas_p90": 8.9,
+                "porcentaje_duelos_defensivos_ganados": "56%"
+            }
+        },
+        "Tarjetas": {
+            "name": "Pol Lozano",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Más Amonestado",
+            "matches_played": 30,
+            "goals": 0,
+            "assists": 1,
+            "specialty_stats": {
+                "tarjetas_amarillas_totales": 18,
+                "faltas_por_tarjeta": 4.3,
+                "entradas_malogradas_p90": 1.4
+            }
+        },
+        "Tackles": {
+            "name": "Omar El Hilali",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Más Entradas",
+            "matches_played": 36,
+            "goals": 0,
+            "assists": 2,
+            "specialty_stats": {
+                "entradas_exitosas_p90": 3.16,
+                "intercepciones_p90": 1.9,
+                "recuperaciones_balon_p90": 5.2
+            }
+        }
+    },
+    "RCD Mallorca": {
+        "Tiros": {
+            "name": "Vedat Muriqi",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Delantero",
+            "specialty": "Mayor Rematador",
+            "matches_played": 30,
+            "goals": 7,
+            "assists": 2,
+            "specialty_stats": {
+                "remates_totales_p90": 2.18,
+                "remates_a_puerta_p90": 0.83,
+                "toques_area_rival_p90": 4.5
+            }
+        },
+        "Tiros a Puerta": {
+            "name": "Vedat Muriqi",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Delantero",
+            "specialty": "Remates a Puerta",
+            "matches_played": 30,
+            "goals": 7,
+            "assists": 2,
+            "specialty_stats": {
+                "tiros_a_puerta_p90": 0.83,
+                "porcentaje_tiros_a_puerta": "38.0%",
+                "goles_por_tiro_a_puerta": 0.36
+            }
+        },
+        "Faltas Cometidas": {
+            "name": "Mascarell",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Faltas Cometidas",
+            "matches_played": 32,
+            "goals": 0,
+            "assists": 2,
+            "specialty_stats": {
+                "faltas_cometidas_p90": 2.1,
+                "presiones_exitosas_p90": 10.5,
+                "porcentaje_duelos_defensivos_ganados": "60%"
+            }
+        },
+        "Tarjetas": {
+            "name": "Antonio Raíllo",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Más Amonestado",
+            "matches_played": 32,
+            "goals": 2,
+            "assists": 0,
+            "specialty_stats": {
+                "tarjetas_amarillas_totales": 7,
+                "faltas_por_tarjeta": 7.14,
+                "entradas_malogradas_p90": 0.4
+            }
+        },
+        "Tackles": {
+            "name": "Mascarell",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Más Entradas",
+            "matches_played": 32,
+            "goals": 0,
+            "assists": 2,
+            "specialty_stats": {
+                "entradas_exitosas_p90": 3.05,
+                "intercepciones_p90": 1.5,
+                "recuperaciones_balon_p90": 7.9
+            }
+        }
+    },
+    "Real Betis": {
+        "Tiros": {
+            "name": "Antony",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Freal-betis-antony--bpwztons.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Mayor Rematador",
+            "matches_played": 32,
+            "goals": 2,
+            "assists": 2,
+            "specialty_stats": {
+                "remates_totales_p90": 2.35,
+                "remates_a_puerta_p90": 1.17,
+                "toques_area_rival_p90": 7.3
+            }
+        },
+        "Tiros a Puerta": {
+            "name": "Abde Ezzalzouli",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Delantero",
+            "specialty": "Remates a Puerta",
+            "matches_played": 32,
+            "goals": 2,
+            "assists": 2,
+            "specialty_stats": {
+                "tiros_a_puerta_p90": 1.17,
+                "porcentaje_tiros_a_puerta": "50.0%",
+                "goles_por_tiro_a_puerta": 0.07
+            }
+        },
+        "Faltas Cometidas": {
+            "name": "Pablo Fornals",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Faltas Cometidas",
+            "matches_played": 30,
+            "goals": 3,
+            "assists": 1,
+            "specialty_stats": {
+                "faltas_cometidas_p90": 1.5,
+                "presiones_exitosas_p90": 9.8,
+                "porcentaje_duelos_defensivos_ganados": "52%"
+            }
+        },
+        "Tarjetas": {
+            "name": "Bellerín",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Más Amonestado",
+            "matches_played": 28,
+            "goals": 2,
+            "assists": 1,
+            "specialty_stats": {
+                "tarjetas_amarillas_totales": 8,
+                "faltas_por_tarjeta": 3.28,
+                "entradas_malogradas_p90": 0.7
+            }
+        },
+        "Tackles": {
+            "name": "Sergi Altimira",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Más Entradas",
+            "matches_played": 25,
+            "goals": 1,
+            "assists": 1,
+            "specialty_stats": {
+                "entradas_exitosas_p90": 2.6,
+                "intercepciones_p90": 1.3,
+                "recuperaciones_balon_p90": 5.5
+            }
+        }
+    },
+    "Real Madrid": {
+        "Tiros": {
+            "name": "Kylian Mbappé",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Freal-madrid-kylian-mbappe--odqrhi8g.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Mayor Rematador",
+            "matches_played": 34,
+            "goals": 31,
+            "assists": 3,
+            "specialty_stats": {
+                "remates_totales_p90": 4.97,
+                "remates_a_puerta_p90": 2.62,
+                "toques_area_rival_p90": 10.92
+            }
+        },
+        "Tiros a Puerta": {
+            "name": "Kylian Mbappé",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Freal-madrid-kylian-mbappe--odqrhi8g.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Remates a Puerta",
+            "matches_played": 34,
+            "goals": 31,
+            "assists": 3,
+            "specialty_stats": {
+                "tiros_a_puerta_p90": 2.62,
+                "porcentaje_tiros_a_puerta": "52.8%",
+                "goles_por_tiro_a_puerta": 0.36
+            }
+        },
+        "Faltas Cometidas": {
+            "name": "Jude Bellingham",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Freal-madrid-jude-bellingham--veximzqq.png&w=600&f=webp",
+            "position": "Centrocampista",
+            "specialty": "Faltas Cometidas",
+            "matches_played": 31,
+            "goals": 9,
+            "assists": 8,
+            "specialty_stats": {
+                "faltas_cometidas_p90": 1.19,
+                "presiones_exitosas_p90": 8.1,
+                "porcentaje_duelos_defensivos_ganados": "68%"
+            }
+        },
+        "Tarjetas": {
+            "name": "Vinícius Jr.",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Freal-madrid-vinicius-junior--nnavobx-.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Más Amonestado",
+            "matches_played": 30,
+            "goals": 11,
+            "assists": 8,
+            "specialty_stats": {
+                "tarjetas_amarillas_totales": 10,
+                "faltas_por_tarjeta": 3.5,
+                "entradas_malogradas_p90": 0.3
+            }
+        },
+        "Tackles": {
+            "name": "Jude Bellingham",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Freal-madrid-jude-bellingham--veximzqq.png&w=600&f=webp",
+            "position": "Centrocampista",
+            "specialty": "Más Entradas",
+            "matches_played": 31,
+            "goals": 9,
+            "assists": 8,
+            "specialty_stats": {
+                "entradas_exitosas_p90": 2.21,
+                "intercepciones_p90": 1.01,
+                "recuperaciones_balon_p90": 5.8
+            }
+        }
+    },
+    "Real Sociedad": {
+        "Tiros": {
+            "name": "Mikel Oyarzabal",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Freal-sociedad-mikel-oyarzabal--44a34rug.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Mayor Rematador",
+            "matches_played": 32,
+            "goals": 9,
+            "assists": 3,
+            "specialty_stats": {
+                "remates_totales_p90": 1.39,
+                "remates_a_puerta_p90": 0.72,
+                "toques_area_rival_p90": 3.5
+            }
+        },
+        "Tiros a Puerta": {
+            "name": "Mikel Oyarzabal",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Freal-sociedad-mikel-oyarzabal--44a34rug.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Remates a Puerta",
+            "matches_played": 32,
+            "goals": 9,
+            "assists": 3,
+            "specialty_stats": {
+                "tiros_a_puerta_p90": 0.72,
+                "porcentaje_tiros_a_puerta": "51.4%",
+                "goles_por_tiro_a_puerta": 0.5
+            }
+        },
+        "Faltas Cometidas": {
+            "name": "Jon Aramburu",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Faltas Cometidas",
+            "matches_played": 28,
+            "goals": 0,
+            "assists": 1,
+            "specialty_stats": {
+                "faltas_cometidas_p90": 2.3,
+                "presiones_exitosas_p90": 8.5,
+                "porcentaje_duelos_defensivos_ganados": "58%"
+            }
+        },
+        "Tarjetas": {
+            "name": "Jon Aramburu",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Más Amonestado",
+            "matches_played": 28,
+            "goals": 0,
+            "assists": 1,
+            "specialty_stats": {
+                "tarjetas_amarillas_totales": 10,
+                "faltas_por_tarjeta": 6.25,
+                "entradas_malogradas_p90": 0.8
+            }
+        },
+        "Tackles": {
+            "name": "Jon Aramburu",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Más Entradas",
+            "matches_played": 28,
+            "goals": 0,
+            "assists": 1,
+            "specialty_stats": {
+                "entradas_exitosas_p90": 4.7,
+                "intercepciones_p90": 1.2,
+                "recuperaciones_balon_p90": 6.5
+            }
+        }
+    },
+    "Sevilla FC": {
+        "Tiros": {
+            "name": "Isaac",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Delantero",
+            "specialty": "Mayor Rematador",
+            "matches_played": 38,
+            "goals": 11,
+            "assists": 2,
+            "specialty_stats": {
+                "remates_totales_p90": 2.17,
+                "remates_a_puerta_p90": 1.13,
+                "toques_area_rival_p90": 4.4
+            }
+        },
+        "Tiros a Puerta": {
+            "name": "Isaac",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Delantero",
+            "specialty": "Remates a Puerta",
+            "matches_played": 38,
+            "goals": 11,
+            "assists": 2,
+            "specialty_stats": {
+                "tiros_a_puerta_p90": 1.13,
+                "porcentaje_tiros_a_puerta": "52.0%",
+                "goles_por_tiro_a_puerta": 0.28
+            }
+        },
+        "Faltas Cometidas": {
+            "name": "José Ángel Carmona",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Faltas Cometidas",
+            "matches_played": 35,
+            "goals": 0,
+            "assists": 0,
+            "specialty_stats": {
+                "faltas_cometidas_p90": 1.5,
+                "presiones_exitosas_p90": 7.5,
+                "porcentaje_duelos_defensivos_ganados": "63%"
+            }
+        },
+        "Tarjetas": {
+            "name": "José Ángel Carmona",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Más Amonestado",
+            "matches_played": 35,
+            "goals": 0,
+            "assists": 0,
+            "specialty_stats": {
+                "tarjetas_amarillas_totales": 12,
+                "faltas_por_tarjeta": 4.45,
+                "entradas_malogradas_p90": 0.9
+            }
+        },
+        "Tackles": {
+            "name": "José Ángel Carmona",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Más Entradas",
+            "matches_played": 35,
+            "goals": 0,
+            "assists": 0,
+            "specialty_stats": {
+                "entradas_exitosas_p90": 2.53,
+                "intercepciones_p90": 2.1,
+                "recuperaciones_balon_p90": 6.0
+            }
+        }
+    },
+    "Valencia CF": {
+        "Tiros": {
+            "name": "Hugo Duro",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fvalencia-hugo-duro--bl445mcc.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Mayor Rematador",
+            "matches_played": 32,
+            "goals": 11,
+            "assists": 2,
+            "specialty_stats": {
+                "remates_totales_p90": 1.57,
+                "remates_a_puerta_p90": 0.75,
+                "toques_area_rival_p90": 3.8
+            }
+        },
+        "Tiros a Puerta": {
+            "name": "Hugo Duro",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fvalencia-hugo-duro--bl445mcc.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Remates a Puerta",
+            "matches_played": 32,
+            "goals": 11,
+            "assists": 2,
+            "specialty_stats": {
+                "tiros_a_puerta_p90": 0.75,
+                "porcentaje_tiros_a_puerta": "47.3%",
+                "goles_por_tiro_a_puerta": 0.61
+            }
+        },
+        "Faltas Cometidas": {
+            "name": "César Tárrega",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Faltas Cometidas",
+            "matches_played": 28,
+            "goals": 1,
+            "assists": 0,
+            "specialty_stats": {
+                "faltas_cometidas_p90": 2.4,
+                "presiones_exitosas_p90": 5.5,
+                "porcentaje_duelos_defensivos_ganados": "66%"
+            }
+        },
+        "Tarjetas": {
+            "name": "Pepelu",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Más Amonestado",
+            "matches_played": 35,
+            "goals": 2,
+            "assists": 2,
+            "specialty_stats": {
+                "tarjetas_amarillas_totales": 7,
+                "faltas_por_tarjeta": 4.57,
+                "entradas_malogradas_p90": 0.6
+            }
+        },
+        "Tackles": {
+            "name": "Foulquier",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Más Entradas",
+            "matches_played": 25,
+            "goals": 1,
+            "assists": 2,
+            "specialty_stats": {
+                "entradas_exitosas_p90": 2.4,
+                "intercepciones_p90": 1.1,
+                "recuperaciones_balon_p90": 4.9
+            }
+        }
+    },
+    "Villarreal CF": {
+        "Tiros": {
+            "name": "Nicolas Pépé",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fvillarreal-nicolas-pe-pe---sbdxn05.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Mayor Rematador",
+            "matches_played": 35,
+            "goals": 11,
+            "assists": 4,
+            "specialty_stats": {
+                "remates_totales_p90": 2.44,
+                "remates_a_puerta_p90": 0.97,
+                "toques_area_rival_p90": 5.22
+            }
+        },
+        "Tiros a Puerta": {
+            "name": "Ayoze Pérez",
+            "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fvillarreal-ayoze-pe-rez--p_lioifr.png&w=600&f=webp",
+            "position": "Delantero",
+            "specialty": "Remates a Puerta",
+            "matches_played": 30,
+            "goals": 19,
+            "assists": 2,
+            "specialty_stats": {
+                "tiros_a_puerta_p90": 1.41,
+                "porcentaje_tiros_a_puerta": "54.3%",
+                "goles_por_tiro_a_puerta": 0.61
+            }
+        },
+        "Faltas Cometidas": {
+            "name": "Parejo",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Faltas Cometidas",
+            "matches_played": 34,
+            "goals": 4,
+            "assists": 7,
+            "specialty_stats": {
+                "faltas_cometidas_p90": 2.26,
+                "presiones_exitosas_p90": 10.8,
+                "porcentaje_duelos_defensivos_ganados": "51%"
+            }
+        },
+        "Tarjetas": {
+            "name": "Sergi Cardona",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Más Amonestado",
+            "matches_played": 35,
+            "goals": 1,
+            "assists": 7,
+            "specialty_stats": {
+                "tarjetas_amarillas_totales": 12,
+                "faltas_por_tarjeta": 3.45,
+                "entradas_malogradas_p90": 0.8
+            }
+        },
+        "Tackles": {
+            "name": "Santi Comesaña",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Más Entradas",
+            "matches_played": 33,
+            "goals": 4,
+            "assists": 1,
+            "specialty_stats": {
+                "entradas_exitosas_p90": 2.8,
+                "intercepciones_p90": 1.1,
+                "recuperaciones_balon_p90": 5.9
+            }
+        }
+    },
+    "Real Oviedo": {
+        "Tiros": {
+            "name": "Salomón Rondón",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Delantero",
+            "specialty": "Mayor Rematador",
+            "matches_played": 30,
+            "goals": 12,
+            "assists": 3,
+            "specialty_stats": {
+                "remates_totales_p90": 2.5,
+                "remates_a_puerta_p90": 1.2,
+                "toques_area_rival_p90": 5.1
+            }
+        },
+        "Tiros a Puerta": {
+            "name": "Salomón Rondón",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Delantero",
+            "specialty": "Remates a Puerta",
+            "matches_played": 30,
+            "goals": 12,
+            "assists": 3,
+            "specialty_stats": {
+                "tiros_a_puerta_p90": 1.2,
+                "porcentaje_tiros_a_puerta": "48.0%",
+                "goles_por_tiro_a_puerta": 0.42
+            }
+        },
+        "Faltas Cometidas": {
+            "name": "Santiago Colombatto",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Faltas Cometidas",
+            "matches_played": 35,
+            "goals": 2,
+            "assists": 5,
+            "specialty_stats": {
+                "faltas_cometidas_p90": 2.1,
+                "presiones_exitosas_p90": 9.5,
+                "porcentaje_duelos_defensivos_ganados": "58%"
+            }
+        },
+        "Tarjetas": {
+            "name": "Leander Dendoncker",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Más Amonestado",
+            "matches_played": 32,
+            "goals": 1,
+            "assists": 1,
+            "specialty_stats": {
+                "tarjetas_amarillas_totales": 11,
+                "faltas_por_tarjeta": 4.5,
+                "entradas_malogradas_p90": 1.0
+            }
+        },
+        "Tackles": {
+            "name": "Leander Dendoncker",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Más Entradas",
+            "matches_played": 32,
+            "goals": 1,
+            "assists": 1,
+            "specialty_stats": {
+                "entradas_exitosas_p90": 2.8,
+                "intercepciones_p90": 1.9,
+                "recuperaciones_balon_p90": 6.2
+            }
+        }
+    },
+    "Levante UD": {
+        "Tiros": {
+            "name": "Iván Romero",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Delantero",
+            "specialty": "Mayor Rematador",
+            "matches_played": 30,
+            "goals": 8,
+            "assists": 4,
+            "specialty_stats": {
+                "remates_totales_p90": 2.2,
+                "remates_a_puerta_p90": 1.0,
+                "toques_area_rival_p90": 4.8
+            }
+        },
+        "Tiros a Puerta": {
+            "name": "José Luis Morales",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Delantero",
+            "specialty": "Remates a Puerta",
+            "matches_played": 34,
+            "goals": 12,
+            "assists": 3,
+            "specialty_stats": {
+                "tiros_a_puerta_p90": 1.1,
+                "porcentaje_tiros_a_puerta": "45.0%",
+                "goles_por_tiro_a_puerta": 0.4
+            }
+        },
+        "Faltas Cometidas": {
+            "name": "Unai Vencedor",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Faltas Cometidas",
+            "matches_played": 32,
+            "goals": 1,
+            "assists": 2,
+            "specialty_stats": {
+                "faltas_cometidas_p90": 2.5,
+                "presiones_exitosas_p90": 10.2,
+                "porcentaje_duelos_defensivos_ganados": "55%"
+            }
+        },
+        "Tarjetas": {
+            "name": "Dela",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Defensa",
+            "specialty": "Más Amonestado",
+            "matches_played": 35,
+            "goals": 0,
+            "assists": 1,
+            "specialty_stats": {
+                "tarjetas_amarillas_totales": 14,
+                "faltas_por_tarjeta": 3.8,
+                "entradas_malogradas_p90": 1.2
+            }
+        },
+        "Tackles": {
+            "name": "Pampín",
+            "photoUrl": "https://i.postimg.cc/gkRLkZZm/1761853168.png",
+            "position": "Centrocampista",
+            "specialty": "Más Entradas",
+            "matches_played": 33,
+            "goals": 0,
+            "assists": 1,
+            "specialty_stats": {
+                "entradas_exitosas_p90": 3.1,
+                "intercepciones_p90": 2.0,
+                "recuperaciones_balon_p90": 6.8
+            }
+        }
+    }
+}

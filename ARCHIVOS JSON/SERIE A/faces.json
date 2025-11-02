@@ -1,0 +1,742 @@
+{
+  "AC Milan": {
+    "Tiros": {
+      "name": "Santiago Giménez",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fmilan-santiago-gimenez--myvrjlo4.png&w=600&h=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "specialty_stats": { "remates_totales_p90": 3.4, "remates_a_puerta_p90": 1.5, "toques_area_rival_p90": 6.8 }
+    },
+    "Tiros a Puerta": {
+      "name": "Rafael Leão",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fmilan-rafael-leao--jz_ckwwa.png&w=600&h=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "specialty_stats": { "tiros_a_puerta_p90": 1.4, "porcentaje_tiros_a_puerta": "48.0%", "goles_por_tiro_a_puerta": 0.28 }
+    },
+    "Faltas Cometidas": {
+      "name": "Ruben Loftus-Cheek",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "specialty_stats": { "faltas_cometidas_p90": 1.9, "presiones_exitosas_p90": 5.8, "porcentaje_duelos_defensivos_ganados": "55%" }
+    },
+    "Tarjetas": {
+      "name": "Fikayo Tomori",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "specialty_stats": { "tarjetas_amarillas_totales": 9, "faltas_por_tarjeta": 3.1, "entradas_malogradas_p90": 0.7 }
+    },
+    "Tackles": {
+      "name": "Youssouf Fofana",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "specialty_stats": { "entradas_exitosas_p90": 2.8, "intercepciones_p90": 1.6, "recuperaciones_balon_p90": 7.0 }
+    }
+  },
+  "Inter": {
+    "Tiros": {
+      "name": "Lautaro Martínez",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Finter-lautaro-martinez--e-nlw6s5.png&w=600&h=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "specialty_stats": { "remates_totales_p90": 4.1, "remates_a_puerta_p90": 1.8, "toques_area_rival_p90": 6.2 }
+    },
+    "Tiros a Puerta": {
+      "name": "Marcus Thuram",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Finter-marcus-thuram--ch_9kcge.png&w=600&h=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "specialty_stats": { "tiros_a_puerta_p90": 1.2, "porcentaje_tiros_a_puerta": "49.0%", "goles_por_tiro_a_puerta": 0.31 }
+    },
+    "Faltas Cometidas": {
+      "name": "Hakan Çalhanoğlu",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Finter-hakan-calhanoglu--aaplji7-.png&w=600&h=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "specialty_stats": { "faltas_cometidas_p90": 1.5, "presiones_exitosas_p90": 6.9, "porcentaje_duelos_defensivos_ganados": "53%" }
+    },
+    "Tarjetas": {
+      "name": "Alessandro Bastoni",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Finter-alessandro-bastoni--a15d0mbu.png&w=600&h=600&f=webp",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "specialty_stats": { "tarjetas_amarillas_totales": 8, "faltas_por_tarjeta": 3.8, "entradas_malogradas_p90": 0.6 }
+    },
+    "Tackles": {
+      "name": "Nicolò Barella",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Finter-nicolo-barella--z2do9uio.png&w=600&h=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "specialty_stats": { "entradas_exitosas_p90": 2.6, "intercepciones_p90": 1.5, "recuperaciones_balon_p90": 7.1 }
+    }
+  },
+  "SSC Napoli": {
+    "Tiros": {
+      "name": "Romelu Lukaku",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fnapoli-romelu-lukaku--nneioaj5.png&w=600&h=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "specialty_stats": { "remates_totales_p90": 3.9, "remates_a_puerta_p90": 1.7, "toques_area_rival_p90": 7.0 }
+    },
+    "Tiros a Puerta": {
+      "name": "Rasmus Højlund",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fnapoli-rasmus-hojlund--r07kei0l.png&w=600&h=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "specialty_stats": { "tiros_a_puerta_p90": 1.5, "porcentaje_tiros_a_puerta": "46.0%", "goles_por_tiro_a_puerta": 0.35 }
+    },
+    "Faltas Cometidas": {
+      "name": "Scott McTominay",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fnapoli-scott-mctominay--0qwog22x.png&w=600&h=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "specialty_stats": { "faltas_cometidas_p90": 2.1, "presiones_exitosas_p90": 6.1, "porcentaje_duelos_defensivos_ganados": "58%" }
+    },
+    "Tarjetas": {
+      "name": "Alessandro Buongiorno",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fnapoli-alessandro-buongiorno--8du2ndrv.png&w=600&h=600&f=webp",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "specialty_stats": { "tarjetas_amarillas_totales": 10, "faltas_por_tarjeta": 3.4, "entradas_malogradas_p90": 0.8 }
+    },
+    "Tackles": {
+      "name": "Frank Anguissa",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fnapoli-andre-frank-zambo-anguissa--ilbvjjuh.png&w=600&h=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "specialty_stats": { "entradas_exitosas_p90": 2.4, "intercepciones_p90": 1.3, "recuperaciones_balon_p90": 6.6 }
+    }
+  },
+  "Juventus": {
+    "Tiros": {
+      "name": "Dušan Vlahović",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fjuventus-dusan-vlahovic--mg0h4n1z.png&w=600&h=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "specialty_stats": { "remates_totales_p90": 3.5, "remates_a_puerta_p90": 1.5, "toques_area_rival_p90": 5.8 }
+    },
+    "Tiros a Puerta": {
+      "name": "Loïs Openda",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fjuventus-loi-s-openda--6yhc8wsc.png&w=600&h=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "specialty_stats": { "tiros_a_puerta_p90": 1.4, "porcentaje_tiros_a_puerta": "44.0%", "goles_por_tiro_a_puerta": 0.33 }
+    },
+    "Faltas Cometidas": {
+      "name": "Manuel Locatelli",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "specialty_stats": { "faltas_cometidas_p90": 1.8, "presiones_exitosas_p90": 6.0, "porcentaje_duelos_defensivos_ganados": "51%" }
+    },
+    "Tarjetas": {
+      "name": "Bremer",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fjuventus-bremer--9ulh816z.png&w=600&h=600&f=webp",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "specialty_stats": { "tarjetas_amarillas_totales": 9, "faltas_por_tarjeta": 3.7, "entradas_malogradas_p90": 0.6 }
+    },
+    "Tackles": {
+      "name": "Khéphren Thuram",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fjuventus-khe-phren-thuram--bc9-9rvg.png&w=600&h=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "specialty_stats": { "entradas_exitosas_p90": 2.7, "intercepciones_p90": 1.5, "recuperaciones_balon_p90": 6.9 }
+    }
+  },
+  "Atalanta BC": {
+    "Tiros": {
+      "name": "Gianluca Scamacca",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "specialty_stats": { "remates_totales_p90": 3.8, "remates_a_puerta_p90": 1.5, "toques_area_rival_p90": 5.9 }
+    },
+    "Tiros a Puerta": {
+      "name": "Ademola Lookman",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fatalanta-ademola-lookman--pfkjnwkr.png&w=600&h=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "specialty_stats": { "tiros_a_puerta_p90": 1.3, "porcentaje_tiros_a_puerta": "44.8%", "goles_por_tiro_a_puerta": 0.28 }
+    },
+    "Faltas Cometidas": {
+      "name": "Marten de Roon",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "specialty_stats": { "faltas_cometidas_p90": 2.0, "presiones_exitosas_p90": 7.2, "porcentaje_duelos_defensivos_ganados": "56%" }
+    },
+    "Tarjetas": {
+      "name": "Marten de Roon",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Más Amonestado",
+      "specialty_stats": { "tarjetas_amarillas_totales": 11, "faltas_por_tarjeta": 2.9, "entradas_malogradas_p90": 0.8 }
+    },
+    "Tackles": {
+      "name": "Éderson",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fatalanta-e-derson--ar30j1pi.png&w=600&h=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "specialty_stats": { "entradas_exitosas_p90": 2.9, "intercepciones_p90": 1.7, "recuperaciones_balon_p90": 7.2 }
+    }
+  },
+  "Bologna FC": {
+    "Tiros": {
+      "name": "Ciro Immobile",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "specialty_stats": { "remates_totales_p90": 3.1, "remates_a_puerta_p90": 1.2, "toques_area_rival_p90": 5.0 }
+    },
+    "Tiros a Puerta": {
+      "name": "Riccardo Orsolini",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fbologna-riccardo-orsolini--irmugfor.png&w=600&h=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "specialty_stats": { "tiros_a_puerta_p90": 1.1, "porcentaje_tiros_a_puerta": "40.0%", "goles_por_tiro_a_puerta": 0.25 }
+    },
+    "Faltas Cometidas": {
+      "name": "Lewis Ferguson",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "specialty_stats": { "faltas_cometidas_p90": 1.8, "presiones_exitosas_p90": 6.8, "porcentaje_duelos_defensivos_ganados": "54%" }
+    },
+    "Tarjetas": {
+      "name": "Jhon Lucumí",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "specialty_stats": { "tarjetas_amarillas_totales": 8, "faltas_por_tarjeta": 3.1, "entradas_malogradas_p90": 0.5 }
+    },
+    "Tackles": {
+      "name": "Remo Freuler",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "specialty_stats": { "entradas_exitosas_p90": 2.4, "intercepciones_p90": 1.8, "recuperaciones_balon_p90": 6.9 }
+    }
+  },
+  "AS Roma": {
+    "Tiros": {
+      "name": "Artem Dovbyk",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Froma-artem-dovbyk--hj4zuvqi.png&w=600&h=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "specialty_stats": { "remates_totales_p90": 3.7, "remates_a_puerta_p90": 1.6, "toques_area_rival_p90": 5.5 }
+    },
+    "Tiros a Puerta": {
+      "name": "Paulo Dybala",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Froma-paolo-dybala--pc06qnnl.png&w=600&h=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "specialty_stats": { "tiros_a_puerta_p90": 1.5, "porcentaje_tiros_a_puerta": "43.1%", "goles_por_tiro_a_puerta": 0.33 }
+    },
+    "Faltas Cometidas": {
+      "name": "Gianluca Mancini",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Defensa",
+      "specialty": "Faltas Cometidas",
+      "specialty_stats": { "faltas_cometidas_p90": 1.7, "presiones_exitosas_p90": 6.1, "porcentaje_duelos_defensivos_ganados": "57%" }
+    },
+    "Tarjetas": {
+      "name": "Gianluca Mancini",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "specialty_stats": { "tarjetas_amarillas_totales": 11, "faltas_por_tarjeta": 3.6, "entradas_malogradas_p90": 0.6 }
+    },
+    "Tackles": {
+      "name": "Bryan Cristante",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "specialty_stats": { "entradas_exitosas_p90": 2.3, "intercepciones_p90": 1.7, "recuperaciones_balon_p90": 6.8 }
+    }
+  },
+  "SS Lazio": {
+    "Tiros": {
+      "name": "Valentín Castellanos",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Flazio-valentin-castellanos--ityn3z0_.png&w=600&h=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "specialty_stats": { "remates_totales_p90": 2.8, "remates_a_puerta_p90": 1.1, "toques_area_rival_p90": 4.9 }
+    },
+    "Tiros a Puerta": {
+      "name": "Mattia Zaccagni",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Flazio-mattia-zaccagni--83ovpvwz.png&w=600&h=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Remates a Puerta",
+      "specialty_stats": { "tiros_a_puerta_p90": 1.0, "porcentaje_tiros_a_puerta": "39.3%", "goles_por_tiro_a_puerta": 0.20 }
+    },
+    "Faltas Cometidas": {
+      "name": "Mattéo Guendouzi",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Flazio-matte-o-guendouzi--lmtjw1i7.png&w=600&h=600&f=webp",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "specialty_stats": { "faltas_cometidas_p90": 1.7, "presiones_exitosas_p90": 6.4, "porcentaje_duelos_defensivos_ganados": "53%" }
+    },
+    "Tarjetas": {
+      "name": "Alessio Romagnoli",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "specialty_stats": { "tarjetas_amarillas_totales": 8, "faltas_por_tarjeta": 3.0, "entradas_malogradas_p90": 0.5 }
+    },
+    "Tackles": {
+      "name": "Nicolò Rovella",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "specialty_stats": { "entradas_exitosas_p90": 2.7, "intercepciones_p90": 1.6, "recuperaciones_balon_p90": 7.0 }
+    }
+  },
+  "Torino FC": {
+    "Tiros": {
+      "name": "Duván Zapata",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "specialty_stats": { "remates_totales_p90": 3.0, "remates_a_puerta_p90": 1.1, "toques_area_rival_p90": 5.7 }
+    },
+    "Tiros a Puerta": {
+      "name": "Giovanni Simeone",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "specialty_stats": { "tiros_a_puerta_p90": 1.0, "porcentaje_tiros_a_puerta": "36.7%", "goles_por_tiro_a_puerta": 0.30 }
+    },
+    "Faltas Cometidas": {
+      "name": "Adrien Tamèze",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "specialty_stats": { "faltas_cometidas_p90": 1.8, "presiones_exitosas_p90": 7.0, "porcentaje_duelos_defensivos_ganados": "55%" }
+    },
+    "Tarjetas": {
+      "name": "Guillermo Maripán",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "specialty_stats": { "tarjetas_amarillas_totales": 9, "faltas_por_tarjeta": 3.4, "entradas_malogradas_p90": 0.6 }
+    },
+    "Tackles": {
+      "name": "Ivan Ilić",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "specialty_stats": { "entradas_exitosas_p90": 2.2, "intercepciones_p90": 1.2, "recuperaciones_balon_p90": 6.3 }
+    }
+  },
+  "ACF Fiorentina": {
+    "Tiros": {
+      "name": "Albert Guðmundsson",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "specialty_stats": { "remates_totales_p90": 3.2, "remates_a_puerta_p90": 1.3, "toques_area_rival_p90": 5.4 }
+    },
+    "Tiros a Puerta": {
+      "name": "Moise Kean",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Ffiorentina-moise-kean--wvylo2sy.png&w=600&h=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "specialty_stats": { "tiros_a_puerta_p90": 1.2, "porcentaje_tiros_a_puerta": "40.6%", "goles_por_tiro_a_puerta": 0.31 }
+    },
+    "Faltas Cometidas": {
+      "name": "Nicolò Fagioli",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "specialty_stats": { "faltas_cometidas_p90": 1.9, "presiones_exitosas_p90": 6.7, "porcentaje_duelos_defensivos_ganados": "53%" }
+    },
+    "Tarjetas": {
+      "name": "Marin Pongračić",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "specialty_stats": { "tarjetas_amarillas_totales": 8, "faltas_por_tarjeta": 3.1, "entradas_malogradas_p90": 0.7 }
+    },
+    "Tackles": {
+      "name": "Rolando Mandragora",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "specialty_stats": { "entradas_exitosas_p90": 2.5, "intercepciones_p90": 1.4, "recuperaciones_balon_p90": 6.2 }
+    }
+  },
+  "Genoa CFC": {
+    "Tiros": {
+      "name": "Vitinha",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "specialty_stats": { "remates_totales_p90": 2.9, "remates_a_puerta_p90": 1.1, "toques_area_rival_p90": 5.3 }
+    },
+    "Tiros a Puerta": {
+      "name": "Ruslan Malinovskyi",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Remates a Puerta",
+      "specialty_stats": { "tiros_a_puerta_p90": 1.2, "porcentaje_tiros_a_puerta": "41.4%", "goles_por_tiro_a_puerta": 0.33 }
+    },
+    "Faltas Cometidas": {
+      "name": "Morten Frendrup",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "specialty_stats": { "faltas_cometidas_p90": 1.8, "presiones_exitosas_p90": 8.0, "porcentaje_duelos_defensivos_ganados": "59%" }
+    },
+    "Tarjetas": {
+      "name": "Johan Vásquez",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "specialty_stats": { "tarjetas_amarillas_totales": 9, "faltas_por_tarjeta": 3.2, "entradas_malogradas_p90": 0.6 }
+    },
+    "Tackles": {
+      "name": "Morten Frendrup",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "specialty_stats": { "entradas_exitosas_p90": 3.4, "intercepciones_p90": 1.9, "recuperaciones_balon_p90": 7.8 }
+    }
+  },
+  "US Lecce": {
+    "Tiros": {
+      "name": "Francesco Camarda",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "specialty_stats": { "remates_totales_p90": 2.5, "remates_a_puerta_p90": 0.9, "toques_area_rival_p90": 4.6 }
+    },
+    "Tiros a Puerta": {
+      "name": "Lameck Banda",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "specialty_stats": { "tiros_a_puerta_p90": 0.8, "porcentaje_tiros_a_puerta": "36.0%", "goles_por_tiro_a_puerta": 0.20 }
+    },
+    "Faltas Cometidas": {
+      "name": "Ylber Ramadani",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "specialty_stats": { "faltas_cometidas_p90": 1.7, "presiones_exitosas_p90": 6.9, "porcentaje_duelos_defensivos_ganados": "57%" }
+    },
+    "Tarjetas": {
+      "name": "Lassana Coulibaly",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Más Amonestado",
+      "specialty_stats": { "tarjetas_amarillas_totales": 10, "faltas_por_tarjeta": 2.8, "entradas_malogradas_p90": 0.6 }
+    },
+    "Tackles": {
+      "name": "Balthazar Pierret",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "specialty_stats": { "entradas_exitosas_p90": 2.7, "intercepciones_p90": 1.5, "recuperaciones_balon_p90": 6.4 }
+    }
+  },
+  "Udinese Calcio": {
+    "Tiros": {
+      "name": "Adam Buksa",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "specialty_stats": { "remates_totales_p90": 2.6, "remates_a_puerta_p90": 1.0, "toques_area_rival_p90": 5.1 }
+    },
+    "Tiros a Puerta": {
+      "name": "Nicolò Zaniolo",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "specialty_stats": { "tiros_a_puerta_p90": 0.9, "porcentaje_tiros_a_puerta": "38.5%", "goles_por_tiro_a_puerta": 0.21 }
+    },
+    "Faltas Cometidas": {
+      "name": "Jakub Piotrowski",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "specialty_stats": { "faltas_cometidas_p90": 1.9, "presiones_exitosas_p90": 7.0, "porcentaje_duelos_defensivos_ganados": "58%" }
+    },
+    "Tarjetas": {
+      "name": "Oumar Solet",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "specialty_stats": { "tarjetas_amarillas_totales": 9, "faltas_por_tarjeta": 3.6, "entradas_malogradas_p90": 0.7 }
+    },
+    "Tackles": {
+      "name": "Sandi Lovrić",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "specialty_stats": { "entradas_exitosas_p90": 2.7, "intercepciones_p90": 1.6, "recuperaciones_balon_p90": 6.5 }
+    }
+  },
+  "Cagliari Calcio": {
+    "Tiros": {
+      "name": "Andrea Belotti",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "specialty_stats": { "remates_totales_p90": 2.3, "remates_a_puerta_p90": 0.8, "toques_area_rival_p90": 4.9 }
+    },
+    "Tiros a Puerta": {
+      "name": "Zito Luvumbo",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "specialty_stats": { "tiros_a_puerta_p90": 0.7, "porcentaje_tiros_a_puerta": "42.9%", "goles_por_tiro_a_puerta": 0.28 }
+    },
+    "Faltas Cometidas": {
+      "name": "Michael Folorunsho",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "specialty_stats": { "faltas_cometidas_p90": 1.9, "presiones_exitosas_p90": 7.0, "porcentaje_duelos_defensivos_ganados": "56%" }
+    },
+    "Tarjetas": {
+      "name": "Yerry Mina",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "specialty_stats": { "tarjetas_amarillas_totales": 8, "faltas_por_tarjeta": 3.3, "entradas_malogradas_p90": 0.6 }
+    },
+    "Tackles": {
+      "name": "Matteo Prati",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "specialty_stats": { "entradas_exitosas_p90": 2.4, "intercepciones_p90": 1.5, "recuperaciones_balon_p90": 6.1 }
+    }
+  },
+  "Como 1907": {
+    "Tiros": {
+      "name": "Álvaro Morata",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fcomo-alvaro-morata--lxigdym7.png&w=600&h=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "specialty_stats": { "remates_totales_p90": 2.8, "remates_a_puerta_p90": 1.1, "toques_area_rival_p90": 5.0 }
+    },
+    "Tiros a Puerta": {
+      "name": "Tasos Douvikas",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "specialty_stats": { "tiros_a_puerta_p90": 1.0, "porcentaje_tiros_a_puerta": "39.3%", "goles_por_tiro_a_puerta": 0.32 }
+    },
+    "Faltas Cometidas": {
+      "name": "Sergi Roberto",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "specialty_stats": { "faltas_cometidas_p90": 1.9, "presiones_exitosas_p90": 6.6, "porcentaje_duelos_defensivos_ganados": "54%" }
+    },
+    "Tarjetas": {
+      "name": "Alberto Dossena",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "specialty_stats": { "tarjetas_amarillas_totales": 9, "faltas_por_tarjeta": 3.1, "entradas_malogradas_p90": 0.7 }
+    },
+    "Tackles": {
+      "name": "Maxence Caqueret",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "specialty_stats": { "entradas_exitosas_p90": 2.8, "intercepciones_p90": 1.7, "recuperaciones_balon_p90": 6.5 }
+    }
+  },
+  "Parma Calcio": {
+    "Tiros": {
+      "name": "Patrick Cutrone",
+      "photoUrl": "https.i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "specialty_stats": { "remates_totales_p90": 3.0, "remates_a_puerta_p90": 1.3, "toques_area_rival_p90": 5.5 }
+    },
+    "Tiros a Puerta": {
+      "name": "Adrian Benedyczak",
+      "photoUrl": "https.i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "specialty_stats": { "tiros_a_puerta_p90": 1.1, "porcentaje_tiros_a_puerta": "41.7%", "goles_por_tiro_a_puerta": 0.28 }
+    },
+    "Faltas Cometidas": {
+      "name": "Hernani",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "specialty_stats": { "faltas_cometidas_p90": 1.8, "presiones_exitosas_p90": 6.8, "porcentaje_duelos_defensivos_ganados": "52%" }
+    },
+    "Tarjetas": {
+      "name": "Enrico Delprato",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "specialty_stats": { "tarjetas_amarillas_totales": 8, "faltas_por_tarjeta": 3.4, "entradas_malogradas_p90": 0.6 }
+    },
+    "Tackles": {
+      "name": "Nahuel Estévez",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "specialty_stats": { "entradas_exitosas_p90": 2.4, "intercepciones_p90": 1.6, "recuperaciones_balon_p90": 6.4 }
+    }
+  },
+  "Hellas Verona": {
+    "Tiros": {
+      "name": "Gift Emmanuel Orban",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "specialty_stats": { "remates_totales_p90": 2.4, "remates_a_puerta_p90": 0.9, "toques_area_rival_p90": 4.5 }
+    },
+    "Tiros a Puerta": {
+      "name": "Amin Sarr",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "specialty_stats": { "tiros_a_puerta_p90": 0.8, "porcentaje_tiros_a_puerta": "37.5%", "goles_por_tiro_a_puerta": 0.18 }
+    },
+    "Faltas Cometidas": {
+      "name": "Jean-Daniel Akpa Akpro",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "specialty_stats": { "faltas_cometidas_p90": 2.1, "presiones_exitosas_p90": 7.3, "porcentaje_duelos_defensivos_ganados": "56%" }
+    },
+    "Tarjetas": {
+      "name": "Nicolás Valentini",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "specialty_stats": { "tarjetas_amarillas_totales": 9, "faltas_por_tarjeta": 3.0, "entradas_malogradas_p90": 0.8 }
+    },
+    "Tackles": {
+      "name": "Suat Serdar",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "specialty_stats": { "entradas_exitosas_p90": 2.6, "intercepciones_p90": 1.4, "recuperaciones_balon_p90": 6.6 }
+    }
+  },
+  "US Sassuolo": {
+    "Tiros": {
+      "name": "Domenico Berardi",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "specialty_stats": { "remates_totales_p90": 3.1, "remates_a_puerta_p90": 1.3, "toques_area_rival_p90": 5.2 }
+    },
+    "Tiros a Puerta": {
+      "name": "Andrea Pinamonti",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "specialty_stats": { "tiros_a_puerta_p90": 1.1, "porcentaje_tiros_a_puerta": "40.0%", "goles_por_tiro_a_puerta": 0.29 }
+    },
+    "Faltas Cometidas": {
+      "name": "Nemanja Matić",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "specialty_stats": { "faltas_cometidas_p90": 2.0, "presiones_exitosas_p90": 6.5, "porcentaje_duelos_defensivos_ganados": "59%" }
+    },
+    "Tarjetas": {
+      "name": "Armand Laurienté",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Más Amonestado",
+      "specialty_stats": { "tarjetas_amarillas_totales": 10, "faltas_por_tarjeta": 3.1, "entradas_malogradas_p90": 0.7 }
+    },
+    "Tackles": {
+      "name": "Daniel Boloca",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "specialty_stats": { "entradas_exitosas_p90": 2.7, "intercepciones_p90": 1.6, "recuperaciones_balon_p90": 6.8 }
+    }
+  },
+  "US Cremonese": {
+    "Tiros": {
+      "name": "Jamie Vardy",
+      "photoUrl": "https.www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Ffc%2Fplayers%2Fcremonese-jamie-vardy--nrdqqhrp.png&w=600&h=600&f=webp",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "specialty_stats": { "remates_totales_p90": 2.8, "remates_a_puerta_p90": 1.2, "toques_area_rival_p90": 4.9 }
+    },
+    "Tiros a Puerta": {
+      "name": "Antonio Sanabria",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "specialty_stats": { "tiros_a_puerta_p90": 1.0, "porcentaje_tiros_a_puerta": "42.0%", "goles_por_tiro_a_puerta": 0.30 }
+    },
+    "Faltas Cometidas": {
+      "name": "Franco Vázquez",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "specialty_stats": { "faltas_cometidas_p90": 2.2, "presiones_exitosas_p90": 5.9, "porcentaje_duelos_defensivos_ganados": "53%" }
+    },
+    "Tarjetas": {
+      "name": "Federico Baschirotto",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "specialty_stats": { "tarjetas_amarillas_totales": 11, "faltas_por_tarjeta": 3.0, "entradas_malogradas_p90": 0.9 }
+    },
+    "Tackles": {
+      "name": "Michele Collocolo",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "specialty_stats": { "entradas_exitosas_p90": 2.6, "intercepciones_p90": 1.4, "recuperaciones_balon_p90": 6.1 }
+    }
+  },
+  "Pisa SC": {
+    "Tiros": {
+      "name": "M'Bala Nzola",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "specialty_stats": { "remates_totales_p90": 2.7, "remates_a_puerta_p90": 1.1, "toques_area_rival_p90": 5.3 }
+    },
+    "Tiros a Puerta": {
+      "name": "Mattéo Tramoni",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "specialty_stats": { "tiros_a_puerta_p90": 1.0, "porcentaje_tiros_a_puerta": "40.0%", "goles_por_tiro_a_puerta": 0.28 }
+    },
+    "Faltas Cometidas": {
+      "name": "Idrissa Touré",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "specialty_stats": { "faltas_cometidas_p90": 2.3, "presiones_exitosas_p90": 6.8, "porcentaje_duelos_defensivos_ganados": "57%" }
+    },
+    "Tarjetas": {
+      "name": "Raúl Albiol",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Defensa",
+      "specialty": "Más Amonestado",
+      "specialty_stats": { "tarjetas_amarillas_totales": 8, "faltas_por_tarjeta": 3.5, "entradas_malogradas_p90": 0.6 }
+    },
+    "Tackles": {
+      "name": "Marius Marin",
+      "photoUrl": "https://i.postimg.cc/tC4Lt39P/1761856087.png",
+      "position": "Centrocampista",
+      "specialty": "Más Entradas",
+      "specialty_stats": { "entradas_exitosas_p90": 3.0, "intercepciones_p90": 1.8, "recuperaciones_balon_p90": 7.0 }
+    }
+  }
+}

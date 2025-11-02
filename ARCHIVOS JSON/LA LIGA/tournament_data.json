@@ -1,0 +1,330 @@
+{
+  "tournament_name": "La Liga 2025/2026",
+  "data_last_updated": "2025-10-05",
+  "team_standings": [
+    {
+      "position": 1,
+      "team": "Real Madrid",
+      "played": 8,
+      "wins": 7,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 19,
+      "goals_against": 9,
+      "points": 21
+    },
+    {
+      "position": 2,
+      "team": "Barcelona",
+      "played": 8,
+      "wins": 6,
+      "draws": 1,
+      "losses": 1,
+      "goals_for": 22,
+      "goals_against": 9,
+      "points": 19
+    },
+    {
+      "position": 3,
+      "team": "Villarreal",
+      "played": 8,
+      "wins": 5,
+      "draws": 1,
+      "losses": 2,
+      "goals_for": 14,
+      "goals_against": 8,
+      "points": 16
+    },
+    {
+      "position": 4,
+      "team": "Betis",
+      "played": 8,
+      "wins": 4,
+      "draws": 3,
+      "losses": 1,
+      "goals_for": 13,
+      "goals_against": 8,
+      "points": 15
+    },
+    {
+      "position": 5,
+      "team": "Atlético Madrid",
+      "played": 8,
+      "wins": 3,
+      "draws": 4,
+      "losses": 1,
+      "goals_for": 15,
+      "goals_against": 10,
+      "points": 13
+    },
+    {
+      "position": 6,
+      "team": "Sevilla",
+      "played": 8,
+      "wins": 4,
+      "draws": 1,
+      "losses": 3,
+      "goals_for": 15,
+      "goals_against": 11,
+      "points": 13
+    },
+    {
+      "position": 7,
+      "team": "Elche CF",
+      "played": 8,
+      "wins": 3,
+      "draws": 4,
+      "losses": 1,
+      "goals_for": 11,
+      "goals_against": 9,
+      "points": 13
+    },
+    {
+      "position": 8,
+      "team": "Athletic",
+      "played": 8,
+      "wins": 4,
+      "draws": 1,
+      "losses": 3,
+      "goals_for": 9,
+      "goals_against": 9,
+      "points": 13
+    },
+    {
+      "position": 9,
+      "team": "RCD Espanyol",
+      "played": 8,
+      "wins": 3,
+      "draws": 3,
+      "losses": 2,
+      "goals_for": 11,
+      "goals_against": 11,
+      "points": 12
+    },
+    {
+      "position": 10,
+      "team": "Alavés",
+      "played": 8,
+      "wins": 3,
+      "draws": 2,
+      "losses": 3,
+      "goals_for": 9,
+      "goals_against": 8,
+      "points": 11
+    },
+    {
+      "position": 11,
+      "team": "Getafe",
+      "played": 8,
+      "wins": 3,
+      "draws": 2,
+      "losses": 3,
+      "goals_for": 9,
+      "goals_against": 11,
+      "points": 11
+    },
+    {
+      "position": 12,
+      "team": "Osasuna",
+      "played": 8,
+      "wins": 3,
+      "draws": 1,
+      "losses": 4,
+      "goals_for": 7,
+      "goals_against": 8,
+      "points": 10
+    },
+    {
+      "position": 13,
+      "team": "Levante",
+      "played": 8,
+      "wins": 2,
+      "draws": 2,
+      "losses": 4,
+      "goals_for": 13,
+      "goals_against": 14,
+      "points": 8
+    },
+    {
+      "position": 14,
+      "team": "Rayo Vallecano",
+      "played": 8,
+      "wins": 2,
+      "draws": 2,
+      "losses": 4,
+      "goals_for": 8,
+      "goals_against": 10,
+      "points": 8
+    },
+    {
+      "position": 15,
+      "team": "Valencia CF",
+      "played": 8,
+      "wins": 2,
+      "draws": 2,
+      "losses": 4,
+      "goals_for": 10,
+      "goals_against": 14,
+      "points": 8
+    },
+    {
+      "position": 16,
+      "team": "Celta de Vigo",
+      "played": 8,
+      "wins": 0,
+      "draws": 6,
+      "losses": 2,
+      "goals_for": 7,
+      "goals_against": 10,
+      "points": 6
+    },
+    {
+      "position": 17,
+      "team": "Real Oviedo",
+      "played": 8,
+      "wins": 2,
+      "draws": 0,
+      "losses": 6,
+      "goals_for": 4,
+      "goals_against": 14,
+      "points": 6
+    },
+    {
+      "position": 18,
+      "team": "Girona",
+      "played": 8,
+      "wins": 1,
+      "draws": 3,
+      "losses": 4,
+      "goals_for": 5,
+      "goals_against": 17,
+      "points": 6
+    },
+    {
+      "position": 19,
+      "team": "Real Sociedad",
+      "played": 8,
+      "wins": 1,
+      "draws": 2,
+      "losses": 5,
+      "goals_for": 7,
+      "goals_against": 12,
+      "points": 5
+    },
+    {
+      "position": 20,
+      "team": "RCD Mallorca",
+      "played": 8,
+      "wins": 1,
+      "draws": 2,
+      "losses": 5,
+      "goals_for": 7,
+      "goals_against": 13,
+      "points": 5
+    }
+  ],
+  "team_form": {
+    "Real Madrid": ["V", "V", "V", "D", "V"],
+    "Barcelona": ["V", "V", "V", "V", "D"],
+    "Villarreal": ["D", "V", "V", "V", "D"],
+    "Betis": ["D", "E", "V", "V", "V"],
+    "Atlético Madrid": ["E", "V", "E", "V", "V"],
+    "Sevilla": ["E", "V", "D", "V", "V"],
+    "Elche CF": ["E", "V", "E", "V", "D"],
+    "Athletic": ["E", "V", "E", "D", "V"],
+    "RCD Espanyol": ["V", "D", "E", "E", "D"],
+    "Alavés": ["V", "D", "E", "D", "V"],
+    "Getafe": ["V", "D", "E", "E", "D"],
+    "Osasuna": ["V", "D", "E", "E", "V"],
+    "Levante": ["E", "V", "D", "E", "V"],
+    "Rayo Vallecano": ["D", "E", "D", "D", "V"],
+    "Valencia CF": ["D", "V", "E", "D", "D"],
+    "Celta de Vigo": ["E", "E", "E", "E", "D"],
+    "Real Oviedo": ["D", "D", "E", "V", "V"],
+    "Girona": ["E", "D", "E", "E", "V"],
+    "Real Sociedad": ["D", "D", "V", "D", "D"],
+    "RCD Mallorca": ["D", "E", "D", "V", "D"]
+  },
+  "team_stats": {
+    "Real Madrid": {
+      "home_stats": { "shots_per_game": 18.6, "shots_on_target_per_game": 6.6, "fouls_per_game": 8.2, "corners_per_game": 6.4, "yellow_cards_per_game": 1.3 },
+      "away_stats": { "shots_per_game": 14.1, "shots_on_target_per_game": 5.5, "fouls_per_game": 9.3, "corners_per_game": 6.4, "yellow_cards_per_game": 1.7 }
+    },
+    "Barcelona": {
+      "home_stats": { "shots_per_game": 20.5, "shots_on_target_per_game": 7.5, "fouls_per_game": 10.0, "corners_per_game": 7.0, "yellow_cards_per_game": 1.3 },
+      "away_stats": { "shots_per_game": 15.1, "shots_on_target_per_game": 5.7, "fouls_per_game": 9.4, "corners_per_game": 7.0, "yellow_cards_per_game": 2.1 }
+    },
+    "Villarreal": {
+      "home_stats": { "shots_per_game": 15.1, "shots_on_target_per_game": 5.1, "fouls_per_game": 11.4, "corners_per_game": 4.8, "yellow_cards_per_game": 2.3 },
+      "away_stats": { "shots_per_game": 12.8, "shots_on_target_per_game": 3.9, "fouls_per_game": 11.8, "corners_per_game": 4.8, "yellow_cards_per_game": 2.7 }
+    },
+    "Betis": {
+      "home_stats": { "shots_per_game": 15.4, "shots_on_target_per_game": 4.7, "fouls_per_game": 10.5, "corners_per_game": 5.2, "yellow_cards_per_game": 2.0 },
+      "away_stats": { "shots_per_game": 11.8, "shots_on_target_per_game": 4.6, "fouls_per_game": 12.3, "corners_per_game": 5.2, "yellow_cards_per_game": 2.0 }
+    },
+    "Atlético de Madrid": {
+      "home_stats": { "shots_per_game": 14.3, "shots_on_target_per_game": 5.5, "fouls_per_game": 10.4, "corners_per_game": 5.0, "yellow_cards_per_game": 2.0 },
+      "away_stats": { "shots_per_game": 10.1, "shots_on_target_per_game": 3.6, "fouls_per_game": 11.3, "corners_per_game": 5.0, "yellow_cards_per_game": 2.0 }
+    },
+    "Sevilla": {
+      "home_stats": { "shots_per_game": 13.4, "shots_on_target_per_game": 4.7, "fouls_per_game": 13.2, "corners_per_game": 4.9, "yellow_cards_per_game": 3.0 },
+      "away_stats": { "shots_per_game": 11.5, "shots_on_target_per_game": 4.2, "fouls_per_game": 12.8, "corners_per_game": 4.9, "yellow_cards_per_game": 2.2 }
+    },
+    "Elche CF": {
+      "home_stats": { "shots_per_game": 13.1, "shots_on_target_per_game": 4.5, "fouls_per_game": 13.0, "corners_per_game": 4.1, "yellow_cards_per_game": 2.4 },
+      "away_stats": { "shots_per_game": 9.5, "shots_on_target_per_game": 3.8, "fouls_per_game": 13.8, "corners_per_game": 4.1, "yellow_cards_per_game": 2.8 }
+    },
+    "Athletic": {
+      "home_stats": { "shots_per_game": 13.5, "shots_on_target_per_game": 4.7, "fouls_per_game": 13.2, "corners_per_game": 5.1, "yellow_cards_per_game": 1.7 },
+      "away_stats": { "shots_per_game": 11.2, "shots_on_target_per_game": 3.4, "fouls_per_game": 12.2, "corners_per_game": 5.1, "yellow_cards_per_game": 1.6 }
+    },
+    "RCD Espanyol": {
+      "home_stats": { "shots_per_game": 9.7, "shots_on_target_per_game": 2.8, "fouls_per_game": 13.1, "corners_per_game": 3.8, "yellow_cards_per_game": 2.2 },
+      "away_stats": { "shots_per_game": 8.8, "shots_on_target_per_game": 2.3, "fouls_per_game": 13.1, "corners_per_game": 3.8, "yellow_cards_per_game": 2.4 }
+    },
+    "Alavés": {
+      "home_stats": { "shots_per_game": 10.1, "shots_on_target_per_game": 3.4, "fouls_per_game": 17.5, "corners_per_game": 4.8, "yellow_cards_per_game": 2.6 },
+      "away_stats": { "shots_per_game": 10.6, "shots_on_target_per_game": 3.6, "fouls_per_game": 17.6, "corners_per_game": 4.8, "yellow_cards_per_game": 3.0 }
+    },
+    "Getafe": {
+      "home_stats": { "shots_per_game": 11.9, "shots_on_target_per_game": 3.1, "fouls_per_game": 15.4, "corners_per_game": 3.9, "yellow_cards_per_game": 2.6 },
+      "away_stats": { "shots_per_game": 10.7, "shots_on_target_per_game": 3.3, "fouls_per_game": 16.3, "corners_per_game": 3.9, "yellow_cards_per_game": 3.2 }
+    },
+    "Osasuna": {
+      "home_stats": { "shots_per_game": 12.3, "shots_on_target_per_game": 4.3, "fouls_per_game": 13.5, "corners_per_game": 4.6, "yellow_cards_per_game": 2.4 },
+      "away_stats": { "shots_per_game": 9.7, "shots_on_target_per_game": 2.7, "fouls_per_game": 13.2, "corners_per_game": 4.6, "yellow_cards_per_game": 2.2 }
+    },
+    "Levante": {
+      "home_stats": { "shots_per_game": 9.8, "shots_on_target_per_game": 3.1, "fouls_per_game": 12.5, "corners_per_game": 2.2, "yellow_cards_per_game": 2.1 },
+      "away_stats": { "shots_per_game": 11.2, "shots_on_target_per_game": 3.5, "fouls_per_game": 14.1, "corners_per_game": 2.2, "yellow_cards_per_game": 3.1 }
+    },
+    "Rayo Vallecano": {
+      "home_stats": { "shots_per_game": 15.6, "shots_on_target_per_game": 5.4, "fouls_per_game": 12.5, "corners_per_game": 5.3, "yellow_cards_per_game": 2.2 },
+      "away_stats": { "shots_per_game": 11.4, "shots_on_target_per_game": 3.2, "fouls_per_game": 14.5, "corners_per_game": 5.3, "yellow_cards_per_game": 2.9 }
+    },
+    "Valencia CF": {
+      "home_stats": { "shots_per_game": 11.3, "shots_on_target_per_game": 3.6, "fouls_per_game": 12.1, "corners_per_game": 4.9, "yellow_cards_per_game": 2.4 },
+      "away_stats": { "shots_per_game": 8.9, "shots_on_target_per_game": 2.5, "fouls_per_game": 11.2, "corners_per_game": 4.9, "yellow_cards_per_game": 2.1 }
+    },
+    "Celta de Vigo": {
+      "home_stats": { "shots_per_game": 11.9, "shots_on_target_per_game": 4.8, "fouls_per_game": 12.3, "corners_per_game": 3.9, "yellow_cards_per_game": 2.1 },
+      "away_stats": { "shots_per_game": 11.4, "shots_on_target_per_game": 4.2, "fouls_per_game": 12.0, "corners_per_game": 3.9, "yellow_cards_per_game": 2.3 }
+    },
+    "Real Oviedo": {
+      "home_stats": { "shots_per_game": 7.0, "shots_on_target_per_game": 2.2, "fouls_per_game": 8.3, "corners_per_game": 1.8, "yellow_cards_per_game": 1.8 },
+      "away_stats": { "shots_per_game": 8.0, "shots_on_target_per_game": 2.9, "fouls_per_game": 14.0, "corners_per_game": 1.8, "yellow_cards_per_game": 3.0 }
+    },
+    "Girona": {
+      "home_stats": { "shots_per_game": 11.2, "shots_on_target_per_game": 3.6, "fouls_per_game": 10.5, "corners_per_game": 4.9, "yellow_cards_per_game": 1.7 },
+      "away_stats": { "shots_per_game": 9.7, "shots_on_target_per_game": 3.4, "fouls_per_game": 12.5, "corners_per_game": 4.9, "yellow_cards_per_game": 2.3 }
+    },
+    "Real Sociedad": {
+      "home_stats": { "shots_per_game": 11.8, "shots_on_target_per_game": 3.7, "fouls_per_game": 14.3, "corners_per_game": 5.7, "yellow_cards_per_game": 2.3 },
+      "away_stats": { "shots_per_game": 8.4, "shots_on_target_per_game": 2.7, "fouls_per_game": 12.1, "corners_per_game": 5.7, "yellow_cards_per_game": 2.2 }
+    },
+    "RCD Mallorca": {
+      "home_stats": { "shots_per_game": 11.0, "shots_on_target_per_game": 3.1, "fouls_per_game": 11.3, "corners_per_game": 3.8, "yellow_cards_per_game": 1.8 },
+      "away_stats": { "shots_per_game": 9.1, "shots_on_target_per_game": 2.6, "fouls_per_game": 13.3, "corners_per_game": 3.8, "yellow_cards_per_game": 2.4 }
+    }
+  }
+}

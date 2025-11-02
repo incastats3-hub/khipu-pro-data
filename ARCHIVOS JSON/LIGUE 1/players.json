@@ -1,0 +1,971 @@
+{
+  "Olympique Marseille": {
+    "plantilla": [
+      { "name": "Géronimo Rulli", "number": 1, "position_general": "GK" },
+      { "name": "Jeffrey De Lange", "number": 12, "position_general": "GK" },
+      { "name": "Ruben Blanco", "number": 36, "position_general": "GK" },
+      { "name": "Jelle Van Neck", "number": 40, "position_general": "GK" },
+      { "name": "Théo Vermot", "number": 92, "position_general": "GK" },
+      { "name": "Conrad Jaden Egan-Riley", "number": 4, "position_general": "DEF" },
+      { "name": "Leonardo Balerdi", "number": 5, "position_general": "DEF" },
+      { "name": "Ulisses Garcia", "number": 6, "position_general": "DEF" },
+      { "name": "Nayef Aguerd", "number": 21, "position_general": "DEF" },
+      { "name": "Timothy Weah", "number": 22, "position_general": "DEF" },
+      { "name": "Benjamin Pavard", "number": 28, "position_general": "DEF" },
+      { "name": "Pol Lirola", "number": 29, "position_general": "DEF" },
+      { "name": "Facundo Medina", "number": 32, "position_general": "DEF" },
+      { "name": "Emerson Palmieri", "number": 33, "position_general": "DEF" },
+      { "name": "Amir Murillo", "number": 62, "position_general": "DEF" },
+      { "name": "Matt O’Riley", "number": 17, "position_general": "MID" },
+      { "name": "Arthur Vermeeren", "number": 18, "position_general": "MID" },
+      { "name": "Geoffrey Kondogbia", "number": 19, "position_general": "MID" },
+      { "name": "Hamed Junior Traore", "number": 20, "position_general": "MID" },
+      { "name": "Pierre-Emile Højbjerg", "number": 23, "position_general": "MID" },
+      { "name": "Bilal Nadir", "number": 26, "position_general": "MID" },
+      { "name": "Yanis Sellami", "number": 45, "position_general": "MID" },
+      { "name": "Darryl Bakola", "number": 50, "position_general": "MID" },
+      { "name": "Neal Maupay", "number": 7, "position_general": "FWD" },
+      { "name": "Angel Gomes", "number": 8, "position_general": "FWD" },
+      { "name": "Amine Gouiri", "number": 9, "position_general": "FWD" },
+      { "name": "Mason Greenwood", "number": 10, "position_general": "FWD" },
+      { "name": "Igor Paixao", "number": 14, "position_general": "FWD" },
+      { "name": "Robinio Vaz", "number": 34, "position_general": "FWD" },
+      { "name": "Keyliane Abdallah", "number": 48, "position_general": "FWD" },
+      { "name": "Pierre-Emerick Aubameyang", "number": 97, "position_general": "FWD" }
+    ],
+    "tactics": {
+      "default": "4-2-3-1 Titular",
+      "presets": {
+        "4-2-3-1 Titular": {
+          "formation": "4-2-3-1",
+          "lineup": {
+            "POR": "Jeffrey De Lange",
+            "LTD": "Benjamin Pavard",
+            "DFC_D": "Leonardo Balerdi",
+            "DFC_I": "Nayef Aguerd",
+            "LTI": "Emerson Palmieri",
+            "MCD_D": "Matt O’Riley",
+            "MCD_I": "Pierre-Emile Højbjerg",
+            "VOL_D": "Mason Greenwood",
+            "MCO": "Angel Gomes",
+            "VOL_I": "Igor Paixao",
+            "DC": "Pierre-Emerick Aubameyang"
+          }
+        }
+      }
+    }
+  },
+  "Paris Saint-Germain": {
+    "plantilla": [
+      { "name": "Lucas Chevalier", "number": 30, "position_general": "GK" },
+      { "name": "Matvey Safonov", "number": 39, "position_general": "GK" },
+      { "name": "Renato Marin", "number": 89, "position_general": "GK" },
+      { "name": "Achraf Hakimi", "number": 2, "position_general": "DEF" },
+      { "name": "Lucas Beraldo", "number": 4, "position_general": "DEF" },
+      { "name": "Marquinhos", "number": 5, "position_general": "DEF" },
+      { "name": "Illia Zabarnyi", "number": 6, "position_general": "DEF" },
+      { "name": "Lucas Hernandez", "number": 21, "position_general": "DEF" },
+      { "name": "Nuno Mendes", "number": 25, "position_general": "DEF" },
+      { "name": "Noham Kamara", "number": 43, "position_general": "DEF" },
+      { "name": "Willian Pacho", "number": 51, "position_general": "DEF" },
+      { "name": "Fabian Ruiz", "number": 8, "position_general": "MID" },
+      { "name": "Désiré Doue", "number": 14, "position_general": "MID" },
+      { "name": "Vitinha", "number": 17, "position_general": "MID" },
+      { "name": "Lee Kang-In", "number": 19, "position_general": "MID" },
+      { "name": "Senny Mayulu", "number": 24, "position_general": "MID" },
+      { "name": "Warren Zaïre-Emery", "number": 33, "position_general": "MID" },
+      { "name": "Yanis Khafi", "number": 46, "position_general": "MID" },
+      { "name": "Wassim Slama", "number": 48, "position_general": "MID" },
+      { "name": "Joao Neves", "number": 87, "position_general": "MID" },
+      { "name": "Khvicha Kvaratskhelia", "number": 7, "position_general": "FWD" },
+      { "name": "Gonçalo Ramos", "number": 9, "position_general": "FWD" },
+      { "name": "Ousmane Dembele", "number": 10, "position_general": "FWD" },
+      { "name": "Bradley Barcola", "number": 29, "position_general": "FWD" },
+      { "name": "Mathis Jangeal", "number": 41, "position_general": "FWD" },
+      { "name": "Quentin Ndjantou Mbitcha", "number": 47, "position_general": "FWD" },
+      { "name": "Ibrahim Mbaye", "number": 49, "position_general": "FWD" }
+    ],
+    "tactics": {
+      "default": "4-3-3 Titular",
+      "presets": {
+        "4-3-3 Titular": {
+          "formation": "4-3-3",
+          "lineup": {
+            "POR": "Lucas Chevalier",
+            "LTD": "Senny Mayulu",
+            "DFC_D": "Illia Zabarnyi",
+            "DFC_I": "Lucas Beraldo",
+            "LTI": "Lucas Hernandez",
+            "MC_D": "Lee Kang-In",
+            "MCD": "Warren Zaïre-Emery",
+            "MC_I": "Désiré Doue",
+            "ED": "Ibrahim Mbaye",
+            "DC": "Gonçalo Ramos",
+            "EI": "Bradley Barcola"
+          }
+        }
+      }
+    }
+  },
+  "RC Strasbourg": {
+    "plantilla": [
+      { "name": "Karl-Johan Johnsson", "number": 1, "position_general": "GK" },
+      { "name": "Mike Penders", "number": 39, "position_general": "GK" },
+      { "name": "Stéfan Bajic", "number": 50, "position_general": "GK" },
+      { "name": "Gabriel Kerckaert", "number": 60, "position_general": "GK" },
+      { "name": "Andrew Omobamidele", "number": 2, "position_general": "DEF" },
+      { "name": "Ben Chilwell", "number": 3, "position_general": "DEF" },
+      { "name": "Saïdou Sow", "number": 4, "position_general": "DEF" },
+      { "name": "Abakar Sylla", "number": 5, "position_general": "DEF" },
+      { "name": "Ismaël Doukoure", "number": 6, "position_general": "DEF" },
+      { "name": "Guéla Doue", "number": 22, "position_general": "DEF" },
+      { "name": "Mamadou Sarr", "number": 23, "position_general": "DEF" },
+      { "name": "Lucas Hogsberg", "number": 24, "position_general": "DEF" },
+      { "name": "Valentin Barco", "number": 32, "position_general": "DEF" },
+      { "name": "Sacha Lung", "number": 35, "position_general": "DEF" },
+      { "name": "Eduard Sobol", "number": 77, "position_general": "DEF" },
+      { "name": "Diego Moreira", "number": 7, "position_general": "MID" },
+      { "name": "Maxi Oyedele", "number": 8, "position_general": "MID" },
+      { "name": "Kendry Paez", "number": 16, "position_general": "MID" },
+      { "name": "Mathis Amougou", "number": 17, "position_general": "MID" },
+      { "name": "Samir El Mourabet", "number": 29, "position_general": "MID" },
+      { "name": "Ghianny Kodia", "number": 37, "position_general": "MID" },
+      { "name": "Rabby Nzingoula", "number": 41, "position_general": "MID" },
+      { "name": "Abdoul Ouattara", "number": 42, "position_general": "MID" },
+      { "name": "Félix Lemarechal", "number": 80, "position_general": "MID" },
+      { "name": "Rafael Luís", "number": 83, "position_general": "MID" },
+      { "name": "Joaquin Panichelli", "number": 9, "position_general": "FWD" },
+      { "name": "Emanuel Emegha", "number": 10, "position_general": "FWD" },
+      { "name": "Sebastian Nanasi", "number": 11, "position_general": "FWD" },
+      { "name": "Julio Enciso", "number": 19, "position_general": "FWD" },
+      { "name": "Martial Godo", "number": 20, "position_general": "FWD" },
+      { "name": "Samuel Amo-Ameyaw", "number": 27, "position_general": "FWD" },
+      { "name": "Ogbonna Chizurum", "number": 33, "position_general": "FWD" }
+    ],
+    "tactics": {
+      "default": "3-4-2-1 Titular",
+      "presets": {
+        "3-4-2-1 Titular": {
+          "formation": "3-4-2-1",
+          "lineup": {
+            "POR": "Mike Penders",
+            "DFC_D": "Lucas Hogsberg",
+            "DFC_C": "Valentin Barco",
+            "DFC_I": "Ismaël Doukoure",
+            "MD": "Guéla Doue",
+            "MC_D": "Samir El Mourabet",
+            "MC_I": "Abdoul Ouattara",
+            "MI": "Ben Chilwell",
+            "MCO_D": "Julio Enciso",
+            "MCO_I": "Diego Moreira",
+            "DC": "Joaquin Panichelli"
+          }
+        }
+      }
+    }
+  },
+  "RC Lens": {
+    "plantilla": [
+      { "name": "Régis Gurtner", "number": 1, "position_general": "GK" },
+      { "name": "Robin Risser", "number": 40, "position_general": "GK" },
+      { "name": "Ilan Jourdren", "number": 50, "position_general": "GK" },
+      { "name": "Ruben Aguilar", "number": 2, "position_general": "DEF" },
+      { "name": "Deiver Machado", "number": 3, "position_general": "DEF" },
+      { "name": "Nidal Celik", "number": 4, "position_general": "DEF" },
+      { "name": "Samson Baidoo", "number": 6, "position_general": "DEF" },
+      { "name": "Jhoanner Chavez", "number": 13, "position_general": "DEF" },
+      { "name": "Matthieu Udol", "number": 14, "position_general": "DEF" },
+      { "name": "Malang Sarr", "number": 20, "position_general": "DEF" },
+      { "name": "Saud Abdulhamid", "number": 23, "position_general": "DEF" },
+      { "name": "Jonathan Gradit", "number": 24, "position_general": "DEF" },
+      { "name": "Ismaëlo Ganiou", "number": 25, "position_general": "DEF" },
+      { "name": "Kyllian Antonio", "number": 32, "position_general": "DEF" },
+      { "name": "Andrija Bulatovic", "number": 5, "position_general": "MID" },
+      { "name": "Mamadou Sangare", "number": 8, "position_general": "MID" },
+      { "name": "Hamzat Ojediran", "number": 15, "position_general": "MID" },
+      { "name": "Adrien Thomasson", "number": 28, "position_general": "MID" },
+      { "name": "Alpha Diallo", "number": 31, "position_general": "MID" },
+      { "name": "Fodé Sylla", "number": 33, "position_general": "MID" },
+      { "name": "Anthony Bermont", "number": 35, "position_general": "MID" },
+      { "name": "Florian Sotoca", "number": 7, "position_general": "FWD" },
+      { "name": "Florian Thauvin", "number": 10, "position_general": "FWD" },
+      { "name": "Odsonne Edouard", "number": 11, "position_general": "FWD" },
+      { "name": "Abdallah Sima", "number": 19, "position_general": "FWD" },
+      { "name": "Wesley Said", "number": 22, "position_general": "FWD" },
+      { "name": "Morgan Guilavogui", "number": 29, "position_general": "FWD" },
+      { "name": "Rayan Fofana", "number": 38, "position_general": "FWD" }
+    ],
+    "tactics": {
+      "default": "3-4-2-1 Titular",
+      "presets": {
+        "3-4-2-1 Titular": {
+          "formation": "3-4-2-1",
+          "lineup": {
+            "POR": "Robin Risser",
+            "DFC_D": "Samson Baidoo",
+            "DFC_C": "Adrien Thomasson",
+            "DFC_I": "Matthieu Udol",
+            "MD": "Ruben Aguilar",
+            "MC_D": "Mamadou Sangare",
+            "MC_I": "Florian Thauvin",
+            "MI": "Jonathan Gradit",
+            "MCO_D": "Morgan Guilavogui",
+            "MCO_I": "Malang Sarr",
+            "DC": "Odsonne Edouard"
+          }
+        }
+      }
+    }
+  },
+  "Olympique Lyonnais": {
+    "plantilla": [
+      { "name": "Dominik Greif", "number": 1, "position_general": "GK" },
+      { "name": "Remy Descamps", "number": 40, "position_general": "GK" },
+      { "name": "Lassine Diarra", "number": 50, "position_general": "GK" },
+      { "name": "Yvann Konan", "number": 62, "position_general": "GK" },
+      { "name": "Nicolás Tagliafico", "number": 3, "position_general": "DEF" },
+      { "name": "Abner Vinicius", "number": 16, "position_general": "DEF" },
+      { "name": "Moussa Niakhate", "number": 19, "position_general": "DEF" },
+      { "name": "Ruben Kluivert", "number": 21, "position_general": "DEF" },
+      { "name": "Clinton Mata", "number": 22, "position_general": "DEF" },
+      { "name": "Téo Barisic", "number": 41, "position_general": "DEF" },
+      { "name": "Ainsley Maitland-Niles", "number": 98, "position_general": "DEF" },
+      { "name": "Hans Hateboer", "number": 99, "position_general": "DEF" },
+      { "name": "Orel Mangala", "number": 5, "position_general": "MID" },
+      { "name": "Francis Tessmann", "number": 6, "position_general": "MID" },
+      { "name": "Adam Karabec", "number": 7, "position_general": "MID" },
+      { "name": "Corentin Tolisso", "number": 8, "position_general": "MID" },
+      { "name": "Pavel Sulc", "number": 10, "position_general": "MID" },
+      { "name": "Tyler Morton", "number": 23, "position_general": "MID" },
+      { "name": "Mathys De Carvalho", "number": 39, "position_general": "MID" },
+      { "name": "Khalis Merah", "number": 44, "position_general": "MID" },
+      { "name": "Tiago Gonçalves", "number": 46, "position_general": "MID" },
+      { "name": "Malick Fofana", "number": 11, "position_general": "FWD" },
+      { "name": "Afonso Moreira", "number": 17, "position_general": "FWD" },
+      { "name": "Rachid Ghezzal", "number": 18, "position_general": "FWD" },
+      { "name": "Martin Satriano", "number": 20, "position_general": "FWD" },
+      { "name": "Enzo Molebe", "number": 29, "position_general": "FWD" },
+      { "name": "Alejandro Gomes Rodriguez", "number": 32, "position_general": "FWD" },
+      { "name": "Ernest Nuamah", "number": 37, "position_general": "FWD" }
+    ],
+    "tactics": {
+      "default": "4-2-3-1 Titular",
+      "presets": {
+        "4-2-3-1 Titular": {
+          "formation": "4-2-3-1",
+          "lineup": {
+            "POR": "Dominik Greif",
+            "LTD": "Ainsley Maitland-Niles",
+            "DFC_D": "Clinton Mata",
+            "DFC_I": "Ruben Kluivert",
+            "LTI": "Abner Vinicius",
+            "MCD_D": "Tyler Morton",
+            "MCD_I": "Corentin Tolisso",
+            "VOL_D": "Adam Karabec",
+            "MCO": "Pavel Sulc",
+            "VOL_I": "Malick Fofana",
+            "DC": "Martin Satriano"
+          }
+        }
+      }
+    }
+  },
+  "Lille OSC": {
+    "plantilla": [
+      { "name": "Berke Özer", "number": 1, "position_general": "GK" },
+      { "name": "Arnaud Bodart", "number": 16, "position_general": "GK" },
+      { "name": "Marc-Aurèle Caillard", "number": 30, "position_general": "GK" },
+      { "name": "Thomas Sajous", "number": 40, "position_general": "GK" },
+      { "name": "Samy Merzouk", "number": 50, "position_general": "GK" },
+      { "name": "Nathan Ngoy", "number": 3, "position_general": "DEF" },
+      { "name": "Alexsandro", "number": 4, "position_general": "DEF" },
+      { "name": "Thomas Meunier", "number": 12, "position_general": "DEF" },
+      { "name": "Romain Perraud", "number": 15, "position_general": "DEF" },
+      { "name": "Chancel Mbemba", "number": 18, "position_general": "DEF" },
+      { "name": "Tiago Santos", "number": 22, "position_general": "DEF" },
+      { "name": "Aissa Mandi", "number": 23, "position_general": "DEF" },
+      { "name": "Calvin Verdonk", "number": 24, "position_general": "DEF" },
+      { "name": "Ousmane Touré", "number": 36, "position_general": "DEF" },
+      { "name": "Morgan Costarelli", "number": 37, "position_general": "DEF" },
+      { "name": "Maxima Goffi", "number": 38, "position_general": "DEF" },
+      { "name": "Nabil Bentaleb", "number": 6, "position_general": "MID" },
+      { "name": "Ethan Mbappe", "number": 8, "position_general": "MID" },
+      { "name": "Hákon Haraldsson", "number": 10, "position_general": "MID" },
+      { "name": "Osame Sahraoui", "number": 11, "position_general": "MID" },
+      { "name": "Ngal'ayel Mukau", "number": 17, "position_general": "MID" },
+      { "name": "Benjamin Andre", "number": 21, "position_general": "MID" },
+      { "name": "André Gomes", "number": 26, "position_general": "MID" },
+      { "name": "Ugo Raghouber", "number": 28, "position_general": "MID" },
+      { "name": "Ayyoub Bouaddi", "number": 32, "position_general": "MID" },
+      { "name": "Matias Fernandez Pardo", "number": 7, "position_general": "FWD" },
+      { "name": "Olivier Giroud", "number": 9, "position_general": "FWD" },
+      { "name": "Marius Broholm", "number": 14, "position_general": "FWD" },
+      { "name": "Félix Correia", "number": 27, "position_general": "FWD" },
+      { "name": "Hamza Igamane", "number": 29, "position_general": "FWD" },
+      { "name": "Soriba Diaoune", "number": 43, "position_general": "FWD" }
+    ],
+    "tactics": {
+      "default": "4-2-3-1 Titular",
+      "presets": {
+        "4-2-3-1 Titular": {
+          "formation": "4-2-3-1",
+          "lineup": {
+            "POR": "Berke Özer",
+            "LTD": "Thomas Meunier",
+            "DFC_D": "Chancel Mbemba",
+            "DFC_I": "Aissa Mandi",
+            "LTI": "Romain Perraud",
+            "MCD_D": "Benjamin Andre",
+            "MCD_I": "Ayyoub Bouaddi",
+            "VOL_D": "Félix Correia",
+            "MCO": "Hákon Haraldsson",
+            "VOL_I": "Matias Fernandez Pardo",
+            "DC": "Olivier Giroud"
+          }
+        }
+      }
+    }
+  },
+  "AS Monaco": {
+    "plantilla": [
+      { "name": "Lukas Hradecky", "number": 1, "position_general": "GK" },
+      { "name": "Philipp Köhn", "number": 16, "position_general": "GK" },
+      { "name": "Jules Stawiecki", "number": 40, "position_general": "GK" },
+      { "name": "Yann Lienard", "number": 50, "position_general": "GK" },
+      { "name": "Yanis Benchaouch", "number": 60, "position_general": "GK" },
+      { "name": "Vanderson", "number": 2, "position_general": "DEF" },
+      { "name": "Eric Dier", "number": 3, "position_general": "DEF" },
+      { "name": "Jordan Teze", "number": 4, "position_general": "DEF" },
+      { "name": "Thilo Kehrer", "number": 5, "position_general": "DEF" },
+      { "name": "Caio Henrique", "number": 12, "position_general": "DEF" },
+      { "name": "Christian Mawissa", "number": 13, "position_general": "DEF" },
+      { "name": "Kassoum Ouattara", "number": 20, "position_general": "DEF" },
+      { "name": "Mohammed Salisu", "number": 22, "position_general": "DEF" },
+      { "name": "Bradel Kiwa", "number": 43, "position_general": "DEF" },
+      { "name": "Denis Zakaria", "number": 6, "position_general": "MID" },
+      { "name": "Paul Pogba", "number": 8, "position_general": "MID" },
+      { "name": "Aleksandr Golovin", "number": 10, "position_general": "MID" },
+      { "name": "Maghnes Akliouche", "number": 11, "position_general": "MID" },
+      { "name": "Lamine Camara", "number": 15, "position_general": "MID" },
+      { "name": "Stanis Idumbo", "number": 17, "position_general": "MID" },
+      { "name": "Aladji Bamba", "number": 23, "position_general": "MID" },
+      { "name": "Krépin Diatta", "number": 27, "position_general": "MID" },
+      { "name": "Mamadou Coulibaly", "number": 28, "position_general": "MID" },
+      { "name": "Matthias Barack K Wamu Oyatambwe", "number": 33, "position_general": "MID" },
+      { "name": "Pape Cabral", "number": 41, "position_general": "MID" },
+      { "name": "Folarin Balogun", "number": 9, "position_general": "FWD" },
+      { "name": "Mika Biereth", "number": 14, "position_general": "FWD" },
+      { "name": "Takumi Minamino", "number": 18, "position_general": "FWD" },
+      { "name": "George Ilenikhena", "number": 19, "position_general": "FWD" },
+      { "name": "Lucas Michal", "number": 21, "position_general": "FWD" },
+      { "name": "Paris Brunner", "number": 29, "position_general": "FWD" },
+      { "name": "Ansu Fati", "number": 31, "position_general": "FWD" }
+    ],
+    "tactics": {
+      "default": "3-4-2-1 Titular",
+      "presets": {
+        "3-4-2-1 Titular": {
+          "formation": "3-4-2-1",
+          "lineup": {
+            "POR": "Philipp Köhn",
+            "DFC_D": "Thilo Kehrer",
+            "DFC_C": "Mohammed Salisu",
+            "DFC_I": "Jordan Teze",
+            "MD": "Krépin Diatta",
+            "MC_D": "Mamadou Coulibaly",
+            "MC_I": "Kassoum Ouattara",
+            "MI": "Caio Henrique",
+            "MCO_D": "Maghnes Akliouche",
+            "MCO_I": "Ansu Fati",
+            "DC": "Mika Biereth"
+          }
+        }
+      }
+    }
+  },
+  "Toulouse FC": {
+    "plantilla": [
+      { "name": "Guillaume Restes", "number": 1, "position_general": "GK" },
+      { "name": "Kjetil Haug", "number": 16, "position_general": "GK" },
+      { "name": "Alex Dominguez", "number": 30, "position_general": "GK" },
+      { "name": "Naime Said Mchindra", "number": 40, "position_general": "GK" },
+      { "name": "Rasmus Nicolaisen", "number": 2, "position_general": "DEF" },
+      { "name": "Mark Mckenzie", "number": 3, "position_general": "DEF" },
+      { "name": "Charlie Cresswell", "number": 4, "position_general": "DEF" },
+      { "name": "Warren Kamanzi", "number": 12, "position_general": "DEF" },
+      { "name": "Djibril Sidibe", "number": 19, "position_general": "DEF" },
+      { "name": "Dayann Methalie", "number": 24, "position_general": "DEF" },
+      { "name": "Frédéric Efuele", "number": 25, "position_general": "DEF" },
+      { "name": "Nicolas Wasbauer", "number": 27, "position_general": "DEF" },
+      { "name": "Sény Koumbassa", "number": 35, "position_general": "DEF" },
+      { "name": "Thibaud-Dorian Garondo", "number": 42, "position_general": "DEF" },
+      { "name": "Gaëtan Bakhouche", "number": 44, "position_general": "DEF" },
+      { "name": "Yann Gboho", "number": 10, "position_general": "MID" },
+      { "name": "Aron Donnum", "number": 15, "position_general": "MID" },
+      { "name": "Abu Francis", "number": 17, "position_general": "MID" },
+      { "name": "Rafik Messali", "number": 22, "position_general": "MID" },
+      { "name": "Cristian Casseres Jr", "number": 23, "position_general": "MID" },
+      { "name": "Darris Zema", "number": 28, "position_general": "MID" },
+      { "name": "Noah Lahmadi", "number": 34, "position_general": "MID" },
+      { "name": "Alexis Vossah", "number": 45, "position_general": "MID" },
+      { "name": "Mario Sauer", "number": 77, "position_general": "MID" },
+      { "name": "Niklas Schmidt", "number": 99, "position_general": "MID" },
+      { "name": "Julian Vignolo", "number": 7, "position_general": "FWD" },
+      { "name": "Frank Magri", "number": 9, "position_general": "FWD" },
+      { "name": "Santiago Hidalgo", "number": 11, "position_general": "FWD" },
+      { "name": "Emersonn Correia Da Silva", "number": 20, "position_general": "FWD" },
+      { "name": "Noah Edjouma", "number": 31, "position_general": "FWD" },
+      { "name": "Ilyas Azizi", "number": 37, "position_general": "FWD" },
+      { "name": "Enzo Faty", "number": 41, "position_general": "FWD" }
+    ],
+    "tactics": {
+      "default": "3-4-3 Titular",
+      "presets": {
+        "3-4-3 Titular": {
+          "formation": "3-4-3",
+          "lineup": {
+            "POR": "Guillaume Restes",
+            "DFC_D": "Abu Francis",
+            "DFC_C": "Rasmus Nicolaisen",
+            "DFC_I": "Dayann Methalie",
+            "MD": "Aron Donnum",
+            "MC_D": "Cristian Casseres Jr",
+            "MC_I": "Emersonn Correia Da Silva",
+            "MI": "Djibril Sidibe",
+            "ED": "Frank Magri",
+            "DC": "Yann Gboho",
+            "EI": "Charlie Cresswell"
+          }
+        }
+      }
+    }
+  },
+  "Stade Rennais": {
+    "plantilla": [
+      { "name": "Gauthier Gallon", "number": 23, "position_general": "GK" },
+      { "name": "Brice Samba", "number": 30, "position_general": "GK" },
+      { "name": "Mathys Silistrie", "number": 50, "position_general": "GK" },
+      { "name": "Ayoube Akabou", "number": 70, "position_general": "GK" },
+      { "name": "Lilian Brassier", "number": 5, "position_general": "DEF" },
+      { "name": "Mahamadou Nagida", "number": 18, "position_general": "DEF" },
+      { "name": "Anthony Rouault", "number": 24, "position_general": "DEF" },
+      { "name": "Alidu Seidu", "number": 36, "position_general": "DEF" },
+      { "name": "Abdelhamid Ait Boudlal", "number": 48, "position_general": "DEF" },
+      { "name": "Przemyslaw Frankowski", "number": 95, "position_general": "DEF" },
+      { "name": "Jérémy Jacquet", "number": 97, "position_general": "DEF" },
+      { "name": "Glen Kamara", "number": 4, "position_general": "MID" },
+      { "name": "Djaoui Cisse", "number": 6, "position_general": "MID" },
+      { "name": "Seko Fofana", "number": 8, "position_general": "MID" },
+      { "name": "Ludovic Blas", "number": 10, "position_general": "MID" },
+      { "name": "Valentin Rongier", "number": 21, "position_general": "MID" },
+      { "name": "Quentin Merlin", "number": 26, "position_general": "MID" },
+      { "name": "Mahdi Camara", "number": 45, "position_general": "MID" },
+      { "name": "Nordan Mukiele", "number": 65, "position_general": "MID" },
+      { "name": "Breel Embolo", "number": 7, "position_general": "FWD" },
+      { "name": "Estéban Lepaul", "number": 9, "position_general": "FWD" },
+      { "name": "Mousa Al-Tamari", "number": 11, "position_general": "FWD" },
+      { "name": "Kader Meite", "number": 39, "position_general": "FWD" }
+    ],
+    "tactics": {
+      "default": "3-5-2 Titular",
+      "presets": {
+        "3-5-2 Titular": {
+          "formation": "3-5-2",
+          "lineup": {
+            "POR": "Brice Samba",
+            "DFC_D": "Jérémy Jacquet",
+            "DFC_C": "Valentin Rongier",
+            "DFC_I": "Seko Fofana",
+            "CAR_D": "Alidu Seidu",
+            "MC_D": "Mahdi Camara",
+            "MC_C": "Ludovic Blas",
+            "MC_I": "Anthony Rouault",
+            "CAR_I": "Quentin Merlin",
+            "DC_D": "Estéban Lepaul",
+            "DC_I": "Breel Embolo"
+          }
+        }
+      }
+    }
+  },
+  "OGC Nice": {
+    "plantilla": [
+      { "name": "Bartosz Zelazowski", "number": 30, "position_general": "GK" },
+      { "name": "Maxime Dupe", "number": 31, "position_general": "GK" },
+      { "name": "Théo Bruyère", "number": 50, "position_general": "GK" },
+      { "name": "Yehvann Diouf", "number": 80, "position_general": "GK" },
+      { "name": "Ali Abdi", "number": 2, "position_general": "DEF" },
+      { "name": "Dante", "number": 4, "position_general": "DEF" },
+      { "name": "Mohamed Abdelmonem", "number": 5, "position_general": "DEF" },
+      { "name": "Melvin Bard", "number": 26, "position_general": "DEF" },
+      { "name": "Juma Bah", "number": 28, "position_general": "DEF" },
+      { "name": "Antoine Mendy", "number": 33, "position_general": "DEF" },
+      { "name": "Kojo Peprah Oppong", "number": 37, "position_general": "DEF" },
+      { "name": "Laurenzo Monteiro", "number": 48, "position_general": "DEF" },
+      { "name": "Youssouf Ndayishimiye", "number": 55, "position_general": "DEF" },
+      { "name": "Moïse Bombito", "number": 64, "position_general": "DEF" },
+      { "name": "Jonathan Clauss", "number": 92, "position_general": "DEF" },
+      { "name": "Hicham Boudaoui", "number": 6, "position_general": "MID" },
+      { "name": "Morgan Sanson", "number": 8, "position_general": "MID" },
+      { "name": "Sofiane Diop", "number": 10, "position_general": "MID" },
+      { "name": "Tom Louchet", "number": 20, "position_general": "MID" },
+      { "name": "Tanguy Ndombele", "number": 22, "position_general": "MID" },
+      { "name": "Gabin Bernardeau", "number": 23, "position_general": "MID" },
+      { "name": "Charles Vanhoutte", "number": 24, "position_general": "MID" },
+      { "name": "Djibril Coulibaly", "number": 39, "position_general": "MID" },
+      { "name": "Salis Abdul Samed", "number": 99, "position_general": "MID" },
+      { "name": "Jérémie Boga", "number": 7, "position_general": "FWD" },
+      { "name": "Terem Moffi", "number": 9, "position_general": "FWD" },
+      { "name": "Isak Jansson", "number": 21, "position_general": "FWD" },
+      { "name": "Mohamed-Ali Cho", "number": 25, "position_general": "FWD" },
+      { "name": "Tiago Gouveia", "number": 47, "position_general": "FWD" },
+      { "name": "Bernard Nguene", "number": 49, "position_general": "FWD" },
+      { "name": "Kevin Carlos", "number": 90, "position_general": "FWD" }
+    ],
+    "tactics": {
+      "default": "3-4-3 Titular",
+      "presets": {
+        "3-4-3 Titular": {
+          "formation": "3-4-3",
+          "lineup": {
+            "POR": "Yehvann Diouf",
+            "DFC_D": "Kojo Peprah Oppong",
+            "DFC_C": "Dante",
+            "DFC_I": "Melvin Bard",
+            "MD": "Jonathan Clauss",
+            "MC_D": "Hicham Boudaoui",
+            "MC_I": "Charles Vanhoutte",
+            "MI": "Antoine Mendy",
+            "ED": "Mohamed-Ali Cho",
+            "DC": "Sofiane Diop",
+            "EI": "Jérémie Boga"
+          }
+        }
+      }
+    }
+  },
+  "Paris FC": {
+    "plantilla": [
+      { "name": "Rémy Riou", "number": 1, "position_general": "GK" },
+      { "name": "Obed Nkambadio", "number": 16, "position_general": "GK" },
+      { "name": "Kevin Trapp", "number": 35, "position_general": "GK" },
+      { "name": "Tuomas Ollila", "number": 2, "position_general": "DEF" },
+      { "name": "Moustapha Mbow", "number": 5, "position_general": "DEF" },
+      { "name": "Otavio", "number": 6, "position_general": "DEF" },
+      { "name": "Hamari Traore", "number": 14, "position_general": "DEF" },
+      { "name": "Timothée Kolodziejczak", "number": 15, "position_general": "DEF" },
+      { "name": "Nhoa Sangui", "number": 19, "position_general": "DEF" },
+      { "name": "Sofiane Alakouch", "number": 22, "position_general": "DEF" },
+      { "name": "Thibault De Smet", "number": 28, "position_general": "DEF" },
+      { "name": "Samir Chergui", "number": 31, "position_general": "DEF" },
+      { "name": "Vincent Marchetti", "number": 4, "position_general": "MID" },
+      { "name": "Lohann Doucet", "number": 8, "position_general": "MID" },
+      { "name": "Ilan Kebbal", "number": 10, "position_general": "MID" },
+      { "name": "Mathieu Cafaro", "number": 13, "position_general": "MID" },
+      { "name": "Adama Camara", "number": 17, "position_general": "MID" },
+      { "name": "Julien Lopez", "number": 20, "position_general": "MID" },
+      { "name": "Maxime Lopez", "number": 21, "position_general": "MID" },
+      { "name": "Pierre Lees-Melou", "number": 33, "position_general": "MID" },
+      { "name": "Alimami Gory", "number": 7, "position_general": "FWD" },
+      { "name": "Willem Geubbels", "number": 9, "position_general": "FWD" },
+      { "name": "Jean-Philippe Krasso", "number": 11, "position_general": "FWD" },
+      { "name": "Nouha Dicko", "number": 12, "position_general": "FWD" },
+      { "name": "Lamine Gueye", "number": 26, "position_general": "FWD" },
+      { "name": "Moses Simon", "number": 27, "position_general": "FWD" },
+      { "name": "Pierre-Yves Hamel", "number": 29, "position_general": "FWD" },
+      { "name": "Jonathan Ikone", "number": 93, "position_general": "FWD" }
+    ],
+    "tactics": {
+      "default": "4-3-3 Titular",
+      "presets": {
+        "4-3-3 Titular": {
+          "formation": "4-3-3",
+          "lineup": {
+            "POR": "Obed Nkambadio",
+            "LTD": "Hamari Traore",
+            "DFC_D": "Samir Chergui",
+            "DFC_I": "Otavio",
+            "LTI": "Thibault De Smet",
+            "MC_D": "Maxime Lopez",
+            "MCD": "Pierre Lees-Melou",
+            "MC_I": "Adama Camara",
+            "ED": "Ilan Kebbal",
+            "DC": "Jean-Philippe Krasso",
+            "EI": "Moses Simon"
+          }
+        }
+      }
+    }
+  },
+  "Stade Brestois": {
+    "plantilla": [
+      { "name": "Radoslaw Majecki", "number": 1, "position_general": "GK" },
+      { "name": "Grégoire Coudert", "number": 30, "position_general": "GK" },
+      { "name": "Noah Jauny", "number": 50, "position_general": "GK" },
+      { "name": "Bradley Locko", "number": 2, "position_general": "DEF" },
+      { "name": "Junior Diaz", "number": 4, "position_general": "DEF" },
+      { "name": "Brendan Chardonnet", "number": 5, "position_general": "DEF" },
+      { "name": "Luck Zogbe", "number": 12, "position_general": "DEF" },
+      { "name": "Justin Bourgault", "number": 18, "position_general": "DEF" },
+      { "name": "Julien Le Cardinal", "number": 25, "position_general": "DEF" },
+      { "name": "Daouda Guindo", "number": 27, "position_general": "DEF" },
+      { "name": "Raphaël Le Guen", "number": 36, "position_general": "DEF" },
+      { "name": "Soumaïla Coulibaly", "number": 44, "position_general": "DEF" },
+      { "name": "Kenny Lala", "number": 77, "position_general": "DEF" },
+      { "name": "Junior Dina Ebimbe", "number": 7, "position_general": "MID" },
+      { "name": "Hugo Magnetti", "number": 8, "position_general": "MID" },
+      { "name": "Joris Chotard", "number": 13, "position_general": "MID" },
+      { "name": "Kamory Doumbia", "number": 23, "position_general": "MID" },
+      { "name": "Lucas Tousart", "number": 24, "position_general": "MID" },
+      { "name": "Hamidou Makalou", "number": 33, "position_general": "MID" },
+      { "name": "Romain Del Castillo", "number": 10, "position_general": "FWD" },
+      { "name": "Rémy Labeau Lascary", "number": 14, "position_general": "FWD" },
+      { "name": "Mama Baldé", "number": 17, "position_general": "FWD" },
+      { "name": "Ludovic Ajorque", "number": 19, "position_general": "FWD" },
+      { "name": "Ibrahim Kante", "number": 21, "position_general": "FWD" },
+      { "name": "Saliou Diop", "number": 29, "position_general": "FWD" },
+      { "name": "Pathé Mboup", "number": 99, "position_general": "FWD" }
+    ],
+    "tactics": {
+      "default": "4-2-3-1 Titular",
+      "presets": {
+        "4-2-3-1 Titular": {
+          "formation": "4-2-3-1",
+          "lineup": {
+            "POR": "Radoslaw Majecki",
+            "LTD": "Kenny Lala",
+            "DFC_D": "Brendan Chardonnet",
+            "DFC_I": "Soumaïla Coulibaly",
+            "LTI": "Bradley Locko",
+            "MCD_D": "Joris Chotard",
+            "MCD_I": "Hugo Magnetti",
+            "VOL_D": "Romain Del Castillo",
+            "MCO": "Kamory Doumbia",
+            "VOL_I": "Junior Dina Ebimbe",
+            "DC": "Ludovic Ajorque"
+          }
+        }
+      }
+    }
+  },
+  "FC Lorient": {
+    "plantilla": [
+      { "name": "Benjamin Leroy", "number": 1, "position_general": "GK" },
+      { "name": "Bingourou Kamara", "number": 21, "position_general": "GK" },
+      { "name": "Yvon Mvogo", "number": 38, "position_general": "GK" },
+      { "name": "Igor Silva", "number": 2, "position_general": "DEF" },
+      { "name": "Montassar Talbi", "number": 3, "position_general": "DEF" },
+      { "name": "Bamo Meite", "number": 5, "position_general": "DEF" },
+      { "name": "Isaac Monnier", "number": 19, "position_general": "DEF" },
+      { "name": "Abdoulaye Faye", "number": 25, "position_general": "DEF" },
+      { "name": "Nathaniel Adjei", "number": 32, "position_general": "DEF" },
+      { "name": "Arsène Kouassi", "number": 43, "position_general": "DEF" },
+      { "name": "Darlin Yongwa", "number": 44, "position_general": "DEF" },
+      { "name": "Panos Katseris", "number": 77, "position_general": "DEF" },
+      { "name": "Stevan Siba", "number": 97, "position_general": "DEF" },
+      { "name": "Laurent Abergel", "number": 6, "position_general": "MID" },
+      { "name": "Bandiougou Fadiga", "number": 7, "position_general": "MID" },
+      { "name": "Noah Cadiou", "number": 8, "position_general": "MID" },
+      { "name": "Théo Le Bris", "number": 11, "position_general": "MID" },
+      { "name": "Jean-Victor Makengo", "number": 17, "position_general": "MID" },
+      { "name": "Dermane Karim", "number": 29, "position_general": "MID" },
+      { "name": "Martin Bley", "number": 33, "position_general": "MID" },
+      { "name": "Arthur Avom Ebong", "number": 62, "position_general": "MID" },
+      { "name": "Joel Mvuka", "number": 93, "position_general": "MID" },
+      { "name": "Isaak Toure", "number": 95, "position_general": "MID" },
+      { "name": "Mohamed Bamba", "number": 9, "position_general": "FWD" },
+      { "name": "Pablo Pagis", "number": 10, "position_general": "FWD" },
+      { "name": "Bamba Dieng", "number": 12, "position_general": "FWD" },
+      { "name": "Trevan Sanusi", "number": 14, "position_general": "FWD" },
+      { "name": "Aiyegun Tosin", "number": 15, "position_general": "FWD" },
+      { "name": "Sambou Soumano", "number": 28, "position_general": "FWD" }
+    ],
+    "tactics": {
+      "default": "3-4-2-1 Titular",
+      "presets": {
+        "3-4-2-1 Titular": {
+          "formation": "3-4-2-1",
+          "lineup": {
+            "POR": "Yvon Mvogo",
+            "DFC_D": "Montassar Talbi",
+            "DFC_C": "Laurent Abergel",
+            "DFC_I": "Arsène Kouassi",
+            "MD": "Bamo Meite",
+            "MC_D": "Arthur Avom Ebong",
+            "MC_I": "Jean-Victor Makengo",
+            "MI": "Théo Le Bris",
+            "MCO_D": "Pablo Pagis",
+            "MCO_I": "Abdoulaye Faye",
+            "DC": "Mohamed Bamba"
+          }
+        }
+      }
+    }
+  },
+  "AJ Auxerre": {
+    "plantilla": [
+      { "name": "Donovan Leon", "number": 16, "position_general": "GK" },
+      { "name": "Tom Negrel", "number": 30, "position_general": "GK" },
+      { "name": "Louis Mezerette", "number": 37, "position_general": "GK" },
+      { "name": "Theo De Percin", "number": 40, "position_general": "GK" },
+      { "name": "Francisco Sierralta", "number": 4, "position_general": "DEF" },
+      { "name": "Telli Siwe", "number": 13, "position_general": "DEF" },
+      { "name": "Gideon Mensah", "number": 14, "position_general": "DEF" },
+      { "name": "Sinaly Diomande", "number": 20, "position_general": "DEF" },
+      { "name": "Fredrik Oppegard", "number": 22, "position_general": "DEF" },
+      { "name": "Lamine Sy", "number": 27, "position_general": "DEF" },
+      { "name": "Marvin Senaya", "number": 29, "position_general": "DEF" },
+      { "name": "Elikya Legros", "number": 35, "position_general": "DEF" },
+      { "name": "Alvin Petit Dol", "number": 38, "position_general": "DEF" },
+      { "name": "Clément Akpa", "number": 92, "position_general": "DEF" },
+      { "name": "Kevin Danois", "number": 5, "position_general": "MID" },
+      { "name": "Nathan Buayi-Kiala", "number": 8, "position_general": "MID" },
+      { "name": "Oussama El Azzouzi", "number": 17, "position_general": "MID" },
+      { "name": "Assane Diousse", "number": 18, "position_general": "MID" },
+      { "name": "Lasso Coulibaly", "number": 21, "position_general": "MID" },
+      { "name": "Ibrahim Osman", "number": 23, "position_general": "MID" },
+      { "name": "Rudy Matondo", "number": 34, "position_general": "MID" },
+      { "name": "Tidiane Devernois", "number": 36, "position_general": "MID" },
+      { "name": "Elisha Owusu", "number": 42, "position_general": "MID" },
+      { "name": "Josue Casimir", "number": 7, "position_general": "FWD" },
+      { "name": "Sekou Mara", "number": 9, "position_general": "FWD" },
+      { "name": "Lassine Sinayoko", "number": 10, "position_general": "FWD" },
+      { "name": "Danny Namaso", "number": 19, "position_general": "FWD" },
+      { "name": "Ryan Rodin", "number": 31, "position_general": "FWD" }
+    ],
+    "tactics": {
+      "default": "5-4-1 Titular",
+      "presets": {
+        "5-4-1 Titular": {
+          "formation": "5-4-1",
+          "lineup": {
+            "POR": "Donovan Leon",
+            "CAR_D": "Josue Casimir",
+            "DFC_D": "Marvin Senaya",
+            "DFC_C": "Francisco Sierralta",
+            "DFC_I": "Clément Akpa",
+            "CAR_I": "Gideon Mensah",
+            "MD": "Ibrahim Osman",
+            "MC_D": "Oussama El Azzouzi",
+            "MC_I": "Kevin Danois",
+            "MI": "Danny Namaso",
+            "DC": "Lassine Sinayoko"
+          }
+        }
+      }
+    }
+  },
+  "FC Nantes": {
+    "plantilla": [
+      { "name": "Anthony Lopes", "number": 1, "position_general": "GK" },
+      { "name": "Patrik Carlgren", "number": 30, "position_general": "GK" },
+      { "name": "Alexis Mirbach", "number": 50, "position_general": "GK" },
+      { "name": "Nicolas Cozza", "number": 3, "position_general": "DEF" },
+      { "name": "Chidozie Awaziem", "number": 6, "position_general": "DEF" },
+      { "name": "Fabien Centonze", "number": 18, "position_general": "DEF" },
+      { "name": "Uros Radakovic", "number": 26, "position_general": "DEF" },
+      { "name": "Sékou Doucoure", "number": 72, "position_general": "DEF" },
+      { "name": "Tylel Tati", "number": 78, "position_general": "DEF" },
+      { "name": "Kelvin Amian", "number": 98, "position_general": "DEF" },
+      { "name": "Hyeokkyu Kwon", "number": 5, "position_general": "MID" },
+      { "name": "Hyunseok Hong", "number": 7, "position_general": "MID" },
+      { "name": "Johann Lepenant", "number": 8, "position_general": "MID" },
+      { "name": "Francis Coquelin", "number": 13, "position_general": "MID" },
+      { "name": "Dehmaine Tabibou", "number": 17, "position_general": "MID" },
+      { "name": "Bahmed Deuff", "number": 52, "position_general": "MID" },
+      { "name": "Louis Leroux", "number": 66, "position_general": "MID" },
+      { "name": "Sacha Ziani", "number": 69, "position_general": "MID" },
+      { "name": "Junior Mwanga", "number": 80, "position_general": "MID" },
+      { "name": "Yassine Benhattab", "number": 90, "position_general": "MID" },
+      { "name": "Matthis Abline", "number": 10, "position_general": "FWD" },
+      { "name": "Bahereba Guirassy", "number": 11, "position_general": "FWD" },
+      { "name": "Amady Camara", "number": 14, "position_general": "FWD" },
+      { "name": "Mayckel Lahdo", "number": 15, "position_general": "FWD" },
+      { "name": "Youssef El Arabi", "number": 19, "position_general": "FWD" },
+      { "name": "Adel Mahamoud", "number": 23, "position_general": "FWD" },
+      { "name": "Mostafa Mohamed", "number": 31, "position_general": "FWD" }
+    ],
+    "tactics": {
+      "default": "4-3-3 Titular",
+      "presets": {
+        "4-3-3 Titular": {
+          "formation": "4-3-3",
+          "lineup": {
+            "POR": "Anthony Lopes",
+            "LTD": "Kelvin Amian",
+            "DFC_D": "Junior Mwanga",
+            "DFC_I": "Chidozie Awaziem",
+            "LTI": "Tylel Tati",
+            "MC_D": "Hyeokkyu Kwon",
+            "MCD": "Matthis Abline",
+            "MC_I": "Dehmaine Tabibou",
+            "ED": "Bahereba Guirassy",
+            "DC": "Mostafa Mohamed",
+            "EI": "Louis Leroux"
+          }
+        }
+      }
+    }
+  },
+  "Le Havre AC": {
+    "plantilla": [
+      { "name": "Paul Argney", "number": 50, "position_general": "GK" },
+      { "name": "Lionel Mpasi", "number": 77, "position_general": "GK" },
+      { "name": "Mory Diaw", "number": 99, "position_general": "GK" },
+      { "name": "Gautier Lloris", "number": 4, "position_general": "DEF" },
+      { "name": "Etienne Youte", "number": 6, "position_general": "DEF" },
+      { "name": "Loïc Nego", "number": 7, "position_general": "DEF" },
+      { "name": "Fode Doucoure", "number": 13, "position_general": "DEF" },
+      { "name": "Ayumu Seko", "number": 15, "position_general": "DEF" },
+      { "name": "Yanis Zouaoui", "number": 18, "position_general": "DEF" },
+      { "name": "Thomas Delaine", "number": 23, "position_general": "DEF" },
+      { "name": "Stephan Zagadou", "number": 33, "position_general": "DEF" },
+      { "name": "Arouna Sangante", "number": 93, "position_general": "DEF" },
+      { "name": "Georges Gomis", "number": 93, "position_general": "DEF" },
+      { "name": "Yassine Kechta", "number": 8, "position_general": "MID" },
+      { "name": "Rassoul Ndiaye", "number": 14, "position_general": "MID" },
+      { "name": "Guy-Noël Zohouri", "number": 24, "position_general": "MID" },
+      { "name": "Simon Ebonog", "number": 26, "position_general": "MID" },
+      { "name": "Réda Khadra", "number": 30, "position_general": "MID" },
+      { "name": "Daren Mosengo", "number": 78, "position_general": "MID" },
+      { "name": "Abdoulaye Toure", "number": 94, "position_general": "MID" },
+      { "name": "Damian Nicolas Pizarro Huenuqueo", "number": 9, "position_general": "FWD" },
+      { "name": "Félix Mambimbi", "number": 10, "position_general": "FWD" },
+      { "name": "Godson Kyeremeh", "number": 11, "position_general": "FWD" },
+      { "name": "Elysee Logbo", "number": 19, "position_general": "FWD" },
+      { "name": "Younes Namli", "number": 21, "position_general": "FWD" },
+      { "name": "Enzo Koffi", "number": 34, "position_general": "FWD" },
+      { "name": "Issa Soumare", "number": 45, "position_general": "FWD" },
+      { "name": "Ally Samatta", "number": 70, "position_general": "FWD" }
+    ],
+    "tactics": {
+      "default": "4-4-2 Titular",
+      "presets": {
+        "4-4-2 Titular": {
+          "formation": "4-4-2",
+          "lineup": {
+            "POR": "Mory Diaw",
+            "LTD": "Loïc Nego",
+            "DFC_D": "Arouna Sangante",
+            "DFC_I": "Gautier Lloris",
+            "LTI": "Yanis Zouaoui",
+            "MD": "Fode Doucoure",
+            "MC_D": "Rassoul Ndiaye",
+            "MC_I": "Ayumu Seko",
+            "MI": "Yassine Kechta",
+            "DC_D": "Issa Soumare",
+            "DC_I": "Ally Samatta"
+          }
+        }
+      }
+    }
+  },
+  "Angers SCO": {
+    "plantilla": [
+      { "name": "Hervé Koffi", "number": 12, "position_general": "GK" },
+      { "name": "Melvin Zinga", "number": 16, "position_general": "GK" },
+      { "name": "Oumar Pona", "number": 40, "position_general": "GK" },
+      { "name": "Carlens Arcus", "number": 2, "position_general": "DEF" },
+      { "name": "Jacques Ekomié", "number": 3, "position_general": "DEF" },
+      { "name": "Ousmane Camara", "number": 4, "position_general": "DEF" },
+      { "name": "Marius Courcoul", "number": 5, "position_general": "DEF" },
+      { "name": "Jordan Lefort", "number": 21, "position_general": "DEF" },
+      { "name": "Dan Sinate", "number": 23, "position_general": "DEF" },
+      { "name": "Emmanuel Biumla", "number": 24, "position_general": "DEF" },
+      { "name": "Abdoulaye Bamba", "number": 25, "position_general": "DEF" },
+      { "name": "Florent Hanin", "number": 26, "position_general": "DEF" },
+      { "name": "Lilian Raolisoa", "number": 27, "position_general": "DEF" },
+      { "name": "Louis Mouton", "number": 6, "position_general": "MID" },
+      { "name": "Himad Abdelli", "number": 10, "position_general": "MID" },
+      { "name": "Yassin Belkhdim", "number": 14, "position_general": "MID" },
+      { "name": "Pierrick Capelle", "number": 15, "position_general": "MID" },
+      { "name": "Marius Louër", "number": 20, "position_general": "MID" },
+      { "name": "Lionel Ngangué", "number": 37, "position_general": "MID" },
+      { "name": "Ilann Garin", "number": 38, "position_general": "MID" },
+      { "name": "Jibril El Baraka", "number": 41, "position_general": "MID" },
+      { "name": "Haris Belkebla", "number": 93, "position_general": "MID" },
+      { "name": "Amine Sbaï", "number": 7, "position_general": "FWD" },
+      { "name": "Sidiki Cherif", "number": 11, "position_general": "FWD" },
+      { "name": "Justin Kalumba", "number": 17, "position_general": "FWD" },
+      { "name": "Jim Allevinah", "number": 18, "position_general": "FWD" },
+      { "name": "Harouna Djibirin", "number": 31, "position_general": "FWD" },
+      { "name": "Amine Moussaoui", "number": 34, "position_general": "FWD" },
+      { "name": "Prosper Peter", "number": 35, "position_general": "FWD" },
+      { "name": "Lanroy Machine", "number": 36, "position_general": "FWD" }
+    ],
+    "tactics": {
+      "default": "4-2-3-1 Titular",
+      "presets": {
+        "4-2-3-1 Titular": {
+          "formation": "4-2-3-1",
+          "lineup": {
+            "POR": "Hervé Koffi",
+            "LTD": "Carlens Arcus",
+            "DFC_D": "Haris Belkebla",
+            "DFC_I": "Ousmane Camara",
+            "LTI": "Jordan Lefort",
+            "MCD_D": "Yassin Belkhdim",
+            "MCD_I": "Louis Mouton",
+            "VOL_D": "Amine Sbaï",
+            "MCO": "Himad Abdelli",
+            "VOL_I": "Florent Hanin",
+            "DC": "Prosper Peter"
+          }
+        }
+      }
+    }
+  },
+  "FC Metz": {
+    "plantilla": [
+      { "name": "Jonathan Fischer", "number": 1, "position_general": "GK" },
+      { "name": "Ousmane Ba", "number": 40, "position_general": "GK" },
+      { "name": "Pape Sy", "number": 61, "position_general": "GK" },
+      { "name": "Maxime Colin", "number": 2, "position_general": "DEF" },
+      { "name": "Urie-Michel Mboula", "number": 4, "position_general": "DEF" },
+      { "name": "Terry Yegbe", "number": 15, "position_general": "DEF" },
+      { "name": "Cléo Melieres", "number": 25, "position_general": "DEF" },
+      { "name": "Yannis Lawson", "number": 27, "position_general": "DEF" },
+      { "name": "Sadibou Sane", "number": 38, "position_general": "DEF" },
+      { "name": "Koffi Kouao", "number": 39, "position_general": "DEF" },
+      { "name": "Fodé Ballo-Toure", "number": 97, "position_general": "DEF" },
+      { "name": "Jean-Philippe Gbamin", "number": 5, "position_general": "MID" },
+      { "name": "Boubacar Traore", "number": 8, "position_general": "MID" },
+      { "name": "Gauthier Hein", "number": 10, "position_general": "MID" },
+      { "name": "Alpha Toure", "number": 12, "position_general": "MID" },
+      { "name": "Jessy Deminguet", "number": 20, "position_general": "MID" },
+      { "name": "Benjamin Stambouli", "number": 21, "position_general": "MID" },
+      { "name": "Ismaël Guerti", "number": 29, "position_general": "MID" },
+      { "name": "Giorgi Tsitaishvili", "number": 7, "position_general": "FWD" },
+      { "name": "Giorgi Abuashvili", "number": 9, "position_general": "FWD" },
+      { "name": "Malick Mbaye", "number": 11, "position_general": "FWD" },
+      { "name": "Cheikh Tidiane Sabaly", "number": 14, "position_general": "FWD" },
+      { "name": "Joseph Mangondo", "number": 17, "position_general": "FWD" },
+      { "name": "Morgan Bokele", "number": 19, "position_general": "FWD" },
+      { "name": "Ibou Sane", "number": 23, "position_general": "FWD" },
+      { "name": "Brian Madjo", "number": 24, "position_general": "FWD" },
+      { "name": "Habib Diallo", "number": 30, "position_general": "FWD" },
+      { "name": "Joel Asoro", "number": 99, "position_general": "FWD" }
+    ],
+    "tactics": {
+      "default": "3-4-2-1 Titular",
+      "presets": {
+        "3-4-2-1 Titular": {
+          "formation": "3-4-2-1",
+          "lineup": {
+            "POR": "Jonathan Fischer",
+            "DFC_D": "Jean-Philippe Gbamin",
+            "DFC_C": "Sadibou Sane",
+            "DFC_I": "Fodé Ballo-Toure",
+            "MD": "Koffi Kouao",
+            "MC_D": "Boubacar Traore",
+            "MC_I": "Alpha Toure",
+            "MI": "Giorgi Abuashvili",
+            "MCO_D": "Gauthier Hein",
+            "MCO_I": "Cheikh Tidiane Sabaly",
+            "DC": "Habib Diallo"
+          }
+        }
+      }
+    }
+  }
+}
