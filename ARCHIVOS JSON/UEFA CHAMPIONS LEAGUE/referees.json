@@ -6,7 +6,7 @@
     "reds_per_game": 0.1
   },
   "Sven Jablonski": {
-    "nationality": "Austria",
+    "nationality": "Alemania",
     "fouls_per_game": 23.3,
     "yellows_per_game": 3.90,
     "reds_per_game": 0.15
@@ -407,4 +407,5 @@
     "yellows_per_game": 4.11,
     "reds_per_game": 0.11
   }
+
 }
