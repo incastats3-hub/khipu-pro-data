@@ -5820,10 +5820,10 @@
       }
     ],
     "tactics": {
-      "default": "3-4-1-2 Titular",
+      "default": "3-5-2 Titular",
       "presets": {
-        "3-4-1-2 Titular": {
-          "formation": "3-4-1-2",
+        "3-5-2 Titular": {
+          "formation": "3-5-2",
           "lineup": {
             "POR": "Kjell Scherpen",
             "DFC_I": "Christian Burgess",
