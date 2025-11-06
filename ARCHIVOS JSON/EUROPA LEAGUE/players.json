@@ -303,8 +303,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-2-3-1 Titular",
+      "presets": {
+        "4-2-3-1 Titular": {
+          "formation": "4-2-3-1",
+          "lineup": {
+            "POR": "Emiliano Martínez",
+            "LTD": "Ian Maatsen",
+            "DFC_D": "Pau Torres",
+            "DFC_I": "Tyrone Mings",
+            "LTI": "Victor Lindelöf",
+            "MCD_D": "Amadou Onana",
+            "MCD_I": "Lamare Bogarde",
+            "VOL_D": "Jadon Sancho",
+            "MCO": "Emiliano Buendía",
+            "VOL_I": "Evann Guessand",
+            "DC": "Ollie Watkins"
+          }
+        }
+      }
     }
   },
   "FC Basel 1893": {
@@ -471,8 +488,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-2-3-1 Titular",
+      "presets": {
+        "4-2-3-1 Titular": {
+          "formation": "4-2-3-1",
+          "lineup": {
+            "POR": "Marwin Hitz",
+            "LTD": "Flavius Daniliuc",
+            "DFC_D": "Nicolas Vouilloz",
+            "DFC_I": "Adrian Leon Barišić",
+            "LTI": "Dominik Schmid",
+            "MCD_D": "Leo Leroy",
+            "MCD_I": "Metinho",
+            "VOL_D": "Philip Otele",
+            "MCO": "Xherdan Shaqiri",
+            "VOL_I": "Marin Šotiček",
+            "DC": "Albian Ajeti"
+          }
+        }
+      }
     }
   },
   "Bologna FC 1909": {
@@ -599,8 +633,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-2-3-1 Titular",
+      "presets": {
+        "4-2-3-1 Titular": {
+          "formation": "4-2-3-1",
+          "lineup": {
+            "POR": "Łukasz Skorupski",
+            "LTD": "Nadir Zortea",
+            "DFC_D": "Torbjørn Heggem",
+            "DFC_I": "Jhon Lucumi",
+            "LTI": "Charalampos Lykogiannis",
+            "MCD_D": "Nikola Moro",
+            "MCD_I": "Remo Freuler",
+            "VOL_D": "Riccardo Orsolini",
+            "MCO": "Jens Odgaard",
+            "VOL_I": "Jonathan Rowe",
+            "DC": "Thijs Dallinga"
+          }
+        }
+      }
     }
   },
   "SC Braga": {
@@ -767,8 +818,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "3-4-2-1 Titular",
+      "presets": {
+        "3-4-2-1 Titular": {
+          "formation": "3-4-2-1",
+          "lineup": {
+            "POR": "Lukáš Horníček",
+            "DFC_D": "Victor Gómez",
+            "DFC_C": "Gustaf Lagerbielke",
+            "DFC_I": "Bright Arrey-Mbi",
+            "MD": "Gabri Martínez",
+            "MC_D": "Jean-Baptiste Gorby",
+            "MC_I": "João Moutinho",
+            "MI": "Leonardo Lelo",
+            "MCO_D": "Rodrigo Zalazar",
+            "MCO_I": "Ricardo Horta",
+            "DC": "Fran Navarro"
+          }
+        }
+      }
     }
   },
   "SK Brann": {
@@ -910,8 +978,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-3-3 Titular",
+      "presets": {
+        "4-3-3 Titular": {
+          "formation": "4-3-3",
+          "lineup": {
+            "POR": "Mathias Dyngeland",
+            "LTD": "Denzel De Roeve",
+            "DFC_D": "Fredrik Pallesen Knudsen",
+            "DFC_I": "Eivind Helland",
+            "LTI": "Vetle Dragsnes",
+            "MC_D": "Emil Kornvig",
+            "MCD": "Eggert Aron Guðmundsson",
+            "MC_I": "Jacob Sørensen",
+            "ED": "Ulrik Mathisen",
+            "DC": "Noah Holm",
+            "EI": "Bård Finne"
+          }
+        }
+      }
     }
   },
   "Real Club Celta": {
@@ -1053,8 +1138,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "3-4-3 Titular",
+      "presets": {
+        "3-4-3 Titular": {
+          "formation": "3-4-3",
+          "lineup": {
+            "POR": "Ionuț Radu",
+            "DFC_D": "Manuel Fernández",
+            "DFC_C": "Carl Starfelt",
+            "DFC_I": "Marcos Alonso",
+            "MD": "Sergio Carreira",
+            "MC_D": "Fran Beltrán",
+            "MC_I": "Hugo Álvarez",
+            "MI": "Miguel Román",
+            "ED": "Bryan Zaragoza",
+            "DC": "Iago Aspas",
+            "EI": "Pablo Durán"
+          }
+        }
+      }
     }
   },
   "Celtic FC": {
@@ -1326,8 +1428,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-3-3 Titular",
+      "presets": {
+        "4-3-3 Titular": {
+          "formation": "4-3-3",
+          "lineup": {
+            "POR": "Kasper Schmeichel",
+            "LTD": "Alistair Johnston",
+            "DFC_D": "Cameron Carter-Vickers",
+            "DFC_I": "Liam Scales",
+            "LTI": "Kieran Tierney",
+            "MC_D": "Benjamin Nygren",
+            "MCD": "Callum McGregor",
+            "MC_I": "Reo Hatate",
+            "ED": "Arne Engels",
+            "DC": "Kelechi Iheanacho",
+            "EI": "Sebastian Tounekti"
+          }
+        }
+      }
     }
   },
   "FK Crvena Zvezda": {
@@ -1484,8 +1603,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-2-3-1 Titular",
+      "presets": {
+        "4-2-3-1 Titular": {
+          "formation": "4-2-3-1",
+          "lineup": {
+            "POR": "Matheus",
+            "LTD": "Youngwoo Seol",
+            "DFC_D": "Rodrigão",
+            "DFC_I": "Franklin Tebo Uchenna",
+            "LTI": "Nayair Tiknizyan",
+            "MCD_D": "Rade Krunić",
+            "MCD_I": "Tomas Händel",
+            "VOL_D": "Nemanja Radonjić",
+            "MCO": "Mirko Ivanić",
+            "VOL_I": "Vasilije Kostov",
+            "DC": "Marko Arnautović"
+          }
+        }
+      }
     }
   },
   "Fotbal Club FCSB": {
@@ -1622,8 +1758,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-2-3-1 Titular",
+      "presets": {
+        "4-2-3-1 Titular": {
+          "formation": "4-2-3-1",
+          "lineup": {
+            "POR": "Ştefan Târnovanu",
+            "LTD": "Alexandru Pantea",
+            "DFC_D": "Siyabonga Ngezana",
+            "DFC_I": "Mihai Lixandru",
+            "LTI": "Risto Radunović",
+            "MCD_D": "Baba Alhassan",
+            "MCD_I": "Adrian Șut",
+            "VOL_D": "David Miculescu",
+            "MCO": "Darius Olaru",
+            "VOL_I": "Juri Cisotti",
+            "DC": "Mamadou Thiam"
+          }
+        }
+      }
     }
   },
   "Fenerbahçe SK": {
@@ -1785,8 +1938,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-3-3 Titular",
+      "presets": {
+        "4-3-3 Titular": {
+          "formation": "4-3-3",
+          "lineup": {
+            "POR": "Ederson",
+            "LTD": "Nélson Semedo",
+            "DFC_D": "Milan Škriniar",
+            "DFC_I": "Jayden Oosterwolde",
+            "LTI": "Archie Brown",
+            "MC_D": "Marco Asensio",
+            "MCD": "Edson Álvarez",
+            "MC_I": "İsmail Yüksek",
+            "ED": "Dorgeles Nene",
+            "DC": "Youssef En-Nesyri",
+            "EI": "Kerem Aktürkoğlu"
+          }
+        }
+      }
     }
   },
   "Ferencvárosi TC": {
@@ -1928,8 +2098,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "3-5-2 Titular",
+      "presets": {
+        "3-5-2 Titular": {
+          "formation": "3-5-2",
+          "lineup": {
+            "POR": "Dénes Dibusz",
+            "DFC_D": "Stefan Gartenmann",
+            "DFC_C": "Toon Raemaekers",
+            "DFC_I": "Ibrahim Cissé",
+            "CAR_D": "Cadu",
+            "MC_D": "Gabi Kanichowsky",
+            "MC_C": "Kristoffer Zachariassen",
+            "MC_I": "Bence Ötvös",
+            "CAR_I": "Čebrails Makreckis",
+            "DC_D": "Bamidele Yusuf",
+            "DC_I": "Barnabás Varga"
+          }
+        }
+      }
     }
   },
   "Feyenoord": {
@@ -2176,8 +2363,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-3-3 Titular",
+      "presets": {
+        "4-3-3 Titular": {
+          "formation": "4-3-3",
+          "lineup": {
+            "POR": "Timon Wellenreuther",
+            "LTD": "Givairo Read",
+            "DFC_D": "Anel Ahmedhodžić",
+            "DFC_I": "Gijs Smal",
+            "LTI": "Jordan Bos",
+            "MC_D": "Inbeom Hwang",
+            "MCD": "Sem Steijn",
+            "MC_I": "Luciano Valente",
+            "ED": "Anis Hadj Moussa",
+            "DC": "Ayase Ueda",
+            "EI": "Aymen Sliti"
+          }
+        }
+      }
     }
   },
   "SC Freiburg": {
@@ -2344,8 +2548,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-2-3-1 Titular",
+      "presets": {
+        "4-2-3-1 Titular": {
+          "formation": "4-2-3-1",
+          "lineup": {
+            "POR": "Noah Atubolu",
+            "LTD": "Philipp Treu",
+            "DFC_D": "Matthias Ginter",
+            "DFC_I": "Philipp Lienhart",
+            "LTI": "Christian Günter",
+            "MCD_D": "Maximilian Eggestein",
+            "MCD_I": "Johan Manzambi",
+            "VOL_D": "Jan-Niklas Beste",
+            "MCO": "Yuito Suzuki",
+            "VOL_I": "Vincenzo Grifo",
+            "DC": "Junior Adamu"
+          }
+        }
+      }
     }
   },
   "KRC Genk": {
@@ -2532,8 +2753,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-2-3-1 Titular",
+      "presets": {
+        "4-2-3-1 Titular": {
+          "formation": "4-2-3-1",
+          "lineup": {
+            "POR": "Hendrik Van Crombrugge",
+            "LTD": "Ken Nkuba",
+            "DFC_D": "Mujaid Sadick",
+            "DFC_I": "Matte Smets",
+            "LTI": "Joris Kayembe",
+            "MCD_D": "Nikolas Sattlberger",
+            "MCD_I": "Bryan Heynen",
+            "VOL_D": "Konstantinos Karetsas",
+            "MCO": "Patrik Hrošovský",
+            "VOL_I": "Yaimar Medina",
+            "DC": "Hyeongyu Oh"
+          }
+        }
+      }
     }
   },
   "GNK Dinamo Zagreb": {
@@ -2710,8 +2948,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-1-4-1 Titular",
+      "presets": {
+        "4-1-4-1 Titular": {
+          "formation": "4-1-4-1",
+          "lineup": {
+            "POR": "Ivan Nevistić",
+            "LTD": "Scott McKenna",
+            "DFC_D": "Sergi Dominguez",
+            "DFC_I": "Bruno Goda",
+            "LTI": "Moris Valinčić",
+            "MCD": "Josip Mišić",
+            "MD": "Arbër Hoxha",
+            "MC_D": "Miha Zajc",
+            "MC_I": "Dejan Ljubičić",
+            "MI": "Mateo Lisica",
+            "DC": "Dion Beljo"
+          }
+        }
+      }
     }
   },
   "Go Ahead Eagles": {
@@ -2883,8 +3138,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-2-3-1 Titular",
+      "presets": {
+        "4-2-3-1 Titular": {
+          "formation": "4-2-3-1",
+          "lineup": {
+            "POR": "Jari De Busser",
+            "LTD": "Mats Deijl",
+            "DFC_D": "Gerrit Nauber",
+            "DFC_I": "Joris Kramer",
+            "LTI": "Dean James",
+            "MCD_D": "Melle Meulensteen",
+            "MCD_I": "Yassir Salah Rahmouni",
+            "VOL_D": "Richonell Margaret",
+            "MCO": "Mathis Suray",
+            "VOL_I": "Jakob Breum",
+            "DC": "Milan Smit"
+          }
+        }
+      }
     }
   },
   "LOSC Lille": {
@@ -3026,8 +3298,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-2-3-1 Titular",
+      "presets": {
+        "4-2-3-1 Titular": {
+          "formation": "4-2-3-1",
+          "lineup": {
+            "POR": "Berke Özer",
+            "LTD": "Tiago Santos",
+            "DFC_D": "Aïssa Mandi",
+            "DFC_I": "Nathan Ngoy",
+            "LTI": "Calvin Verdonk",
+            "MCD_D": "Ugo Raghouber",
+            "MCD_I": "Benjamin André",
+            "VOL_D": "Félix Correia",
+            "MCO": "Osame Sahraoui",
+            "VOL_I": "Matias Fernandez-Pardo",
+            "DC": "Hamza Igamane"
+          }
+        }
+      }
     }
   },
   "PFC Ludogorets 1945": {
@@ -3209,8 +3498,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "3-4-1-2 Titular",
+      "presets": {
+        "3-4-1-2 Titular": {
+          "formation": "3-5-2",
+          "lineup": {
+            "POR": "Hendrik Bonmann",
+            "DFC_I": "Anton Nedyalkov",
+            "DFC_C": "Olivier Verdon",
+            "DFC_D": "Dinis Almeida",
+            "CAR_I": "Deroy Duarte",
+            "MC_I": "Petar Stanić",
+            "MC_D": "Filip Kaloč",
+            "CAR_D": "Joel Andersson",
+            "MC_C": "Caio Vidal",
+            "DC_I": "Stanislav Ivanov",
+            "DC_D": "Bernard Tekpetey"
+          }
+        }
+      }
     }
   },
   "Olympique Lyonnais": {
@@ -3527,8 +3833,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-2-3-1 Titular",
+      "presets": {
+        "4-2-3-1 Titular": {
+          "formation": "4-2-3-1",
+          "lineup": {
+            "POR": "Dominik Greif",
+            "LTD": "Ainsley Maitland-Niles",
+            "DFC_D": "Clinton Mata",
+            "DFC_I": "Moussa Niakhaté",
+            "LTI": "Abner Vinicius",
+            "MCD_D": "Tanner Tessmann",
+            "MCD_I": "Corentin Tolisso",
+            "VOL_D": "Khalis Merah",
+            "MCO": "Mathys De Carvalho",
+            "VOL_I": "Malick Fofana",
+            "DC": "Martin Satriano"
+          }
+        }
+      }
     }
   },
   "Maccabi Tel-Aviv FC": {
@@ -3720,8 +4043,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-4-2 Titular",
+      "presets": {
+        "4-4-2 Titular": {
+          "formation": "4-4-2",
+          "lineup": {
+            "POR": "Roi Mishpati",
+            "LTD": "Tyrese Asante",
+            "DFC_D": "Raz Shlomo",
+            "DFC_I": "Mohamed Ali Camara",
+            "LTI": "Roy Revivo",
+            "MD": "Osher Davida",
+            "MC_D": "Issouf Sissokho",
+            "MC_I": "Dor Peretz",
+            "MI": "Kervin Andrade",
+            "DC_D": "Elad Madmon",
+            "DC_I": "Itamar Noy"
+          }
+        }
+      }
     }
   },
   "Malmö FF": {
@@ -3903,8 +4243,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-1-4-1 Titular",
+      "presets": {
+        "4-1-4-1 Titular": {
+          "formation": "4-1-4-1",
+          "lineup": {
+            "POR": "Melker Ellborg",
+            "LTD": "Jens Stryger",
+            "DFC_D": "Pontus Jansson",
+            "DFC_I": "Colin Rösler",
+            "LTI": "Gabriel Busanello",
+            "MCD": "Oscar Lewicki",
+            "MD": "Hugo Bolin",
+            "MC_D": "Kenan Busuladzic",
+            "MC_I": "Otto Rosengren",
+            "MI": "Sead Hakšabanović",
+            "DC": "Emmanuel Ekong"
+          }
+        }
+      }
     }
   },
   "FC Midtjylland": {
@@ -4101,8 +4458,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "3-4-2-1 Titular",
+      "presets": {
+        "3-4-2-1 Titular": {
+          "formation": "3-4-2-1",
+          "lineup": {
+            "POR": "Elias Rafn Ólafsson",
+            "DFC_D": "Martin Erlić",
+            "DFC_C": "Ousmane Diao",
+            "DFC_I": "Mads Bech",
+            "MD": "Victor Bak Jensen",
+            "MC_D": "Denil Castillo",
+            "MC_I": "Philip Billing",
+            "MI": "Darío Osorio",
+            "MCO_D": "Valdemar Andreasen",
+            "MCO_I": "Guesung Cho",
+            "DC": "Djú Franculino"
+          }
+        }
+      }
     }
   },
   "OGC Nice": {
@@ -4264,8 +4638,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "3-4-3 Titular",
+      "presets": {
+        "3-4-3 Titular": {
+          "formation": "3-4-3",
+          "lineup": {
+            "POR": "Yehvann Diouf",
+            "DFC_D": "Kojo Peprah Oppong",
+            "DFC_C": "Juma Bah",
+            "DFC_I": "Melvin Bard",
+            "MD": "Jonathan Clauss",
+            "MC_D": "Tom Louchet",
+            "MC_I": "Salis Abdul Samed",
+            "MI": "Ali Abdi",
+            "ED": "Mohamed Ali Cho",
+            "DC": "Kevin Carlos",
+            "EI": "Morgan Sanson"
+          }
+        }
+      }
     }
   },
   "Nottingham Forest FC": {
@@ -4537,8 +4928,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-2-3-1 Titular",
+      "presets": {
+        "4-2-3-1 Titular": {
+          "formation": "4-2-3-1",
+          "lineup": {
+            "POR": "Matz Sels",
+            "LTD": "Neco Williams",
+            "DFC_D": "Nikola Milenković",
+            "DFC_I": "Murillo",
+            "LTI": "Oleksandr Zinchenko",
+            "MCD_D": "Douglas Luiz",
+            "MCD_I": "Elliot Anderson",
+            "VOL_D": "Dan Ndoye",
+            "MCO": "Morgan Gibbs-White",
+            "VOL_I": "Callum Hudson-Odoi",
+            "DC": "Igor Jesus"
+          }
+        }
+      }
     }
   },
   "Panathinaikos FC": {
@@ -4675,8 +5083,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-3-3 Titular",
+      "presets": {
+        "4-3-3 Titular": {
+          "formation": "4-3-3",
+          "lineup": {
+            "POR": "Bartłomiej Drągowski",
+            "LTD": "Davide Calabria",
+            "DFC_D": "Sverrir Ingason",
+            "DFC_I": "Ahmed Touba",
+            "LTI": "Giorgos Kiriakopoulos",
+            "MC_D": "Giannis Kotsiras",
+            "MCD": "Manolis Siopis",
+            "MC_I": "Adam Gnezda Čerin",
+            "ED": "Tetê",
+            "DC": "Karol Świderski",
+            "EI": "Filip Đuričić"
+          }
+        }
+      }
     }
   },
   "PAOK FC": {
@@ -4853,8 +5278,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-2-3-1 Titular",
+      "presets": {
+        "4-2-3-1 Titular": {
+          "formation": "4-2-3-1",
+          "lineup": {
+            "POR": "Antonios Tsiftsis",
+            "LTD": "Jonjoe Kenny",
+            "DFC_D": "Tomasz Kędziora",
+            "DFC_I": "Giannis Michailidis",
+            "LTI": "Abdul Rahman Baba",
+            "MCD_D": "Mady Camara",
+            "MCD_I": "Soualiho Meite",
+            "VOL_D": "Kiril Despodov",
+            "MCO": "Giannis Konstantelias",
+            "VOL_I": "Andrija Živković",
+            "DC": "Fedor Chalov"
+          }
+        }
+      }
     }
   },
   "FC Porto": {
@@ -5036,8 +5478,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-3-3 Titular",
+      "presets": {
+        "4-3-3 Titular": {
+          "formation": "4-3-3",
+          "lineup": {
+            "POR": "Diogo Costa",
+            "LTD": "Alberto Costa",
+            "DFC_D": "Jan Bednarek",
+            "DFC_I": "Jakub Kiwior",
+            "LTI": "Francisco Moura",
+            "MC_D": "Victor Froholdt",
+            "MCD": "Alan Varela",
+            "MC_I": "Pablo Rosario",
+            "ED": "Pepê",
+            "DC": "Samu",
+            "EI": "Borja Sainz"
+          }
+        }
+      }
     }
   },
   "Rangers FC": {
@@ -5249,8 +5708,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-4-2 Titular",
+      "presets": {
+        "4-4-2 Titular": {
+          "formation": "4-4-2",
+          "lineup": {
+            "POR": "Jack Butland",
+            "LTD": "James Tavernier",
+            "DFC_D": "John Souttar",
+            "DFC_I": "Nasser Djiga",
+            "LTI": "Jayden Meghoma",
+            "MD": "Oliver Antman",
+            "MC_D": "Nicolas Raskin",
+            "MC_I": "Joe Rothwell",
+            "MI": "Djeidi Gassama",
+            "DC_D": "Thelo Aasgaard",
+            "DC_I": "Youssef Chermiti"
+          }
+        }
+      }
     }
   },
   "Real Betis": {
@@ -5462,8 +5938,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-2-3-1 Titular",
+      "presets": {
+        "4-2-3-1 Titular": {
+          "formation": "4-2-3-1",
+          "lineup": {
+            "POR": "Alvaro Valles",
+            "LTD": "Valentin Gomez",
+            "DFC_D": "Marc Bartra",
+            "DFC_I": "Ricardo Rodríguez",
+            "LTI": "Aitor Ruibal",
+            "MCD_D": "Sergi Altimira",
+            "MCD_I": "Nelson Deossa",
+            "VOL_D": "Rodrigo Riquelme",
+            "MCO": "Giovani Lo Celso",
+            "VOL_I": "Antony",
+            "DC": "Cédric Bakambu"
+          }
+        }
+      }
     }
   },
   "AS Roma": {
@@ -5600,8 +6093,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "3-4-2-1 Titular",
+      "presets": {
+        "3-4-2-1 Titular": {
+          "formation": "3-4-2-1",
+          "lineup": {
+            "POR": "Mile Svilar",
+            "DFC_D": "Zeki Çelik",
+            "DFC_C": "Gianluca Mancini",
+            "DFC_I": "Mario Hermoso",
+            "MD": "Jan Ziółkowski",
+            "MC_D": "Neil El Aynaoui",
+            "MC_I": "Manu Koné",
+            "MI": "Wesley França",
+            "MCO_D": "Paulo Dybala",
+            "MCO_I": "Matías Soulé",
+            "DC": "Artem Dovbyk"
+          }
+        }
+      }
     }
   },
   "Red Bull Salzburg": {
@@ -5748,8 +6258,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-3-3 Titular",
+      "presets": {
+        "4-3-3 Titular": {
+          "formation": "4-3-3",
+          "lineup": {
+            "POR": "Alexander Schlager",
+            "LTD": "Stefan Lainer",
+            "DFC_D": "Kouakou Gadou",
+            "DFC_I": "Jacob Rasmussen",
+            "LTI": "Frans Krätzig",
+            "MC_D": "Moussa Yeo",
+            "MCD": "Soumaila Diabate",
+            "MC_I": "Maurits Kjærgaard",
+            "ED": "Edmund Baidoo",
+            "DC": "Petar Ratkov",
+            "EI": "Kerim Alajbegović"
+          }
+        }
+      }
     }
   },
   "SK Sturm Graz": {
@@ -5921,8 +6448,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-2-3-1 Titular",
+      "presets": {
+        "4-2-3-1 Titular": {
+          "formation": "4-2-3-1",
+          "lineup": {
+            "POR": "Matteo Bignetti",
+            "LTD": "Emanuel Aiwu",
+            "DFC_D": "Tim Oermann",
+            "DFC_I": "Dimitri Lavalée",
+            "LTI": "Emir Karic",
+            "MCD_D": "Jon Gorenc Stanković",
+            "MCD_I": "Tochi Chukwuani",
+            "VOL_D": "Otar Kiteishvili",
+            "MCO": "Tomi Horvat",
+            "VOL_I": "Filip Rózga",
+            "DC": "Maurice Malone"
+          }
+        }
+      }
     }
   },
   "VfB Stuttgart": {
@@ -6104,8 +6648,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "3-4-2-1 Titular",
+      "presets": {
+        "3-4-2-1 Titular": {
+          "formation": "3-4-2-1",
+          "lineup": {
+            "POR": "Alexander Nübel",
+            "DFC_D": "Jeff Chabot",
+            "DFC_C": "Ramon Hendriks",
+            "DFC_I": "Maximilian Mittelstädt",
+            "MD": "Lorenz Assignon",
+            "MC_D": "Atakan Karazor",
+            "MC_I": "Angelo Stiller",
+            "MI": "Luca Jaquez",
+            "MCO_D": "Bilal El Khannouss",
+            "MCO_I": "Badredine Bouanani",
+            "DC": "Tiago Tomás"
+          }
+        }
+      }
     }
   },
   "FC Utrecht": {
@@ -6307,8 +6868,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-3-3 Titular",
+      "presets": {
+        "4-3-3 Titular": {
+          "formation": "4-3-3",
+          "lineup": {
+            "POR": "Vasilis Barkas",
+            "LTD": "Siebe Horemans",
+            "DFC_D": "Nick Viergever",
+            "DFC_I": "Mike van der Hoorn",
+            "LTI": "Souffian El Karouani",
+            "MC_D": "Can Bozdoğan",
+            "MCD": "Alonzo Engwanda",
+            "MC_I": "Gjivai Zechiel",
+            "ED": "Miguel Rodriguez",
+            "DC": "Sébastien Haller",
+            "EI": "Adrian Blake"
+          }
+        }
+      }
     }
   },
   "FC Viktoria Plzeň": {
@@ -6435,8 +7013,25 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-1-4-1 Titular",
+      "presets": {
+        "4-1-4-1 Titular": {
+          "formation": "4-1-4-1",
+          "lineup": {
+            "POR": "Martin Jedlička",
+            "LTD": "Amar Memić",
+            "DFC_D": "Sampson Dweh",
+            "DFC_I": "Karel Spáčil",
+            "LTI": "Jan Paluska",
+            "MCD": "Lukáš Červ",
+            "MD": "Cheick Souaré",
+            "MC_D": "Václav Jemelka",
+            "MC_I": "Tomáš Ladra",
+            "MI": "Rafiu Durosinmi",
+            "DC": "Prince Kwabena Adu"
+          }
+        }
+      }
     }
   },
   "BSC Young Boys": {
@@ -6623,8 +7218,26 @@
       }
     ],
     "tactics": {
-      "default": "",
-      "presets": {}
+      "default": "4-2-3-1 Titular",
+      "presets": {
+        "4-2-3-1 Titular": {
+          "formation": "4-2-3-1",
+          "lineup": {
+            "POR": "Marvin Keller",
+            "LTD": "Ryan Andrews",
+            "DFC_D": "Tanguy Zoukrou",
+            "DFC_I": "Loris Benito",
+            "LTI": "Jaouen Hadjam",
+            "MCD_D": "Rayan Raveloson",
+            "MCD_I": "Edimilson Fernandes",
+            "VOL_D": "Darian Males",
+            "MCO": "Armin Gigović",
+            "VOL_I": "Joel Monteiro",
+            "DC": "Chris Bedia"
+          }
+        }
+      }
     }
   }
 }
+

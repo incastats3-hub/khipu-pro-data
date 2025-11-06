@@ -1,7 +1,7 @@
 {
   "teams": {
     "GNK Dinamo Zagreb": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/GNK_Dinamo_Zagreb_logo.svg/1200px-GNK_Dinamo_Zagreb_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Logo_GNK_Dinamo_Zagreb_%282019%29.svg/974px-Logo_GNK_Dinamo_Zagreb_%282019%29.svg.png",
       "jerseyColor": "#003DA5",
       "shieldColor": "#003DA5",
       "secondaryColor": "#FFFFFF",
@@ -12,7 +12,7 @@
       "manager": "Sergej Jakirović"
     },
     "FC Midtjylland": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/FC_Midtjylland_logo.svg/1200px-FC_Midtjylland_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/FC_Midtjylland_logo.svg/1200px-FC_Midtjylland_logo.svg.png",
       "jerseyColor": "#000000",
       "shieldColor": "#E30613",
       "secondaryColor": "#E30613",
@@ -320,7 +320,7 @@
       "manager": "Răzvan Lucescu"
     },
     "Maccabi Tel-Aviv FC": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Maccabi_Tel_Aviv_F.C._Logo.svg/1200px-Maccabi_Tel_Aviv_F.C._Logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e9/Maccabi_Tel_Aviv.png",
       "jerseyColor": "#FCE300",
       "shieldColor": "#FCE300",
       "secondaryColor": "#003A70",
@@ -386,7 +386,7 @@
       "manager": "Brian Priske"
     },
     "Malmö FF": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Malm%C3%B6_FF_logo.svg/1200px-Malm%C3%B6_FF_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Malmo_FF_logo.svg/791px-Malmo_FF_logo.svg.png",
       "jerseyColor": "#96CAEC", 
       "shieldColor": "#96CAEC",
       "secondaryColor": "#FFFFFF",
