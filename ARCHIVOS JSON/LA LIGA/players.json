@@ -584,7 +584,7 @@
             }
         }
     },
-    "RCD Espanyol de Barcelona": {
+    "RCD Espanyol": {
         "plantilla": [
             { "name": "Ángel Fortuño", "number": 1, "position_general": "GK" },
             { "name": "Marko Dmitrovic", "number": 13, "position_general": "GK" },
