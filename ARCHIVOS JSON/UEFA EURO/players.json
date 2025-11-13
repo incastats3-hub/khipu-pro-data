@@ -94,7 +94,7 @@
       "default": "Alineación Titular",
       "presets": {
         "Alineación Titular": {
-          "formation": "4-4-1-1",
+          "formation": "4-4-2",
           "lineup": {
             "POR": "Oliver Baumann",
             "LTD": "Joshua Kimmich",
@@ -105,8 +105,8 @@
             "MC_D": "Aleksandar Pavlović",
             "MC_I": "Leon Goretzka",
             "MI": "Karim Adeyemi",
-            "MCO": "Florian Wirtz",
-            "DC": "Nick Woltemade"
+            "DC_D": "Florian Wirtz",
+            "DC_I": "Nick Woltemade"
           }
         }
       }
@@ -427,7 +427,7 @@
       "default": "Alineación Titular",
       "presets": {
         "Alineación Titular": {
-          "formation": "4-4-1-1",
+          "formation": "4-4-2",
           "lineup": {
             "POR": "Fedor Lapoukhov",
             "LTD": "Pavel Zabelin",
@@ -438,8 +438,8 @@
             "MC_D": "Evgeni Yablonski",
             "MC_I": "Vadim Pigas",
             "MI": "Evgeni Malashevich",
-            "MCO": "Maks Ebonh",
-            "DC": "German Barkovski"
+            "DC_D": "Maks Ebonh",
+            "DC_I": "German Barkovski"
           }
         }
       }
@@ -1069,7 +1069,7 @@
       "default": "Alineación Titular",
       "presets": {
         "Alineación Titular": {
-          "formation": "4-4-1-1",
+          "formation": "4-4-2",
           "lineup": {
             "POR": "Karl Hein",
             "LTD": "Michael Schjønning-Larsen",
@@ -1080,8 +1080,8 @@
             "MC_D": "Markus Soomets",
             "MC_I": "Mattias Käit",
             "MI": "Ioan Yakovlev",
-            "MCO": "Patrik Kristal",
-            "DC": "Rauno Sappinen"
+            "DC_D": "Patrik Kristal",
+            "DC_I": "Rauno Sappinen"
           }
         }
       }
@@ -1966,17 +1966,17 @@
       "default": "Alineación Titular",
       "presets": {
         "Alineación Titular": {
-          "formation": "3-1-4-2",
+          "formation": "3-5-2",
           "lineup": {
             "POR": "Arijanet Muric",
             "DFC_D": "Mërgim Vojvoda",
             "DFC_C": "Kreshnik Hajrizi",
             "DFC_I": "Albian Hajdari",
-            "MCD": "Veldin Hodža",
-            "MD": "Ilir Krasniqi",
+            "CAR_D": "Ilir Krasniqi",
             "MC_D": "Fisnik Asllani",
+            "MC_C": "Veldin Hodža",
             "MC_I": "Florent Muslija",
-            "MI": "Leon Avdullahu",
+            "CAR_I": "Leon Avdullahu",
             "DC_D": "Vedat Muriqi",
             "DC_I": "Dion Gallapeni"
           }
@@ -2931,17 +2931,17 @@
       "default": "Alineación Titular",
       "presets": {
         "Alineación Titular": {
-          "formation": "3-1-4-2",
+          "formation": "3-5-2",
           "lineup": {
             "POR": "Đorđe Petrović",
             "DFC_D": "Strahinja Eraković",
             "DFC_C": "Miloš Veljković",
             "DFC_I": "Strahinja Pavlović",
-            "MCD": "Nemanja Gudelj",
-            "MD": "Stefan Mitrović",
+            "CAR_D": "Stefan Mitrović",
             "MC_D": "Lazar Samaržić",
+            "MC_C": "Nemanja Gudelj",
             "MC_I": "Aleksandar Stanković",
-            "MI": "Filip Kostić",
+            "CAR_I": "Filip Kostić",
             "DC_D": "Dušan Vlahović",
             "DC_I": "Aleksandar Mitrović"
           }
