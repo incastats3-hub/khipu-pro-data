@@ -2,11 +2,11 @@
   "groups": {
     "Grupo A": ["ALEMANIA", "ESLOVAQUIA", "IRLANDA DEL NORTE", "LUXEMBURGO"],
     "Grupo B": ["SUIZA", "KOSOVO", "ESLOVENIA", "SUECIA"],
-    "Grupo C": ["DINAMARCA", "ESCOCIA", "GRECIA", "BIELORUSIA"],
+    "Grupo C": ["DINAMARCA", "ESCOCIA", "GRECIA", "BIELORRUSIA"],
     "Grupo D": ["FRANCIA", "UCRANIA", "ISLANDIA", "AZERBAIYÁN"],
     "Grupo E": ["ESPAÑA", "TURQUÍA", "GEORGIA", "BULGARIA"],
     "Grupo F": ["PORTUGAL", "HUNGRIA", "REPÚBLICA DE IRLANDA", "ARMENIA"],
-    "Grupo G": ["PAÍSES BAJOS (HOLANDA)", "POLONIA", "FINLANDIA", "LITUANIA", "MALTA"],
+    "Grupo G": ["PAÍSES BAJOS", "POLONIA", "FINLANDIA", "LITUANIA", "MALTA"],
     "Grupo H": ["AUSTRIA", "BOSNIA Y HERZEGOVINA", "RUMANIA", "CHIPRE", "SAN MARINO"],
     "Grupo I": ["NORUEGA", "ITALIA", "ISRAEL", "ESTONIA", "MOLDAVIA"],
     "Grupo J": ["BÉLGICA", "MACEDONIA DEL NORTE", "GALES", "KAZAJSTÁN", "LIECHTENSTEIN"],
@@ -25,7 +25,7 @@
     { "team": "DINAMARCA", "played": 4, "wins": 3, "draws": 1, "losses": 0, "goals_for": 12, "goals_against": 1, "points": 10, "position": 1 },
     { "team": "ESCOCIA", "played": 4, "wins": 3, "draws": 1, "losses": 0, "goals_for": 7, "goals_against": 2, "points": 10, "position": 2 },
     { "team": "GRECIA", "played": 4, "wins": 1, "draws": 0, "losses": 3, "goals_for": 7, "goals_against": 10, "points": 3, "position": 3 },
-    { "team": "BIELORUSIA", "played": 4, "wins": 0, "draws": 0, "losses": 4, "goals_for": 2, "goals_against": 15, "points": 0, "position": 4 },
+    { "team": "BIELORRUSIA", "played": 4, "wins": 0, "draws": 0, "losses": 4, "goals_for": 2, "goals_against": 15, "points": 0, "position": 4 },
     { "team": "FRANCIA", "played": 4, "wins": 3, "draws": 1, "losses": 0, "goals_for": 9, "goals_against": 3, "points": 10, "position": 1 },
     { "team": "UCRANIA", "played": 4, "wins": 2, "draws": 1, "losses": 1, "goals_for": 8, "goals_against": 7, "points": 7, "position": 2 },
     { "team": "ISLANDIA", "played": 4, "wins": 1, "draws": 1, "losses": 2, "goals_for": 11, "goals_against": 9, "points": 4, "position": 3 },
@@ -38,7 +38,7 @@
     { "team": "HUNGRIA", "played": 4, "wins": 1, "draws": 2, "losses": 1, "goals_for": 8, "goals_against": 7, "points": 5, "position": 2 },
     { "team": "REPÚBLICA DE IRLANDA", "played": 4, "wins": 1, "draws": 1, "losses": 2, "goals_for": 4, "goals_against": 5, "points": 4, "position": 3 },
     { "team": "ARMENIA", "played": 4, "wins": 1, "draws": 0, "losses": 3, "goals_for": 2, "goals_against": 9, "points": 3, "position": 4 },
-    { "team": "PAÍSES BAJOS (HOLANDA)", "played": 6, "wins": 5, "draws": 1, "losses": 0, "goals_for": 22, "goals_against": 3, "points": 16, "position": 1 },
+    { "team": "PAÍSES BAJOS", "played": 6, "wins": 5, "draws": 1, "losses": 0, "goals_for": 22, "goals_against": 3, "points": 16, "position": 1 },
     { "team": "POLONIA", "played": 6, "wins": 4, "draws": 1, "losses": 1, "goals_for": 10, "goals_against": 4, "points": 13, "position": 2 },
     { "team": "FINLANDIA", "played": 7, "wins": 3, "draws": 1, "losses": 3, "goals_for": 8, "goals_against": 13, "points": 10, "position": 3 },
     { "team": "LITUANIA", "played": 7, "wins": 0, "draws": 3, "losses": 4, "goals_for": 6, "goals_against": 11, "points": 3, "position": 4 },
@@ -77,7 +77,7 @@
     "AUSTRIA": ["V", "V", "V", "V", "V"],
     "AZERBAIYÁN": ["D", "D", "D", "E", "D"],
     "BÉLGICA": ["V", "V", "V", "E", "V"],
-    "BIELORUSIA": ["D", "D", "D", "D", "D"],
+    "BIELORRUSIA": ["D", "D", "D", "D", "D"],
     "BOSNIA Y HERZEGOVINA": ["V", "V", "V", "E", "D"],
     "BULGARIA": ["D", "D", "D", "D", "D"],
     "CHEQUIA": ["V", "E", "V", "V", "V"],
@@ -113,7 +113,7 @@
     "MOLDAVIA": ["D", "D", "D", "D", "D"],
     "MONTENEGRO": ["V", "V", "V", "E", "D"],
     "NORUEGA": ["V", "V", "V", "V", "V"],
-    "PAÍSES BAJOS (HOLANDA)": ["V", "V", "V", "V", "V"],
+    "PAÍSES BAJOS": ["V", "V", "V", "V", "V"],
     "POLONIA": ["V", "D", "V", "E", "V"],
     "PORTUGAL": ["V", "V", "V", "V", "E"],
     "REPÚBLICA DE IRLANDA": ["D", "V", "E", "D", "D"],
@@ -238,7 +238,7 @@
         "yellow_cards_per_game": 1.0
       }
     },
-    "BIELORUSIA": {
+    "BIELORRUSIA": {
       "home_stats": {
         "shots_per_game": 5.5,
         "shots_on_target_per_game": 2.0,
@@ -814,7 +814,7 @@
         "yellow_cards_per_game": 0.3
       }
     },
-    "PAÍSES BAJOS (HOLANDA)": {
+    "PAÍSES BAJOS": {
       "home_stats": {
         "shots_per_game": 19.5,
         "shots_on_target_per_game": 7.0,
