@@ -40,17 +40,17 @@
         "Alineación Titular": {
           "formation": "4-3-3",
           "lineup": {
-            "POR": "T. Strakosha",
-            "LTD": "E. Hysaj",
-            "DFC_D": "A. Ajeti",
-            "DFC_I": "B. Djimsiti",
-            "LTI": "M. Mitaj",
-            "MC_D": "Q. Laçi",
-            "MCD": "J. Shehu",
-            "MC_I": "K. Asllani",
-            "ED": "A. Broja",
-            "DC": "R. Manaj",
-            "EI": "M. Uzuni"
+            "POR": "Thomas Strakosha",
+            "LTD": "Elseid Hysaj",
+            "DFC_D": "Arlind Ajeti",
+            "DFC_I": "Berat Djimsiti",
+            "LTI": "Mario Mitaj",
+            "MC_D": "Qazim Laçi",
+            "MCD": "Juljan Shehu",
+            "MC_I": "Kristjan Asllani",
+            "ED": "Armando Broja",
+            "DC": "Rey Manaj",
+            "EI": "Myrto Uzuni"
           }
         }
       }
@@ -96,17 +96,17 @@
         "Alineación Titular": {
           "formation": "4-4-1-1",
           "lineup": {
-            "POR": "O. Baumann",
-            "LTD": "J. Kimmich",
-            "DFC_D": "J. Tah",
-            "DFC_I": "N. Schlotterbeck",
-            "LTI": "D. Raum",
-            "MD": "S. Gnabry",
-            "MC_D": "A. Pavlović",
-            "MC_I": "L. Goretzka",
-            "MI": "K. Adeyemi",
-            "MCO": "F. Wirtz",
-            "DC": "N. Woltemade"
+            "POR": "Oliver Baumann",
+            "LTD": "Joshua Kimmich",
+            "DFC_D": "Jonathan Tah",
+            "DFC_I": "Nico Schlotterbeck",
+            "LTI": "David Raum",
+            "MD": "Serge Gnabry",
+            "MC_D": "Aleksandar Pavlović",
+            "MC_I": "Leon Goretzka",
+            "MI": "Karim Adeyemi",
+            "MCO": "Florian Wirtz",
+            "DC": "Nick Woltemade"
           }
         }
       }
@@ -153,17 +153,17 @@
         "Alineación Titular": {
           "formation": "5-4-1",
           "lineup": {
-            "POR": "I. Álvarez",
-            "CAR_D": "B. B. Font",
-            "DFC_D": "M. Llovera",
-            "DFC_C": "C. García",
-            "DFC_I": "I. B. Olivera",
-            "CAR_I": "M. S. Nicolás",
-            "MD": "A. Rodrigo",
-            "MC_D": "É. Vales",
-            "MC_I": "P. K. B. Müller",
-            "MI": "J. Cervós",
-            "DC": "G. Lopez"
+            "POR": "Iker Álvarez",
+            "CAR_D": "Biel Borra",
+            "DFC_D": "Max Llovera",
+            "DFC_C": "Christian Garcia",
+            "DFC_I": "Ian Olivera",
+            "CAR_I": "Moisés San Nicolás",
+            "MD": "Aron Rodrigo",
+            "MC_D": "Eric Vales",
+            "MC_I": "Pau Babot",
+            "MI": "Joan Cervós",
+            "DC": "Guillaume Lopez"
           }
         }
       }
@@ -207,17 +207,17 @@
         "Alineación Titular": {
           "formation": "3-4-3",
           "lineup": {
-            "POR": "H. Avagyan",
-            "DFC_D": "S. Mkrtchyan",
-            "DFC_C": "S. Muradyan",
-            "DFC_I": "E. Piloyan",
-            "MD": "K. Hovhannisyan",
-            "MC_D": "E. Spertsyan",
-            "MC_I": "U. Iwu",
-            "MI": "N. Tiknizyan",
-            "ED": "G. Ranos",
-            "DC": "Z. Shaghoyan",
-            "EI": "T. Barseghyan"
+            "POR": "Henri Avagyan",
+            "DFC_D": "Styopa Mkrtchyan",
+            "DFC_C": "Sergei Muradian",
+            "DFC_I": "Erik Piloyan",
+            "MD": "Kamo Hovhannisyan",
+            "MC_D": "Eduard Spertsyan",
+            "MC_I": "UgochukwuIwu",
+            "MI": "Nayair Tiknizyan",
+            "ED": "Grant-Leon Ranos",
+            "DC": "Zhirayr Shaghoyan",
+            "EI": "Tigran Barseghyan"
           }
         }
       }
@@ -266,17 +266,17 @@
         "Alineación Titular": {
           "formation": "4-2-3-1",
           "lineup": {
-            "POR": "A. Schlager",
-            "LTD": "S. Posch",
-            "DFC_D": "P. Lienhart",
-            "DFC_I": "D. Alaba",
-            "LTI": "P. Mwene",
-            "MCD_D": "N. Seiwald",
-            "MCD_I": "K. Laimer",
-            "VOL_D": "R. Schmid",
-            "MCO": "C. Baumgartner",
-            "VOL_I": "M. Sabitzer",
-            "DC": "M. Gregoritsch"
+            "POR": "Alexander Schlager",
+            "LTD": "Stefan Posch",
+            "DFC_D": "Philipp Lienhart",
+            "DFC_I": "David Alaba",
+            "LTI": "Phillipp Mwene",
+            "MCD_D": "Nicolas Seiwald",
+            "MCD_I": "Konrad Laimer",
+            "VOL_D": "Romano Schmid",
+            "MCO": "Christoph Baumgartner",
+            "VOL_I": "Marcel Sabitzer",
+            "DC": "Michael Gregoritsch"
           }
         }
       }
@@ -319,17 +319,17 @@
         "Alineación Titular": {
           "formation": "5-4-1",
           "lineup": {
-            "POR": "Ş. Məhəmmədəliyev",
-            "CAR_D": "T. Bayramov",
-            "DFC_D": "A. Hüseynov",
-            "DFC_C": "E. Bədəlov",
-            "DFC_I": "B. Mustafazadə",
-            "CAR_I": "E. Cəfərquliyev",
-            "MD": "N. Axundzadə",
-            "MC_D": "E. Makhmudov",
-            "MC_I": "A. Khaybulaev",
-            "MI": "A. Nuriev",
-            "DC": "A. Krivotsyuk"
+            "POR": "Shakhrudin Magomedaliyev",
+            "CAR_D": "Toral Bayramov",
+            "DFC_D": "Abbas Hüseynov",
+            "DFC_C": "Elvin Badalov",
+            "DFC_I": "Bahlul Mustafazade",
+            "CAR_I": "Elvin Jafarguliyev",
+            "MD": "Nariman Akhundzade",
+            "MC_D": "Emin Makhmudov",
+            "MC_I": "Abdulakh Khaibulaev",
+            "MI": "Anatolii Nuriiev",
+            "DC": "Anton Krivotsyuk"
           }
         }
       }
@@ -374,23 +374,23 @@
         "Alineación Titular": {
           "formation": "4-2-3-1",
           "lineup": {
-            "POR": "T. Courtois",
-            "LTD": "T. Meunier",
-            "DFC_D": "Z. Debast",
-            "DFC_I": "A. Theate",
-            "LTI": "M. De Cuyper",
-            "MCD_D": "A. Onana",
-            "MCD_I": "N. Raskin",
-            "VOL_D": "J. Doku",
-            "MCO": "C. De Ketelaere",
-            "VOL_I": "L. Trossard",
-            "DC": "K. De Bruyne"
+            "POR": "Thibaut Courtois",
+            "LTD": "Thomas Meunier",
+            "DFC_D": "Zeno Debast",
+            "DFC_I": "Arthur Theate",
+            "LTI": "Maxim De Cuyper",
+            "MCD_D": "Amadou Onana",
+            "MCD_I": "Nicolas Raskin",
+            "VOL_D": "Jeremy Doku",
+            "MCO": "Charles De Ketelaere",
+            "VOL_I": "Leandro Trossard",
+            "DC": "Kevin De Bruyne"
           }
         }
       }
     }
   },
-  "BIELORRUSIA": {
+  "BIELORUSIA": {
     "plantilla": [
       { "name": "Maksim Belov", "number": 1, "position_general": "GK" },
       { "name": "Sergei Ignatovich", "number": 1, "position_general": "GK" },
@@ -429,17 +429,17 @@
         "Alineación Titular": {
           "formation": "4-4-1-1",
           "lineup": {
-            "POR": "F. Lapoukhov",
-            "LTD": "P. Zabelin",
-            "DFC_D": "A. Martynovich",
-            "DFC_I": "E. Parkhomenko",
-            "LTI": "K. Pechenin",
-            "MD": "V. Gromyko",
-            "MC_D": "E. Yablonski",
-            "MC_I": "V. Pigas",
-            "MI": "E. Malashevich",
-            "MCO": "M. Ebong",
-            "DC": "G. Barkovskiy"
+            "POR": "Fedor Lapoukhov",
+            "LTD": "Pavel Zabelin",
+            "DFC_D": "Aleksandr Martynovich",
+            "DFC_I": "Yegor Parkhomenko",
+            "LTI": "Kirill Pechenin",
+            "MD": "Valeri Gromyko",
+            "MC_D": "Evgeni Yablonski",
+            "MC_I": "Vadim Pigas",
+            "MI": "Evgeni Malashevich",
+            "MCO": "Maks Ebonh",
+            "DC": "German Barkovski"
           }
         }
       }
@@ -489,17 +489,17 @@
         "Alineación Titular": {
           "formation": "4-2-3-1",
           "lineup": {
-            "POR": "N. Vasilj",
-            "LTD": "A. Dedić",
-            "DFC_D": "N. Katić",
-            "DFC_I": "T. Muharemović",
-            "LTI": "N. Mujakić",
-            "MCD_D": "I. Šunjić",
-            "MCD_I": "B. Tahirović",
-            "VOL_D": "A. Memić",
-            "MCO": "A. Gigović",
-            "VOL_I": "K. Alajbegović",
-            "DC": "E. Džeko"
+            "POR": "Nikola Vasilj",
+            "LTD": "Amar Dedić",
+            "DFC_D": "Nikola Katić",
+            "DFC_I": "Tarik Muharemović",
+            "LTI": "Nihad Mujakic",
+            "MCD_D": "Ivan Šunjic",
+            "MCD_I": "Benjamin Tahirović",
+            "VOL_D": "Amar Memić",
+            "MCO": "Armin Gigovic",
+            "VOL_I": "Kerim Alajbegović",
+            "DC": "Edin Džeko"
           }
         }
       }
@@ -550,17 +550,17 @@
         "Alineación Titular": {
           "formation": "4-5-1",
           "lineup": {
-            "POR": "S. Vutsov",
-            "LTD": "P. Hristov",
-            "DFC_D": "A. Chernev",
-            "DFC_I": "I. Gruev",
-            "LTI": "D. Velkovski",
-            "MD": "M. Minchev",
-            "MC_D": "M. Georgiev",
-            "MC_C": "S. Shopov",
-            "MC_I": "K. Filip",
-            "MI": "R. Kirilov",
-            "DC": "K. Despodov"
+            "POR": "Svetoslav Vutsov",
+            "LTD": "Petko Hristov",
+            "DFC_D": "Atanas Chernev",
+            "DFC_I": "Ilia Gruev",
+            "LTI": "Dimitar Velkovski",
+            "MD": "Martin Minchev",
+            "MC_D": "Martin Georgiev",
+            "MC_C": "Stanislav Shopov",
+            "MC_I": "Filip Krastev",
+            "MI": "Radoslav Kirilov",
+            "DC": "Kiril Despodov"
           }
         }
       }
@@ -612,17 +612,17 @@
         "Alineación Titular": {
           "formation": "4-2-3-1",
           "lineup": {
-            "POR": "M. Kovář",
-            "LTD": "V. Coufal",
-            "DFC_D": "M. Vitík",
-            "DFC_I": "L. Krejčí",
-            "LTI": "V. Jemelka",
-            "MCD_D": "T. Souček",
-            "MCD_I": "P. Šulc",
-            "VOL_D": "V. Černý",
-            "MCO": "L. Červ",
-            "VOL_I": "V. Kušej",
-            "DC": "M. Vydra"
+            "POR": "Matěj Kovář",
+            "LTD": "Vladimír Coufal",
+            "DFC_D": "Martin Vitík",
+            "DFC_I": "Ladislav Krejčí",
+            "LTI": "Václav Jemelka",
+            "MCD_D": "Tomáš Souček",
+            "MCD_I": "Pavel Šulc",
+            "VOL_D": "Václav Černý",
+            "MCO": "Lukáš Červ",
+            "VOL_I": "Vasil Kušej",
+            "DC": "Matěj Vydra"
           }
         }
       }
@@ -671,17 +671,17 @@
         "Alineación Titular": {
           "formation": "4-3-2-1",
           "lineup": {
-            "POR": "J. Mall",
-            "LTD": "A. Shikkis",
-            "DFC_D": "S. Andreou",
-            "DFC_I": "K. Laifis",
-            "LTI": "K. Pileas",
-            "MC_D": "K. Artymatas",
-            "MC_C": "C. Charalampous",
-            "MC_I": "G. Kastanos",
-            "MCO_D": "L. Loizou",
-            "MCO_I": "M. Tzionis",
-            "DC": "I. Pittas"
+            "POR": "Joel Mall",
+            "LTD": "Antreas Shikkis",
+            "DFC_D": "Stelios Andreou",
+            "DFC_I": "Konstantinos Laifis",
+            "LTI": "Kostas Pileas",
+            "MC_D": "Kostakis Artymatas",
+            "MC_C": "Charalampos Charalampous",
+            "MC_I": "Grigoris Kastanos",
+            "MCO_D": "Loizos Loizou",
+            "MCO_I": "Marinos Tzionis",
+            "DC": "Ioannis Pittas"
           }
         }
       }
@@ -725,17 +725,17 @@
         "Alineación Titular": {
           "formation": "4-2-3-1",
           "lineup": {
-            "POR": "D. Kotarski",
-            "LTD": "M. Pašalić",
-            "DFC_D": "M. Pongračić",
-            "DFC_I": "M. Erlić",
-            "LTI": "D. Bradarić",
-            "MCD_D": "N. Moro",
-            "MCD_I": "M. Kovačić",
-            "VOL_D": "L. Majer",
-            "MCO": "M. Baturina",
-            "VOL_I": "T. Fruk",
-            "DC": "F. Ivanović"
+            "POR": "Dominik Kotarski",
+            "LTD": "Marco Pašalić",
+            "DFC_D": "Marin Pongračić",
+            "DFC_I": "Martin Erlić",
+            "LTI": "Domagoj Bradarić",
+            "MCD_D": "Nikola Moro",
+            "MCD_I": "Mateo Kovačić",
+            "VOL_D": "Lovro Majer",
+            "MCO": "Martin Baturina",
+            "VOL_I": "Toni Fruk",
+            "DC": "Franjo Ivanović"
           }
         }
       }
@@ -781,17 +781,17 @@
         "Alineación Titular": {
           "formation": "4-4-2",
           "lineup": {
-            "POR": "K. Schmeichel",
-            "LTD": "A. Christensen",
-            "DFC_D": "J. Andersen",
-            "DFC_I": "J. Vestergaard",
-            "LTI": "J. Mæhle",
-            "MD": "G. Isaksen",
-            "MC_D": "M. Hjulmand",
-            "MC_I": "C. Nørgaard",
-            "MI": "M. Damsgaard",
-            "DC_D": "V. Froholdt",
-            "DC_I": "R. Højlund"
+            "POR": "Kasper Schmeichel",
+            "LTD": "Andreas Christensen",
+            "DFC_D": "Joachim Andersen",
+            "DFC_I": "Jannik Vestergaard",
+            "LTI": "Joakim Mæhle",
+            "MD": "Gustav Isaksen",
+            "MC_D": "Morten Hjulmand",
+            "MC_I": "Christian Nørgaard",
+            "MI": "Mikkel Damsgaard",
+            "DC_D": "Victor Froholdt",
+            "DC_I": "Rasmus Højlund"
           }
         }
       }
@@ -834,17 +834,17 @@
         "Alineación Titular": {
           "formation": "4-2-3-1",
           "lineup": {
-            "POR": "A. Gunn",
-            "LTD": "A. Ralston",
-            "DFC_D": "J. Hendry",
-            "DFC_I": "S. McKenna",
-            "LTI": "A. Robertson",
-            "MCD_D": "S. McTominay",
-            "MCD_I": "K. McLean",
-            "VOL_D": "B. Doak",
-            "MCO": "J. McGinn",
-            "VOL_I": "B. Gilmour",
-            "DC": "C. Adams"
+            "POR": "Angus Gunn",
+            "LTD": "Anthony Ralston",
+            "DFC_D": "Jack Hendry",
+            "DFC_I": "Scott McKenna",
+            "LTI": "Andy Robertson",
+            "MCD_D": "Scott McTominay",
+            "MCD_I": "Kenny McLean",
+            "VOL_D": "Ben Gannon-Doak",
+            "MCO": "John McGinn",
+            "VOL_I": "Billy Gilmour",
+            "DC": "Ché Adams"
           }
         }
       }
@@ -886,33 +886,33 @@
         "Alineación 4-1-4-1": {
           "formation": "4-1-4-1",
           "lineup": {
-            "POR": "M. Dúbravka",
-            "LTD": "N. Gyömbér",
-            "DFC_D": "M. Škriniar",
-            "DFC_I": "A. Obert",
-            "LTI": "D. Hancko",
-            "MCD": "T. Rigo",
-            "MD": "D. Ďuriš",
-            "MC_D": "O. Duda",
-            "MC_I": "M. Bero",
-            "MI": "L. Haraslín",
-            "DC": "D. Strelec"
+            "POR": "Martin Dúbravka",
+            "LTD": "Norbert Gyömbér",
+            "DFC_D": "Milan Škriniar",
+            "DFC_I": "Adam Obert",
+            "LTI": "Dávid Hancko",
+            "MCD": "Tomáš Rigo",
+            "MD": "Dávid Ďuriš",
+            "MC_D": "Ondrej Duda",
+            "MC_I": "Matúš Bero",
+            "MI": "Lukáš Haraslín",
+            "DC": "David Strelec"
           }
         },
         "Alineación 4-3-3": {
           "formation": "4-3-3",
           "lineup": {
-            "POR": "M. Dúbravka",
-            "LTD": "N. Gyömbér",
-            "DFC_D": "Ľ. Šatka",
-            "DFC_I": "M. Škriniar",
-            "LTI": "D. Hancko",
-            "MC_D": "T. Rigo",
-            "MCD": "S. Lobotka",
-            "MC_I": "M. Bero",
-            "ED": "D. Ďuriš",
-            "DC": "D. Strelec",
-            "EI": "L. Sauer"
+            "POR": "Martin Dúbravka",
+            "LTD": "Norbert Gyömbér",
+            "DFC_D": "Ľubomír Šatka",
+            "DFC_I": "Milan Škriniar",
+            "LTI": "Dávid Hancko",
+            "MC_D": "Tomáš Rigo",
+            "MCD": "Stanislav Lobotka",
+            "MC_I": "Matúš Bero",
+            "ED": "Dávid Ďuriš",
+            "DC": "David Strelec",
+            "EI": "Leo Sauer"
           }
         }
       }
@@ -955,17 +955,17 @@
         "Alineación Titular": {
           "formation": "5-4-1",
           "lineup": {
-            "POR": "J. Oblak",
-            "CAR_D": "Ž. Karničnik",
-            "DFC_D": "J. Bijol",
-            "DFC_C": "V. Drkušić",
-            "DFC_I": "E. Janža",
-            "CAR_I": "T. Horvat",
-            "MD": "D. Šturm",
-            "MC_D": "A. G. Čerin",
-            "MC_I": "T. M. Elšnik",
-            "MI": "D. Brekalo",
-            "DC": "B. Šeško"
+            "POR": "Jan Oblak",
+            "CAR_D": "Žan Karničnik",
+            "DFC_D": "Jaka Bijol",
+            "DFC_C": "Vanja Drkušić",
+            "DFC_I": "Erik Janža",
+            "CAR_I": "Tomi Horvat",
+            "MD": "Danijel Šturm",
+            "MC_D": "Adam Gnezda Čerin",
+            "MC_I": "Timi Max Elšnik",
+            "MI": "David Brekalo",
+            "DC": "Benjamin Šeško"
           }
         }
       }
@@ -1012,17 +1012,17 @@
         "Alineación Titular": {
           "formation": "4-2-3-1",
           "lineup": {
-            "POR": "U. Simón",
-            "LTD": "P. Porro",
-            "DFC_D": "R. Le Normand",
-            "DFC_I": "A. Laporte",
-            "LTI": "A. Grimaldo",
-            "MCD_D": "M. Zubimendi",
-            "MCD_I": "M. Merino",
-            "VOL_D": "M. Oyarzabal",
+            "POR": "Unai Simón",
+            "LTD": "Pedro Porro",
+            "DFC_D": "Robin Le Normand",
+            "DFC_I": "Aymeric Laporte",
+            "LTI": "Alejandro Grimaldo",
+            "MCD_D": "Martin Zubimendi",
+            "MCD_I": "Mikel Merino",
+            "VOL_D": "Mikel Oyarzabal",
             "MCO": "Pedri",
-            "VOL_I": "A. Baena",
-            "DC": "S. Aghehowa"
+            "VOL_I": "Álex Baena",
+            "DC": "Samu"
           }
         }
       }
@@ -1071,17 +1071,17 @@
         "Alineación Titular": {
           "formation": "4-4-1-1",
           "lineup": {
-            "POR": "K. Hein",
-            "LTD": "M. Schjönning-Larsen",
-            "DFC_D": "M. Paskotši",
-            "DFC_I": "K. Mets",
-            "LTI": "V. Sinyavskiy",
-            "MD": "R. Saarma",
-            "MC_D": "M. Soomets",
-            "MC_I": "M. Käit",
-            "MI": "I. Yakovlev",
-            "MCO": "P. Kristal",
-            "DC": "R. Sappinen"
+            "POR": "Karl Hein",
+            "LTD": "Michael Schjønning-Larsen",
+            "DFC_D": "Maksim Paskotši",
+            "DFC_I": "Karol Mets",
+            "LTI": "Vlasiy Sinyavskiy",
+            "MD": "Robi Saarma",
+            "MC_D": "Markus Soomets",
+            "MC_I": "Mattias Käit",
+            "MI": "Ioan Yakovlev",
+            "MCO": "Patrik Kristal",
+            "DC": "Rauno Sappinen"
           }
         }
       }
@@ -1138,17 +1138,17 @@
         "Alineación Titular": {
           "formation": "5-3-2",
           "lineup": {
-            "POR": "J. Joronen",
-            "CAR_D": "N. Alho",
-            "DFC_D": "A. Stahl",
-            "DFC_C": "M. Tenho",
-            "DFC_I": "V. Koski",
-            "CAR_I": "J. Lähteenmäki",
-            "MC_D": "S. Väänänen",
-            "MC_C": "T. Keskinen",
-            "MC_I": "K. Kairinen",
-            "DC_D": "O. Antman",
-            "DC_I": "L. Walta"
+            "POR": "Jesse Joronen",
+            "CAR_D": "Nikolai Alho",
+            "DFC_D": "Adam Ståhl",
+            "DFC_C": "Miro Tenho",
+            "DFC_I": "Ville Koski",
+            "CAR_I": "Juho Lähteenmäki",
+            "MC_D": "Santeri Väänänen",
+            "MC_C": "Topi Keskinen",
+            "MC_I": "Kaan Kairinen",
+            "DC_D": "Oliver Antman",
+            "DC_I": "Leo Walta"
           }
         }
       }
@@ -1193,853 +1193,17 @@
         "Alineación Titular": {
           "formation": "4-2-3-1",
           "lineup": {
-            "POR": "M. Maignan",
-            "LTD": "J. Koundé",
-            "DFC_D": "W. Saliba",
-            "DFC_I": "D. Upamecano",
-            "LTI": "L. Digne",
-            "MCD_D": "M. Koné",
-            "MCD_I": "E. Camavinga",
-            "VOL_D": "F. Thauvin",
-            "MCO": "C. Nkunku",
-            "VOL_I": "M. Olise",
-            "DC": "J. Mateta"
-          }
-        }
-      }
-    }
-  },
-  "GALES": {
-    "plantilla": [
-      { "name": "Karl Darlow", "number": 1, "position_general": "GK" },
-      { "name": "Tom King", "number": 12, "position_general": "GK" },
-      { "name": "Danny Ward", "number": 12, "position_general": "GK" },
-      { "name": "Adam Davies", "number": 21, "position_general": "GK" },
-      { "name": "Chris Mepham", "number": 2, "position_general": "DEF" },
-      { "name": "Neco Williams", "number": 3, "position_general": "DEF" },
-      { "name": "Ben Davies", "number": 4, "position_general": "DEF" },
-      { "name": "Ethan Ampadu", "number": 5, "position_general": "DEF" },
-      { "name": "Joe Rodon", "number": 6, "position_general": "DEF" },
-      { "name": "Dylan Lawlor", "number": 6, "position_general": "DEF" },
-      { "name": "Connor Roberts", "number": 14, "position_general": "DEF" },
-      { "name": "Rhys Norrington-Davies", "number": 14, "position_general": "DEF" },
-      { "name": "Jay Dasilva", "number": 15, "position_general": "DEF" },
-      { "name": "Ben Cabango", "number": 16, "position_general": "DEF" },
-      { "name": "Ronan Kpakio", "number": 20, "position_general": "DEF" },
-      { "name": "Joe Allen", "number": 7, "position_general": "MID" },
-      { "name": "David Brooks", "number": 7, "position_general": "MID" },
-      { "name": "Tom Lawrence", "number": 8, "position_general": "MID" },
-      { "name": "Harry Wilson", "number": 8, "position_general": "MID" },
-      { "name": "Ollie Cooper", "number": 8, "position_general": "MID" },
-      { "name": "Lewis Koumas", "number": 9, "position_general": "MID" },
-      { "name": "Aaron Ramsey", "number": 10, "position_general": "MID" },
-      { "name": "Brennan Johnson", "number": 11, "position_general": "MID" },
-      { "name": "Rubin Colwill", "number": 14, "position_general": "MID" },
-      { "name": "Kai Andrews", "number": 14, "position_general": "MID" },
-      { "name": "Charlie Crew", "number": 16, "position_general": "MID" },
-      { "name": "Jordan James", "number": 17, "position_general": "MID" },
-      { "name": "Sorba Thomas", "number": 19, "position_general": "MID" },
-      { "name": "Daniel James", "number": 20, "position_general": "MID" },
-      { "name": "Joshua Sheehan", "number": 22, "position_general": "MID" },
-      { "name": "Joel Colwill", "number": 23, "position_general": "MID" },
-      { "name": "Nathan Broadhead", "number": 23, "position_general": "MID" },
-      { "name": "Rabbi Matondo", "number": 9, "position_general": "FWD" },
-      { "name": "Liam Cullen", "number": 10, "position_general": "FWD" },
-      { "name": "Kieffer Moore", "number": 13, "position_general": "FWD" },
-      { "name": "Mark Harris", "number": 18, "position_general": "FWD" },
-      { "name": "Isaak Davies", "number": 20, "position_general": "FWD" }
-    ],
-    "tactics": {
-      "default": "Alineación Titular",
-      "presets": {
-        "Alineación Titular": {
-          "formation": "4-2-3-1",
-          "lineup": {
-            "POR": "K. Darlow",
-            "LTD": "N. Williams",
-            "DFC_D": "J. Rodon",
-            "DFC_I": "B. Cabango",
-            "LTI": "B. Davies",
-            "MCD_D": "E. Ampadu",
-            "MCD_I": "J. James",
-            "VOL_D": "D. Brooks",
-            "MCO": "H. Wilson",
-            "VOL_I": "S. Thomas",
-            "DC": "M. Harris"
-          }
-        }
-      }
-    }
-  },
-  "GEORGIA": {
-    "plantilla": [
-      { "name": "Giorgi Mamardashvili", "number": 1, "position_general": "GK" },
-      { "name": "Davit Kereselidze", "number": 12, "position_general": "GK" },
-      { "name": "Luka Gugeshashvili", "number": 23, "position_general": "GK" },
-      { "name": "Otar Kakabadze", "number": 2, "position_general": "DEF" },
-      { "name": "Lasha Dvali", "number": 3, "position_general": "DEF" },
-      { "name": "Saba Khvadagiani", "number": 3, "position_general": "DEF" },
-      { "name": "Guram Kashia", "number": 4, "position_general": "DEF" },
-      { "name": "Saba Goglichidze", "number": 5, "position_general": "DEF" },
-      { "name": "Giorgi Gocholeishvili", "number": 13, "position_general": "DEF" },
-      { "name": "Luka Lochoshvili", "number": 14, "position_general": "DEF" },
-      { "name": "Irakli Azarov", "number": 16, "position_general": "DEF" },
-      { "name": "Iva Gelashvili", "number": 21, "position_general": "DEF" },
-      { "name": "Giorgi Kochorashvili", "number": 6, "position_general": "MID" },
-      { "name": "Khvicha Kvaratskhelia", "number": 7, "position_general": "MID" },
-      { "name": "Zuriko Davitashvili", "number": 10, "position_general": "MID" },
-      { "name": "Saba Lobjanidze", "number": 11, "position_general": "MID" },
-      { "name": "Anzor Mekvabishvili", "number": 15, "position_general": "MID" },
-      { "name": "Otar Kiteishvili", "number": 17, "position_general": "MID" },
-      { "name": "Vladimer Mamuchashvili", "number": 18, "position_general": "MID" },
-      { "name": "Giorgi Abuashvili", "number": 18, "position_general": "MID" },
-      { "name": "Giorgi Tsitaishvili", "number": 19, "position_general": "MID" },
-      { "name": "Nika Gagnidze", "number": 20, "position_general": "MID" },
-      { "name": "Nodar Lominadze", "number": 21, "position_general": "MID" },
-      { "name": "Budu Zivzivadze", "number": 8, "position_general": "FWD" },
-      { "name": "Giorgi Guliashvili", "number": 9, "position_general": "FWD" },
-      { "name": "Giorgi Kvernadze", "number": 21, "position_general": "FWD" },
-      { "name": "Georges Mikautadze", "number": 22, "position_general": "FWD" }
-    ],
-    "tactics": {
-      "default": "Alineación Titular",
-      "presets": {
-        "Alineación Titular": {
-          "formation": "4-3-3",
-          "lineup": {
-            "POR": "G. Mamardashvili",
-            "LTD": "O. Kakabadze",
-            "DFC_D": "S. Goglichidze",
-            "DFC_I": "L. Lochoshvili",
-            "LTI": "G. Gocholeishvili",
-            "MC_D": "G. Kochorashvili",
-            "MCD": "O. Kiteishvili",
-            "MC_I": "A. Mekvabishvili",
-            "ED": "Z. Davitashvili",
-            "DC": "G. Mikautadze",
-            "EI": "K. Kvaratskhelia"
-          }
-        }
-      }
-    }
-  },
-  "GIBRALTAR": {
-    "plantilla": [
-      { "name": "Bradley Banda", "number": 1, "position_general": "GK" },
-      { "name": "Christian Lopez", "number": 13, "position_general": "GK" },
-      { "name": "Victor Huart Guerra", "number": 13, "position_general": "GK" },
-      { "name": "Harry Victor", "number": 23, "position_general": "GK" },
-      { "name": "Jaylan Hankins", "number": 23, "position_general": "GK" },
-      { "name": "Jayce Olivero", "number": 3, "position_general": "DEF" },
-      { "name": "Ethan Jolley", "number": 3, "position_general": "DEF" },
-      { "name": "Paddy McLafferty", "number": 5, "position_general": "DEF" },
-      { "name": "Louie Annesley", "number": 5, "position_general": "DEF" },
-      { "name": "Bernardo Lopes", "number": 6, "position_general": "DEF" },
-      { "name": "Niels Hartman", "number": 12, "position_general": "DEF" },
-      { "name": "Aymen Mouelhi", "number": 15, "position_general": "DEF" },
-      { "name": "Tayler Carrington", "number": 16, "position_general": "DEF" },
-      { "name": "Kevagn Ronco", "number": 17, "position_general": "DEF" },
-      { "name": "Ethan Britto", "number": 20, "position_general": "DEF" },
-      { "name": "Kai Mauro", "number": 21, "position_general": "DEF" },
-      { "name": "Julian Valarino", "number": 2, "position_general": "MID" },
-      { "name": "Nicholas Pozo", "number": 4, "position_general": "MID" },
-      { "name": "Daniel Bent", "number": 4, "position_general": "MID" },
-      { "name": "James Scanlon", "number": 8, "position_general": "MID" },
-      { "name": "Julian Del Rio", "number": 10, "position_general": "MID" },
-      { "name": "Liam Walker", "number": 10, "position_general": "MID" },
-      { "name": "Kian Ronan", "number": 14, "position_general": "MID" },
-      { "name": "Mitch Gibson", "number": 15, "position_general": "MID" },
-      { "name": "Jeremy Perera", "number": 16, "position_general": "MID" },
-      { "name": "Kyle Clinton", "number": 18, "position_general": "MID" },
-      { "name": "Kyle Livingstone", "number": 18, "position_general": "MID" },
-      { "name": "Liam Jessop", "number": 19, "position_general": "MID" },
-      { "name": "Jesse Gomez", "number": 20, "position_general": "MID" },
-      { "name": "Jaron Vinet", "number": 20, "position_general": "MID" },
-      { "name": "Jamie Coombes", "number": 21, "position_general": "MID" },
-      { "name": "Graeme Torrilla", "number": 22, "position_general": "MID" },
-      { "name": "Evan De Haro", "number": 22, "position_general": "MID" },
-      { "name": "Andre Tjay De Barr", "number": 7, "position_general": "FWD" },
-      { "name": "Ayoub El Hmidi", "number": 9, "position_general": "FWD" },
-      { "name": "Carlos Richards", "number": 11, "position_general": "FWD" },
-      { "name": "Dylan Borge", "number": 12, "position_general": "FWD" },
-      { "name": "Luca Scanlon", "number": 15, "position_general": "FWD" },
-      { "name": "Jaiden Bartolo", "number": 19, "position_general": "FWD" }
-    ],
-    "tactics": {
-      "default": "Alineación Titular",
-      "presets": {
-        "Alineación Titular": {
-          "formation": "5-4-1",
-          "lineup": {
-            "POR": "J. Hankins",
-            "CAR_D": "E. Jolley",
-            "DFC_D": "K. Ronan",
-            "DFC_C": "D. Bent",
-            "DFC_I": "B. Lopes",
-            "CAR_I": "J. Valarino",
-            "MD": "J. Scanlon",
-            "MC_D": "J. Perera",
-            "MC_I": "L. Annesley",
-            "MI": "C. Richards",
-            "DC": "T. D. Barr"
-          }
-        }
-      }
-    }
-  },
-  "GRECIA": {
-    "plantilla": [
-      { "name": "Odysseas Vlachodimos", "number": 1, "position_general": "GK" },
-      { "name": "Kostas Tzolakis", "number": 12, "position_general": "GK" },
-      { "name": "Christos Mandas", "number": 13, "position_general": "GK" },
-      { "name": "Giorgos Vagiannidis", "number": 2, "position_general": "DEF" },
-      { "name": "Konstantinos Koulierakis", "number": 3, "position_general": "DEF" },
-      { "name": "Ntinos Mavropanos", "number": 4, "position_general": "DEF" },
-      { "name": "Panagiotis Retsos", "number": 5, "position_general": "DEF" },
-      { "name": "Giannis Michailidis", "number": 5, "position_general": "DEF" },
-      { "name": "Lazaros Rota", "number": 15, "position_general": "DEF" },
-      { "name": "Pantelis Hatzidiakos", "number": 17, "position_general": "DEF" },
-      { "name": "Kostas Tsimikas", "number": 21, "position_general": "DEF" },
-      { "name": "Giorgos Kiriakopoulos", "number": 22, "position_general": "DEF" },
-      { "name": "Dimitris Giannoulis", "number": 22, "position_general": "DEF" },
-      { "name": "Christos Mouzakitis", "number": 5, "position_general": "MID" },
-      { "name": "Dimitris Kourbelis", "number": 6, "position_general": "MID" },
-      { "name": "Dimitris Pelkas", "number": 10, "position_general": "MID" },
-      { "name": "Tasos Bakasetas", "number": 11, "position_general": "MID" },
-      { "name": "Christos Zafeiris", "number": 16, "position_general": "MID" },
-      { "name": "Giannis Konstantelias", "number": 18, "position_general": "MID" },
-      { "name": "Konstantinos Karetsas", "number": 19, "position_general": "MID" },
-      { "name": "Petros Mantalos", "number": 20, "position_general": "MID" },
-      { "name": "Manolis Siopis", "number": 23, "position_general": "MID" },
-      { "name": "Giorgos Masouras", "number": 7, "position_general": "FWD" },
-      { "name": "Fotis Ioannidis", "number": 8, "position_general": "FWD" },
-      { "name": "Tasos Douvikas", "number": 9, "position_general": "FWD" },
-      { "name": "Christos Tzolis", "number": 10, "position_general": "FWD" },
-      { "name": "Vangelis Pavlidis", "number": 14, "position_general": "FWD" }
-    ],
-    "tactics": {
-      "default": "Alineación Titular",
-      "presets": {
-        "Alineación Titular": {
-          "formation": "4-2-3-1",
-          "lineup": {
-            "POR": "O. Vlachodimos",
-            "LTD": "L. Rota",
-            "DFC_D": "K. Mavropanos",
-            "DFC_I": "K. Koulierakis",
-            "LTI": "K. Tsimikas",
-            "MCD_D": "D. Kourbelis",
-            "MCD_I": "A. Bakasetas",
-            "VOL_D": "C. Tzolis",
-            "MCO": "K. Karetsas",
-            "VOL_I": "C. Zafeiris",
-            "DC": "F. Ioannidis"
-          }
-        }
-      }
-    }
-  },
-  "HUNGRIA": {
-    "plantilla": [
-      { "name": "Ármin Pécsi", "number": 1, "position_general": "GK" },
-      { "name": "Dénes Dibusz", "number": 1, "position_general": "GK" },
-      { "name": "Patrik Demjén", "number": 1, "position_general": "GK" },
-      { "name": "Balázs Tóth", "number": 12, "position_general": "GK" },
-      { "name": "Péter Szappanos", "number": 22, "position_general": "GK" },
-      { "name": "Attila Osváth", "number": 2, "position_general": "DEF" },
-      { "name": "Botond Balogh", "number": 3, "position_general": "DEF" },
-      { "name": "Attila Szalai", "number": 4, "position_general": "DEF" },
-      { "name": "Attila Mocsi", "number": 5, "position_general": "DEF" },
-      { "name": "Gábor Szalai", "number": 5, "position_general": "DEF" },
-      { "name": "Willi Orbán", "number": 6, "position_general": "DEF" },
-      { "name": "Loïc Négo", "number": 7, "position_general": "DEF" },
-      { "name": "Milos Kerkez", "number": 11, "position_general": "DEF" },
-      { "name": "Bendegúz Bolla", "number": 14, "position_general": "DEF" },
-      { "name": "Márton Dárdai", "number": 15, "position_general": "DEF" },
-      { "name": "Tamás Nikitscher", "number": 1, "position_general": "MID" },
-      { "name": "Ádám Nagy", "number": 1, "position_general": "MID" },
-      { "name": "Dániel Gazdag", "number": 1, "position_general": "MID" },
-      { "name": "Áron Csongvai", "number": 3, "position_general": "MID" },
-      { "name": "Milán Vitális", "number": 8, "position_general": "MID" },
-      { "name": "Dominik Szoboszlai", "number": 10, "position_general": "MID" },
-      { "name": "András Schäfer", "number": 13, "position_general": "MID" },
-      { "name": "Callum Styles", "number": 17, "position_general": "MID" },
-      { "name": "Zsolt Nagy", "number": 18, "position_general": "MID" },
-      { "name": "Bence Dardai", "number": 20, "position_general": "MID" },
-      { "name": "Alex Tóth", "number": 21, "position_general": "MID" },
-      { "name": "Bence Ötvös", "number": 23, "position_general": "MID" },
-      { "name": "Rajmund Molnár", "number": 9, "position_general": "FWD" },
-      { "name": "Barna Tóth", "number": 9, "position_general": "FWD" },
-      { "name": "Dániel Lukács", "number": 16, "position_general": "FWD" },
-      { "name": "Zsombor Gruber", "number": 18, "position_general": "FWD" },
-      { "name": "Barnabás Varga", "number": 19, "position_general": "FWD" },
-      { "name": "Roland Sallai", "number": 20, "position_general": "FWD" }
-    ],
-    "tactics": {
-      "default": "Alineación Titular",
-      "presets": {
-        "Alineación Titular": {
-          "formation": "4-3-3",
-          "lineup": {
-            "POR": "B. Tóth",
-            "LTD": "L. Négo",
-            "DFC_D": "W. Orbán",
-            "DFC_I": "A. Szalai",
-            "LTI": "M. Kerkez",
-            "MC_D": "C. Styles",
-            "MCD": "D. Szoboszlai",
-            "MC_I": "A. Schäfer",
-            "ED": "B. Bolla",
-            "DC": "B. Varga",
-            "EI": "R. Sallai"
-          }
-        }
-      }
-    }
-  },
-  "INGLATERRA": {
-    "plantilla": [
-      { "name": "Dean Henderson", "number": 0, "position_general": "GK" },
-      { "name": "James Trafford", "number": 0, "position_general": "GK" },
-      { "name": "Aaron Ramsdale", "number": 0, "position_general": "GK" },
-      { "name": "Jordan Pickford", "number": 0, "position_general": "GK" },
-      { "name": "John Stones", "number": 0, "position_general": "DEF" },
-      { "name": "Levi Colwill", "number": 0, "position_general": "DEF" },
-      { "name": "Tino Livramento", "number": 0, "position_general": "DEF" },
-      { "name": "Jarell Quansah", "number": 0, "position_general": "DEF" },
-      { "name": "Ezri Konsa", "number": 0, "position_general": "DEF" },
-      { "name": "Reece James", "number": 0, "position_general": "DEF" },
-      { "name": "Djed Spence", "number": 0, "position_general": "DEF" },
-      { "name": "Trevoh Chalobah", "number": 0, "position_general": "DEF" },
-      { "name": "Kyle Walker", "number": 0, "position_general": "DEF" },
-      { "name": "Dan Burn", "number": 0, "position_general": "DEF" },
-      { "name": "Marc Guéhi", "number": 0, "position_general": "DEF" },
-      { "name": "Trent Alexander-Arnold", "number": 0, "position_general": "DEF" },
-      { "name": "Morgan Gibbs-White", "number": 0, "position_general": "MID" },
-      { "name": "Nico O'Reilly", "number": 0, "position_general": "MID" },
-      { "name": "Ruben Loftus-Cheek", "number": 0, "position_general": "MID" },
-      { "name": "Phil Foden", "number": 0, "position_general": "MID" },
-      { "name": "Myles Lewis-Skelly", "number": 0, "position_general": "MID" },
-      { "name": "Cole Palmer", "number": 0, "position_general": "MID" },
-      { "name": "Jordan Henderson", "number": 0, "position_general": "MID" },
-      { "name": "Noni Madueke", "number": 0, "position_general": "MID" },
-      { "name": "Jude Bellingham", "number": 0, "position_general": "MID" },
-      { "name": "Curtis Jones", "number": 0, "position_general": "MID" },
-      { "name": "Elliot Anderson", "number": 0, "position_general": "MID" },
-      { "name": "Declan Rice", "number": 0, "position_general": "MID" },
-      { "name": "Anthony Gordon", "number": 0, "position_general": "FWD" },
-      { "name": "Ivan Toney", "number": 0, "position_general": "FWD" },
-      { "name": "Bukayo Saka", "number": 0, "position_general": "FWD" },
-      { "name": "Jarrod Bowen", "number": 0, "position_general": "FWD" },
-      { "name": "Dominic Solanke", "number": 0, "position_general": "FWD" },
-      { "name": "Morgan Rogers", "number": 0, "position_general": "FWD" },
-      { "name": "Marcus Rashford", "number": 0, "position_general": "FWD" },
-      { "name": "Eberechi Eze", "number": 0, "position_general": "FWD" },
-      { "name": "Ollie Watkins", "number": 0, "position_general": "FWD" },
-      { "name": "Harry Kane", "number": 0, "position_general": "FWD" }
-    ],
-    "tactics": {
-      "default": "Alineación Titular",
-      "presets": {
-        "Alineación Titular": {
-          "formation": "4-3-3",
-          "lineup": {
-            "POR": "J. Pickford",
-            "LTD": "D. Spence",
-            "DFC_D": "E. Konsa",
-            "DFC_I": "J. Stones",
-            "LTI": "M. Lewis-Skelly",
-            "MC_D": "M. Rogers",
-            "MCD": "D. Rice",
-            "MC_I": "E. Anderson",
-            "ED": "B. Saka",
-            "DC": "H. Kane",
-            "EI": "A. Gordon"
-          }
-        }
-      }
-    }
-  },
-  "IRLANDA DEL NORTE": {
-    "plantilla": [
-      { "name": "Bailey Peacock-Farrell", "number": 1, "position_general": "GK" },
-      { "name": "Conor Hazard", "number": 12, "position_general": "GK" },
-      { "name": "Luke Southwood", "number": 23, "position_general": "GK" },
-      { "name": "Stephen McMullan", "number": 23, "position_general": "GK" },
-      { "name": "Conor Bradley", "number": 2, "position_general": "DEF" },
-      { "name": "Eoin Toal", "number": 3, "position_general": "DEF" },
-      { "name": "Daniel Ballard", "number": 4, "position_general": "DEF" },
-      { "name": "Trai Hume", "number": 5, "position_general": "DEF" },
-      { "name": "Ryan Johnson", "number": 13, "position_general": "DEF" },
-      { "name": "Ruairi McConville", "number": 13, "position_general": "DEF" },
-      { "name": "Paddy McNair", "number": 17, "position_general": "DEF" },
-      { "name": "Shea Charles", "number": 19, "position_general": "DEF" },
-      { "name": "Brodie Spencer", "number": 20, "position_general": "DEF" },
-      { "name": "Terry Devlin", "number": 2, "position_general": "MID" },
-      { "name": "George Saville", "number": 6, "position_general": "MID" },
-      { "name": "Ethan Galbraith", "number": 7, "position_general": "MID" },
-      { "name": "Isaac Price", "number": 14, "position_general": "MID" },
-      { "name": "Justin Devenny", "number": 15, "position_general": "MID" },
-      { "name": "Alistair McCann", "number": 16, "position_general": "MID" },
-      { "name": "Jamie McDonnell", "number": 22, "position_general": "MID" },
-      { "name": "Callum Marshall", "number": 8, "position_general": "FWD" },
-      { "name": "Dion Charles", "number": 9, "position_general": "FWD" },
-      { "name": "Jamie Donley", "number": 10, "position_general": "FWD" },
-      { "name": "Paul Smyth", "number": 11, "position_general": "FWD" },
-      { "name": "Jamie Reid", "number": 18, "position_general": "FWD" },
-      { "name": "Josh Magennis", "number": 21, "position_general": "FWD" },
-      { "name": "Ronan Hale", "number": 21, "position_general": "FWD" },
-      { "name": "Dale Taylor", "number": 22, "position_general": "FWD" }
-    ],
-    "tactics": {
-      "default": "Alineación 5-4-1",
-      "presets": {
-        "Alineación 5-4-1": {
-          "formation": "5-4-1",
-          "lineup": {
-            "POR": "B. Peacock-Farrell",
-            "CAR_D": "B. Spencer",
-            "DFC_D": "D. Ballard",
-            "DFC_C": "T. Hume",
-            "DFC_I": "P. McNair",
-            "CAR_I": "J. Devenny",
-            "MD": "I. Price",
-            "MC_D": "S. Charles",
-            "MC_I": "A. McCann",
-            "MI": "E. Galbraith",
-            "DC": "J. Reid"
-          }
-        },
-        "Alineación 5-3-2": {
-          "formation": "5-3-2",
-          "lineup": {
-            "POR": "B. Peacock-Farrell",
-            "CAR_D": "C. Bradley",
-            "DFC_D": "D. Ballard",
-            "DFC_C": "T. Hume",
-            "DFC_I": "P. McNair",
-            "CAR_I": "J. Devenny",
-            "MC_D": "A. McCann",
-            "MC_C": "J. Reid",
-            "MC_I": "J. McDonnell",
-            "DC_D": "I. Price",
-            "DC_I": "J. Donley"
-          }
-        }
-      }
-    }
-  },
-  "ISLANDIA": {
-    "plantilla": [
-      { "name": "Elias Rafn Ólafsson", "number": 1, "position_general": "GK" },
-      { "name": "Hákon Valdimarsson", "number": 12, "position_general": "GK" },
-      { "name": "Anton Einarsson", "number": 13, "position_general": "GK" },
-      { "name": "Logi Tómasson", "number": 2, "position_general": "DEF" },
-      { "name": "Daníel Leó Grétarsson", "number": 3, "position_general": "DEF" },
-      { "name": "Victor Pálsson", "number": 4, "position_general": "DEF" },
-      { "name": "Sverrir Ingason", "number": 5, "position_general": "DEF" },
-      { "name": "Hjörtur Hermannsson", "number": 6, "position_general": "DEF" },
-      { "name": "Gísli Thórdarson", "number": 6, "position_general": "MID" },
-      { "name": "Hákon Arnar Haraldsson", "number": 7, "position_general": "MID" },
-      { "name": "Ísak Bergmann Johannesson", "number": 8, "position_general": "MID" },
-      { "name": "Sævar Atli Magnússon", "number": 9, "position_general": "MID" },
-      { "name": "Jón Dagur Thorsteinsson", "number": 11, "position_general": "MID" },
-      { "name": "Thórir Jóhann Helgason", "number": 14, "position_general": "MID" },
-      { "name": "Willum Thor Willumsson", "number": 15, "position_general": "MID" },
-      { "name": "Stefán Teitur Thórdarson", "number": 16, "position_general": "MID" },
-      { "name": "Aron Gunnarsson", "number": 17, "position_general": "MID" },
-      { "name": "Mikael Anderson", "number": 18, "position_general": "MID" },
-      { "name": "Kristian Hlynsson", "number": 20, "position_general": "MID" },
-      { "name": "Andri Baldursson", "number": 22, "position_general": "MID" },
-      { "name": "Albert Gudmundsson", "number": 10, "position_general": "FWD" },
-      { "name": "Brynjolfur Willumsson", "number": 15, "position_general": "FWD" },
-      { "name": "Bjarki Steinn Bjarkason", "number": 19, "position_general": "FWD" },
-      { "name": "Daníel Gudjohnsen", "number": 21, "position_general": "FWD" },
-      { "name": "Andri Gudjohnsen", "number": 22, "position_general": "FWD" },
-      { "name": "Mikael Egill Ellertsson", "number": 23, "position_general": "FWD" }
-    ],
-    "tactics": {
-      "default": "Alineación Titular",
-      "presets": {
-        "Alineación Titular": {
-          "formation": "5-3-2",
-          "lineup": {
-            "POR": "E. Ólafsson",
-            "CAR_D": "L. Tómasson",
-            "DFC_D": "S. I. Ingason",
-            "DFC_C": "V. Pálsson",
-            "DFC_I": "D. Grétarsson",
-            "CAR_I": "M. Ellertsson",
-            "MC_D": "A. Guðmundsson",
-            "MC_C": "Í. B. Jóhannesson",
-            "MC_I": "H. A. Haraldsson",
-            "DC_D": "D. T. Gudjohnsen",
-            "DC_I": "S. A. Magnússon"
-          }
-        }
-      }
-    }
-  },
-  "ISLAS FEROE": {
-    "plantilla": [
-      { "name": "Mathias Lamhauge", "number": 1, "position_general": "GK" },
-      { "name": "Ari Petersen", "number": 12, "position_general": "GK" },
-      { "name": "Bjarti Mørk", "number": 12, "position_general": "GK" },
-      { "name": "Bárður Á Reynatrøð", "number": 23, "position_general": "GK" },
-      { "name": "Jóannes Danielsen", "number": 2, "position_general": "DEF" },
-      { "name": "Viljormur Davidsen", "number": 3, "position_general": "DEF" },
-      { "name": "Daniel Johansen", "number": 13, "position_general": "DEF" },
-      { "name": "Gullbrandur Øregaard", "number": 15, "position_general": "DEF" },
-      { "name": "Odmar Faerø", "number": 15, "position_general": "DEF" },
-      { "name": "Gunnar Vatnhamar", "number": 16, "position_general": "DEF" },
-      { "name": "Arnbjørn Svensson", "number": 4, "position_general": "MID" },
-      { "name": "Samuel Chukwudi", "number": 4, "position_general": "MID" },
-      { "name": "Andrias Edmundsson", "number": 5, "position_general": "MID" },
-      { "name": "Hallur Hansson", "number": 6, "position_general": "MID" },
-      { "name": "Noah Mneney", "number": 6, "position_general": "MID" },
-      { "name": "Jóannes Bjartalið", "number": 7, "position_general": "MID" },
-      { "name": "Brandur Hendriksson", "number": 8, "position_general": "MID" },
-      { "name": "Árni Frederiksberg", "number": 11, "position_general": "MID" },
-      { "name": "Martin Agnarsson", "number": 13, "position_general": "MID" },
-      { "name": "René Joensen", "number": 14, "position_general": "MID" },
-      { "name": "Petur Knudsen", "number": 18, "position_general": "MID" },
-      { "name": "Jann Benjaminsen", "number": 19, "position_general": "MID" },
-      { "name": "Hanus Sørensen", "number": 20, "position_general": "MID" },
-      { "name": "Poul Kallsberg", "number": 21, "position_general": "MID" },
-      { "name": "Geza Dávid Turi", "number": 21, "position_general": "MID" },
-      { "name": "Jákup Andreasen", "number": 22, "position_general": "MID" },
-      { "name": "Páll Klettskarð", "number": 9, "position_general": "FWD" },
-      { "name": "Meinhard Olsen", "number": 10, "position_general": "FWD" },
-      { "name": "Patrik Johannesen", "number": 10, "position_general": "FWD" },
-      { "name": "Jóan Edmundsson", "number": 14, "position_general": "FWD" },
-      { "name": "Adrian Justinussen", "number": 17, "position_general": "FWD" }
-    ],
-    "tactics": {
-      "default": "Alineación Titular",
-      "presets": {
-        "Alineación Titular": {
-          "formation": "3-4-3",
-          "lineup": {
-            "POR": "M. Lamhauge",
-            "DFC_D": "G. Vatnhamar",
-            "DFC_C": "G. D. Turi",
-            "DFC_I": "O. Færø",
-            "MD": "A. Edmundsson",
-            "MC_D": "B. Olsen",
-            "MC_I": "J. K. Danielsen",
-            "MI": "V. Davidsen",
-            "ED": "Á. Frederiksborg",
-            "DC": "J. Edmundsson",
-            "EI": "H. Sørensen"
-          }
-        }
-      }
-    }
-  },
-  "ISRAEL": {
-    "plantilla": [
-      { "name": "Daniel Peretz", "number": 1, "position_general": "GK" },
-      { "name": "Omri Glazer", "number": 18, "position_general": "GK" },
-      { "name": "Niv Eliasi", "number": 23, "position_general": "GK" },
-      { "name": "Omer Nir On", "number": 23, "position_general": "GK" },
-      { "name": "Assaf Tzur", "number": 23, "position_general": "GK" },
-      { "name": "Yoav Gerafi", "number": 23, "position_general": "GK" },
-      { "name": "Eli Dasa", "number": 2, "position_general": "DEF" },
-      { "name": "Sean Goldberg", "number": 3, "position_general": "DEF" },
-      { "name": "Roy Revivo", "number": 3, "position_general": "DEF" },
-      { "name": "Raz Shlomo", "number": 4, "position_general": "DEF" },
-      { "name": "Matan Baltaxa", "number": 4, "position_general": "DEF" },
-      { "name": "Or Brorian", "number": 5, "position_general": "DEF" },
-      { "name": "Idan Nachmias", "number": 5, "position_general": "DEF" },
-      { "name": "Stav Lemkin", "number": 12, "position_general": "DEF" },
-      { "name": "Guy Mizrahi", "number": 14, "position_general": "DEF" },
-      { "name": "Denny Gropper", "number": 17, "position_general": "DEF" },
-      { "name": "Nikita Stoinov", "number": 21, "position_general": "DEF" },
-      { "name": "Osher Davida", "number": 0, "position_general": "MID" },
-      { "name": "Neta Lavi", "number": 6, "position_general": "MID" },
-      { "name": "Omri Gandelman", "number": 6, "position_general": "MID" },
-      { "name": "Dor Peretz", "number": 8, "position_general": "MID" },
-      { "name": "Ethane Azoulay", "number": 8, "position_general": "MID" },
-      { "name": "Manor Solomon", "number": 10, "position_general": "MID" },
-      { "name": "Oscar Gloukh", "number": 11, "position_general": "MID" },
-      { "name": "Itamar Noy", "number": 12, "position_general": "MID" },
-      { "name": "Eliel Peretz", "number": 15, "position_general": "MID" },
-      { "name": "Gabi Kanichowsky", "number": 16, "position_general": "MID" },
-      { "name": "Mohammad Abu Fani", "number": 16, "position_general": "MID" },
-      { "name": "Sagiv Jehezkel", "number": 17, "position_general": "MID" },
-      { "name": "Liel Abada", "number": 19, "position_general": "MID" },
-      { "name": "Dan Biton", "number": 20, "position_general": "MID" },
-      { "name": "Mahmoud Jaber", "number": 22, "position_general": "MID" },
-      { "name": "Yarin Levi", "number": 22, "position_general": "MID" },
-      { "name": "Yarden Shua", "number": 7, "position_general": "FWD" },
-      { "name": "Tai Baribo", "number": 9, "position_general": "FWD" },
-      { "name": "Anan Khalaili", "number": 13, "position_general": "FWD" },
-      { "name": "Dor Turgeman", "number": 19, "position_general": "FWD" },
-      { "name": "Din David", "number": 21, "position_general": "FWD" },
-      { "name": "Stav Toriel", "number": 22, "position_general": "FWD" }
-    ],
-    "tactics": {
-      "default": "Alineación Titular",
-      "presets": {
-        "Alineación Titular": {
-          "formation": "4-3-3",
-          "lineup": {
-            "POR": "O. Glazer",
-            "LTD": "E. Dasa",
-            "DFC_D": "O. Blorian",
-            "DFC_I": "M. Baltaxa",
-            "LTI": "R. Revivo",
-            "MC_D": "D. Biton",
-            "MCD": "E. Peretz",
-            "MC_I": "O. Gloukh",
-            "ED": "A. Khalaili",
-            "DC": "T. Baribo",
-            "EI": "M. Solomon"
-          }
-        }
-      }
-    }
-  },
-  "ITALIA": {
-    "plantilla": [
-      { "name": "Gianluigi Donnarumma", "number": 1, "position_general": "GK" },
-      { "name": "Marco Carnesecchi", "number": 12, "position_general": "GK" },
-      { "name": "Alex Meret", "number": 12, "position_general": "GK" },
-      { "name": "Guglielmo Vicario", "number": 14, "position_general": "GK" },
-      { "name": "Davide Zappacosta", "number": 2, "position_general": "DEF" },
-      { "name": "Raoul Bellanova", "number": 2, "position_general": "DEF" },
-      { "name": "Matteo Gabbia", "number": 2, "position_general": "DEF" },
-      { "name": "Federico Dimarco", "number": 3, "position_general": "DEF" },
-      { "name": "Federico Gatti", "number": 4, "position_general": "DEF" },
-      { "name": "Leonardo Spinazzola", "number": 4, "position_general": "DEF" },
-      { "name": "Destiny Udogie", "number": 6, "position_general": "DEF" },
-      { "name": "Riccardo Calafiori", "number": 13, "position_general": "DEF" },
-      { "name": "Daniele Rugani", "number": 15, "position_general": "DEF" },
-      { "name": "Luca Ranieri", "number": 19, "position_general": "DEF" },
-      { "name": "Andrea Cambiaso", "number": 20, "position_general": "DEF" },
-      { "name": "Alessandro Bastoni", "number": 21, "position_general": "DEF" },
-      { "name": "Diego Coppola", "number": 21, "position_general": "DEF" },
-      { "name": "Giovanni Di Lorenzo", "number": 22, "position_general": "DEF" },
-      { "name": "Gianluca Mancini", "number": 23, "position_general": "DEF" },
-      { "name": "Manuel Locatelli", "number": 5, "position_general": "MID" },
-      { "name": "Samuele Ricci", "number": 6, "position_general": "MID" },
-      { "name": "Nicolò Rovella", "number": 6, "position_general": "MID" },
-      { "name": "Riccardo Orsolini", "number": 7, "position_general": "MID" },
-      { "name": "Sandro Tonali", "number": 8, "position_general": "MID" },
-      { "name": "Cesare Casadei", "number": 14, "position_general": "MID" },
-      { "name": "Bryan Cristante", "number": 16, "position_general": "MID" },
-      { "name": "Davide Frattesi", "number": 17, "position_general": "MID" },
-      { "name": "Nicolò Barella", "number": 18, "position_general": "MID" },
-      { "name": "Nicolò Cambiaghi", "number": 19, "position_general": "MID" },
-      { "name": "Matteo Politano", "number": 7, "position_general": "FWD" },
-      { "name": "Mateo Retegui", "number": 9, "position_general": "FWD" },
-      { "name": "Giacomo Raspadori", "number": 10, "position_general": "FWD" },
-      { "name": "Moise Kean", "number": 11, "position_general": "FWD" },
-      { "name": "Roberto Piccoli", "number": 11, "position_general": "FWD" },
-      { "name": "Pio Esposito", "number": 15, "position_general": "FWD" },
-      { "name": "Lorenzo Lucca", "number": 17, "position_general": "FWD" },
-      { "name": "Daniel Maldini", "number": 20, "position_general": "FWD" },
-      { "name": "Mattia Zaccagni", "number": 20, "position_general": "FWD" }
-    ],
-    "tactics": {
-      "default": "Alineación Titular",
-      "presets": {
-        "Alineación Titular": {
-          "formation": "3-5-2",
-          "lineup": {
-            "POR": "G. Donnarumma",
-            "DFC_D": "G. Di Lorenzo",
-            "DFC_C": "G. Mancini",
-            "DFC_I": "R. Calafiori",
-            "CAR_D": "A. Cambiaso",
-            "MC_D": "N. Barella",
-            "MC_C": "M. Locatelli",
-            "MC_I": "S. Tonali",
-            "CAR_I": "F. Dimarco",
-            "DC_D": "G. Raspadori",
-            "DC_I": "M. Retegui"
-          }
-        }
-      }
-    }
-  },
-
-"ESTONIA": {
-    "plantilla": [
-      { "name": "Karl Hein", "number": 1, "position_general": "GK" },
-      { "name": "Matvei Igonen", "number": 12, "position_general": "GK" },
-      { "name": "Henri Perk", "number": 22, "position_general": "GK" },
-      { "name": "Karl Vallner", "number": 22, "position_general": "GK" },
-      { "name": "Märten Kuusk", "number": 2, "position_general": "DEF" },
-      { "name": "Joseph Saliste", "number": 3, "position_general": "DEF" },
-      { "name": "Maksim Paskotši", "number": 3, "position_general": "DEF" },
-      { "name": "Rasmus Peetson", "number": 6, "position_general": "DEF" },
-      { "name": "Erko Tõugjas", "number": 15, "position_general": "DEF" },
-      { "name": "Joonas Tamm", "number": 16, "position_general": "DEF" },
-      { "name": "Karol Mets", "number": 18, "position_general": "DEF" },
-      { "name": "Michael Schjønning-Larsen", "number": 19, "position_general": "DEF" },
-      { "name": "Tanel Tammik", "number": 19, "position_general": "DEF" },
-      { "name": "Kristo Hussar", "number": 19, "position_general": "DEF" },
-      { "name": "Edgar Tur", "number": 20, "position_general": "DEF" },
-      { "name": "Vlasiy Sinyavskiy", "number": 23, "position_general": "DEF" },
-      { "name": "Mattias Käit", "number": 4, "position_general": "MID" },
-      { "name": "Rocco Shein", "number": 5, "position_general": "MID" },
-      { "name": "Markus Soomets", "number": 8, "position_general": "MID" },
-      { "name": "Ioan Yakovlev", "number": 9, "position_general": "MID" },
-      { "name": "Dimitri Jepihhin", "number": 10, "position_general": "MID" },
-      { "name": "Kevor Palumets", "number": 10, "position_general": "MID" },
-      { "name": "Mihkel Ainsalu", "number": 11, "position_general": "MID" },
-      { "name": "Patrik Kristal", "number": 14, "position_general": "MID" },
-      { "name": "Brent Lepistu", "number": 16, "position_general": "MID" },
-      { "name": "Martin Miller", "number": 17, "position_general": "MID" },
-      { "name": "Markus Poom", "number": 20, "position_general": "MID" },
-      { "name": "Martin Vetkal", "number": 20, "position_general": "MID" },
-      { "name": "Robi Saarma", "number": 7, "position_general": "FWD" },
-      { "name": "Henri Anier", "number": 8, "position_general": "FWD" },
-      { "name": "Karel Mustmaa", "number": 11, "position_general": "FWD" },
-      { "name": "Marten-Chris Paalberg", "number": 13, "position_general": "FWD" },
-      { "name": "Rauno Sappinen", "number": 15, "position_general": "FWD" },
-      { "name": "Alex Tamm", "number": 21, "position_general": "FWD" }
-    ],
-    "tactics": {
-      "default": "Alineación Titular",
-      "presets": {
-        "Alineación Titular": {
-          "formation": "4-4-1-1",
-          "lineup": {
-            "POR": "K. Hein",
-            "LTD": "M. Schjönning-Larsen",
-            "DFC_D": "M. Paskotši",
-            "DFC_I": "K. Mets",
-            "LTI": "V. Sinyavskiy",
-            "MD": "R. Saarma",
-            "MC_D": "M. Soomets",
-            "MC_I": "M. Käit",
-            "MI": "I. Yakovlev",
-            "MCO": "P. Kristal",
-            "DC": "R. Sappinen"
-          }
-        }
-      }
-    }
-  },
-  "FINLANDIA": {
-    "plantilla": [
-      { "name": "Jesse Joronen", "number": 1, "position_general": "GK" },
-      { "name": "Lukas Hrádecký", "number": 1, "position_general": "GK" },
-      { "name": "Viljami Sinisalo", "number": 12, "position_general": "GK" },
-      { "name": "Lucas Bergström", "number": 23, "position_general": "GK" },
-      { "name": "Tuomas Ollila", "number": 2, "position_general": "DEF" },
-      { "name": "Matti Peltola", "number": 2, "position_general": "DEF" },
-      { "name": "Ville Tikkanen", "number": 3, "position_general": "DEF" },
-      { "name": "Daniel O'Shaughnessy", "number": 3, "position_general": "DEF" },
-      { "name": "Adam Ståhl", "number": 3, "position_general": "DEF" },
-      { "name": "Juhani Pikkarainen", "number": 4, "position_general": "DEF" },
-      { "name": "Robert Ivanov", "number": 4, "position_general": "DEF" },
-      { "name": "Arttu Hoskonen", "number": 5, "position_general": "DEF" },
-      { "name": "Juho Lähteenmäki", "number": 5, "position_general": "DEF" },
-      { "name": "Leo Väisänen", "number": 5, "position_general": "DEF" },
-      { "name": "Noah Pallas", "number": 11, "position_general": "DEF" },
-      { "name": "Miro Tenho", "number": 15, "position_general": "DEF" },
-      { "name": "Nikolai Alho", "number": 17, "position_general": "DEF" },
-      { "name": "Jere Uronen", "number": 18, "position_general": "DEF" },
-      { "name": "Ville Koski", "number": 21, "position_general": "DEF" },
-      { "name": "Ilmari Niskanen", "number": 22, "position_general": "DEF" },
-      { "name": "Glen Kamara", "number": 6, "position_general": "MID" },
-      { "name": "Naatan Skyttä", "number": 6, "position_general": "MID" },
-      { "name": "Matias Siltanen", "number": 7, "position_general": "MID" },
-      { "name": "Tommi Jyry", "number": 7, "position_general": "MID" },
-      { "name": "Leo Walta", "number": 9, "position_general": "MID" },
-      { "name": "Fredrik Jensen", "number": 9, "position_general": "MID" },
-      { "name": "Rasmus Schüller", "number": 11, "position_general": "MID" },
-      { "name": "Adam Marhiev", "number": 11, "position_general": "MID" },
-      { "name": "Santeri Väänänen", "number": 11, "position_general": "MID" },
-      { "name": "Onni Valakari", "number": 13, "position_general": "MID" },
-      { "name": "Anssi Suhonen", "number": 13, "position_general": "MID" },
-      { "name": "Kaan Kairinen", "number": 14, "position_general": "MID" },
-      { "name": "Oliver Antman", "number": 7, "position_general": "FWD" },
-      { "name": "Robin Lod", "number": 8, "position_general": "FWD" },
-      { "name": "Teemu Pukki", "number": 10, "position_general": "FWD" },
-      { "name": "Adrian Svanbäck", "number": 13, "position_general": "FWD" },
-      { "name": "Topi Keskinen", "number": 16, "position_general": "FWD" },
-      { "name": "Benjamin Källman", "number": 19, "position_general": "FWD" },
-      { "name": "Joel Pohjanpalo", "number": 20, "position_general": "FWD" },
-      { "name": "Daniel Håkans", "number": 21, "position_general": "FWD" },
-      { "name": "Casper Terho", "number": 22, "position_general": "FWD" },
-      { "name": "Oiva Jukkola", "number": 22, "position_general": "FWD" }
-    ],
-    "tactics": {
-      "default": "Alineación Titular",
-      "presets": {
-        "Alineación Titular": {
-          "formation": "5-3-2",
-          "lineup": {
-            "POR": "J. Joronen",
-            "CAR_D": "N. Alho",
-            "DFC_D": "A. Stahl",
-            "DFC_C": "M. Tenho",
-            "DFC_I": "V. Koski",
-            "CAR_I": "J. Lähteenmäki",
-            "MC_D": "S. Väänänen",
-            "MC_C": "T. Keskinen",
-            "MC_I": "K. Kairinen",
-            "DC_D": "O. Antman",
-            "DC_I": "L. Walta"
-          }
-        }
-      }
-    }
-  },
-  "FRANCIA": {
-    "plantilla": [
-      { "name": "Brice Samba", "number": 1, "position_general": "GK" },
-      { "name": "Mike Maignan", "number": 16, "position_general": "GK" },
-      { "name": "Lucas Chevalier", "number": 23, "position_general": "GK" },
-      { "name": "Malo Gusto", "number": 2, "position_general": "DEF" },
-      { "name": "Lucas Digne", "number": 3, "position_general": "DEF" },
-      { "name": "Dayot Upamecano", "number": 4, "position_general": "DEF" },
-      { "name": "Jules Koundé", "number": 5, "position_general": "DEF" },
-      { "name": "Benjamin Pavard", "number": 15, "position_general": "DEF" },
-      { "name": "Ibrahima Konaté", "number": 15, "position_general": "DEF" },
-      { "name": "William Saliba", "number": 17, "position_general": "DEF" },
-      { "name": "Lucas Hernández", "number": 21, "position_general": "DEF" },
-      { "name": "Theo Hernández", "number": 22, "position_general": "DEF" },
-      { "name": "Eduardo Camavinga", "number": 6, "position_general": "MID" },
-      { "name": "Aurélien Tchouaméni", "number": 8, "position_general": "MID" },
-      { "name": "Manu Koné", "number": 8, "position_general": "MID" },
-      { "name": "Michael Olise", "number": 11, "position_general": "MID" },
-      { "name": "Désiré Doué", "number": 12, "position_general": "MID" },
-      { "name": "Adrien Rabiot", "number": 14, "position_general": "MID" },
-      { "name": "Rayan Cherki", "number": 19, "position_general": "MID" },
-      { "name": "Khephren Thuram", "number": 19, "position_general": "MID" },
-      { "name": "Kingsley Coman", "number": 7, "position_general": "FWD" },
-      { "name": "Ousmane Dembélé", "number": 7, "position_general": "FWD" },
-      { "name": "Hugo Ekitiké", "number": 9, "position_general": "FWD" },
-      { "name": "Marcus Thuram", "number": 9, "position_general": "FWD" },
-      { "name": "Kylian Mbappé", "number": 10, "position_general": "FWD" },
-      { "name": "Maghnes Akliouche", "number": 12, "position_general": "FWD" },
-      { "name": "Jean-Philippe Mateta", "number": 13, "position_general": "FWD" },
-      { "name": "Christopher Nkunku", "number": 18, "position_general": "FWD" },
-      { "name": "Bradley Barcola", "number": 20, "position_general": "FWD" },
-      { "name": "Florian Thauvin", "number": 20, "position_general": "FWD" }
-    ],
-    "tactics": {
-      "default": "Alineación Titular",
-      "presets": {
-        "Alineación Titular": {
-          "formation": "4-2-3-1",
-          "lineup": {
-            "POR": "M. Maignan",
-            "LTD": "J. Koundé",
-            "DFC_D": "W. Saliba",
-            "DFC_I": "D. Upamecano",
-            "LTI": "L. Digne",
-            "MCD_D": "M. Koné",
-            "MCD_I": "E. Camavinga",
-            "VOL_D": "F. Thauvin",
-            "MCO": "C. Nkunku",
-            "VOL_I": "M. Olise",
-            "DC": "J. Mateta"
+            "POR": "Mike Maignan",
+            "LTD": "Jules Koundé",
+            "DFC_D": "William Saliba",
+            "DFC_I": "Dayot Upamecano",
+            "LTI": "Lucas Digne",
+            "MCD_D": "Manu Koné",
+            "MCD_I": "Eduardo Camavinga",
+            "VOL_D": "Florian Thauvin",
+            "MCO": "Christopher Nkunku",
+            "VOL_I": "Michael Olise",
+            "DC": "Jean-Philippe Mateta"
           }
         }
       }
@@ -2091,17 +1255,17 @@
         "Alineación Titular": {
           "formation": "4-2-3-1",
           "lineup": {
-            "POR": "K. Darlow",
-            "LTD": "N. Williams",
-            "DFC_D": "J. Rodon",
-            "DFC_I": "B. Cabango",
-            "LTI": "B. Davies",
-            "MCD_D": "E. Ampadu",
-            "MCD_I": "J. James",
-            "VOL_D": "D. Brooks",
-            "MCO": "H. Wilson",
-            "VOL_I": "S. Thomas",
-            "DC": "M. Harris"
+            "POR": "Karl Darlow",
+            "LTD": "Neco Williams",
+            "DFC_D": "Joe Rodon",
+            "DFC_I": "Ben Cabango",
+            "LTI": "Ben Davies",
+            "MCD_D": "Ethan Ampadu",
+            "MCD_I": "Jordan James",
+            "VOL_D": "David Brooks",
+            "MCO": "Harry Wilson",
+            "VOL_I": "Sorba Thomas",
+            "DC": "Mark Harris"
           }
         }
       }
@@ -2143,17 +1307,17 @@
         "Alineación Titular": {
           "formation": "4-3-3",
           "lineup": {
-            "POR": "G. Mamardashvili",
-            "LTD": "O. Kakabadze",
-            "DFC_D": "S. Goglichidze",
-            "DFC_I": "L. Lochoshvili",
-            "LTI": "G. Gocholeishvili",
-            "MC_D": "G. Kochorashvili",
-            "MCD": "O. Kiteishvili",
-            "MC_I": "A. Mekvabishvili",
-            "ED": "Z. Davitashvili",
-            "DC": "G. Mikautadze",
-            "EI": "K. Kvaratskhelia"
+            "POR": "Giorgi Mamardashvili",
+            "LTD": "Otar Kakabadze",
+            "DFC_D": "Saba Goglichidze",
+            "DFC_I": "Luka Lochoshvili",
+            "LTI": "Giorgi Gocholeishvili",
+            "MC_D": "Giorgi Kochorashvili",
+            "MCD": "Otar Kiteishvili",
+            "MC_I": "Anzor Mekvabishvili",
+            "ED": "Zuriko Davitashvili",
+            "DC": "Georges Mikautadze",
+            "EI": "Khvicha Kvaratskhelia"
           }
         }
       }
@@ -2207,17 +1371,17 @@
         "Alineación Titular": {
           "formation": "5-4-1",
           "lineup": {
-            "POR": "J. Hankins",
-            "CAR_D": "E. Jolley",
-            "DFC_D": "K. Ronan",
-            "DFC_C": "D. Bent",
-            "DFC_I": "B. Lopes",
-            "CAR_I": "J. Valarino",
-            "MD": "J. Scanlon",
-            "MC_D": "J. Perera",
-            "MC_I": "L. Annesley",
-            "MI": "C. Richards",
-            "DC": "T. D. Barr"
+            "POR": "Jaylan Hankins",
+            "CAR_D": "Ethan Jolley",
+            "DFC_D": "Kian Ronan",
+            "DFC_C": "Daniel Bent",
+            "DFC_I": "Bernardo Lopes",
+            "CAR_I": "Julian Valarino",
+            "MD": "James Scanlon",
+            "MC_D": "Jeremy Perera",
+            "MC_I": "Louie Annesley",
+            "MI": "Carlos Richards",
+            "DC": "Andre Tjay De Barr"
           }
         }
       }
@@ -2259,17 +1423,17 @@
         "Alineación Titular": {
           "formation": "4-2-3-1",
           "lineup": {
-            "POR": "O. Vlachodimos",
-            "LTD": "L. Rota",
-            "DFC_D": "K. Mavropanos",
-            "DFC_I": "K. Koulierakis",
-            "LTI": "K. Tsimikas",
-            "MCD_D": "D. Kourbelis",
-            "MCD_I": "A. Bakasetas",
-            "VOL_D": "C. Tzolis",
-            "MCO": "K. Karetsas",
-            "VOL_I": "C. Zafeiris",
-            "DC": "F. Ioannidis"
+            "POR": "Odysseas Vlachodimos",
+            "LTD": "Lazaros Rota",
+            "DFC_D": "Ntinos Mavropanos",
+            "DFC_I": "Konstantinos Koulierakis",
+            "LTI": "Kostas Tsimikas",
+            "MCD_D": "Dimitris Kourbelis",
+            "MCD_I": "Tasos Bakasetas",
+            "VOL_D": "Christos Tzolis",
+            "MCO": "Konstantinos Karetsas",
+            "VOL_I": "Christos Zafeiris",
+            "DC": "Fotis Ioannidis"
           }
         }
       }
@@ -2317,17 +1481,17 @@
         "Alineación Titular": {
           "formation": "4-3-3",
           "lineup": {
-            "POR": "B. Tóth",
-            "LTD": "L. Négo",
-            "DFC_D": "W. Orbán",
-            "DFC_I": "A. Szalai",
-            "LTI": "M. Kerkez",
-            "MC_D": "C. Styles",
-            "MCD": "D. Szoboszlai",
-            "MC_I": "A. Schäfer",
-            "ED": "B. Bolla",
-            "DC": "B. Varga",
-            "EI": "R. Sallai"
+            "POR": "Balázs Tóth",
+            "LTD": "Loïc Négo",
+            "DFC_D": "Willi Orbán",
+            "DFC_I": "Attila Szalai",
+            "LTI": "Milos Kerkez",
+            "MC_D": "Callum Styles",
+            "MCD": "Dominik Szoboszlai",
+            "MC_I": "András Schäfer",
+            "ED": "Bendegúz Bolla",
+            "DC": "Barnabás Varga",
+            "EI": "Roland Sallai"
           }
         }
       }
@@ -2380,17 +1544,17 @@
         "Alineación Titular": {
           "formation": "4-3-3",
           "lineup": {
-            "POR": "J. Pickford",
-            "LTD": "D. Spence",
-            "DFC_D": "E. Konsa",
-            "DFC_I": "J. Stones",
-            "LTI": "M. Lewis-Skelly",
-            "MC_D": "M. Rogers",
-            "MCD": "D. Rice",
-            "MC_I": "E. Anderson",
-            "ED": "B. Saka",
-            "DC": "H. Kane",
-            "EI": "A. Gordon"
+            "POR": "Jordan Pickford",
+            "LTD": "Djed Spence",
+            "DFC_D": "Ezri Konsa",
+            "DFC_I": "John Stones",
+            "LTI": "Myles Lewis-Skelly",
+            "MC_D": "Morgan Rogers",
+            "MCD": "Declan Rice",
+            "MC_I": "Elliot Anderson",
+            "ED": "Bukayo Saka",
+            "DC": "Harry Kane",
+            "EI": "Anthony Gordon"
           }
         }
       }
@@ -2433,33 +1597,33 @@
         "Alineación 5-4-1": {
           "formation": "5-4-1",
           "lineup": {
-            "POR": "B. Peacock-Farrell",
-            "CAR_D": "B. Spencer",
-            "DFC_D": "D. Ballard",
-            "DFC_C": "T. Hume",
-            "DFC_I": "P. McNair",
-            "CAR_I": "J. Devenny",
-            "MD": "I. Price",
-            "MC_D": "S. Charles",
-            "MC_I": "A. McCann",
-            "MI": "E. Galbraith",
-            "DC": "J. Reid"
+            "POR": "Bailey Peacock-Farrell",
+            "CAR_D": "Brodie Spencer",
+            "DFC_D": "Daniel Ballard",
+            "DFC_C": "Trai Hume",
+            "DFC_I": "Paddy McNair",
+            "CAR_I": "Justin Devenny",
+            "MD": "Isaac Price",
+            "MC_D": "Shea Charles",
+            "MC_I": "Alistair McCann",
+            "MI": "Ethan Galbraith",
+            "DC": "Jamie Reid"
           }
         },
         "Alineación 5-3-2": {
           "formation": "5-3-2",
           "lineup": {
-            "POR": "B. Peacock-Farrell",
-            "CAR_D": "C. Bradley",
-            "DFC_D": "D. Ballard",
-            "DFC_C": "T. Hume",
-            "DFC_I": "P. McNair",
-            "CAR_I": "J. Devenny",
-            "MC_D": "A. McCann",
-            "MC_C": "J. Reid",
-            "MC_I": "J. McDonnell",
-            "DC_D": "I. Price",
-            "DC_I": "J. Donley"
+            "POR": "Bailey Peacock-Farrell",
+            "CAR_D": "Conor Bradley",
+            "DFC_D": "Daniel Ballard",
+            "DFC_C": "Trai Hume",
+            "DFC_I": "Paddy McNair",
+            "CAR_I": "Justin Devenny",
+            "MC_D": "Alistair McCann",
+            "MC_C": "Jamie Reid",
+            "MC_I": "Jamie McDonnell",
+            "DC_D": "Isaac Price",
+            "DC_I": "Jamie Donley"
           }
         }
       }
@@ -2500,17 +1664,17 @@
         "Alineación Titular": {
           "formation": "5-3-2",
           "lineup": {
-            "POR": "E. Ólafsson",
-            "CAR_D": "L. Tómasson",
-            "DFC_D": "S. I. Ingason",
-            "DFC_C": "V. Pálsson",
-            "DFC_I": "D. Grétarsson",
-            "CAR_I": "M. Ellertsson",
-            "MC_D": "A. Guðmundsson",
-            "MC_C": "Í. B. Jóhannesson",
-            "MC_I": "H. A. Haraldsson",
-            "DC_D": "D. T. Gudjohnsen",
-            "DC_I": "S. A. Magnússon"
+            "POR": "Elias Rafn Ólafsson",
+            "CAR_D": "Logi Tómasson",
+            "DFC_D": "Sverrir Ingason",
+            "DFC_C": "Victor Pálsson",
+            "DFC_I": "Daníel Leó Grétarsson",
+            "CAR_I": "Mikael Egill Ellertsson",
+            "MC_D": "Albert Gudmundsson",
+            "MC_C": "Ísak Bergmann Johannesson",
+            "MC_I": "Hákon Arnar Haraldsson",
+            "DC_D": "Daníel Gudjohnsen",
+            "DC_I": "Sævar Atli Magnússon"
           }
         }
       }
@@ -2556,17 +1720,17 @@
         "Alineación Titular": {
           "formation": "3-4-3",
           "lineup": {
-            "POR": "M. Lamhauge",
-            "DFC_D": "G. Vatnhamar",
-            "DFC_C": "G. D. Turi",
-            "DFC_I": "O. Færø",
-            "MD": "A. Edmundsson",
-            "MC_D": "B. Olsen",
-            "MC_I": "J. K. Danielsen",
-            "MI": "V. Davidsen",
-            "ED": "Á. Frederiksborg",
-            "DC": "J. Edmundsson",
-            "EI": "H. Sørensen"
+            "POR": "Mathias Lamhauge",
+            "DFC_D": "Gunnar Vatnhamar",
+            "DFC_C": "Geza Dávid Turi",
+            "DFC_I": "Odmar Faerø",
+            "MD": "Andrias Edmundsson",
+            "MC_D": "Brandur Hendriksson",
+            "MC_I": "Jóannes Danielsen",
+            "MI": "Viljormur Davidsen",
+            "ED": "Árni Frederiksberg",
+            "DC": "Jóan Edmundsson",
+            "EI": "Hanus Sørensen"
           }
         }
       }
@@ -2620,17 +1784,17 @@
         "Alineación Titular": {
           "formation": "4-3-3",
           "lineup": {
-            "POR": "O. Glazer",
-            "LTD": "E. Dasa",
-            "DFC_D": "O. Blorian",
-            "DFC_I": "M. Baltaxa",
-            "LTI": "R. Revivo",
-            "MC_D": "D. Biton",
-            "MCD": "E. Peretz",
-            "MC_I": "O. Gloukh",
-            "ED": "A. Khalaili",
-            "DC": "T. Baribo",
-            "EI": "M. Solomon"
+            "POR": "Omri Glazer",
+            "LTD": "Eli Dasa",
+            "DFC_D": "Or Brorian",
+            "DFC_I": "Matan Baltaxa",
+            "LTI": "Roy Revivo",
+            "MC_D": "Dan Biton",
+            "MCD": "Eliel Peretz",
+            "MC_I": "Oscar Gloukh",
+            "ED": "Anan Khalaili",
+            "DC": "Tai Baribo",
+            "EI": "Manor Solomon"
           }
         }
       }
@@ -2683,17 +1847,17 @@
         "Alineación Titular": {
           "formation": "3-5-2",
           "lineup": {
-            "POR": "G. Donnarumma",
-            "DFC_D": "G. Di Lorenzo",
-            "DFC_C": "G. Mancini",
-            "DFC_I": "R. Calafiori",
-            "CAR_D": "A. Cambiaso",
-            "MC_D": "N. Barella",
-            "MC_C": "M. Locatelli",
-            "MC_I": "S. Tonali",
-            "CAR_I": "F. Dimarco",
-            "DC_D": "G. Raspadori",
-            "DC_I": "M. Retegui"
+            "POR": "Gianluigi Donnarumma",
+            "DFC_D": "Giovanni Di Lorenzo",
+            "DFC_C": "Gianluca Mancini",
+            "DFC_I": "Riccardo Calafiori",
+            "CAR_D": "Andrea Cambiaso",
+            "MC_D": "Nicolò Barella",
+            "MC_C": "Manuel Locatelli",
+            "MC_I": "Sandro Tonali",
+            "CAR_I": "Federico Dimarco",
+            "DC_D": "Giacomo Raspadori",
+            "DC_I": "Mateo Retegui"
           }
         }
       }
@@ -2749,17 +1913,17 @@
         "Alineación Titular": {
           "formation": "4-3-3",
           "lineup": {
-            "POR": "M. Seisen",
-            "LTD": "B. Kairov",
-            "DFC_D": "N. Alip",
-            "DFC_I": "Y. Vorogovskiy",
-            "LTI": "D. Karaman",
-            "MC_D": "B. Zaynutdinov",
-            "MCD": "I. Kuat",
-            "MC_I": "G. Kenzhebek",
-            "ED": "I. Chesnokov",
-            "DC": "L. Sviridov",
-            "EI": "A. Kasym"
+            "POR": "Mukhammejan Seisen",
+            "LTD": "Bagdat Kairov",
+            "DFC_D": "Nuraly Alip",
+            "DFC_I": "Yan Vorogovskiy",
+            "LTI": "Dinmukhamed Karaman",
+            "MC_D": "Baktiyor Zainutdinov",
+            "MCD": "Islambek Kuat",
+            "MC_I": "Galymzhan Kenzhebek",
+            "ED": "Islam Chesnokov",
+            "DC": "Ivan Sviridov",
+            "EI": "Alibek Kassym"
           }
         }
       }
@@ -2804,17 +1968,17 @@
         "Alineación Titular": {
           "formation": "3-1-4-2",
           "lineup": {
-            "POR": "A. Murić",
-            "DFC_D": "M. Vojvoda",
-            "DFC_C": "K. Hajrizi",
-            "DFC_I": "A. Hajdari",
-            "MCD": "V. Hodža",
-            "MD": "L. Krasniqi",
-            "MC_D": "F. Asllani",
-            "MC_I": "F. Muslija",
-            "MI": "L. Avdullahu",
-            "DC_D": "V. Muriqi",
-            "DC_I": "D. Gallapeni"
+            "POR": "Arijanet Muric",
+            "DFC_D": "Mërgim Vojvoda",
+            "DFC_C": "Kreshnik Hajrizi",
+            "DFC_I": "Albian Hajdari",
+            "MCD": "Veldin Hodža",
+            "MD": "Ilir Krasniqi",
+            "MC_D": "Fisnik Asllani",
+            "MC_I": "Florent Muslija",
+            "MI": "Leon Avdullahu",
+            "DC_D": "Vedat Muriqi",
+            "DC_I": "Dion Gallapeni"
           }
         }
       }
@@ -2862,17 +2026,17 @@
         "Alineación Titular": {
           "formation": "5-4-1",
           "lineup": {
-            "POR": "K. Zviedris",
-            "CAR_D": "A. Cigaņiks",
-            "DFC_D": "D. Balodis",
-            "DFC_C": "A. Černomordijs",
-            "DFC_I": "R. Veips",
-            "CAR_I": "R. Jurkovskis",
-            "MD": "J. Ikaunieks",
-            "MC_D": "D. Zelenkovs",
-            "MC_I": "L. Vapne",
-            "MI": "R. Varslavāns",
-            "DC": "V. Gutkovskis"
+            "POR": "Krišjānis Zviedris",
+            "CAR_D": "Andrejs Cigaņiks",
+            "DFC_D": "Daniels Balodis",
+            "DFC_C": "Antonijs Černomordijs",
+            "DFC_I": "Roberts Veips",
+            "CAR_I": "Raivis Jurkovskis",
+            "MD": "Jānis Ikaunieks",
+            "MC_D": "Dmitrijs Zelenkovs",
+            "MC_I": "Lūkass Vapne",
+            "MI": "Renārs Varslavans",
+            "DC": "Vladislavs Gutkovskis"
           }
         }
       }
@@ -2918,7 +2082,19 @@
       "presets": {
         "Alineación Titular": {
           "formation": "4-4-2",
-          "lineup": {}
+          "lineup": {
+            "POR": "Benjamin Büchel",
+            "LTD": "Max Göppel",
+            "DFC_D": "Lars Traber",
+            "DFC_I": "Andreas Malin",
+            "LTI": "Johannes Schädler",
+            "MD": "Liam Kranz",
+            "MC_D": "Aron Sele",
+            "MC_I": "Livio Meier",
+            "MI": "Nicolas Hasler",
+            "DC_D": "Dennis Salanovic",
+            "DC_I": "Ferhat Saglam"
+          }
         }
       }
     }
@@ -2973,17 +2149,17 @@
         "Alineación Titular": {
           "formation": "5-4-1",
           "lineup": {
-            "POR": "T. Švedkauskas",
-            "CAR_D": "J. Lasickas",
-            "DFC_D": "A. Tutyškinas",
-            "DFC_C": "E. Girdvainis",
-            "DFC_I": "V. Armalas",
-            "CAR_I": "P. Sirvys",
-            "MD": "V. Slivka",
-            "MC_D": "G. Sirgėdas",
-            "MC_I": "G. Gineitis",
-            "MI": "P. Golubickas",
-            "DC": "F. Černych"
+            "POR": "Tomas Švedkauskas",
+            "CAR_D": "Justas Lasickas",
+            "DFC_D": "Artemijus Tutyškinas",
+            "DFC_C": "Edvinas Girdvainis",
+            "DFC_I": "Vilius Armalas",
+            "CAR_I": "Pijus Širvės",
+            "MD": "Vykintas Slivka",
+            "MC_D": "Gratas Sirgėdas",
+            "MC_I": "Gvidas Gineitis",
+            "MI": "Paulius Golubickas",
+            "DC": "Fedor Černých"
           }
         }
       }
@@ -3024,22 +2200,22 @@
         "Alineación Titular": {
           "formation": "4-1-4-1",
           "lineup": {
-            "POR": "A. Moris",
-            "LTD": "L. Jans",
-            "DFC_D": "S. Korač",
-            "DFC_I": "E. Mahmutović",
-            "LTI": "F. Bohnert",
-            "MCD": "C. M. Pereira",
-            "MD": "D. Sinani",
-            "MC_D": "M. Olesen",
-            "MC_I": "L. Barreiro",
-            "MI": "A. Dardari",
-            "DC": "E. Muratović"
+            "POR": "Anthony Moris",
+            "LTD": "Laurent Jans",
+            "DFC_D": "Seid Korac",
+            "DFC_I": "Enes Mahmutovic",
+            "LTI": "Florian Bohnert",
+            "MCD": "Christopher Martins",
+            "MD": "Danel Sinani",
+            "MC_D": "Mathias Olesen",
+            "MC_I": "Leandro Barreiro",
+            "MI": "Aiman Dardari",
+            "DC": "Edvin Muratovic"
           }
         }
       }
     }
-  },
+  }
   "MACEDONIA DEL NORTE": {
     "plantilla": [
       { "name": "Dejan Iliev", "number": 1, "position_general": "GK" },
@@ -3082,17 +2258,17 @@
         "Alineación Titular": {
           "formation": "5-3-2",
           "lineup": {
-            "POR": "S. Dimitrievski",
-            "CAR_D": "E. Alioski",
-            "DFC_D": "G. Zajkov",
-            "DFC_C": "D. Velkovski",
-            "DFC_I": "A. Stojchevski",
-            "CAR_I": "B. Ilievski",
-            "MC_D": "E. Elmas",
-            "MC_C": "E. Bardhi",
-            "MC_I": "I. Alimi",
-            "DC_D": "M. Ristovski",
-            "DC_I": "B. Miovski"
+            "POR": "Stole Dimitrievski",
+            "CAR_D": "Ezgjan Alioski",
+            "DFC_D": "Gjoko Zajkov",
+            "DFC_C": "Darko Velkovski",
+            "DFC_I": "Andrej Stojchevski",
+            "CAR_I": "Bojan Ilievski",
+            "MC_D": "Eljif Elmas",
+            "MC_C": "Enis Bardhi",
+            "MC_I": "Isnik Alimi",
+            "DC_D": "Milan Ristovski",
+            "DC_I": "Bojan Miovski"
           }
         }
       }
@@ -3143,17 +2319,17 @@
         "Alineación Titular": {
           "formation": "4-2-3-1",
           "lineup": {
-            "POR": "H. Bonello",
-            "LTD": "J. Corbalan",
-            "DFC_D": "K. Shaw",
-            "DFC_I": "E. Pepe",
-            "LTI": "R. Camenzuli",
-            "MCD_D": "M. Guillaumier",
-            "MCD_I": "L. Cardona",
-            "VOL_D": "J. Mbong",
-            "MCO": "T. Teuma",
-            "VOL_I": "Y. Chouaref",
-            "DC": "A. Satariano"
+            "POR": "Henry Bonello",
+            "LTD": "Juan Corbalan",
+            "DFC_D": "Kurt Shaw",
+            "DFC_I": "Enrico Pepe",
+            "LTI": "Ryan Camenzuli",
+            "MCD_D": "Matthew Guillaumier",
+            "MCD_I": "Irvin Cardona",
+            "VOL_D": "Joseph Mbong",
+            "MCO": "Teddy Teuma",
+            "VOL_I": "Ilyas Chouaref",
+            "DC": "Alexander Satariano"
           }
         }
       }
@@ -3208,24 +2384,23 @@
         "Alineación Titular": {
           "formation": "5-3-2",
           "lineup": {
-            "POR": "A. Kozhukhar",
-            "CAR_D": "D. Forov",
-            "DFC_D": "A. Crăciun",
-            "DFC_C": "V. Baboglo",
-            "DFC_I": "M. Gherasimencom",
-            "CAR_I": "O. Reabciuk",
-            "MC_D": "M. Caimacov",
-            "MC_C": "V. Raţă",
-            "MC_I": "V. Bogaciuc",
-            "DC_D": "S. Perciun",
-            "DC_I": "V. Postolachi"
+            "POR": "Andrei Cojuhar",
+            "CAR_D": "Danila Forov",
+            "DFC_D": "Artur Craciun",
+            "DFC_C": "Vladislav Baboglo",
+            "DFC_I": "Mihail Gherasimencov",
+            "CAR_I": "Oleg Reabciuk",
+            "MC_D": "Mihail Caimacov",
+            "MC_C": "Vadim Raţă",
+            "MC_I": "Victor Bogaciuc",
+            "DC_D": "Sergiu Perciun",
+            "DC_I": "Virgiliu Postolachi"
           }
         }
       }
     }
   },
-
-"MONTENEGRO": {
+  "MONTENEGRO": {
     "plantilla": [
       { "name": "Milan Mijatovic", "number": 1, "position_general": "GK" },
       { "name": "Balsa Popovic", "number": 1, "position_general": "GK" },
@@ -3274,17 +2449,17 @@
         "Alineación Titular": {
           "formation": "5-3-2",
           "lineup": {
-            "POR": "I. Nikić",
-            "CAR_D": "M. Roganović",
-            "DFC_D": "N. Šipčić",
-            "DFC_C": "S. Savić",
-            "DFC_I": "M. Perović",
-            "CAR_I": "A. Vukčević",
-            "MC_D": "V. Adžić",
-            "MC_C": "M. Bakić",
-            "MC_I": "M. Šimun",
-            "DC_D": "M. Osmajić",
-            "DC_I": "N. Krstović"
+            "POR": "Igor Nikic",
+            "CAR_D": "Milan Roganovic",
+            "DFC_D": "Nikola Sipcic",
+            "DFC_C": "Stefan Savic",
+            "DFC_I": "Marko Perovic",
+            "CAR_I": "Andrija Vukcevic",
+            "MC_D": "Vasilije Adzic",
+            "MC_C": "Marko Bakic",
+            "MC_I": "Marko Simun",
+            "DC_D": "Milutin Osmajic",
+            "DC_I": "Nikola Krstovic"
           }
         }
       }
@@ -3332,17 +2507,17 @@
         "Alineación Titular": {
           "formation": "4-4-2",
           "lineup": {
-            "POR": "Ø. Nyland",
-            "LTD": "J. Ryerson",
-            "DFC_D": "K. Ajer",
-            "DFC_I": "T. Heggem",
-            "LTI": "D. M. Wolfe",
-            "MD": "O. Bobb",
-            "MC_D": "S. Berge",
-            "MC_I": "P. Berg",
-            "MI": "A. Sørloth",
-            "DC_D": "A. Nusa",
-            "DC_I": "E. Haaland"
+            "POR": "Ørjan Nyland",
+            "LTD": "Julian Ryerson",
+            "DFC_D": "Kristoffer Ajer",
+            "DFC_I": "Torbjørn Heggem",
+            "LTI": "David Møller Wolfe",
+            "MD": "Oscar Bobb",
+            "MC_D": "Sander Berge",
+            "MC_I": "Patrick Berg",
+            "MI": "Alexander Sørloth",
+            "DC_D": "Antonio Nusa",
+            "DC_I": "Erling Haaland"
           }
         }
       }
@@ -3389,17 +2564,17 @@
         "Alineación Titular": {
           "formation": "4-2-3-1",
           "lineup": {
-            "POR": "B. Verbruggen",
-            "LTD": "D. Dumfries",
-            "DFC_D": "J. Timber",
-            "DFC_I": "V. van Dijk",
-            "LTI": "M. van de Ven",
-            "MCD_D": "R. Gravenberch",
-            "MCD_I": "F. de Jong",
-            "VOL_D": "D. Malen",
-            "MCO": "J. Kluivert",
-            "VOL_I": "C. Gakpo",
-            "DC": "M. Depay"
+            "POR": "Bart Verbruggen",
+            "LTD": "Denzel Dumfries",
+            "DFC_D": "Jurriën Timber",
+            "DFC_I": "Virgil van Dijk",
+            "LTI": "Micky van de Ven",
+            "MCD_D": "Ryan Gravenberch",
+            "MCD_I": "Frenkie de Jong",
+            "VOL_D": "Donyell Malen",
+            "MCO": "Justin Kluivert",
+            "VOL_I": "Cody Gakpo",
+            "DC": "Memphis Depay"
           }
         }
       }
@@ -3454,17 +2629,17 @@
         "Alineación Titular": {
           "formation": "3-4-3",
           "lineup": {
-            "POR": "Ł. Skorupski",
-            "DFC_D": "P. Wiśniewski",
-            "DFC_C": "J. Bednarek",
-            "DFC_I": "J. Kiwior",
-            "MD": "M. Cash",
-            "MC_D": "B. Slisz",
-            "MC_I": "P. Zieliński",
-            "MI": "M. Skóraś",
-            "ED": "S. Szymański",
-            "DC": "R. Lewandowski",
-            "EI": "J. Kamiński"
+            "POR": "Łukasz Skorupski",
+            "DFC_D": "Przemysław Wiśniewski",
+            "DFC_C": "Jan Bednarek",
+            "DFC_I": "Jakub Kiwior",
+            "MD": "Matty Cash",
+            "MC_D": "Bartosz Slisz",
+            "MC_I": "Piotr Zieliński",
+            "MI": "Michał Skóraś",
+            "ED": "Sebastian Szymąnski",
+            "DC": "Robert Lewandowski",
+            "EI": "Jakub Kamiński"
           }
         }
       }
@@ -3506,17 +2681,17 @@
         "Alineación Titular": {
           "formation": "4-2-3-1",
           "lineup": {
-            "POR": "D. Costa",
-            "LTD": "N. Semedo",
-            "DFC_D": "R. Dias",
-            "DFC_I": "R. Veiga",
-            "LTI": "N. Mendes",
-            "MCD_D": "R. Neves",
+            "POR": "Diogo Costa",
+            "LTD": "Nélson Semedo",
+            "DFC_D": "Rúben Dias",
+            "DFC_I": "Renato Veiga",
+            "LTI": "Nuno Mendes",
+            "MCD_D": "Rúben Neves",
             "MCD_I": "Vitinha",
-            "VOL_D": "B. Silva",
-            "MCO": "B. Fernandes",
-            "VOL_I": "P. Neto",
-            "DC": "C. Ronaldo"
+            "VOL_D": "Bernardo Silva",
+            "MCO": "Bruno Fernandes",
+            "VOL_I": "Pedro Neto",
+            "DC": "Cristiano Ronaldo"
           }
         }
       }
@@ -3563,17 +2738,17 @@
         "Alineación Titular": {
           "formation": "3-4-2-1",
           "lineup": {
-            "POR": "C. Kelleher",
-            "DFC_D": "J. O'Brien",
-            "DFC_C": "N. Collins",
-            "DFC_I": "D. O'Shea",
-            "MD": "F. Ebosele",
-            "MC_D": "W. Smallbone",
-            "MC_I": "S. Coleman",
-            "MI": "R. Manning",
-            "MCO_D": "F. Azaz",
-            "MCO_I": "J. Molumby",
-            "DC": "E. Ferguson"
+            "POR": "Caoimhin Kelleher",
+            "DFC_D": "Jake O'Brien",
+            "DFC_C": "Nathan Collins",
+            "DFC_I": "Dara O'Shea",
+            "MD": "Festy Ebosele",
+            "MC_D": "William Smallbone",
+            "MC_I": "Seamus Coleman",
+            "MI": "Ryan Manning",
+            "MCO_D": "Finn Azaz",
+            "MCO_I": "Jayson Molumby",
+            "DC": "Evan Ferguson"
           }
         }
       }
@@ -3630,17 +2805,17 @@
         "Alineación Titular": {
           "formation": "4-3-3",
           "lineup": {
-            "POR": "I. Radu",
-            "LTD": "A. Rațiu",
-            "DFC_D": "M. C. Popescu",
-            "DFC_I": "A. Burcă",
-            "LTI": "A. Chipciu",
-            "MC_D": "V. Dragomir",
-            "MCD": "M. Marin",
-            "MC_I": "I. Hagi",
-            "ED": "D. Man",
-            "DC": "D. Bîrligea",
-            "EI": "V. Mihăilă"
+            "POR": "Ionut Radu",
+            "LTD": "Andrei Ratiui",
+            "DFC_D": "Mihai Popescu",
+            "DFC_I": "Andrei Burcũ",
+            "LTI": "Alexandru Chipciu",
+            "MC_D": "Vlad Dragomir",
+            "MCD": "Marius Marin",
+            "MC_I": "Ianis Hagi",
+            "ED": "Dennis Man",
+            "DC": "Daniel Bîrligea",
+            "EI": "Valentin Mihailă"
           }
         }
       }
@@ -3688,17 +2863,17 @@
         "Alineación Titular": {
           "formation": "4-3-3",
           "lineup": {
-            "POR": "E. Colombo",
-            "LTD": "M. Sammaritani",
-            "DFC_D": "M. Cevoli",
-            "DFC_I": "D. Rossi",
-            "LTI": "A. Riccardi",
-            "MC_D": "A. Golinucci",
-            "MCD": "L. Capicchioni",
-            "MC_I": "A. Contadini",
-            "ED": "S. Zannoni",
-            "DC": "N. Nanni",
-            "EI": "L. Lazzari"
+            "POR": "Edoardo Colombo",
+            "LTD": "Matteo Sammaritani",
+            "DFC_D": "Michele Cevoli",
+            "DFC_I": "Dante Carlos Rossi",
+            "LTI": "Alberto Riccardi",
+            "MC_D": "Alessandro Golinucci",
+            "MCD": "Lorenzo Capicchioni",
+            "MC_I": "Andrea Contadini",
+            "ED": "Samuele Zannoni",
+            "DC": "Nicola Nanni",
+            "EI": "Lorenzo Lazzari"
           }
         }
       }
@@ -3758,17 +2933,17 @@
         "Alineación Titular": {
           "formation": "3-1-4-2",
           "lineup": {
-            "POR": "Đ. Petrović",
-            "DFC_D": "S. Eraković",
-            "DFC_C": "M. Veljković",
-            "DFC_I": "S. Pavlović",
-            "MCD": "N. Gudelj",
-            "MD": "S. Mitrović",
-            "MC_D": "L. Samardžić",
-            "MC_I": "A. Stanković",
-            "MI": "F. Kostić",
-            "DC_D": "D. Vlahović",
-            "DC_I": "A. Mitrović"
+            "POR": "Đorđe Petrović",
+            "DFC_D": "Strahinja Eraković",
+            "DFC_C": "Miloš Veljković",
+            "DFC_I": "Strahinja Pavlović",
+            "MCD": "Nemanja Gudelj",
+            "MD": "Stefan Mitrović",
+            "MC_D": "Lazar Samaržić",
+            "MC_I": "Aleksandar Stanković",
+            "MI": "Filip Kostić",
+            "DC_D": "Dušan Vlahović",
+            "DC_I": "Aleksandar Mitrović"
           }
         }
       }
@@ -3813,17 +2988,17 @@
         "Alineación Titular": {
           "formation": "3-5-2",
           "lineup": {
-            "POR": "V. Johansson",
-            "DFC_D": "G. Lagerbielke",
-            "DFC_C": "L. Hien",
-            "DFC_I": "V. Lindelöf",
-            "CAR_D": "G. Gudmundsson",
-            "MC_D": "D. Svensson",
-            "MC_C": "Y. Ayari",
-            "MC_I": "L. Bergvall",
-            "CAR_I": "A. Bernharðsson",
-            "DC_D": "A. Isak",
-            "DC_I": "V. Gyökeres"
+            "POR": "Viktor Johansson",
+            "DFC_D": "Gustaf Lagerbielke",
+            "DFC_C": "Isak Hien",
+            "DFC_I": "Victor Lindelöf",
+            "CAR_D": "Gabriel Gudmundsson",
+            "MC_D": "Daniel Svensson",
+            "MC_C": "Yasin Ayari",
+            "MC_I": "Lucas Bergvall",
+            "CAR_I": "Alexander Bernhardsson",
+            "DC_D": "Alexander Isak",
+            "DC_I": "Viktor Gyökeres"
           }
         }
       }
@@ -3867,17 +3042,17 @@
         "Alineación Titular": {
           "formation": "4-3-3",
           "lineup": {
-            "POR": "G. Kobel",
-            "LTD": "S. Widmer",
-            "DFC_D": "N. Elvedi",
-            "DFC_I": "M. Akanji",
-            "LTI": "R. Rodríguez",
-            "MC_D": "R. Freuler",
-            "MCD": "G. Xhaka",
-            "MC_I": "D. Sow",
-            "ED": "R. Vargas",
-            "DC": "B. Embolo",
-            "EI": "D. Ndoye"
+            "POR": "Gregor Kobel",
+            "LTD": "Silvan Widmer",
+            "DFC_D": "Nico Elvedi",
+            "DFC_I": "Manuel Akanji",
+            "LTI": "Ricardo Rodríguez",
+            "MC_D": "Remo Freuler",
+            "MCD": "Granit Xhaka",
+            "MC_I": "Djibril Sow",
+            "ED": "Ruben Vargas",
+            "DC": "Breel Embolo",
+            "EI": "Dan Ndoye"
           }
         }
       }
@@ -3918,17 +3093,17 @@
         "Alineación Titular": {
           "formation": "4-2-3-1",
           "lineup": {
-            "POR": "U. Çakır",
-            "LTD": "M. Müldür",
-            "DFC_D": "M. Demiral",
-            "DFC_I": "A. Bardakcı",
-            "LTI": "E. Elmalı",
-            "MCD_D": "H. Çalhanoğlu",
-            "MCD_I": "İ. Yüksek",
-            "VOL_D": "Y. Akgün",
-            "MCO": "A. Güler",
-            "VOL_I": "K. Aktürkoğlu",
-            "DC": "K. Yıldız"
+            "POR": "Uğurcan Çakır",
+            "LTD": "Mert Müldür",
+            "DFC_D": "Merih Demiral",
+            "DFC_I": "Abdülkerim Bardakçı",
+            "LTI": "Eren Elmalı",
+            "MCD_D": "Hakan Çalhanoglu",
+            "MCD_I": "İsmail Yüksek",
+            "VOL_D": "Yunus Akgün",
+            "MCO": "Arda Güler",
+            "VOL_I": "Kerem Aktürkoğlu",
+            "DC": "Kenan Yıldız"
           }
         }
       }
@@ -3970,17 +3145,17 @@
         "Alineación Titular": {
           "formation": "4-1-4-1",
           "lineup": {
-            "POR": "A. Trubin",
-            "LTD": "Y. Konoplia",
-            "DFC_D": "I. Zabarnyi",
-            "DFC_I": "M. Matviyenko",
-            "LTI": "V. Mykolenko",
-            "MCD": "R. Malinovskyi",
-            "MD": "N. Voloshyn",
-            "MC_D": "Y. Yarmolyuk",
-            "MC_I": "O. Ocheretko",
-            "MI": "O. Hutsuliak",
-            "DC": "A. Dovbyk"
+            "POR": "Anatoliy Trubin",
+            "LTD": "Yukhym Konoplia",
+            "DFC_D": "Illia Zabarnyi",
+            "DFC_I": "Mykola Matviyenko",
+            "LTI": "Vitaliy Mykolenko",
+            "MCD": "Ruslan Malinovskyi",
+            "MD": "Nazar Voloshyn",
+            "MC_D": "Yehor Yarmoliuk",
+            "MC_I": "Oleh Ocheretko",
+            "MI": "Oleksii Hutsuliak",
+            "DC": "Artem Dovbyk"
           }
         }
       }
