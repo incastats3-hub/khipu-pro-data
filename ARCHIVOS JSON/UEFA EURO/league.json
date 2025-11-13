@@ -1,7 +1,7 @@
 {
   "teams": {
     "ALBANIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Fshf_logo.svg/1200px-Fshf_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1200px-Flag_of_Albania.svg.png",
       "jerseyColor": "#E50013",
       "shieldColor": "#E50013",
       "secondaryColor": "#000000",
@@ -12,7 +12,7 @@
       "manager": "Edy Reja"
     },
     "ALEMANIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/DFB_logo_%282021%29.svg/1200px-DFB_logo_%282021%29.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/960px-Flag_of_Germany.svg.png",
       "jerseyColor": "#FFFFFF",
       "shieldColor": "#000000",
       "secondaryColor": "#000000",
@@ -23,7 +23,7 @@
       "manager": "Julian Nagelsmann"
     },
     "ANDORRA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Andorran_Football_Federation_logo.svg/1200px-Andorran_Football_Federation_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/1200px-Flag_of_Andorra.svg.png",
       "jerseyColor": "#DA251D",
       "shieldColor": "#1D4D9F",
       "secondaryColor": "#FCD116",
@@ -34,7 +34,7 @@
       "manager": "Koldo Alvarez de Eulate"
     },
     "ARMENIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Football_Federation_of_Armenia_logo.svg/1200px-Football_Federation_of_Armenia_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/1200px-Flag_of_Armenia.svg.png",
       "jerseyColor": "#D90012",
       "shieldColor": "#0033A0",
       "secondaryColor": "#F2A800",
@@ -45,7 +45,7 @@
       "manager": "Joaquin Caparros"
     },
     "AUSTRIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Austrian_Football_Association_logo.svg/1200px-Austrian_Football_Association_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1200px-Flag_of_Austria.svg.png",
       "jerseyColor": "#EA0018",
       "shieldColor": "#EA0018",
       "secondaryColor": "#FFFFFF",
@@ -56,7 +56,7 @@
       "manager": "Ralf Rangnick"
     },
     "AZERBAIYÁN": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Azerbaijan_Football_Federations_Association_logo.svg/1200px-Azerbaijan_Football_Federations_Association_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1200px-Flag_of_Azerbaijan.svg.png",
       "jerseyColor": "#0073C0",
       "shieldColor": "#0073C0",
       "secondaryColor": "#ED2939",
@@ -67,7 +67,7 @@
       "manager": "Fernando Santos"
     },
     "BÉLGICA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Royal_Belgian_FA_logo_2019.svg/1200px-Royal_Belgian_FA_logo_2019.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
       "jerseyColor": "#EF3340",
       "shieldColor": "#FEEA00",
       "secondaryColor": "#000000",
@@ -78,7 +78,7 @@
       "manager": "Domenico Tedesco"
     },
     "BIELORUSIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Football_Federation_of_Belarus_logo.svg/1200px-Football_Federation_of_Belarus_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg",
       "jerseyColor": "#CD112C",
       "shieldColor": "#49A03C",
       "secondaryColor": "#FFFFFF",
@@ -89,7 +89,7 @@
       "manager": "Georgi Svitkovich"
     },
     "BOSNIA Y HERZEGOVINA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Football_Association_of_Bosnia_and_Herzegovina_logo.svg/1200px-Football_Association_of_Bosnia_and_Herzegovina_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1200px-Flag_of_Bosnia_and_Herzegovina.svg.png",
       "jerseyColor": "#00359D",
       "shieldColor": "#00359D",
       "secondaryColor": "#FFCD00",
@@ -100,7 +100,7 @@
       "manager": "Ivaylo Petev"
     },
     "BULGARIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Bulgarian_Football_Union_logo.svg/1200px-Bulgarian_Football_Union_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg",
       "jerseyColor": "#FFFFFF",
       "shieldColor": "#00966E",
       "secondaryColor": "#D62612",
@@ -111,7 +111,7 @@
       "manager": "Ilian Iliev"
     },
     "CHEQUIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Football_Association_of_the_Czech_Republic_logo.svg/1200px-Football_Association_of_the_Czech_Republic_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/1280px-Flag_of_the_Czech_Republic.svg.png",
       "jerseyColor": "#D7141A",
       "shieldColor": "#D7141A",
       "secondaryColor": "#11457E",
@@ -122,7 +122,7 @@
       "manager": "Ivan Hasek"
     },
     "CHIPRE": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Cyprus_Football_Association_logo.svg/1200px-Cyprus_Football_Association_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/1200px-Flag_of_Cyprus.svg.png",
       "jerseyColor": "#0053A1",
       "shieldColor": "#0053A1",
       "secondaryColor": "#FFFFFF",
@@ -133,7 +133,7 @@
       "manager": "Nikos Nioplias"
     },
     "CROACIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Croatian_Football_Federation_logo.svg/1200px-Croatian_Football_Federation_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/1200px-Flag_of_Croatia.svg.png",
       "jerseyColor": "#FFFFFF",
       "shieldColor": "#FF0000",
       "secondaryColor": "#FF0000",
@@ -144,7 +144,7 @@
       "manager": "Zlatko Dalic"
     },
     "DINAMARCA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Dansk_Boldspil-Union_logo.svg/1200px-Dansk_Boldspil-Union_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/250px-Flag_of_Denmark.svg.png",
       "jerseyColor": "#C60C30",
       "shieldColor": "#C60C30",
       "secondaryColor": "#FFFFFF",
@@ -155,7 +155,7 @@
       "manager": "Brian Riemer"
     },
     "ESCOCIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Scottish_Football_Association_logo.svg/1200px-Scottish_Football_Association_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
       "jerseyColor": "#003E8A",
       "shieldColor": "#003E8A",
       "secondaryColor": "#FFFFFF",
@@ -166,7 +166,7 @@
       "manager": "Steve Clarke"
     },
     "ESLOVAQUIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Slovak_Football_Association_logo.svg/1200px-Slovak_Football_Association_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg",
       "jerseyColor": "#0B4EA2",
       "shieldColor": "#EE1C25",
       "secondaryColor": "#FFFFFF",
@@ -177,7 +177,7 @@
       "manager": "Francesco Calzona"
     },
     "ESLOVENIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Football_Association_of_Slovenia_logo.svg/1200px-Football_Association_of_Slovenia_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",
       "jerseyColor": "#FFFFFF",
       "shieldColor": "#0064B3",
       "secondaryColor": "#0064B3",
@@ -188,7 +188,7 @@
       "manager": "Matjaz Kek"
     },
     "ESPAÑA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Real_Federaci%C3%B3n_Espa%C3%B1ola_de_F%C3%BAtbol_logo.svg/1200px-Real_Federaci%C3%B3n_Espa%C3%B1ola_de_F%C3%BAtbol_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1200px-Bandera_de_Espa%C3%B1a.svg.png",
       "jerseyColor": "#AA151B",
       "shieldColor": "#AA151B",
       "secondaryColor": "#FBEA0E",
@@ -199,7 +199,7 @@
       "manager": "Luis de la Fuente"
     },
     "ESTONIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Estonian_Football_Association_logo.svg/1200px-Estonian_Football_Association_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg",
       "jerseyColor": "#00479D",
       "shieldColor": "#00479D",
       "secondaryColor": "#FFFFFF",
@@ -210,7 +210,7 @@
       "manager": "Petr Cech"
     },
     "FINLANDIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Football_Association_of_Finland_logo.svg/1200px-Football_Association_of_Finland_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/250px-Flag_of_Finland.svg.png",
       "jerseyColor": "#FFFFFF",
       "shieldColor": "#003580",
       "secondaryColor": "#003580",
@@ -221,7 +221,7 @@
       "manager": "Markku Kanerva"
     },
     "FRANCIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/FFF_logo.svg/1200px-FFF_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png",
       "jerseyColor": "#002395",
       "shieldColor": "#002395",
       "secondaryColor": "#FFFFFF",
@@ -232,7 +232,7 @@
       "manager": "Didier Deschamps"
     },
     "GALES": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Football_Association_of_Wales_logo.svg/1200px-Football_Association_of_Wales_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Flag_of_Wales.svg",
       "jerseyColor": "#D80027",
       "shieldColor": "#D80027",
       "secondaryColor": "#00A150",
@@ -243,7 +243,7 @@
       "manager": "Craig Bellamy"
     },
     "GEORGIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Georgian_Football_Federation_logo.svg/1200px-Georgian_Football_Federation_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
       "jerseyColor": "#FFFFFF",
       "shieldColor": "#DA291C",
       "secondaryColor": "#DA291C",
@@ -254,7 +254,7 @@
       "manager": "Willy Sagnol"
     },
     "GIBRALTAR": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Gibraltar_Football_Association_logo.svg/1200px-Gibraltar_Football_Association_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/1280px-Flag_of_Gibraltar.svg.png",
       "jerseyColor": "#FF0000",
       "shieldColor": "#FF0000",
       "secondaryColor": "#FFFFFF",
@@ -265,7 +265,7 @@
       "manager": "Julio Cesar Ribas"
     },
     "GRECIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Hellenic_Football_Federation_logo.svg/1200px-Hellenic_Football_Federation_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1200px-Flag_of_Greece.svg.png",
       "jerseyColor": "#0D5EAF",
       "shieldColor": "#0D5EAF",
       "secondaryColor": "#FFFFFF",
@@ -276,7 +276,7 @@
       "manager": "Gus Poyet"
     },
     "HUNGRIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Hungarian_Football_Federation_logo.svg/1200px-Hungarian_Football_Federation_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
       "jerseyColor": "#CD2A3E",
       "shieldColor": "#CD2A3E",
       "secondaryColor": "#FFFFFF",
@@ -287,7 +287,7 @@
       "manager": "Marco Rossi"
     },
     "INGLATERRA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/The_Football_Association_logo.svg/1200px-The_Football_Association_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/1200px-Flag_of_England.svg.png",
       "jerseyColor": "#FFFFFF",
       "shieldColor": "#002F6C",
       "secondaryColor": "#CF081F",
@@ -298,7 +298,7 @@
       "manager": "Thomas Tuchel"
     },
     "IRLANDA DEL NORTE": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Irish_Football_Association_logo.svg/1200px-Irish_Football_Association_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg/330px-Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg.png",
       "jerseyColor": "#008000",
       "shieldColor": "#008000",
       "secondaryColor": "#FFFFFF",
@@ -309,7 +309,7 @@
       "manager": "Michael O'Neill"
     },
     "ISLANDIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Football_Association_of_Iceland_logo.svg/1200px-Football_Association_of_Iceland_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
       "jerseyColor": "#0048A4",
       "shieldColor": "#0048A4",
       "secondaryColor": "#FFFFFF",
@@ -320,7 +320,7 @@
       "manager": "Arnar Vidarsson"
     },
     "ISLAS FEROE": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Faroe_Islands_Football_Association_logo.svg/1200px-Faroe_Islands_Football_Association_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/1200px-Flag_of_the_Faroe_Islands.svg.png",
       "jerseyColor": "#FFFFFF",
       "shieldColor": "#0065BD",
       "secondaryColor": "#ED2939",
@@ -331,7 +331,7 @@
       "manager": "Eyðun Klakstein"
     },
     "ISRAEL": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Israel_Football_Association_logo.svg/1200px-Israel_Football_Association_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1200px-Flag_of_Israel.svg.png",
       "jerseyColor": "#00387C",
       "shieldColor": "#00387C",
       "secondaryColor": "#FFFFFF",
@@ -342,7 +342,7 @@
       "manager": "Ran Ben Shimon"
     },
     "ITALIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Italian_Football_Federation_logo_%282023%29.svg/1200px-Italian_Football_Federation_logo_%282023%29.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
       "jerseyColor": "#004B98",
       "shieldColor": "#004B98",
       "secondaryColor": "#FFFFFF",
@@ -353,7 +353,7 @@
       "manager": "Luciano Spalletti"
     },
     "KAZAJSTÁN": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Kazakhstan_Football_Federation_logo.svg/1200px-Kazakhstan_Football_Federation_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1200px-Flag_of_Kazakhstan.svg.png",
       "jerseyColor": "#00B0EB",
       "shieldColor": "#FFC72C",
       "secondaryColor": "#FFC72C",
@@ -364,7 +364,7 @@
       "manager": "Stanimir Stoilov"
     },
     "KOSOVO": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Football_Federation_of_Kosovo_logo.svg/1200px-Football_Federation_of_Kosovo_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/2560px-Flag_of_Kosovo.svg.png",
       "jerseyColor": "#003893",
       "shieldColor": "#003893",
       "secondaryColor": "#DBC200",
@@ -375,7 +375,7 @@
       "manager": "Franco Foda"
     },
     "LETONIA": {
-      "logoUrl": "https_s://upload.wikimedia.org/wikipedia/en/thumb/5/54/Latvian_Football_Federation_logo.svg/1200px-Latvian_Football_Federation_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/330px-Flag_of_Austria.svg.png",
       "jerseyColor": "#9E3039",
       "shieldColor": "#9E3039",
       "secondaryColor": "#FFFFFF",
@@ -386,7 +386,7 @@
       "manager": "Janis Kazoks"
     },
     "LIECHTENSTEIN": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Liechtenstein_Football_Association_logo.svg/1200px-Liechtenstein_Football_Association_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/1200px-Flag_of_Liechtenstein.svg.png",
       "jerseyColor": "#002F6C",
       "shieldColor": "#CE1126",
       "secondaryColor": "#FCDD09",
@@ -397,7 +397,7 @@
       "manager": "Konrad Fünfstück"
     },
     "LITUANIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Lithuanian_Football_Federation_logo.svg/1200px-Lithuanian_Football_Federation_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/2560px-Flag_of_Lithuania.svg.png",
       "jerseyColor": "#FDB913",
       "shieldColor": "#006A3E",
       "secondaryColor": "#C1272D",
@@ -408,7 +408,7 @@
       "manager": "Valdas Urbonas"
     },
     "LUXEMBURGO": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Luxembourg_Football_Federation_logo.svg/1200px-Luxembourg_Football_Federation_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/1280px-Flag_of_Luxembourg.svg.png",
       "jerseyColor": "#EA2430",
       "shieldColor": "#EA2430",
       "secondaryColor": "#00A1DE",
@@ -419,7 +419,7 @@
       "manager": "Luc Holtz"
     },
     "MACEDONIA DEL NORTE": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Football_Federation_of_Macedonia_logo.svg/1200px-Football_Federation_of_Macedonia_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/1200px-Flag_of_North_Macedonia.svg.png",
       "jerseyColor": "#D20000",
       "shieldColor": "#F2A800",
       "secondaryColor": "#F2A800",
@@ -430,7 +430,7 @@
       "manager": "Blagoja Milevski"
     },
     "MALTA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Malta_Football_Association_logo.svg/1200px-Malta_Football_Association_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/330px-Flag_of_Malta.svg.png",
       "jerseyColor": "#DE250F",
       "shieldColor": "#DE250F",
       "secondaryColor": "#FFFFFF",
@@ -441,7 +441,7 @@
       "manager": "Devis Mangia"
     },
     "MOLDAVIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Moldovan_Football_Federation_logo.svg/1200px-Moldovan_Football_Federation_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/1200px-Flag_of_Moldova.svg.png",
       "jerseyColor": "#00479D",
       "shieldColor": "#FFD100",
       "secondaryColor": "#CC1E2C",
@@ -452,7 +452,7 @@
       "manager": "Mihai Dorin Todoran"
     },
     "MONTENEGRO": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Football_Association_of_Montenegro_logo.svg/1200px-Football_Association_of_Montenegro_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg",
       "jerseyColor": "#C40000",
       "shieldColor": "#D4AF37",
       "secondaryColor": "#D4AF37",
@@ -463,7 +463,7 @@
       "manager": "Faryd Mondragon"
     },
     "NORUEGA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Norwegian_Football_Federation_logo.svg/1200px-Norwegian_Football_Federation_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1200px-Flag_of_Norway.svg.png",
       "jerseyColor": "#EF2B2D",
       "shieldColor": "#003087",
       "secondaryColor": "#FFFFFF",
@@ -473,8 +473,8 @@
       "location": "Oslo, Noruega",
       "manager": "Stale Solbakken"
     },
-    "PAÍSES BAJOS (HOLANDA)": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Royal_Dutch_Football_Association_logo.svg/1200px-Royal_Dutch_Football_Association_logo.svg.png",
+    "PAÍSES BAJOS": {
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png",
       "jerseyColor": "#FF6600",
       "shieldColor": "#FF6600",
       "secondaryColor": "#FFFFFF",
@@ -485,7 +485,7 @@
       "manager": "Ronald Koeman"
     },
     "POLONIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Polish_Football_Association_logo.svg/1200px-Polish_Football_Association_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg",
       "jerseyColor": "#FFFFFF",
       "shieldColor": "#DC143C",
       "secondaryColor": "#DC143C",
@@ -496,7 +496,7 @@
       "manager": "Michal Probierz"
     },
     "PORTUGAL": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Portuguese_Football_Federation_logo.svg/1200px-Portuguese_Football_Federation_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/1200px-Flag_of_Portugal_%28official%29.svg.png",
       "jerseyColor": "#E42518",
       "shieldColor": "#006600",
       "secondaryColor": "#006600",
@@ -507,7 +507,7 @@
       "manager": "Roberto Martinez"
     },
     "REPÚBLICA DE IRLANDA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Football_Association_of_Ireland_logo.svg/1200px-Football_Association_of_Ireland_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
       "jerseyColor": "#008000",
       "shieldColor": "#008000",
       "secondaryColor": "#FFFFFF",
@@ -518,7 +518,7 @@
       "manager": "Heimir Hallgrimsson"
     },
     "RUMANIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Romanian_Football_Federation_logo.svg/1200px-Romanian_Football_Federation_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/1200px-Flag_of_Romania.svg.png",
       "jerseyColor": "#FFD100",
       "shieldColor": "#002B7F",
       "secondaryColor": "#CE1126",
@@ -529,7 +529,7 @@
       "manager": "Eduard Iordanescu"
     },
     "SAN MARINO": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/San_Marino_Football_Federation_logo.svg/1200px-San_Marino_Football_Federation_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/1200px-Flag_of_San_Marino.svg.png",
       "jerseyColor": "#5591D8",
       "shieldColor": "#5591D8",
       "secondaryColor": "#FFFFFF",
@@ -540,7 +540,7 @@
       "manager": "Davide Gualtieri"
     },
     "SERBIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Football_Association_of_Serbia_logo.svg/1200px-Football_Association_of_Serbia_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1200px-Flag_of_Serbia.svg.png",
       "jerseyColor": "#B71234",
       "shieldColor": "#B71234",
       "secondaryColor": "#0C2240",
@@ -551,7 +551,7 @@
       "manager": "Dragan Stojkovic"
     },
     "SUECIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Swedish_Football_Association_logo.svg/1200px-Swedish_Football_Association_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg",
       "jerseyColor": "#FFF000",
       "shieldColor": "#004B8C",
       "secondaryColor": "#004B8C",
@@ -562,7 +562,7 @@
       "manager": "Jon Dahl Tomasson"
     },
     "SUIZA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Swiss_Football_Association_logo.svg/1200px-Swiss_Football_Association_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/800px-Flag_of_Switzerland_%28Pantone%29.svg.png",
       "jerseyColor": "#FF0000",
       "shieldColor": "#FF0000",
       "secondaryColor": "#FFFFFF",
@@ -573,7 +573,7 @@
       "manager": "Murat Yakin"
     },
     "TURQUÍA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Turkish_Football_Federation_logo.svg/1200px-Turkish_Football_Federation_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
       "jerseyColor": "#E30A17",
       "shieldColor": "#E30A17",
       "secondaryColor": "#FFFFFF",
@@ -584,7 +584,7 @@
       "manager": "Vincenzo Montella"
     },
     "UCRANIA": {
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Ukrainian_Association_of_Football_logo.svg/1200px-Ukrainian_Association_of_Football_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/330px-Flag_of_Ukraine.svg.png",
       "jerseyColor": "#FFD700",
       "shieldColor": "#0057B8",
       "secondaryColor": "#0057B8",
