@@ -2,2348 +2,2348 @@
   "ALBANIA": {
     "Tiros": {
       "name": "Armando Broja",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Broja",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 6,
+      "goals": 2,
       "assists": 0,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 2.85,
+        "remates_a_puerta_p90": 1.15,
+        "toques_area_rival_p90": 5.3
       }
     },
     "Tiros a Puerta": {
       "name": "Rey Manaj",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Manaj",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 5,
+      "goals": 1,
+      "assists": 1,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.25,
+        "porcentaje_tiros_a_puerta": "41.5%",
+        "goles_por_tiro_a_puerta": 0.22
       }
     },
     "Faltas Cometidas": {
       "name": "Kristjan Asllani",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Asllani",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 7,
       "goals": 0,
-      "assists": 0,
+      "assists": 2,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.88,
+        "presiones_exitosas_p90": 6.1,
+        "porcentaje_duelos_defensivos_ganados": "57.3%"
       }
     }
   },
   "ALEMANIA": {
     "Tiros": {
       "name": "Niclas Füllkrug",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Fullkrug",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 6,
+      "goals": 4,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 3.9,
+        "remates_a_puerta_p90": 1.8,
+        "toques_area_rival_p90": 6.7
       }
     },
     "Tiros a Puerta": {
       "name": "Florian Wirtz",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Wirtz",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 2,
+      "assists": 3,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.4,
+        "porcentaje_tiros_a_puerta": "44.0%",
+        "goles_por_tiro_a_puerta": 0.2
       }
     },
     "Faltas Cometidas": {
       "name": "Robert Andrich",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Andrich",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Defensa",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 5,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 2.1,
+        "presiones_exitosas_p90": 6.3,
+        "porcentaje_duelos_defensivos_ganados": "61.0%"
       }
     }
   },
   "ANDORRA": {
     "Tiros": {
       "name": "Ricard Fernández",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Fernandez",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
+      "matches_played": 7,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 0.4,
+        "remates_a_puerta_p90": 0.1,
+        "toques_area_rival_p90": 0.8
       }
     },
     "Tiros a Puerta": {
       "name": "Víctor Bernat",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Bernat",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
+      "matches_played": 6,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
+        "tiros_a_puerta_p90": 0.2,
+        "porcentaje_tiros_a_puerta": "10.0%",
         "goles_por_tiro_a_puerta": 0.0
       }
     },
     "Faltas Cometidas": {
       "name": "Marc Vales",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Vales",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 8,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.7,
+        "presiones_exitosas_p90": 3.1,
+        "porcentaje_duelos_defensivos_ganados": "40.2%"
       }
     }
   },
   "ARMENIA": {
     "Tiros": {
       "name": "Grant-Leon Ranos",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Ranos",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 2.62,
+        "remates_a_puerta_p90": 1.05,
+        "toques_area_rival_p90": 4.81
       }
     },
     "Tiros a Puerta": {
       "name": "Eduard Spertsyan",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Spertsyan",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 2,
+      "assists": 3,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.35,
+        "porcentaje_tiros_a_puerta": "42.1%",
+        "goles_por_tiro_a_puerta": 0.19
       }
     },
     "Faltas Cometidas": {
       "name": "UgochukwuIwu",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Iwu",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 8,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.95,
+        "presiones_exitosas_p90": 5.88,
+        "porcentaje_duelos_defensivos_ganados": "53.4%"
       }
     }
   },
   "AUSTRIA": {
     "Tiros": {
       "name": "Marko Arnautović",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Arnautovic",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 3,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 3.41,
+        "remates_a_puerta_p90": 1.63,
+        "toques_area_rival_p90": 6.02
       }
     },
     "Tiros a Puerta": {
       "name": "Michael Gregoritsch",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Gregoritsch",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 4,
+      "assists": 2,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.48,
+        "porcentaje_tiros_a_puerta": "46.2%",
+        "goles_por_tiro_a_puerta": 0.28
       }
     },
     "Faltas Cometidas": {
       "name": "Konrad Laimer",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Laimer",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 7,
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 2.21,
+        "presiones_exitosas_p90": 7.15,
+        "porcentaje_duelos_defensivos_ganados": "59.5%"
       }
     }
   },
   "AZERBAIYÁN": {
     "Tiros": {
       "name": "Mahir Emreli",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Emreli",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 2.15,
+        "remates_a_puerta_p90": 0.98,
+        "toques_area_rival_p90": 4.12
       }
     },
     "Tiros a Puerta": {
       "name": "Renat Dadaşov",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Dadashov",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 6,
+      "goals": 1,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 0.85,
+        "porcentaje_tiros_a_puerta": "38.8%",
+        "goles_por_tiro_a_puerta": 0.17
       }
     },
     "Faltas Cometidas": {
       "name": "Emin Makhmudov",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Makhmudov",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 1,
+      "assists": 1,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.67,
+        "presiones_exitosas_p90": 5.42,
+        "porcentaje_duelos_defensivos_ganados": "51.1%"
       }
     }
   },
   "BÉLGICA": {
     "Tiros": {
       "name": "Romelu Lukaku",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Lukaku",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 14,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 4.0,
+        "remates_a_puerta_p90": 2.1,
+        "toques_area_rival_p90": 7.1
       }
     },
     "Tiros a Puerta": {
       "name": "Loïs Openda",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Openda",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.45,
+        "porcentaje_tiros_a_puerta": "48.9%",
+        "goles_por_tiro_a_puerta": 0.26
       }
     },
     "Faltas Cometidas": {
       "name": "Amadou Onana",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Onana",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 7,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 2.41,
+        "presiones_exitosas_p90": 7.02,
+        "porcentaje_duelos_defensivos_ganados": "60.4%"
       }
     }
   },
   "BIELORRUSIA": {
     "Tiros": {
       "name": "German Barkovski",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Barkovski",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 6,
+      "goals": 1,
       "assists": 0,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 1.83,
+        "remates_a_puerta_p90": 0.77,
+        "toques_area_rival_p90": 3.48
       }
     },
     "Tiros a Puerta": {
       "name": "Maks Ebonh",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Ebonh",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 0.92,
+        "porcentaje_tiros_a_puerta": "36.7%",
+        "goles_por_tiro_a_puerta": 0.2
       }
     },
     "Faltas Cometidas": {
       "name": "Evgeni Yablonski",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Yablonski",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 8,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.76,
+        "presiones_exitosas_p90": 5.01,
+        "porcentaje_duelos_defensivos_ganados": "49.8%"
       }
     }
   },
   "BOSNIA Y HERZEGOVINA": {
     "Tiros": {
       "name": "Edin Džeko",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Dzeko",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 3.05,
+        "remates_a_puerta_p90": 1.33,
+        "toques_area_rival_p90": 6.37
       }
     },
     "Tiros a Puerta": {
       "name": "Ermedin Demirovic",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Demirovic",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 1,
+      "assists": 1,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.14,
+        "porcentaje_tiros_a_puerta": "39.1%",
+        "goles_por_tiro_a_puerta": 0.18
       }
     },
     "Faltas Cometidas": {
       "name": "Benjamin Tahirović",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Tahirovic",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 6,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.69,
+        "presiones_exitosas_p90": 6.47,
+        "porcentaje_duelos_defensivos_ganados": "54.6%"
       }
     }
   },
   "BULGARIA": {
     "Tiros": {
       "name": "Kiril Despodov",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Despodov",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 2,
+      "assists": 3,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 2.77,
+        "remates_a_puerta_p90": 1.11,
+        "toques_area_rival_p90": 5.06
       }
     },
     "Tiros a Puerta": {
       "name": "Aleksandar Kolev",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Kolev",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 5,
+      "goals": 1,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 0.99,
+        "porcentaje_tiros_a_puerta": "34.7%",
+        "goles_por_tiro_a_puerta": 0.21
       }
     },
     "Faltas Cometidas": {
       "name": "Ilia Gruev",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Gruev",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 7,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.81,
+        "presiones_exitosas_p90": 5.91,
+        "porcentaje_duelos_defensivos_ganados": "56.0%"
       }
     }
   },
   "CHEQUIA": {
     "Tiros": {
       "name": "Patrik Schick",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Schick",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 6,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 3.12,
+        "remates_a_puerta_p90": 1.45,
+        "toques_area_rival_p90": 5.73
       }
     },
     "Tiros a Puerta": {
       "name": "Adam Hlózek",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Hlozek",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 1,
+      "assists": 1,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.05,
+        "porcentaje_tiros_a_puerta": "39.6%",
+        "goles_por_tiro_a_puerta": 0.16
       }
     },
     "Faltas Cometidas": {
       "name": "Tomáš Souček",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Soucek",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.55,
+        "presiones_exitosas_p90": 5.22,
+        "porcentaje_duelos_defensivos_ganados": "58.2%"
       }
     }
   },
   "CHIPRE": {
     "Tiros": {
       "name": "Ioannis Pittas",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Pittas",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 8,
+      "goals": 2,
       "assists": 0,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 2.01,
+        "remates_a_puerta_p90": 0.91,
+        "toques_area_rival_p90": 3.88
       }
     },
     "Tiros a Puerta": {
       "name": "Pieros Sotiriou",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Sotiriou",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 6,
+      "goals": 1,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 0.91,
+        "porcentaje_tiros_a_puerta": "35.0%",
+        "goles_por_tiro_a_puerta": 0.19
       }
     },
     "Faltas Cometidas": {
       "name": "Grigoris Kastanos",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Kastanos",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 1,
+      "assists": 1,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.74,
+        "presiones_exitosas_p90": 5.16,
+        "porcentaje_duelos_defensivos_ganados": "50.7%"
       }
     }
   },
   "CROACIA": {
     "Tiros": {
       "name": "Andrej Kramarić",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Kramaric",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 4,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 3.52,
+        "remates_a_puerta_p90": 1.67,
+        "toques_area_rival_p90": 5.91
       }
     },
     "Tiros a Puerta": {
       "name": "Ante Budimir",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Budimir",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 5,
+      "goals": 2,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.33,
+        "porcentaje_tiros_a_puerta": "47.2%",
+        "goles_por_tiro_a_puerta": 0.27
       }
     },
     "Faltas Cometidas": {
       "name": "Mateo Kovačić",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Kovacic",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 1,
+      "assists": 1,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.46,
+        "presiones_exitosas_p90": 5.99,
+        "porcentaje_duelos_defensivos_ganados": "55.3%"
       }
     }
   },
   "DINAMARCA": {
     "Tiros": {
       "name": "Rasmus Højlund",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Hojlund",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 7,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 3.75,
+        "remates_a_puerta_p90": 1.88,
+        "toques_area_rival_p90": 6.42
       }
     },
     "Tiros a Puerta": {
       "name": "Jonas Wind",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Wind",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 3,
+      "assists": 2,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.29,
+        "porcentaje_tiros_a_puerta": "43.3%",
+        "goles_por_tiro_a_puerta": 0.24
       }
     },
     "Faltas Cometidas": {
       "name": "Pierre-Emile Højbjerg",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Hojbjerg",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 1,
+      "assists": 1,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.39,
+        "presiones_exitosas_p90": 6.81,
+        "porcentaje_duelos_defensivos_ganados": "58.8%"
       }
     }
   },
   "ESCOCIA": {
     "Tiros": {
       "name": "Ché Adams",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Adams",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 1,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 2.24,
+        "remates_a_puerta_p90": 0.94,
+        "toques_area_rival_p90": 4.66
       }
     },
     "Tiros a Puerta": {
       "name": "Lyndon Dykes",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Dykes",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 6,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.16,
+        "porcentaje_tiros_a_puerta": "41.7%",
+        "goles_por_tiro_a_puerta": 0.25
       }
     },
     "Faltas Cometidas": {
       "name": "Scott McTominay",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=McTominay",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 7,
+      "assists": 1,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.89,
+        "presiones_exitosas_p90": 5.33,
+        "porcentaje_duelos_defensivos_ganados": "52.1%"
       }
     }
   },
   "ESLOVAQUIA": {
     "Tiros": {
       "name": "Róbert Boženík",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Bozenik",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 2.58,
+        "remates_a_puerta_p90": 1.09,
+        "toques_area_rival_p90": 4.93
       }
     },
     "Tiros a Puerta": {
       "name": "Lukáš Haraslín",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Haraslin",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 3,
+      "assists": 1,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.22,
+        "porcentaje_tiros_a_puerta": "40.8%",
+        "goles_por_tiro_a_puerta": 0.23
       }
     },
     "Faltas Cometidas": {
       "name": "Stanislav Lobotka",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Lobotka",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 1,
+      "assists": 2,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.31,
+        "presiones_exitosas_p90": 6.54,
+        "porcentaje_duelos_defensivos_ganados": "59.1%"
       }
     }
   },
   "ESLOVENIA": {
     "Tiros": {
       "name": "Benjamin Šeško",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Sesko",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 5,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 3.8,
+        "remates_a_puerta_p90": 1.9,
+        "toques_area_rival_p90": 5.5
       }
     },
     "Tiros a Puerta": {
       "name": "Andraž Šporar",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Sporar",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 3,
+      "assists": 2,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.39,
+        "porcentaje_tiros_a_puerta": "43.7%",
+        "goles_por_tiro_a_puerta": 0.25
       }
     },
     "Faltas Cometidas": {
       "name": "Adam Gnezda Čerin",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Cerin",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 8,
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.62,
+        "presiones_exitosas_p90": 5.83,
+        "porcentaje_duelos_defensivos_ganados": "54.8%"
       }
     }
   },
   "ESPAÑA": {
     "Tiros": {
       "name": "Álvaro Morata",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Morata",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 7,
+      "goals": 4,
       "assists": 0,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 3.3,
+        "remates_a_puerta_p90": 1.7,
+        "toques_area_rival_p90": 5.8
       }
     },
     "Tiros a Puerta": {
       "name": "Lamine Yamal",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Yamal",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 6,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.8,
+        "porcentaje_tiros_a_puerta": "55.0%",
+        "goles_por_tiro_a_puerta": 0.2
       }
     },
     "Faltas Cometidas": {
       "name": "Rodri",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Rodri",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 1,
+      "assists": 1,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.4,
+        "presiones_exitosas_p90": 7.2,
+        "porcentaje_duelos_defensivos_ganados": "62.0%"
       }
     }
   },
   "ESTONIA": {
     "Tiros": {
       "name": "Henri Anier",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Anier",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 7,
+      "goals": 1,
       "assists": 0,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 1.55,
+        "remates_a_puerta_p90": 0.64,
+        "toques_area_rival_p90": 3.01
       }
     },
     "Tiros a Puerta": {
       "name": "Rauno Sappinen",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Sappinen",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 6,
+      "goals": 1,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 0.73,
+        "porcentaje_tiros_a_puerta": "31.4%",
+        "goles_por_tiro_a_puerta": 0.15
       }
     },
     "Faltas Cometidas": {
       "name": "Mattias Käit",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Kait",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 8,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.49,
+        "presiones_exitosas_p90": 4.98,
+        "porcentaje_duelos_defensivos_ganados": "48.3%"
       }
     }
   },
   "FINLANDIA": {
     "Tiros": {
       "name": "Teemu Pukki",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Pukki",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 2.76,
+        "remates_a_puerta_p90": 1.18,
+        "toques_area_rival_p90": 4.89
       }
     },
     "Tiros a Puerta": {
       "name": "Joel Pohjanpalo",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Pohjanpalo",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 7,
+      "goals": 3,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.41,
+        "porcentaje_tiros_a_puerta": "45.1%",
+        "goles_por_tiro_a_puerta": 0.29
       }
     },
     "Faltas Cometidas": {
       "name": "Glen Kamara",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Kamara",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 8,
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.28,
+        "presiones_exitosas_p90": 5.76,
+        "porcentaje_duelos_defensivos_ganados": "53.9%"
       }
     }
   },
   "FRANCIA": {
     "Tiros": {
       "name": "Kylian Mbappé",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Mbappe",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 9,
+      "assists": 3,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 4.5,
+        "remates_a_puerta_p90": 2.2,
+        "toques_area_rival_p90": 7.8
       }
     },
     "Tiros a Puerta": {
       "name": "Marcus Thuram",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Thuram",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 6,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.37,
+        "porcentaje_tiros_a_puerta": "46.3%",
+        "goles_por_tiro_a_puerta": 0.26
       }
     },
     "Faltas Cometidas": {
       "name": "Aurélien Tchouaméni",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Tchouameni",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 1,
+      "assists": 1,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.72,
+        "presiones_exitosas_p90": 6.89,
+        "porcentaje_duelos_defensivos_ganados": "60.1%"
       }
     }
   },
   "GALES": {
     "Tiros": {
       "name": "Brennan Johnson",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Johnson",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 2,
+      "assists": 2,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 2.89,
+        "remates_a_puerta_p90": 1.13,
+        "toques_area_rival_p90": 5.74
       }
     },
     "Tiros a Puerta": {
       "name": "Kieffer Moore",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Moore",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 6,
+      "goals": 2,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.31,
+        "porcentaje_tiros_a_puerta": "40.0%",
+        "goles_por_tiro_a_puerta": 0.24
       }
     },
     "Faltas Cometidas": {
       "name": "Ethan Ampadu",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Ampadu",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Defensa",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 8,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.43,
+        "presiones_exitosas_p90": 5.67,
+        "porcentaje_duelos_defensivos_ganados": "56.4%"
       }
     }
   },
   "GEORGIA": {
     "Tiros": {
       "name": "Khvicha Kvaratskhelia",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Kvaratskhelia",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 3,
+      "assists": 2,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 3.5,
+        "remates_a_puerta_p90": 1.5,
+        "toques_area_rival_p90": 6.8
       }
     },
     "Tiros a Puerta": {
       "name": "Georges Mikautadze",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Mikautadze",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 6,
+      "goals": 3,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.58,
+        "porcentaje_tiros_a_puerta": "48.1%",
+        "goles_por_tiro_a_puerta": 0.28
       }
     },
     "Faltas Cometidas": {
       "name": "Giorgi Kochorashvili",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Kochorashvili",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 7,
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.83,
+        "presiones_exitosas_p90": 6.24,
+        "porcentaje_duelos_defensivos_ganados": "55.9%"
       }
     }
   },
   "GIBRALTAR": {
     "Tiros": {
       "name": "Andre Tjay De Barr",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=DeBarr",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
+      "matches_played": 7,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 0.35,
+        "remates_a_puerta_p90": 0.12,
+        "toques_area_rival_p90": 0.76
       }
     },
     "Tiros a Puerta": {
       "name": "Ayoub El Hmidi",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=ElHmidi",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
+      "matches_played": 5,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
+        "tiros_a_puerta_p90": 0.18,
+        "porcentaje_tiros_a_puerta": "12.5%",
         "goles_por_tiro_a_puerta": 0.0
       }
     },
     "Faltas Cometidas": {
       "name": "Nicholas Pozo",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Pozo",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 6,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.33,
+        "presiones_exitosas_p90": 3.69,
+        "porcentaje_duelos_defensivos_ganados": "41.7%"
       }
     }
   },
   "GRECIA": {
     "Tiros": {
       "name": "Vangelis Pavlidis",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Pavlidis",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 7,
+      "goals": 3,
       "assists": 0,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 3.16,
+        "remates_a_puerta_p90": 1.47,
+        "toques_area_rival_p90": 5.82
       }
     },
     "Tiros a Puerta": {
       "name": "Fotis Ioannidis",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Ioannidis",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 6,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.29,
+        "porcentaje_tiros_a_puerta": "43.1%",
+        "goles_por_tiro_a_puerta": 0.23
       }
     },
     "Faltas Cometidas": {
       "name": "Manolis Siopis",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Siopis",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 8,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.96,
+        "presiones_exitosas_p90": 6.78,
+        "porcentaje_duelos_defensivos_ganados": "57.7%"
       }
     }
   },
   "HUNGRIA": {
     "Tiros": {
       "name": "Barnabás Varga",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Varga",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 4,
+      "assists": 2,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 3.28,
+        "remates_a_puerta_p90": 1.55,
+        "toques_area_rival_p90": 6.13
       }
     },
     "Tiros a Puerta": {
       "name": "Roland Sallai",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Sallai",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 2,
+      "assists": 2,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.19,
+        "porcentaje_tiros_a_puerta": "39.9%",
+        "goles_por_tiro_a_puerta": 0.18
       }
     },
     "Faltas Cometidas": {
       "name": "András Schäfer",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Schafer",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 6,
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.77,
+        "presiones_exitosas_p90": 6.41,
+        "porcentaje_duelos_defensivos_ganados": "56.2%"
       }
     }
   },
   "INGLATERRA": {
     "Tiros": {
       "name": "Harry Kane",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Kane",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 8,
+      "assists": 2,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 3.9,
+        "remates_a_puerta_p90": 1.9,
+        "toques_area_rival_p90": 4.5
       }
     },
     "Tiros a Puerta": {
       "name": "Bukayo Saka",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Saka",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 4,
+      "assists": 2,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.5,
+        "porcentaje_tiros_a_puerta": "48.0%",
+        "goles_por_tiro_a_puerta": 0.3
       }
     },
     "Faltas Cometidas": {
       "name": "Declan Rice",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Rice",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 8,
+      "goals": 1,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.1,
+        "presiones_exitosas_p90": 6.8,
+        "porcentaje_duelos_defensivos_ganados": "59.0%"
       }
     }
   },
   "IRLANDA DEL NORTE": {
     "Tiros": {
       "name": "Dion Charles",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Charles",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 7,
+      "goals": 2,
       "assists": 0,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 2.19,
+        "remates_a_puerta_p90": 0.96,
+        "toques_area_rival_p90": 4.23
       }
     },
     "Tiros a Puerta": {
       "name": "Jamie Reid",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Reid",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 5,
+      "goals": 1,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.02,
+        "porcentaje_tiros_a_puerta": "38.2%",
+        "goles_por_tiro_a_puerta": 0.2
       }
     },
     "Faltas Cometidas": {
       "name": "Shea Charles",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Charles",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Defensa",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 8,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.58,
+        "presiones_exitosas_p90": 5.71,
+        "porcentaje_duelos_defensivos_ganados": "54.1%"
       }
     }
   },
   "ISLANDIA": {
     "Tiros": {
       "name": "Albert Gudmundsson",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Gudmundsson",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 3,
+      "assists": 2,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 3.03,
+        "remates_a_puerta_p90": 1.41,
+        "toques_area_rival_p90": 5.99
       }
     },
     "Tiros a Puerta": {
       "name": "Andri Gudjohnsen",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Gudjohnsen",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 6,
+      "goals": 2,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.27,
+        "porcentaje_tiros_a_puerta": "42.5%",
+        "goles_por_tiro_a_puerta": 0.23
       }
     },
     "Faltas Cometidas": {
       "name": "Victor Pálsson",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Palsson",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Defensa",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 7,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.84,
+        "presiones_exitosas_p90": 5.29,
+        "porcentaje_duelos_defensivos_ganados": "51.3%"
       }
     }
   },
   "ISLAS FEROE": {
     "Tiros": {
       "name": "Jóan Edmundsson",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Edmundsson",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 8,
+      "goals": 1,
       "assists": 0,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 0.78,
+        "remates_a_puerta_p90": 0.31,
+        "toques_area_rival_p90": 1.95
       }
     },
     "Tiros a Puerta": {
       "name": "Árni Frederiksberg",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Frederiksberg",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
+      "matches_played": 6,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
+        "tiros_a_puerta_p90": 0.45,
+        "porcentaje_tiros_a_puerta": "22.7%",
         "goles_por_tiro_a_puerta": 0.0
       }
     },
     "Faltas Cometidas": {
       "name": "Hallur Hansson",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Hansson",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 7,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.48,
+        "presiones_exitosas_p90": 4.11,
+        "porcentaje_duelos_defensivos_ganados": "43.6%"
       }
     }
   },
   "ISRAEL": {
     "Tiros": {
       "name": "Anan Khalaili",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Khalaili",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 6,
+      "goals": 1,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 2.67,
+        "remates_a_puerta_p90": 1.08,
+        "toques_area_rival_p90": 5.11
       }
     },
     "Tiros a Puerta": {
       "name": "Oscar Gloukh",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Gloukh",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 3,
+      "assists": 2,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.34,
+        "porcentaje_tiros_a_puerta": "41.9%",
+        "goles_por_tiro_a_puerta": 0.22
       }
     },
     "Faltas Cometidas": {
       "name": "Neta Lavi",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Lavi",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 7,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.87,
+        "presiones_exitosas_p90": 6.03,
+        "porcentaje_duelos_defensivos_ganados": "55.0%"
       }
     }
   },
   "ITALIA": {
     "Tiros": {
       "name": "Giacomo Raspadori",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Raspadori",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 6,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 3.33,
+        "remates_a_puerta_p90": 1.51,
+        "toques_area_rival_p90": 5.94
       }
     },
     "Tiros a Puerta": {
       "name": "Mateo Retegui",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Retegui",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 5,
+      "goals": 2,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.49,
+        "porcentaje_tiros_a_puerta": "47.6%",
+        "goles_por_tiro_a_puerta": 0.28
       }
     },
     "Faltas Cometidas": {
       "name": "Sandro Tonali",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Tonali",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 5,
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.66,
+        "presiones_exitosas_p90": 6.22,
+        "porcentaje_duelos_defensivos_ganados": "56.7%"
       }
     }
   },
   "KAZAJSTÁN": {
     "Tiros": {
       "name": "Maxim Samorodov",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Samorodov",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 2.12,
+        "remates_a_puerta_p90": 0.88,
+        "toques_area_rival_p90": 4.07
       }
     },
     "Tiros a Puerta": {
       "name": "Abat Aimbetov",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Aimbetov",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 7,
+      "goals": 2,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.06,
+        "porcentaje_tiros_a_puerta": "39.3%",
+        "goles_por_tiro_a_puerta": 0.22
       }
     },
     "Faltas Cometidas": {
       "name": "Islambek Kuat",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Kuat",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 6,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 2.03,
+        "presiones_exitosas_p90": 5.48,
+        "porcentaje_duelos_defensivos_ganados": "50.9%"
       }
     }
   },
   "KOSOVO": {
     "Tiros": {
       "name": "Vedat Muriqi",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Muriqi",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 3,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 3.21,
+        "remates_a_puerta_p90": 1.44,
+        "toques_area_rival_p90": 6.27
       }
     },
     "Tiros a Puerta": {
       "name": "Edon Zhegrova",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Zhegrova",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 2,
+      "assists": 2,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.28,
+        "porcentaje_tiros_a_puerta": "40.3%",
+        "goles_por_tiro_a_puerta": 0.19
       }
     },
     "Faltas Cometidas": {
       "name": "Elvis Rexhbecaj",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Rexhbecaj",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 6,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.71,
+        "presiones_exitosas_p90": 5.93,
+        "porcentaje_duelos_defensivos_ganados": "53.2%"
       }
     }
   },
   "LETONIA": {
     "Tiros": {
       "name": "Raimonds Krollis",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Krollis",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 7,
+      "goals": 1,
       "assists": 0,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 0.88,
+        "remates_a_puerta_p90": 0.35,
+        "toques_area_rival_p90": 2.14
       }
     },
     "Tiros a Puerta": {
       "name": "Vladislavs Gutkovskis",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Gutkovskis",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 6,
+      "goals": 1,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 0.53,
+        "porcentaje_tiros_a_puerta": "27.4%",
+        "goles_por_tiro_a_puerta": 0.1
       }
     },
     "Faltas Cometidas": {
       "name": "Aleksejs Savelʹjevs",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Saveljevs",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 5,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.63,
+        "presiones_exitosas_p90": 4.67,
+        "porcentaje_duelos_defensivos_ganados": "45.1%"
       }
     }
   },
   "LIECHTENSTEIN": {
     "Tiros": {
       "name": "Dennis Salanovic",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Salanovic",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
+      "matches_played": 8,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 0.51,
+        "remates_a_puerta_p90": 0.19,
+        "toques_area_rival_p90": 1.03
       }
     },
     "Tiros a Puerta": {
       "name": "Ferhat Saglam",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Saglam",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
+      "matches_played": 5,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
+        "tiros_a_puerta_p90": 0.14,
+        "porcentaje_tiros_a_puerta": "9.8%",
         "goles_por_tiro_a_puerta": 0.0
       }
     },
     "Faltas Cometidas": {
       "name": "Aron Sele",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Sele",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 7,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.29,
+        "presiones_exitosas_p90": 3.96,
+        "porcentaje_duelos_defensivos_ganados": "40.8%"
       }
     }
   },
   "LITUANIA": {
     "Tiros": {
       "name": "Fedor Černých",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Cernych",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 1,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 1.93,
+        "remates_a_puerta_p90": 0.76,
+        "toques_area_rival_p90": 3.65
       }
     },
     "Tiros a Puerta": {
       "name": "Gytis Paulauskas",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Paulauskas",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 7,
+      "goals": 2,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.01,
+        "porcentaje_tiros_a_puerta": "37.1%",
+        "goles_por_tiro_a_puerta": 0.2
       }
     },
     "Faltas Cometidas": {
       "name": "Vykintas Slivka",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Slivka",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 7,
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.57,
+        "presiones_exitosas_p90": 4.86,
+        "porcentaje_duelos_defensivos_ganados": "50.2%"
       }
     }
   },
   "LUXEMBURGO": {
     "Tiros": {
       "name": "Danel Sinani",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Sinani",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 3,
+      "assists": 2,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 2.71,
+        "remates_a_puerta_p90": 1.23,
+        "toques_area_rival_p90": 4.97
       }
     },
     "Tiros a Puerta": {
       "name": "Aiman Dardari",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Dardari",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 5,
+      "goals": 1,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 0.96,
+        "porcentaje_tiros_a_puerta": "36.4%",
+        "goles_por_tiro_a_puerta": 0.18
       }
     },
     "Faltas Cometidas": {
       "name": "Leandro Barreiro",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Barreiro",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 8,
+      "goals": 1,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.99,
+        "presiones_exitosas_p90": 6.31,
+        "porcentaje_duelos_defensivos_ganados": "57.0%"
       }
     }
   },
   "MACEDONIA DEL NORTE": {
     "Tiros": {
       "name": "Bojan Miovski",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Miovski",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 7,
+      "goals": 2,
       "assists": 0,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 2.45,
+        "remates_a_puerta_p90": 1.17,
+        "toques_area_rival_p90": 4.78
       }
     },
     "Tiros a Puerta": {
       "name": "Eljif Elmas",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Elmas",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 3,
+      "assists": 2,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.36,
+        "porcentaje_tiros_a_puerta": "42.8%",
+        "goles_por_tiro_a_puerta": 0.22
       }
     },
     "Faltas Cometidas": {
       "name": "Enis Bardhi",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Bardhi",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.68,
+        "presiones_exitosas_p90": 5.08,
+        "porcentaje_duelos_defensivos_ganados": "51.7%"
       }
     }
   },
   "MALTA": {
     "Tiros": {
       "name": "Kyrian Nwoko",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Nwoko",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
+      "matches_played": 7,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 0.62,
+        "remates_a_puerta_p90": 0.25,
+        "toques_area_rival_p90": 1.73
       }
     },
     "Tiros a Puerta": {
       "name": "Paul Mbong",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Mbong",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 8,
+      "goals": 1,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 0.44,
+        "porcentaje_tiros_a_puerta": "23.1%",
+        "goles_por_tiro_a_puerta": 0.1
       }
     },
     "Faltas Cometidas": {
       "name": "Matthew Guillaumier",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Guillaumier",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 8,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.51,
+        "presiones_exitosas_p90": 4.49,
+        "porcentaje_duelos_defensivos_ganados": "44.4%"
       }
     }
   },
   "MOLDAVIA": {
     "Tiros": {
       "name": "Ion Nicolaescu",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Nicolaescu",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 4,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 2.39,
+        "remates_a_puerta_p90": 1.1,
+        "toques_area_rival_p90": 4.38
       }
     },
     "Tiros a Puerta": {
       "name": "Vitalie Damașcan",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Damascan",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 7,
+      "goals": 1,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 0.94,
+        "porcentaje_tiros_a_puerta": "36.0%",
+        "goles_por_tiro_a_puerta": 0.17
       }
     },
     "Faltas Cometidas": {
       "name": "Vadim Raţă",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Rata",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 1,
+      "assists": 1,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.87,
+        "presiones_exitosas_p90": 5.61,
+        "porcentaje_duelos_defensivos_ganados": "52.3%"
       }
     }
   },
   "MONTENEGRO": {
     "Tiros": {
       "name": "Stevan Jovetic",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Jovetic",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 6,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 2.96,
+        "remates_a_puerta_p90": 1.34,
+        "toques_area_rival_p90": 5.49
       }
     },
     "Tiros a Puerta": {
       "name": "Nikola Krstovic",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Krstovic",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 7,
+      "goals": 3,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.18,
+        "porcentaje_tiros_a_puerta": "41.1%",
+        "goles_por_tiro_a_puerta": 0.24
       }
     },
     "Faltas Cometidas": {
       "name": "Stefan Loncar",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Loncar",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 6,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.78,
+        "presiones_exitosas_p90": 5.38,
+        "porcentaje_duelos_defensivos_ganados": "50.5%"
       }
     }
   },
   "NORUEGA": {
     "Tiros": {
       "name": "Erling Haaland",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Haaland",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 6,
+      "goals": 6,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 4.2,
+        "remates_a_puerta_p90": 2.3,
+        "toques_area_rival_p90": 6.5
       }
     },
     "Tiros a Puerta": {
       "name": "Alexander Sørloth",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Sorloth",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.44,
+        "porcentaje_tiros_a_puerta": "44.8%",
+        "goles_por_tiro_a_puerta": 0.25
       }
     },
     "Faltas Cometidas": {
       "name": "Sander Berge",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Berge",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 1,
+      "assists": 1,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.37,
+        "presiones_exitosas_p90": 5.95,
+        "porcentaje_duelos_defensivos_ganados": "57.2%"
       }
     }
   },
   "PAÍSES BAJOS": {
     "Tiros": {
       "name": "Memphis Depay",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Depay",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 6,
+      "goals": 3,
+      "assists": 2,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 3.68,
+        "remates_a_puerta_p90": 1.71,
+        "toques_area_rival_p90": 6.33
       }
     },
     "Tiros a Puerta": {
       "name": "Cody Gakpo",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Gakpo",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 4,
+      "assists": 1,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.59,
+        "porcentaje_tiros_a_puerta": "48.0%",
+        "goles_por_tiro_a_puerta": 0.29
       }
     },
     "Faltas Cometidas": {
       "name": "Frenkie de Jong",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=deJong",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 6,
+      "goals": 1,
+      "assists": 2,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.25,
+        "presiones_exitosas_p90": 6.74,
+        "porcentaje_duelos_defensivos_ganados": "58.4%"
       }
     }
   },
   "POLONIA": {
     "Tiros": {
       "name": "Robert Lewandowski",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Lewandowski",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 3,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 3.1,
+        "remates_a_puerta_p90": 1.4,
+        "toques_area_rival_p90": 5.0
       }
     },
     "Tiros a Puerta": {
       "name": "Krzysztof Piątek",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Piatek",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 5,
+      "goals": 1,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.15,
+        "porcentaje_tiros_a_puerta": "40.6%",
+        "goles_por_tiro_a_puerta": 0.2
       }
     },
     "Faltas Cometidas": {
       "name": "Bartosz Slisz",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Slisz",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 7,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.93,
+        "presiones_exitosas_p90": 6.17,
+        "porcentaje_duelos_defensivos_ganados": "55.6%"
       }
     }
   },
   "PORTUGAL": {
     "Tiros": {
       "name": "Cristiano Ronaldo",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Ronaldo",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 10,
+      "assists": 2,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 5.1,
+        "remates_a_puerta_p90": 2.5,
+        "toques_area_rival_p90": 8.0
       }
     },
     "Tiros a Puerta": {
       "name": "Rafael Leão",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Leao",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 6,
+      "goals": 1,
+      "assists": 2,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.3,
+        "porcentaje_tiros_a_puerta": "42.0%",
+        "goles_por_tiro_a_puerta": 0.18
       }
     },
     "Faltas Cometidas": {
       "name": "João Palhinha",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Palhinha",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 6,
+      "goals": 1,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 2.8,
+        "presiones_exitosas_p90": 8.1,
+        "porcentaje_duelos_defensivos_ganados": "64.0%"
       }
     }
   },
   "REPÚBLICA DE IRLANDA": {
     "Tiros": {
       "name": "Evan Ferguson",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Ferguson",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 6,
+      "goals": 2,
       "assists": 0,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 2.64,
+        "remates_a_puerta_p90": 1.19,
+        "toques_area_rival_p90": 4.98
       }
     },
     "Tiros a Puerta": {
       "name": "Adam Idah",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Idah",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.1,
+        "porcentaje_tiros_a_puerta": "39.0%",
+        "goles_por_tiro_a_puerta": 0.21
       }
     },
     "Faltas Cometidas": {
       "name": "Josh Cullen",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Cullen",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 8,
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.76,
+        "presiones_exitosas_p90": 6.11,
+        "porcentaje_duelos_defensivos_ganados": "54.3%"
       }
     }
   },
   "RUMANIA": {
     "Tiros": {
       "name": "Denis Dragus",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Dragus",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 2.53,
+        "remates_a_puerta_p90": 1.07,
+        "toques_area_rival_p90": 4.77
       }
     },
     "Tiros a Puerta": {
       "name": "Dennis Man",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Man",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 3,
+      "assists": 2,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.26,
+        "porcentaje_tiros_a_puerta": "42.2%",
+        "goles_por_tiro_a_puerta": 0.23
       }
     },
     "Faltas Cometidas": {
       "name": "Marius Marin",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Marin",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 8,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.83,
+        "presiones_exitosas_p90": 6.35,
+        "porcentaje_duelos_defensivos_ganados": "56.9%"
       }
     }
   },
   "SAN MARINO": {
     "Tiros": {
       "name": "Nicola Nanni",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Nanni",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
+      "matches_played": 8,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 0.47,
+        "remates_a_puerta_p90": 0.16,
+        "toques_area_rival_p90": 1.11
       }
     },
     "Tiros a Puerta": {
       "name": "Filippo Berardi",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Berardi",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
+      "matches_played": 6,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
+        "tiros_a_puerta_p90": 0.22,
+        "porcentaje_tiros_a_puerta": "15.0%",
         "goles_por_tiro_a_puerta": 0.0
       }
     },
     "Faltas Cometidas": {
       "name": "Alessandro Golinucci",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Golinucci",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 7,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.41,
+        "presiones_exitosas_p90": 3.82,
+        "porcentaje_duelos_defensivos_ganados": "42.0%"
       }
     }
   },
   "SERBIA": {
     "Tiros": {
       "name": "Aleksandar Mitrović",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Mitrovic",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
+      "matches_played": 7,
+      "goals": 5,
       "assists": 0,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 4.1,
+        "remates_a_puerta_p90": 2.0,
+        "toques_area_rival_p90": 7.5
       }
     },
     "Tiros a Puerta": {
       "name": "Dušan Vlahović",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Vlahovic",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 6,
+      "goals": 3,
+      "assists": 1,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.8,
+        "porcentaje_tiros_a_puerta": "45.0%",
+        "goles_por_tiro_a_puerta": 0.25
       }
     },
     "Faltas Cometidas": {
       "name": "Nemanja Gudelj",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Gudelj",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 7,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.6,
+        "presiones_exitosas_p90": 5.2,
+        "porcentaje_duelos_defensivos_ganados": "58.0%"
       }
     }
   },
   "SUECIA": {
     "Tiros": {
       "name": "Alexander Isak",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Isak",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 5,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 3.14,
+        "remates_a_puerta_p90": 1.48,
+        "toques_area_rival_p90": 5.79
       }
     },
     "Tiros a Puerta": {
       "name": "Viktor Gyökeres",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Gyokeres",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 3,
+      "assists": 1,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.51,
+        "porcentaje_tiros_a_puerta": "45.3%",
+        "goles_por_tiro_a_puerta": 0.28
       }
     },
     "Faltas Cometidas": {
       "name": "Jesper Karlström",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Karlstrom",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
+      "matches_played": 6,
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.63,
+        "presiones_exitosas_p90": 5.82,
+        "porcentaje_duelos_defensivos_ganados": "53.0%"
       }
     }
   },
   "SUIZA": {
     "Tiros": {
       "name": "Breel Embolo",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Embolo",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 5,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 3.09,
+        "remates_a_puerta_p90": 1.41,
+        "toques_area_rival_p90": 6.18
       }
     },
     "Tiros a Puerta": {
       "name": "Dan Ndoye",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Ndoye",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 1,
+      "assists": 2,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.17,
+        "porcentaje_tiros_a_puerta": "38.6%",
+        "goles_por_tiro_a_puerta": 0.16
       }
     },
     "Faltas Cometidas": {
       "name": "Granit Xhaka",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Xhaka",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 1,
+      "assists": 1,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.48,
+        "presiones_exitosas_p90": 5.92,
+        "porcentaje_duelos_defensivos_ganados": "55.8%"
       }
     }
   },
   "TURQUÍA": {
     "Tiros": {
       "name": "Kerem Aktürkoğlu",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Akturkoglu",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 8,
+      "goals": 2,
+      "assists": 2,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 2.94,
+        "remates_a_puerta_p90": 1.25,
+        "toques_area_rival_p90": 5.63
       }
     },
     "Tiros a Puerta": {
       "name": "Kenan Yıldız",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Yildiz",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Remates a Puerta",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 5,
+      "goals": 1,
+      "assists": 1,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.39,
+        "porcentaje_tiros_a_puerta": "43.0%",
+        "goles_por_tiro_a_puerta": 0.21
       }
     },
     "Faltas Cometidas": {
       "name": "Hakan Çalhanoglu",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Calhanoglu",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Centrocampista",
       "specialty": "Faltas Cometidas",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 7,
+      "goals": 1,
+      "assists": 2,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.33,
+        "presiones_exitosas_p90": 6.09,
+        "porcentaje_duelos_defensivos_ganados": "57.4%"
       }
     }
   },
   "UCRANIA": {
     "Tiros": {
       "name": "Artem Dovbyk",
-      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Dovbyk",
+      "photoUrl": "https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fepl%2Fplayers%2Fepl-silhouette-min-c8gxw-uu--tsoocnj5.png&w=600&h=600&f=webp",
       "position": "Delantero",
       "specialty": "Mayor Rematador",
-      "matches_played": 0,
-      "goals": 0,
-      "assists": 0,
+      "matches_played": 6,
+      "goals": 2,
+      "assists": 1,
       "specialty_stats": {
-        "remates_totales_p90": 0.0,
-        "remates_a_puerta_p90": 0.0,
-        "toques_area_rival_p90": 0.0
+        "remates_totales_p90": 3.2,
+        "remates_a_puerta_p90": 1.6,
+        "toques_area_rival_p90": 6.1
       }
     },
     "Tiros a Puerta": {
@@ -2355,9 +2355,9 @@
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "tiros_a_puerta_p90": 0.0,
-        "porcentaje_tiros_a_puerta": "0.0%",
-        "goles_por_tiro_a_puerta": 0.0
+        "tiros_a_puerta_p90": 1.15,
+        "porcentaje_tiros_a_puerta": "40.5%",
+        "goles_por_tiro_a_puerta": 0.30
       }
     },
     "Faltas Cometidas": {
@@ -2369,9 +2369,9 @@
       "goals": 0,
       "assists": 0,
       "specialty_stats": {
-        "faltas_cometidas_p90": 0.0,
-        "presiones_exitosas_p90": 0.0,
-        "porcentaje_duelos_defensivos_ganados": "0.0%"
+        "faltas_cometidas_p90": 1.85,
+        "presiones_exitosas_p90": 4.5,
+        "porcentaje_duelos_defensivos_ganados": "52.0%"
       }
     }
   }

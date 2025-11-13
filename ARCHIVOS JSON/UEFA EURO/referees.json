@@ -11,8 +11,8 @@
   },
   "Stéphanie Frappart": {
     "fouls_per_game": 20.0,
-    "yellows_per_game": 2.90,
-    "reds_per_game": 0.10
+    "yellows_per_game": 2.9,
+    "reds_per_game": 0.1
   },
   "Jérôme Brisard": {
     "fouls_per_game": 22.0,
@@ -21,7 +21,7 @@
   },
   "Benoît Bastien": {
     "fouls_per_game": 22.0,
-    "yellows_per_game": 3.80,
+    "yellows_per_game": 3.8,
     "reds_per_game": 0.16
   },
   "Willy Delajod": {
@@ -31,7 +31,7 @@
   },
   "Bastien Dechepy": {
     "fouls_per_game": 21.0,
-    "yellows_per_game": 3.60,
+    "yellows_per_game": 3.6,
     "reds_per_game": 0.14
   },
   "Eric Wattellier": {
@@ -41,12 +41,12 @@
   },
   "Hakim Ben El Hadj": {
     "fouls_per_game": 22.0,
-    "yellows_per_game": 3.50,
+    "yellows_per_game": 3.5,
     "reds_per_game": 0.13
   },
   "Jérémie Pignard": {
     "fouls_per_game": 23.0,
-    "yellows_per_game": 3.90,
+    "yellows_per_game": 3.9,
     "reds_per_game": 0.14
   },
   "Jeremy Stinat": {
@@ -66,17 +66,17 @@
   },
   "Thomas Leonard": {
     "fouls_per_game": 22.0,
-    "yellows_per_game": 3.60,
+    "yellows_per_game": 3.6,
     "reds_per_game": 0.14
   },
   "Marc Bollengier": {
     "fouls_per_game": 22.0,
-    "yellows_per_game": 3.70,
+    "yellows_per_game": 3.7,
     "reds_per_game": 0.15
   },
   "Abdelatif Kherradji": {
     "fouls_per_game": 21.0,
-    "yellows_per_game": 3.60,
+    "yellows_per_game": 3.6,
     "reds_per_game": 0.13
   },
   "Mathieu Vernice": {
@@ -86,7 +86,7 @@
   },
   "Guillaume Paradis": {
     "fouls_per_game": 21.0,
-    "yellows_per_game": 3.40,
+    "yellows_per_game": 3.4,
     "reds_per_game": 0.12
   },
   "Ruddy Buquet": {
@@ -94,359 +94,359 @@
     "yellows_per_game": 3.65,
     "reds_per_game": 0.15
   },
-  "Ağayev, Əliyar": {
-    "fouls_per_game": 25.50,
-    "yellows_per_game": 3.50,
-    "reds_per_game": 0.00
+  "Əliyar Ağayev": {
+    "fouls_per_game": 25.5,
+    "yellows_per_game": 3.5,
+    "reds_per_game": 0.0
   },
-  "Al-Hakim, Mohammed": {
+  "Mohammed Al-Hakim": {
+    "fouls_per_game": 22.0,
+    "yellows_per_game": 3.29,
+    "reds_per_game": 0.05
+  },
+  "Javier Alberola Rojas": {
+    "fouls_per_game": 26.71,
+    "yellows_per_game": 3.14,
+    "reds_per_game": 0.14
+  },
+  "Mykola Balakin": {
     "fouls_per_game": null,
-    "yellows_per_game": null,
-    "reds_per_game": null
+    "yellows_per_game": 4.0,
+    "reds_per_game": 0.0
   },
-  "Alberola Rojas, Javier": {
-    "fouls_per_game": null,
-    "yellows_per_game": null,
-    "reds_per_game": null
+  "Marian Alexandru Barbu": {
+    "fouls_per_game": 14.0,
+    "yellows_per_game": 2.0,
+    "reds_per_game": 0.0
   },
-  "Balakin, Mykola": {
-    "fouls_per_game": null,
-    "yellows_per_game": 4.00,
-    "reds_per_game": 0.00
-  },
-  "Barbu, Marian Alexandru": {
-    "fouls_per_game": 14.00,
-    "yellows_per_game": 2.00,
-    "reds_per_game": 0.00
-  },
-  "Beaton, John": {
+  "John Beaton": {
     "fouls_per_game": 22.25,
     "yellows_per_game": 5.75,
-    "reds_per_game": 0.00
+    "reds_per_game": 0.0
   },
-  "Berka, Ondřej": {
+  "Ondřej Berka": {
+    "fouls_per_game": 32.5,
+    "yellows_per_game": 3.5,
+    "reds_per_game": 0.0
+  },
+  "Balázs Berke": {
+    "fouls_per_game": 16.0,
+    "yellows_per_game": 1.0,
+    "reds_per_game": 0.0
+  },
+  "Nikola Dabanović": {
+    "fouls_per_game": 30.5,
+    "yellows_per_game": 2.0,
+    "reds_per_game": 0.0
+  },
+  "R. de Burgos Bengoetxea": {
+    "fouls_per_game": 15.0,
+    "yellows_per_game": 2.0,
+    "reds_per_game": 0.0
+  },
+  "Espen Andreas Eskås": {
+    "fouls_per_game": 22.5,
+    "yellows_per_game": 3.5,
+    "reds_per_game": 0.0
+  },
+  "Horațiu Mircea Feșnic": {
+    "fouls_per_game": 23.0,
+    "yellows_per_game": 4.0,
+    "reds_per_game": 0.5
+  },
+  "Vasílios Fotiás": {
     "fouls_per_game": null,
     "yellows_per_game": null,
     "reds_per_game": null
   },
-  "Berke, Balázs": {
+  "Yigal Frid": {
     "fouls_per_game": null,
     "yellows_per_game": null,
     "reds_per_game": null
   },
-  "Dabanović, Nikola": {
-    "fouls_per_game": 30.50,
-    "yellows_per_game": 2.00,
-    "reds_per_game": 0.00
-  },
-  "de Burgos Bengoetxea, R.": {
-    "fouls_per_game": 15.00,
-    "yellows_per_game": 2.00,
-    "reds_per_game": 0.00
-  },
-  "Eskås, Espen Andreas": {
-    "fouls_per_game": null,
-    "yellows_per_game": null,
-    "reds_per_game": null
-  },
-  "Feșnic, Horațiu Mircea": {
-    "fouls_per_game": 23.00,
-    "yellows_per_game": 4.00,
-    "reds_per_game": 0.50
-  },
-  "Fotiás, Vasílios": {
-    "fouls_per_game": null,
-    "yellows_per_game": null,
-    "reds_per_game": null
-  },
-  "Frid, Yigal": {
-    "fouls_per_game": null,
-    "yellows_per_game": null,
-    "reds_per_game": null
-  },
-  "Gil Manzano, Jesús": {
+  "Jesús Gil Manzano": {
     "fouls_per_game": 23.05,
     "yellows_per_game": 6.05,
     "reds_per_game": 0.16
   },
-  "Gishamer, Sebastian": {
+  "Sebastian Gishamer": {
     "fouls_per_game": null,
     "yellows_per_game": null,
     "reds_per_game": null
   },
-  "Glova, Filip": {
-    "fouls_per_game": 26.50,
-    "yellows_per_game": 5.00,
+  "Filip Glova": {
+    "fouls_per_game": 26.5,
+    "yellows_per_game": 5.0,
     "reds_per_game": 0.25
   },
-  "Godinho, Luís M. B.": {
-    "fouls_per_game": 33.00,
-    "yellows_per_game": 3.00,
-    "reds_per_game": 0.00
+  "Luís M. B. Godinho": {
+    "fouls_per_game": 33.0,
+    "yellows_per_game": 3.0,
+    "reds_per_game": 0.0
   },
-  "Gözübüyük, Serdar": {
+  "Serdar Gözübüyük": {
+    "fouls_per_game": 25.47,
+    "yellows_per_game": 4.27,
+    "reds_per_game": 0.07
+  },
+  "Orel Grinfeld": {
+    "fouls_per_game": null,
+    "yellows_per_game": 4.22,
+    "reds_per_game": 0.0
+  },
+  "Marco Guida": {
+    "fouls_per_game": 25.5,
+    "yellows_per_game": 4.5,
+    "reds_per_game": 0.0
+  },
+  "A. Hernández Hernández": {
+    "fouls_per_game": 14.0,
+    "yellows_per_game": 3.0,
+    "reds_per_game": 0.0
+  },
+  "Sven Jablonski": {
     "fouls_per_game": null,
     "yellows_per_game": null,
     "reds_per_game": null
   },
-  "Grinfeld, Orel": {
+  "Enea Jorgji": {
     "fouls_per_game": null,
     "yellows_per_game": null,
     "reds_per_game": null
   },
-  "Guida, Marco": {
-    "fouls_per_game": null,
-    "yellows_per_game": null,
-    "reds_per_game": null
+  "Srđan Jovanović": {
+    "fouls_per_game": 22.0,
+    "yellows_per_game": 4.0,
+    "reds_per_game": 0.0
   },
-  "Hernández Hernández, A.": {
-    "fouls_per_game": 14.00,
-    "yellows_per_game": 3.00,
-    "reds_per_game": 0.00
+  "Matej Jug": {
+    "fouls_per_game": 28.0,
+    "yellows_per_game": 5.0,
+    "reds_per_game": 0.0
   },
-  "Jablonski, Sven": {
-    "fouls_per_game": null,
-    "yellows_per_game": null,
-    "reds_per_game": null
+  "Georgi Kabakov": {
+    "fouls_per_game": 21.0,
+    "yellows_per_game": 2.33,
+    "reds_per_game": 0.33
   },
-  "Jorgji, Enea": {
-    "fouls_per_game": null,
-    "yellows_per_game": null,
-    "reds_per_game": null
-  },
-  "Jovanović, Srđan": {
-    "fouls_per_game": 22.00,
-    "yellows_per_game": 4.00,
-    "reds_per_game": 0.00
-  },
-  "Jug, Matej": {
-    "fouls_per_game": 28.00,
-    "yellows_per_game": 5.00,
-    "reds_per_game": 0.00
-  },
-  "Kabakov, Georgi": {
-    "fouls_per_game": null,
-    "yellows_per_game": null,
-    "reds_per_game": null
-  },
-  "Kavanagh, Christopher": {
-    "fouls_per_game": 21.40,
+  "Christopher Kavanagh": {
+    "fouls_per_game": 21.4,
     "yellows_per_game": 4.44,
     "reds_per_game": 0.12
   },
-  "Kehlet, Jakob": {
-    "fouls_per_game": 20.00,
-    "yellows_per_game": 2.00,
-    "reds_per_game": 0.00
+  "Jakob Kehlet": {
+    "fouls_per_game": 20.0,
+    "yellows_per_game": 2.0,
+    "reds_per_game": 0.0
   },
-  "Kikacheishvili, Goga": {
+  "Goga Kikacheishvili": {
     "fouls_per_game": null,
     "yellows_per_game": null,
     "reds_per_game": null
   },
-  "Kovacs, Istvan": {
-    "fouls_per_game": 33.00,
-    "yellows_per_game": 3.00,
-    "reds_per_game": 0.00
+  "Istvan Kovacs": {
+    "fouls_per_game": 33.0,
+    "yellows_per_game": 3.0,
+    "reds_per_game": 0.0
   },
-  "Krogh Hansen, Morten": {
+  "Morten Krogh Hansen": {
     "fouls_per_game": 21.75,
     "yellows_per_game": 3.75,
     "reds_per_game": 0.25
   },
-  "Kruashvili, Giorgi": {
+  "Giorgi Kruashvili": {
     "fouls_per_game": null,
     "yellows_per_game": null,
     "reds_per_game": null
   },
-  "Kružliak, Ivan": {
-    "fouls_per_game": 15.00,
-    "yellows_per_game": 7.00,
-    "reds_per_game": 0.00
+  "Ivan Kružliak": {
+    "fouls_per_game": 15.0,
+    "yellows_per_game": 7.0,
+    "reds_per_game": 0.0
   },
-  "Lambrechts, Erik": {
-    "fouls_per_game": 9.00,
-    "yellows_per_game": 2.00,
-    "reds_per_game": 0.00
+  "Erik Lambrechts": {
+    "fouls_per_game": 9.0,
+    "yellows_per_game": 2.0,
+    "reds_per_game": 0.0
   },
-  "Lindhout, Allard": {
+  "Allard Lindhout": {
     "fouls_per_game": null,
     "yellows_per_game": null,
     "reds_per_game": null
   },
-  "Lukjančukas, Manfredas": {
+  "Manfredas Lukjančukas": {
     "fouls_per_game": null,
     "yellows_per_game": null,
     "reds_per_game": null
   },
-  "Makkelie, Danny": {
-    "fouls_per_game": 39.00,
-    "yellows_per_game": 8.00,
-    "reds_per_game": 0.00
+  "Danny Makkelie": {
+    "fouls_per_game": 39.0,
+    "yellows_per_game": 8.0,
+    "reds_per_game": 0.0
   },
-  "Marciniak, Szymon": {
+  "Szymon Marciniak": {
     "fouls_per_game": 24.5,
     "yellows_per_game": 3.22,
     "reds_per_game": 0.11
   },
-  "Mariani, Maurizio": {
-    "fouls_per_game": 21.00,
-    "yellows_per_game": 2.00,
-    "reds_per_game": 0.00
+  "Maurizio Mariani": {
+    "fouls_per_game": 21.0,
+    "yellows_per_game": 2.0,
+    "reds_per_game": 0.0
   },
-  "Massa, Davide": {
-    "fouls_per_game": 27.00,
-    "yellows_per_game": 6.00,
-    "reds_per_game": 0.00
+  "Davide Massa": {
+    "fouls_per_game": 27.0,
+    "yellows_per_game": 6.0,
+    "reds_per_game": 0.0
   },
-  "Meler, Halil Umut": {
+  "Halil Umut Meler": {
+    "fouls_per_game": 26.9,
+    "yellows_per_game": 4.8,
+    "reds_per_game": 0.1
+  },
+  "Elçin Məsiyev": {
     "fouls_per_game": null,
     "yellows_per_game": null,
     "reds_per_game": null
   },
-  "Məsiyev, Elçin": {
+  "Nenad Minaković": {
     "fouls_per_game": null,
     "yellows_per_game": null,
     "reds_per_game": null
   },
-  "Minaković, Nenad": {
+  "António E. C. Nobre": {
+    "fouls_per_game": 27.5,
+    "yellows_per_game": 4.2,
+    "reds_per_game": 0.3
+  },
+  "Glenn Nyberg": {
+    "fouls_per_game": 23.5,
+    "yellows_per_game": 3.0,
+    "reds_per_game": 0.0
+  },
+  "Rade Obrenovič": {
     "fouls_per_game": null,
     "yellows_per_game": null,
     "reds_per_game": null
   },
-  "Nobre, António E. C.": {
-    "fouls_per_game": null,
-    "yellows_per_game": null,
-    "reds_per_game": null
-  },
-  "Nyberg, Glenn": {
-    "fouls_per_game": 23.50,
-    "yellows_per_game": 3.00,
-    "reds_per_game": 0.00
-  },
-  "Obrenovič, Rade": {
-    "fouls_per_game": null,
-    "yellows_per_game": null,
-    "reds_per_game": null
-  },
-  "Oliver, Michael": {
+  "Michael Oliver": {
     "fouls_per_game": 21.56,
     "yellows_per_game": 2.33,
     "reds_per_game": 0.11
   },
-  "Pajač, Igor": {
+  "Igor Pajač": {
     "fouls_per_game": null,
     "yellows_per_game": null,
     "reds_per_game": null
   },
-  "Papapetrou, Anastasios": {
-    "fouls_per_game": 20.50,
-    "yellows_per_game": 5.50,
-    "reds_per_game": 0.00
+  "Anastasios Papapetrou": {
+    "fouls_per_game": 20.5,
+    "yellows_per_game": 5.5,
+    "reds_per_game": 0.0
   },
-  "Peljto, Irfan": {
-    "fouls_per_game": 18.40,
-    "yellows_per_game": 4.20,
-    "reds_per_game": 0.00
+  "Irfan Peljto": {
+    "fouls_per_game": 18.4,
+    "yellows_per_game": 4.2,
+    "reds_per_game": 0.0
   },
-  "Petrescu, Radu Marian": {
-    "fouls_per_game": 24.00,
-    "yellows_per_game": 5.00,
-    "reds_per_game": 0.00
+  "Radu Marian Petrescu": {
+    "fouls_per_game": 24.0,
+    "yellows_per_game": 5.0,
+    "reds_per_game": 0.0
   },
-  "Pinheiro, João P.": {
-    "fouls_per_game": 22.00,
-    "yellows_per_game": 5.00,
-    "reds_per_game": 0.00
+  "João P. Pinheiro": {
+    "fouls_per_game": 22.0,
+    "yellows_per_game": 5.0,
+    "reds_per_game": 0.0
   },
-  "Raczkowski, Paweł": {
+  "Paweł Raczkowski": {
     "fouls_per_game": null,
     "yellows_per_game": null,
     "reds_per_game": null
   },
-  "Rumšas, Donatas": {
+  "Donatas Rumšas": {
     "fouls_per_game": null,
     "yellows_per_game": null,
     "reds_per_game": null
   },
-  "Saggi, Rohit": {
-    "fouls_per_game": 30.00,
-    "yellows_per_game": 5.00,
-    "reds_per_game": 0.00
+  "Rohit Saggi": {
+    "fouls_per_game": 30.0,
+    "yellows_per_game": 5.0,
+    "reds_per_game": 0.0
   },
-  "Sánchez Martínez, José M.": {
-    "fouls_per_game": 30.50,
-    "yellows_per_game": 5.00,
-    "reds_per_game": 0.00
+  "José M. Sánchez Martínez": {
+    "fouls_per_game": 30.5,
+    "yellows_per_game": 5.0,
+    "reds_per_game": 0.0
   },
-  "Schnyder, Urs": {
+  "Urs Schnyder": {
+    "fouls_per_game": 23.65,
+    "yellows_per_game": 3.99,
+    "reds_per_game": 0.17
+  },
+  "Anastásios Sidirópoulos": {
+    "fouls_per_game": 24.0,
+    "yellows_per_game": 3.5,
+    "reds_per_game": 0.0
+  },
+  "Daniel Siebert": {
+    "fouls_per_game": 21.92,
+    "yellows_per_game": 4.17,
+    "reds_per_game": 0.25
+  },
+  "Simone Sozza": {
+    "fouls_per_game": 23.89,
+    "yellows_per_game": 2.78,
+    "reds_per_game": 0.67
+  },
+  "Duje Strukan": {
     "fouls_per_game": null,
     "yellows_per_game": null,
     "reds_per_game": null
   },
-  "Sidirópoulos, Anastásios": {
+  "Damian Sylwestrzak": {
     "fouls_per_game": null,
     "yellows_per_game": null,
     "reds_per_game": null
   },
-  "Siebert, Daniel": {
+  "Anthony Taylor": {
+    "fouls_per_game": 20.0,
+    "yellows_per_game": 1.5,
+    "reds_per_game": 0.0
+  },
+  "Andris Treimanis": {
+    "fouls_per_game": 28.0,
+    "yellows_per_game": 5.0,
+    "reds_per_game": 0.0
+  },
+  "Sander van der Eijk": {
     "fouls_per_game": null,
     "yellows_per_game": null,
     "reds_per_game": null
   },
-  "Sozza, Simone": {
+  "Slavko Vinčić": {
+    "fouls_per_game": 24.0,
+    "yellows_per_game": 4.0,
+    "reds_per_game": 0.0
+  },
+  "Lawrence Visser": {
+    "fouls_per_game": 35.0,
+    "yellows_per_game": 3.0,
+    "reds_per_game": 0.0
+  },
+  "Nicholas Walsh": {
     "fouls_per_game": null,
     "yellows_per_game": null,
     "reds_per_game": null
   },
-  "Strukan, Duje": {
-    "fouls_per_game": null,
-    "yellows_per_game": null,
-    "reds_per_game": null
+  "Julian Weinberger": {
+    "fouls_per_game": 22.0,
+    "yellows_per_game": 4.0,
+    "reds_per_game": 0.0
   },
-  "Sylwestrzak, Damian": {
-    "fouls_per_game": null,
-    "yellows_per_game": null,
-    "reds_per_game": null
-  },
-  "Taylor, Anthony": {
-    "fouls_per_game": 20.00,
-    "yellows_per_game": 1.50,
-    "reds_per_game": 0.00
-  },
-  "Treimanis, Andris": {
-    "fouls_per_game": 28.00,
-    "yellows_per_game": 5.00,
-    "reds_per_game": 0.00
-  },
-  "van der Eijk, Sander": {
-    "fouls_per_game": null,
-    "yellows_per_game": null,
-    "reds_per_game": null
-  },
-  "Vinčić, Slavko": {
-    "fouls_per_game": 24.00,
-    "yellows_per_game": 4.00,
-    "reds_per_game": 0.00
-  },
-  "Visser, Lawrence": {
-    "fouls_per_game": 35.00,
-    "yellows_per_game": 3.00,
-    "reds_per_game": 0.00
-  },
-  "Walsh, Nicholas": {
-    "fouls_per_game": null,
-    "yellows_per_game": null,
-    "reds_per_game": null
-  },
-  "Weinberger, Julian": {
-    "fouls_per_game": 22.00,
-    "yellows_per_game": 4.00,
-    "reds_per_game": 0.00
-  },
-  "Zwayer, Felix": {
-    "fouls_per_game": 21.50,
-    "yellows_per_game": 3.00,
-    "reds_per_game": 0.00
+  "Felix Zwayer": {
+    "fouls_per_game": 21.5,
+    "yellows_per_game": 3.0,
+    "reds_per_game": 0.0
   }
 }
