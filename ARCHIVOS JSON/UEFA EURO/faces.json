@@ -1,0 +1,2380 @@
+{
+  "ALBANIA": {
+    "Tiros": {
+      "name": "Armando Broja",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Broja",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Rey Manaj",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Manaj",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Kristjan Asllani",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Asllani",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "ALEMANIA": {
+    "Tiros": {
+      "name": "Niclas Füllkrug",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Fullkrug",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Florian Wirtz",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Wirtz",
+      "position": "Centrocampista",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Robert Andrich",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Andrich",
+      "position": "Defensa",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "ANDORRA": {
+    "Tiros": {
+      "name": "Ricard Fernández",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Fernandez",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Víctor Bernat",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Bernat",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Marc Vales",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Vales",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "ARMENIA": {
+    "Tiros": {
+      "name": "Grant-Leon Ranos",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Ranos",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Eduard Spertsyan",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Spertsyan",
+      "position": "Centrocampista",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "UgochukwuIwu",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Iwu",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "AUSTRIA": {
+    "Tiros": {
+      "name": "Marko Arnautović",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Arnautovic",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Michael Gregoritsch",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Gregoritsch",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Konrad Laimer",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Laimer",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "AZERBAIYÁN": {
+    "Tiros": {
+      "name": "Mahir Emreli",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Emreli",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Renat Dadaşov",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Dadashov",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Emin Makhmudov",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Makhmudov",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "BÉLGICA": {
+    "Tiros": {
+      "name": "Romelu Lukaku",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Lukaku",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Loïs Openda",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Openda",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Amadou Onana",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Onana",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "BIELORRUSIA": {
+    "Tiros": {
+      "name": "German Barkovski",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Barkovski",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Maks Ebonh",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Ebonh",
+      "position": "Centrocampista",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Evgeni Yablonski",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Yablonski",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "BOSNIA Y HERZEGOVINA": {
+    "Tiros": {
+      "name": "Edin Džeko",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Dzeko",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Ermedin Demirovic",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Demirovic",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Benjamin Tahirović",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Tahirovic",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "BULGARIA": {
+    "Tiros": {
+      "name": "Kiril Despodov",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Despodov",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Aleksandar Kolev",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Kolev",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Ilia Gruev",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Gruev",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "CHEQUIA": {
+    "Tiros": {
+      "name": "Patrik Schick",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Schick",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Adam Hlózek",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Hlozek",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Tomáš Souček",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Soucek",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "CHIPRE": {
+    "Tiros": {
+      "name": "Ioannis Pittas",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Pittas",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Pieros Sotiriou",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Sotiriou",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Grigoris Kastanos",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Kastanos",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "CROACIA": {
+    "Tiros": {
+      "name": "Andrej Kramarić",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Kramaric",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Ante Budimir",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Budimir",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Mateo Kovačić",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Kovacic",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "DINAMARCA": {
+    "Tiros": {
+      "name": "Rasmus Højlund",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Hojlund",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Jonas Wind",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Wind",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Pierre-Emile Højbjerg",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Hojbjerg",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "ESCOCIA": {
+    "Tiros": {
+      "name": "Ché Adams",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Adams",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Lyndon Dykes",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Dykes",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Scott McTominay",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=McTominay",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "ESLOVAQUIA": {
+    "Tiros": {
+      "name": "Róbert Boženík",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Bozenik",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Lukáš Haraslín",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Haraslin",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Stanislav Lobotka",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Lobotka",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "ESLOVENIA": {
+    "Tiros": {
+      "name": "Benjamin Šeško",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Sesko",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Andraž Šporar",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Sporar",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Adam Gnezda Čerin",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Cerin",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "ESPAÑA": {
+    "Tiros": {
+      "name": "Álvaro Morata",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Morata",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Lamine Yamal",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Yamal",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Rodri",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Rodri",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "ESTONIA": {
+    "Tiros": {
+      "name": "Henri Anier",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Anier",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Rauno Sappinen",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Sappinen",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Mattias Käit",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Kait",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "FINLANDIA": {
+    "Tiros": {
+      "name": "Teemu Pukki",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Pukki",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Joel Pohjanpalo",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Pohjanpalo",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Glen Kamara",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Kamara",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "FRANCIA": {
+    "Tiros": {
+      "name": "Kylian Mbappé",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Mbappe",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Marcus Thuram",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Thuram",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Aurélien Tchouaméni",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Tchouameni",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "GALES": {
+    "Tiros": {
+      "name": "Brennan Johnson",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Johnson",
+      "position": "Centrocampista",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Kieffer Moore",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Moore",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Ethan Ampadu",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Ampadu",
+      "position": "Defensa",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "GEORGIA": {
+    "Tiros": {
+      "name": "Khvicha Kvaratskhelia",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Kvaratskhelia",
+      "position": "Centrocampista",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Georges Mikautadze",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Mikautadze",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Giorgi Kochorashvili",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Kochorashvili",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "GIBRALTAR": {
+    "Tiros": {
+      "name": "Andre Tjay De Barr",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=DeBarr",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Ayoub El Hmidi",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=ElHmidi",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Nicholas Pozo",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Pozo",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "GRECIA": {
+    "Tiros": {
+      "name": "Vangelis Pavlidis",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Pavlidis",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Fotis Ioannidis",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Ioannidis",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Manolis Siopis",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Siopis",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "HUNGRIA": {
+    "Tiros": {
+      "name": "Barnabás Varga",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Varga",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Roland Sallai",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Sallai",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "András Schäfer",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Schafer",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "INGLATERRA": {
+    "Tiros": {
+      "name": "Harry Kane",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Kane",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Bukayo Saka",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Saka",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Declan Rice",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Rice",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+
+{
+  "IRLANDA DEL NORTE": {
+    "Tiros": {
+      "name": "Dion Charles",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Charles",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Jamie Reid",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Reid",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Shea Charles",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Charles",
+      "position": "Defensa",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "ISLANDIA": {
+    "Tiros": {
+      "name": "Albert Gudmundsson",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Gudmundsson",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Andri Gudjohnsen",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Gudjohnsen",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Victor Pálsson",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Palsson",
+      "position": "Defensa",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "ISLAS FEROE": {
+    "Tiros": {
+      "name": "Jóan Edmundsson",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Edmundsson",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Árni Frederiksberg",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Frederiksberg",
+      "position": "Centrocampista",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Hallur Hansson",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Hansson",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "ISRAEL": {
+    "Tiros": {
+      "name": "Anan Khalaili",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Khalaili",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Oscar Gloukh",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Gloukh",
+      "position": "Centrocampista",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Neta Lavi",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Lavi",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "ITALIA": {
+    "Tiros": {
+      "name": "Giacomo Raspadori",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Raspadori",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Mateo Retegui",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Retegui",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Sandro Tonali",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Tonali",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "KAZAJSTÁN": {
+    "Tiros": {
+      "name": "Maxim Samorodov",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Samorodov",
+      "position": "Centrocampista",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Abat Aimbetov",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Aimbetov",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Islambek Kuat",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Kuat",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "KOSOVO": {
+    "Tiros": {
+      "name": "Vedat Muriqi",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Muriqi",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Edon Zhegrova",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Zhegrova",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Elvis Rexhbecaj",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Rexhbecaj",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "LETONIA": {
+    "Tiros": {
+      "name": "Raimonds Krollis",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Krollis",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Vladislavs Gutkovskis",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Gutkovskis",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Aleksejs Savelʹjevs",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Saveljevs",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "LIECHTENSTEIN": {
+    "Tiros": {
+      "name": "Dennis Salanovic",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Salanovic",
+      "position": "Centrocampista",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Ferhat Saglam",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Saglam",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Aron Sele",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Sele",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "LITUANIA": {
+    "Tiros": {
+      "name": "Fedor Černých",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Cernych",
+      "position": "Centrocampista",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Gytis Paulauskas",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Paulauskas",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Vykintas Slivka",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Slivka",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "LUXEMBURGO": {
+    "Tiros": {
+      "name": "Danel Sinani",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Sinani",
+      "position": "Centrocampista",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Aiman Dardari",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Dardari",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Leandro Barreiro",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Barreiro",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "MACEDONIA DEL NORTE": {
+    "Tiros": {
+      "name": "Bojan Miovski",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Miovski",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Eljif Elmas",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Elmas",
+      "position": "Centrocampista",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Enis Bardhi",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Bardhi",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "MALTA": {
+    "Tiros": {
+      "name": "Kyrian Nwoko",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Nwoko",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Paul Mbong",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Mbong",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Matthew Guillaumier",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Guillaumier",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "MOLDAVIA": {
+    "Tiros": {
+      "name": "Ion Nicolaescu",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Nicolaescu",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Vitalie Damașcan",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Damascan",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Vadim Raţă",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Rata",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "MONTENEGRO": {
+    "Tiros": {
+      "name": "Stevan Jovetic",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Jovetic",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Nikola Krstovic",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Krstovic",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Stefan Loncar",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Loncar",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "NORUEGA": {
+    "Tiros": {
+      "name": "Erling Haaland",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Haaland",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Alexander Sørloth",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Sorloth",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Sander Berge",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Berge",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "PAÍSES BAJOS (HOLANDA)": {
+    "Tiros": {
+      "name": "Memphis Depay",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Depay",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Cody Gakpo",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Gakpo",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Frenkie de Jong",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=deJong",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "POLONIA": {
+    "Tiros": {
+      "name": "Robert Lewandowski",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Lewandowski",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Krzysztof Piątek",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Piatek",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Bartosz Slisz",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Slisz",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "PORTUGAL": {
+    "Tiros": {
+      "name": "Cristiano Ronaldo",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Ronaldo",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Rafael Leão",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Leao",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "João Palhinha",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Palhinha",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "REPÚBLICA DE IRLANDA": {
+    "Tiros": {
+      "name": "Evan Ferguson",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Ferguson",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Adam Idah",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Idah",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Josh Cullen",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Cullen",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "RUMANIA": {
+    "Tiros": {
+      "name": "Denis Dragus",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Dragus",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Dennis Man",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Man",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Marius Marin",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Marin",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "SAN MARINO": {
+    "Tiros": {
+      "name": "Nicola Nanni",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Nanni",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Filippo Berardi",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Berardi",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Alessandro Golinucci",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Golinucci",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "SERBIA": {
+    "Tiros": {
+      "name": "Aleksandar Mitrović",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Mitrovic",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Dušan Vlahović",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Vlahovic",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Nemanja Gudelj",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Gudelj",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "SUECIA": {
+    "Tiros": {
+      "name": "Alexander Isak",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Isak",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Viktor Gyökeres",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Gyokeres",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Jesper Karlström",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Karlstrom",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "SUIZA": {
+    "Tiros": {
+      "name": "Breel Embolo",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Embolo",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Dan Ndoye",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Ndoye",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Granit Xhaka",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Xhaka",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "TURQUÍA": {
+    "Tiros": {
+      "name": "Kerem Aktürkoğlu",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Akturkoglu",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Kenan Yıldız",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Yildiz",
+      "position": "Delantero",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Hakan Çalhanoglu",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Calhanoglu",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  },
+  "UCRANIA": {
+    "Tiros": {
+      "name": "Artem Dovbyk",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Dovbyk",
+      "position": "Delantero",
+      "specialty": "Mayor Rematador",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "remates_totales_p90": 0.0,
+        "remates_a_puerta_p90": 0.0,
+        "toques_area_rival_p90": 0.0
+      }
+    },
+    "Tiros a Puerta": {
+      "name": "Georgiy Sudakov",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Sudakov",
+      "position": "Centrocampista",
+      "specialty": "Remates a Puerta",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "tiros_a_puerta_p90": 0.0,
+        "porcentaje_tiros_a_puerta": "0.0%",
+        "goles_por_tiro_a_puerta": 0.0
+      }
+    },
+    "Faltas Cometidas": {
+      "name": "Ruslan Malinovskyi",
+      "photoUrl": "https://via.placeholder.com/100x100/CCCCCC/000000?text=Malinovskyi",
+      "position": "Centrocampista",
+      "specialty": "Faltas Cometidas",
+      "matches_played": 0,
+      "goals": 0,
+      "assists": 0,
+      "specialty_stats": {
+        "faltas_cometidas_p90": 0.0,
+        "presiones_exitosas_p90": 0.0,
+        "porcentaje_duelos_defensivos_ganados": "0.0%"
+      }
+    }
+  }
+}

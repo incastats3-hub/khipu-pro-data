@@ -1,0 +1,850 @@
+¡De una, bro! Aquí está el análisis del tercer y último lote.
+
+Con esto completamos las 12 imágenes. ¡Tremenda data!
+
+---
+
+### Partido: Portugal vs. Hungary
+
+#### Portugal (4-2-3-1)
+* **1 D. Costa** - Portero
+* **2 N. Semedo** - Lateral Derecho
+* **3 R. Dias** - Defensa Central (Derecho)
+* **13 R. Veiga** - Defensa Central (Izquierdo)
+* **19 N. Mendes** - Lateral Izquierdo
+* **21 R. Neves** - Pivote (Derecho)
+* **23 Vitinha** - Pivote (Izquierdo)
+* **10 B. Silva** - Volante Ofensivo (Derecho)
+* **8 B. Fernandes** - Mediocampista Ofensivo (Central)
+* **18 P. Neto** - Volante Ofensivo (Izquierdo)
+* **7 (c) C. Ronaldo** - Delantero Centro
+
+#### Hungary (4-3-3)
+* **12 B. Tóth** - Portero
+* **7 L. Négo** - Lateral Derecho
+* **8 W. Orbán** - Defensa Central (Derecho)
+* **4 A. Szalai** - Defensa Central (Izquierdo)
+* **11 M. Kerkez** - Lateral Izquierdo
+* **17 C. Styles** - Interior Derecho
+* **10 (c) D. Szoboszlai** - Pivote (Mediocampista Central)
+* **13 A. Schäfer** - Interior Izquierdo
+* **14 B. Bolla** - Extremo Derecho
+* **19 B. Varga** - Delantero Centro
+* **20 R. Sallai** - Extremo Izquierdo
+
+---
+
+### Partido: Latvia vs. England
+
+#### Latvia (5-4-1)
+* **1 K. Zviedris** - Portero
+* **14 A. Cigaņiks** - Carrilero Derecho
+* **2 D. Balodis** - Defensa Central (Derecho)
+* **5 (c) A. Černomordijs** - Líbero / Defensa Central
+* **4 R. Veips** - Defensa Central (Izquierdo)
+* **13 R. Jurkovskis** - Carrilero Izquierdo
+* **10 J. Ikaunieks** - Volante Derecho
+* **15 D. Zelenkovs** - Mediocampista Central (Derecho)
+* **17 L. Vapne** - Mediocampista Central (Izquierdo)
+* **8 R. Varslavāns** - Volante Izquierdo
+* **9 V. Gutkovskis** - Delantero Centro
+
+#### England (4-3-3)
+* **1 J. Pickford** - Portero
+* **14 D. Spence** - Lateral Derecho
+* **2 E. Konsa** - Defensa Central (Derecho)
+* **5 J. Stones** - Defensa Central (Izquierdo)
+* **3 M. Lewis-Skelly** - Lateral Izquierdo
+* **15 M. Rogers** - Interior Derecho
+* **4 D. Rice** - Pivote (Mediocampista Central)
+* **21 E. Anderson** - Interior Izquierdo
+* **7 B. Saka** - Extremo Derecho
+* **9 (c) H. Kane** - Delantero Centro
+* **17 A. Gordon** - Extremo Izquierdo
+
+---
+
+### Partido: Croatia vs. Gibraltar
+
+#### Croatia (4-2-3-1)
+* **12 D. Kotarski** - Portero
+* **22 M. Pašalić** - Lateral Derecho
+* **3 M. Pongračić** - Defensa Central (Derecho)
+* **5 M. Erlić** - Defensa Central (Izquierdo)
+* **8 D. Bradarić** - Lateral Izquierdo
+* **13 N. Moro** - Pivote (Derecho)
+* **8 (c) M. Kovačić** - Pivote (Izquierdo)
+* **7 L. Majer** - Volante Ofensivo (Derecho)
+* **16 M. Baturina** - Mediocampista Ofensivo (Central)
+* **19 T. Fruk** - Volante Ofensivo (Izquierdo)
+* **20 F. Ivanović** - Delantero Centro
+
+#### Gibraltar (5-4-1)
+* **23 J. Hankins** - Portero
+* **3 E. Jolley** - Carrilero Derecho
+* **14 K. Ronan** - Defensa Central (Derecho)
+* **4 D. Bent** - Líbero / Defensa Central
+* **6 B. Lopes** - Defensa Central (Izquierdo)
+* **2 J. Valarino** - Carrilero Izquierdo
+* **8 J. Scanlon** - Volante Derecho
+* **16 J. Perera** - Mediocampista Central (Derecho)
+* **5 L. Annesley** - Mediocampista Central (Izquierdo)
+* **11 C. Richards** - Volante Izquierdo
+* **7 (c) T. D. Barr** - Delantero Centro
+
+---
+
+### Partido: Faroe Islands vs. Czechia
+
+#### Faroe Islands (3-4-3)
+* **1 M. Lamhauge** - Portero
+* **16 G. Vatnhamar** - Defensa Central (Derecho)
+* **21 G. D. Turi** - Líbero / Defensa Central
+* **15 O. Færø** - Defensa Central (Izquierdo)
+* **5 A. Edmundsson** - Volante Derecho
+* **8 B. Olsen** - Mediocampista Central (Derecho)
+* **2 J. K. Danielsen** - Mediocampista Central (Izquierdo)
+* **3 (c) V. Davidsen** - Volante Izquierdo
+* **11 Á. Frederiksborg** - Extremo Derecho
+* **14 J. Edmundsson** - Delantero Centro
+* **20 H. Sørensen** - Extremo Izquierdo
+
+#### Czechia (4-2-3-1)
+* **16 M. Kovář** - Portero
+* **5 V. Coufal** - Lateral Derecho
+* **6 M. Vitík** - Defensa Central (Derecho)
+* **7 L. Krejčí** - Defensa Central (Izquierdo)
+* **3 V. Jemelka** - Lateral Izquierdo
+* **22 (c) T. Souček** - Pivote (Derecho)
+* **15 P. Šulc** - Pivote (Izquierdo)
+* **18 V. Černý** - Volante Ofensivo (Derecho)
+* **12 L. Červ** - Mediocampista Ofensivo (Central)
+* **9 V. Kušej** - Volante Ofensivo (Izquierdo)
+* **10 M. Vydra** - Delantero Centro
+
+---
+
+### Partido: Andorra vs. Serbia
+
+#### Andorra (5-4-1)
+* **12 I. Álvarez** - Portero
+* **23 B. B. Font** - Carrilero Derecho
+* **5 M. Llovera** - Defensa Central (Derecho)
+* **6 C. García** - Líbero / Defensa Central
+* **22 I. B. Olivera** - Defensa Central (Izquierdo)
+* **15 (c) M. S. Nicolás** - Carrilero Izquierdo
+* **14 A. Rodrigo** - Volante Derecho
+* **8 É. Vales** - Mediocampista Central (Derecho)
+* **19 P. K. B. Müller** - Mediocampista Central (Izquierdo)
+* **17 J. Cervós** - Volante Izquierdo
+* **10 G. Lopez** - Delantero Centro
+
+#### Serbia (3-1-4-2)
+* **12 Đ. Petrović** - Portero
+* **16 S. Eraković** - Defensa Central (Derecho)
+* **13 M. Veljković** - Líbero / Defensa Central
+* **3 S. Pavlović** - Defensa Central (Izquierdo)
+* **6 N. Gudelj** - Pivote (Mediocampista Defensivo)
+* **22 S. Mitrović** - Volante Derecho
+* **10 L. Samardžić** - Interior Derecho
+* **7 A. Stanković** - Interior Izquierdo
+* **11 F. Kostić** - Volante Izquierdo
+* **23 D. Vlahović** - Delantero (Derecho)
+* **9 (c) A. Mitrović** - Delantero (Izquierdo)
+
+¡Listo, bro! Segundo lote analizado. Aquí tienes el detalle de cada equipo, jugador, dorsal y su posición en la cancha, basado en las imágenes que pasaste.
+
+---
+
+### Partido: Netherlands vs. Finland
+
+#### Netherlands (4-2-3-1)
+* **1 B. Verbruggen** - Portero
+* **22 D. Dumfries** - Lateral Derecho
+* **3 J. Timber** - Defensa Central (Derecho)
+* **4 (c) V. van Dijk** - Defensa Central (Izquierdo)
+* **15 M. van de Ven** - Lateral Izquierdo
+* **8 R. Gravenberch** - Pivote (Derecho)
+* **21 F. de Jong** - Pivote (Izquierdo)
+* **18 D. Malen** - Volante Ofensivo (Derecho)
+* **19 J. Kluivert** - Mediocampista Ofensivo (Central)
+* **11 C. Gakpo** - Volante Ofensivo (Izquierdo)
+* **10 M. Depay** - Delantero Centro
+
+#### Finland (5-3-2)
+* **1 (c) J. Joronen** - Portero
+* **17 N. Alho** - Carrilero Derecho
+* **3 A. Stahl** - Defensa Central (Derecho)
+* **15 M. Tenho** - Líbero / Defensa Central
+* **21 V. Koski** - Defensa Central (Izquierdo)
+* **5 J. Lähteenmäki** - Carrilero Izquierdo
+* **11 S. Väänänen** - Mediocampista (Derecho)
+* **18 T. Keskinen** - Mediocampista (Central)
+* **14 K. Kairinen** - Mediocampista (Izquierdo)
+* **7 O. Antman** - Delantero (Derecho)
+* **9 L. Walta** - Delantero (Izquierdo)
+
+---
+
+### Partido: San Marino vs. Cyprus
+
+#### San Marino (4-3-3)
+* **1 E. Colombo** - Portero
+* **4 M. Sammaritani** - Lateral Derecho
+* **5 M. Cevoli** - Defensa Central (Derecho)
+* **6 D. Rossi** - Defensa Central (Izquierdo)
+* **3 A. Riccardi** - Lateral Izquierdo
+* **17 A. Golinucci** - Interior Derecho
+* **8 L. Capicchioni** - Pivote (Mediocampista Central)
+* **11 A. Contadini** - Interior Izquierdo
+* **18 S. Zannoni** - Extremo Derecho
+* **9 N. Nanni** - Delantero Centro
+* **21 L. Lazzari** - Extremo Izquierdo
+
+#### Cyprus (4-3-2-1)
+* **1 J. Mall** - Portero
+* **17 A. Shikkis** - Lateral Derecho
+* **16 S. Andreou** - Defensa Central (Derecho)
+* **19 K. Laifis** - Defensa Central (Izquierdo)
+* **2 K. Pileas** - Lateral Izquierdo
+* **18 K. Artymatas** - Mediocampista (Derecho)
+* **5 C. Charalampous** - Pivote (Mediocampista Central)
+* **20 G. Kastanos** - Mediocampista (Izquierdo)
+* **10 L. Loizou** - Mediapunta (Derecho)
+* **21 M. Tzionis** - Mediapunta (Izquierdo)
+* **9 I. Pittas** - Delantero Centro
+
+---
+
+### Partido: Estonia vs. Moldova
+
+#### Estonia (4-4-1-1)
+* **1 K. Hein** - Portero
+* **19 M. Schjönning-Larsen** - Lateral Derecho
+* **3 M. Paskotši** - Defensa Central (Derecho)
+* **18 (c) K. Mets** - Defensa Central (Izquierdo)
+* **23 V. Sinyavskiy** - Lateral Izquierdo
+* **7 R. Saarma** - Volante Derecho
+* **8 M. Soomets** - Mediocampista Central (Derecho)
+* **4 M. Käit** - Mediocampista Central (Izquierdo)
+* **9 I. Yakovlev** - Volante Izquierdo
+* **14 P. Kristal** - Mediapunta
+* **15 R. Sappinen** - Delantero Centro
+
+#### Moldova (5-3-2)
+* **23 A. Kozhukhar** - Portero
+* **16 D. Forov** - Carrilero Derecho
+* **14 A. Crăciun** - Defensa Central (Derecho)
+* **4 V. Baboglo** - Líbero / Defensa Central
+* **6 M. Gherasimencom** - Defensa Central (Izquierdo)
+* **2 O. Reabciuk** - Carrilero Izquierdo
+* **11 M. Caimacov** - Mediocampista (Derecho)
+* **22 (c) V. Raţă** - Mediocampista (Central)
+* **18 V. Bogaciuc** - Mediocampista (Izquierdo)
+* **21 Perciun** (*Nombre cortado*) - Delantero (Derecho)
+* **17 V. Postolachi** - Delantero (Izquierdo)
+
+---
+
+### Partido: Ireland vs. Armenia
+
+#### Ireland (3-4-2-1)
+* **1 C. Kelleher** - Portero
+* **5 J. O'Brien** - Defensa Central (Derecho)
+* **22 (c) N. Collins** - Líbero / Defensa Central
+* **4 D. O'Shea** - Defensa Central (Izquierdo)
+* **21 F. Ebosele** - Carrilero Derecho
+* **18 W. Smallbone** - Mediocampista Central (Derecho)
+* **2 S. Coleman** - Mediocampista Central (Izquierdo)
+* **3 R. Manning** - Carrilero Izquierdo
+* **11 F. Azaz** - Mediapunta (Derecho)
+* **8 J. Molumby** - Mediapunta (Izquierdo)
+* **9 E. Ferguson** - Delantero Centro
+
+#### Armenia (3-4-3)
+* **16 H. Avagyan** - Portero
+* **5 S. Mkrtchyan** - Defensa Central (Derecho)
+* **2 S. Muradyan** - Líbero / Defensa Central
+* **3 E. Piloyan** - Defensa Central (Izquierdo)
+* **13 K. Hovhannisyan** - Volante Derecho
+* **8 E. Spertsyan** - Mediocampista Central (Derecho)
+* **6 U. Iwu** - Mediocampista Central (Izquierdo)
+* **21 N. Tiknizyan** - Volante Izquierdo
+* **17 G. Ranos** - Extremo Derecho
+* **7 Z. Shaghoyan** - Delantero Centro
+* **11 (c) T. Barseghyan** - Extremo Izquierdo
+
+---
+
+### Partido: Romania vs. Austria
+
+#### Romania (4-3-3)
+* **1 I. Radu** - Portero
+* **2 A. Rațiu** - Lateral Derecho
+* **3 M. C. Popescu** - Defensa Central (Derecho)
+* **15 A. Burcă** - Defensa Central (Izquierdo)
+* **8 A. Chipciu** - Lateral Izquierdo
+* **23 V. Dragomir** - Interior Derecho
+* **6 M. Marin** - Pivote (Mediocampista Central)
+* **10 (c) I. Hagi** - Interior Izquierdo
+* **20 D. Man** - Extremo Derecho
+* **9 D. Bîrligea** - Delantero Centro
+* **13 V. Mihăilă** - Extremo Izquierdo
+
+#### Austria (4-2-3-1)
+* **1 A. Schlager** - Portero
+* **5 S. Posch** - Lateral Derecho
+* **15 P. Lienhart** - Defensa Central (Derecho)
+* **8 (c) D. Alaba** - Defensa Central (Izquierdo)
+* **10 P. Mwene** - Lateral Izquierdo
+* **6 N. Seiwald** - Pivote (Derecho)
+* **20 K. Laimer** - Pivote (Izquierdo)
+* **18 R. Schmid** - Volante Ofensivo (Derecho)
+* **19 C. Baumgartner** - Mediocampista Ofensivo (Central)
+* **9 M. Sabitzer** - Volante Ofensivo (Izquierdo)
+* **11 M. Gregoritsch** - Delantero Centro
+
+---
+
+### Partido: Italy vs. Israel
+
+#### Italy (3-5-2)
+* **1 (c) G. Donnarumma** - Portero
+* **22 G. Di Lorenzo** - Defensa Central (Derecho)
+* **23 G. Mancini** - Líbero / Defensa Central
+* **13 R. Calafiori** - Defensa Central (Izquierdo)
+* **20 A. Cambiaso** - Carrilero Derecho
+* **18 N. Barella** - Interior Derecho
+* **5 M. Locatelli** - Pivote (Mediocampista Central)
+* **8 S. Tonali** - Interior Izquierdo
+* **3 F. Dimarco** - Carrilero Izquierdo
+* **10 G. Raspadori** - Delantero (Derecho)
+* **9 M. Retegui** - Delantero (Izquierdo)
+
+#### Israel (4-3-3)
+* **18 O. Glazer** - Portero
+* **2 (c) E. Dasa** - Lateral Derecho
+* **5 O. Blorian** - Defensa Central (Derecho)
+* **4 M. Baltaxa** - Defensa Central (Izquierdo)
+* **3 R. Revivo** - Lateral Izquierdo
+* **20 D. Biton** - Interior Derecho
+* **15 E. Peretz** - Pivote (Mediocampista Central)
+* **11 O. Gloukh** - Interior Izquierdo
+* **13 A. Khalaili** - Extremo Derecho
+* **9 T. Baribo** - Delantero Centro
+* **10 M. Solomon** - Extremo Izquierdo
+
+---
+
+### Partido: Slovakia vs. Luxembourg
+
+#### Slovakia (4-1-4-1)
+* **1 M. Dúbravka** - Portero
+* **6 N. Gyömbér** - Lateral Derecho
+* **14 (c) M. Škriniar** - Defensa Central (Derecho)
+* **4 A. Obert** - Defensa Central (Izquierdo)
+* **16 D. Hancko** - Lateral Izquierdo
+* **19 T. Rigo** - Pivote (Mediocampista Defensivo)
+* **20 D. Ďuriš** - Volante Derecho
+* **8 O. Duda** - Interior Derecho
+* **21 M. Bero** - Interior Izquierdo
+* **17 L. Haraslín** - Volante Izquierdo
+* **15 D. Strelec** - Delantero Centro
+
+#### Luxembourg (4-1-4-1)
+* **1 A. Moris** - Portero
+* **18 (c) L. Jans** - Lateral Derecho
+* **2 S. Korač** - Defensa Central (Derecho)
+* **3 E. Mahmutović** - Defensa Central (Izquierdo)
+* **4 F. Bohnert** - Lateral Izquierdo
+* **8 C. M. Pereira** - Pivote (Mediocampista Defensivo)
+* **10 D. Sinani** - Volante Derecho
+* **19 M. Olesen** - Interior Derecho
+* **16 L. Barreiro** - Interior Izquierdo
+* **9 A. Dardari** - Volante Izquierdo
+* **11 E. Muratović** - Delantero Centro
+
+---
+
+### Partido: Lithuania vs. Poland
+
+#### Lithuania (5-4-1)
+* **12 T. Švedkauskas** - Portero
+* **13 J. Lasickas** - Carrilero Derecho
+* **2 A. Tutyškinas** - Defensa Central (Derecho)
+* **4 E. Girdvainis** - Líbero / Defensa Central
+* **18 V. Armalas** - Defensa Central (Izquierdo)
+* **17 P. Sirvys** - Carrilero Izquierdo
+* **14 V. Slivka** - Volante Derecho
+* **11 G. Sirgėdas** - Mediocampista Central (Derecho)
+* **15 G. Gineitis** - Mediocampista Central (Izquierdo)
+* **22 P. Golubickas** - Volante Izquierdo
+* **10 (c) F. Černych** - Delantero Centro
+
+#### Poland (3-4-3)
+* **1 Ł. Skorupski** - Portero
+* **3 P. Wiśniewski** - Defensa Central (Derecho)
+* **5 J. Bednarek** - Líbero / Defensa Central
+* **14 J. Kiwior** - Defensa Central (Izquierdo)
+* **2 M. Cash** - Volante Derecho
+* **17 B. Slisz** - Mediocampista Central (Derecho)
+* **10 P. Zieliński** - Mediocampista Central (Izquierdo)
+* **21 M. Skóraś** - Volante Izquierdo
+* **20 S. Szymański** - Extremo Derecho
+* **9 (c) R. Lewandowski** - Delantero Centro
+* **13 J. Kamiński** - Extremo Izquierdo
+
+---
+
+### Partido: North Macedonia vs. Kazakhstan
+
+#### North Macedonia (5-3-2)
+* **23 S. Dimitrievski** - Portero
+* **8 E. Alioski** - Carrilero Derecho
+* **5 G. Zajkov** - Defensa Central (Derecho)
+* **14 D. Velkovski** - Líbero / Defensa Central
+* **2 A. Stojchevski** - Defensa Central (Izquierdo)
+* **6 B. Ilievski** - Carrilero Izquierdo
+* **7 E. Elmas** - Mediocampista (Derecho)
+* **10 (c) E. Bardhi** - Mediocampista (Central)
+* **18 L. Alimi** - Mediocampista (Izquierdo)
+* **19 M. Ristovski** - Delantero (Derecho)
+* **20 B. Miovski** - Delantero (Izquierdo)
+
+#### Kazakhstan (4-3-3)
+* **12 M. Seisen** - Portero
+* **13 B. Kairov** - Lateral Derecho
+* **3 (c) N. Alip** - Defensa Central (Derecho)
+* **11 Y. Vorogovskiy** - Defensa Central (Izquierdo)
+* **18 D. Karaman** - Lateral Izquierdo
+* **19 B. Zaynutdinov** - Interior Derecho
+* **5 I. Kuat** - Pivote (Mediocampista Central)
+* **7 G. Kenzhebek** - Interior Izquierdo
+* **9 I. Chesnokov** - Extremo Derecho
+* **17 L. Sviridov** - Delantero Centro
+* **8 A. Kasym** - Extremo Izquierdo
+
+¡Claro, bro! Aquí tienes el análisis detallado de todas las alineaciones que me pasaste, jugador por jugador, con su dorsal y su posición en la cancha, tal como aparecen en las imágenes.
+
+---
+
+## Partido: Türkiye vs. Georgia
+
+### Türkiye (4-2-3-1)
+* **23 U. Çakır** - Portero
+* **18 M. Müldür** - Lateral Derecho
+* **3 M. Demiral** - Defensa Central (Derecho)
+* **14 A. Bardakcı** - Defensa Central (Izquierdo)
+* **13 E. Elmalı** - Lateral Izquierdo
+* **10 (c) H. Çalhanoğlu** - Mediocampista Central (Derecho)
+* **16 İ. Yüksek** - Mediocampista Central (Izquierdo)
+* **21 Y. Akgün** - Volante Ofensivo (Derecho)
+* **8 A. Güler** - Mediocampista Ofensivo (Central)
+* **7 K. Aktürkoğlu** - Volante Ofensivo (Izquierdo)
+* **11 K. Yıldız** - Delantero Centro
+
+### Georgia (4-3-3)
+* **1 G. Mamardashvili** - Portero
+* **2 O. Kakabadze** - Lateral Derecho
+* **5 S. Goglichidze** - Defensa Central (Derecho)
+* **14 L. Lochoshvili** - Defensa Central (Izquierdo)
+* **13 G. Gocholeishvili** - Lateral Izquierdo
+* **6 G. Kochorashvili** - Interior Derecho
+* **17 O. Kiteishvili** - Pivote (Mediocampista Central)
+* **15 A. Mekvabishvili** - Interior Izquierdo
+* **10 Z. Davitashvili** - Extremo Derecho
+* **22 G. Mikautadze** - Delantero Centro
+* **7 (c) K. Kvaratskhelia** - Extremo Izquierdo
+
+---
+
+## Partido: Iceland vs. France
+
+### Iceland (5-3-2)
+* **1 E. Ólafsson** - Portero
+* **2 L. Tómasson** - Carrilero Derecho
+* **5 S. I. Ingason** - Defensa Central (Derecho)
+* **4 V. Pálsson** - Líbero / Defensa Central
+* **3 D. Grétarsson** - Defensa Central (Izquierdo)
+* **23 M. Ellertsson** - Carrilero Izquierdo
+* **10 A. Guðmundsson** - Mediocampista (Derecho)
+* **8 Í. B. Jóhannesson** - Mediocampista (Central)
+* **7 (c) H. A. Haraldsson** - Mediocampista (Izquierdo)
+* **21 D. T. Gudjohnsen** - Delantero (Derecho)
+* **9 S. A. Magnússon** - Delantero (Izquierdo)
+
+### France (4-2-3-1)
+* **16 (c) M. Maignan** - Portero
+* **5 J. Koundé** - Lateral Derecho
+* **17 W. Saliba** - Defensa Central (Derecho)
+* **4 D. Upamecano** - Defensa Central (Izquierdo)
+* **3 L. Digne** - Lateral Izquierdo
+* **8 M. Koné** - Pivote (Derecho)
+* **6 E. Camavinga** - Pivote (Izquierdo)
+* **20 F. Thauvin** - Volante Ofensivo (Derecho)
+* **18 C. Nkunku** - Mediocampista Ofensivo (Central)
+* **11 M. Olise** - Volante Ofensivo (Izquierdo)
+* **13 J. Mateta** - Delantero Centro
+
+---
+
+## Partido: Slovenia vs. Switzerland
+
+### Slovenia (5-4-1)
+* **1 (c) J. Oblak** - Portero
+* **2 Ž. Karničnik** - Carrilero Derecho
+* **6 J. Bijol** - Defensa Central (Derecho)
+* **21 V. Drkušić** - Líbero / Defensa Central
+* **13 E. Janža** - Defensa Central (Izquierdo)
+* **19 T. Horvat** - Carrilero Izquierdo
+* **15 D. Šturm** - Volante Derecho
+* **22 A. G. Čerin** - Mediocampista Central (Derecho)
+* **10 T. M. Elšnik** - Mediocampista Central (Izquierdo)
+* **23 D. Brekalo** - Volante Izquierdo
+* **11 B. Šeško** - Delantero Centro
+
+### Switzerland (4-3-3)
+* **1 G. Kobel** - Portero
+* **3 S. Widmer** - Lateral Derecho
+* **4 N. Elvedi** - Defensa Central (Derecho)
+* **5 M. Akanji** - Defensa Central (Izquierdo)
+* **13 R. Rodríguez** - Lateral Izquierdo
+* **8 R. Freuler** - Interior Derecho
+* **10 (c) G. Xhaka** - Pivote (Mediocampista Central)
+* **15 D. Sow** - Interior Izquierdo
+* **17 R. Vargas** - Extremo Derecho
+* **7 B. Embolo** - Delantero Centro
+* **11 D. Ndoye** - Extremo Izquierdo
+
+---
+
+## Partido: Northern Ireland vs. Germany
+
+### Northern Ireland (5-4-1)
+* **1 B. Peacock-Farrell** - Portero
+* **20 B. Spencer** - Carrilero Derecho
+* **4 D. Ballard** - Defensa Central (Derecho)
+* **5 (c) T. Hume** - Líbero / Defensa Central
+* **17 P. McNair** - Defensa Central (Izquierdo)
+* **15 J. Devenny** - Carrilero Izquierdo
+* **14 I. Price** - Volante Derecho
+* **19 S. Charles** - Mediocampista Central (Derecho)
+* **16 A. McCann** - Mediocampista Central (Izquierdo)
+* **7 E. Galbraith** - Volante Izquierdo
+* **18 J. Reid** - Delantero Centro
+
+### Germany (4-4-1-1)
+* **1 O. Baumann** - Portero
+* **6 (c) J. Kimmich** - Lateral Derecho
+* **4 J. Tah** - Defensa Central (Derecho)
+* **15 N. Schlotterbeck** - Defensa Central (Izquierdo)
+* **22 D. Raum** - Lateral Izquierdo
+* **20 S. Gnabry** - Volante Derecho
+* **5 A. Pavlović** - Mediocampista Central (Derecho)
+* **8 L. Goretzka** - Mediocampista Central (Izquierdo)
+* **14 K. Adeyemi** - Volante Izquierdo
+* **17 F. Wirtz** - Mediapunta
+* **11 N. Woltemade** - Delantero Centro
+
+---
+
+## Partido: Spain vs. Bulgaria
+
+### Spain (4-2-3-1)
+* **23 (c) U. Simón** - Portero
+* **12 P. Porro** - Lateral Derecho
+* **3 R. Le Normand** - Defensa Central (Derecho)
+* **10 A. Laporte** - Defensa Central (Izquierdo)
+* **17 A. Grimaldo** - Lateral Izquierdo
+* **18 M. Zubimendi** - Pivote (Derecho)
+* **6 M. Merino** - Pivote (Izquierdo)
+* **21 M. Oyarzabal** - Volante Ofensivo (Derecho)
+* **20 Pedri** - Mediocampista Ofensivo (Central)
+* **16 A. Baena** - Volante Ofensivo (Izquierdo)
+* **19 S. Aghehowa** - Delantero Centro
+
+### Bulgaria (4-5-1 / 4-1-4-1)
+* **21 S. Vutsov** - Portero
+* **15 P. Hristov** - Lateral Derecho
+* **3 A. Chernev** - Defensa Central (Derecho)
+* **4 I. Gruev** - Defensa Central (Izquierdo)
+* **22 D. Velkovski** - Lateral Izquierdo
+* **17 M. Minchev** - Volante Derecho
+* **20 M. Georgiev** - Interior Derecho
+* **23 S. Shopov** - Pivote (Mediocampista Defensivo)
+* **14 K. Filip** - Interior Izquierdo
+* **10 R. Kirilov** - Volante Izquierdo
+* **11 (c) K. Despodov** - Delantero Centro
+
+---
+
+## Partido: Slovakia vs. Northern Ireland
+
+### Slovakia (4-3-3)
+* **7 M. Dúbravka** - Portero
+* **16 N. Gyömbér** - Lateral Derecho
+* **18 Ľ. Šatka** - Defensa Central (Derecho)
+* **14 (c) M. Škriniar** - Defensa Central (Izquierdo)
+* **13 D. Hancko** - Lateral Izquierdo
+* **19 T. Rigo** - Interior Derecho
+* **22 S. Lobotka** - Pivote (Mediocampista Central)
+* **8 M. Bero** - Interior Izquierdo
+* **21 D. Ďuriš** - Extremo Derecho
+* **9 D. Strelec** - Delantero Centro
+* **17 L. Sauer** - Extremo Izquierdo
+
+### Northern Ireland (5-3-2)
+* **1 B. Peacock-Farrell** - Portero
+* **2 C. Bradley** - Carrilero Derecho
+* **4 D. Ballard** - Defensa Central (Derecho)
+* **5 (c) T. Hume** - Líbero / Defensa Central
+* **6 P. McNair** - Defensa Central (Izquierdo)
+* **3 J. Devenny** - Carrilero Izquierdo
+* **8 A. McCann** - Interior Derecho
+* **7 J. Reid** - Pivote (Mediocampista Central)
+* **10 J. McDonnell** - Interior Izquierdo
+* **9 I. Price** - Delantero (Derecho)
+* **11 J. Donley** - Delantero (Izquierdo)
+
+---
+
+## Partido: Sweden vs. Kosovo
+
+### Sweden (3-5-2)
+* **12 V. Johansson** - Portero
+* **22 G. Lagerbielke** - Defensa Central (Derecho)
+* **4 L. Hien** - Líbero / Defensa Central
+* **3 (c) V. Lindelöf** - Defensa Central (Izquierdo)
+* **5 G. Gudmundsson** - Carrilero Derecho
+* **8 D. Svensson** - Interior Derecho
+* **18 Y. Ayari** - Pivote (Mediocampista Central)
+* **7 L. Bergvall** - Interior Izquierdo
+* **21 A. Bernharðsson** - Carrilero Izquierdo
+* **9 A. Isak** - Delantero (Derecho)
+* **17 V. Gyökeres** - Delantero (Izquierdo)
+
+### Kosovo (3-1-4-2)
+* **1 A. Murić** - Portero
+* **15 M. Vojvoda** - Defensa Central (Derecho)
+* **2 K. Hajrizi** - Líbero / Defensa Central
+* **5 A. Hajdari** - Defensa Central (Izquierdo)
+* **20 V. Hodža** - Pivote (Mediocampista Defensivo)
+* **4 L. Krasniqi** - Volante Derecho
+* **11 F. Asllani** - Interior Derecho
+* **8 F. Muslija** - Interior Izquierdo
+* **23 L. Avdullahu** - Volante Izquierdo
+* **18 (c) V. Muriqi** - Delantero (Derecho)
+* **13 D. Gallapeni** - Delantero (Izquierdo)
+
+---
+
+## Partido: Ukraine vs. Azerbaijan
+
+### Ukraine (4-1-4-1)
+* **12 A. Trubin** - Portero
+* **2 Y. Konoplia** - Lateral Derecho
+* **13 I. Zabarnyi** - Defensa Central (Derecho)
+* **22 (c) M. Matviyenko** - Defensa Central (Izquierdo)
+* **16 V. Mykolenko** - Lateral Izquierdo
+* **8 R. Malinovskyi** - Pivote (Mediocampista Defensivo)
+* **18 Y. Yarmolyuk** - Interior Derecho
+* **15 O. Ocheretko** - Interior Izquierdo
+* **19 N. Voloshyn** - Volante Derecho
+* **9 O. Hutsuliak** - Volante Izquierdo
+* **11 A. Dovbyk** - Delantero Centro
+
+### Azerbaijan (5-4-1)
+* **1 Ş. Məhəmmədəliyev** - Portero
+* **17 T. Bayramov** - Carrilero Derecho
+* **13 A. Hüseynov** - Defensa Central (Derecho)
+* **14 E. Bədəlov** - Líbero / Defensa Central
+* **4 B. Mustafazadə** - Defensa Central (Izquierdo)
+* **3 E. Cəfərquliyev** - Carrilero Izquierdo
+* **19 N. Axundzadə** - Volante Derecho
+* **6 (c) E. Makhmudov** - Mediocampista Central (Derecho)
+* **15 A. Khaybulaev** - Mediocampista Central (Izquierdo)
+* **7 A. Nuriev** - Volante Izquierdo
+* **5 A. Krivotsyuk** - Delantero Centro
+
+---
+
+## Partido: Denmark vs. Greece
+
+### Denmark (4-4-2)
+* **1 (c) K. Schmeichel** - Portero
+* **6 A. Christensen** - Lateral Derecho
+* **2 J. Andersen** - Defensa Central (Derecho)
+* **3 J. Vestergaard** - Defensa Central (Izquierdo)
+* **5 J. Mæhle** - Lateral Izquierdo
+* **8 G. Isaksen** - Volante Derecho
+* **21 M. Hjulmand** - Mediocampista Central (Derecho)
+* **15 C. Nørgaard** - Mediocampista Central (Izquierdo)
+* **14 M. Damsgaard** - Volante Izquierdo
+* **12 V. Froholdt** - Delantero (Derecho)
+* **9 R. Højlund** - Delantero (Izquierdo)
+
+### Greece (4-2-3-1)
+* **1 O. Vlachodimos** - Portero
+* **15 L. Rota** - Lateral Derecho
+* **4 K. Mavropanos** - Defensa Central (Derecho)
+* **3 K. Koulierakis** - Defensa Central (Izquierdo)
+* **21 K. Tsimikas** - Lateral Izquierdo
+* **6 D. Kourbelis** - Pivote (Derecho)
+* **11 (c) A. Bakasetas** - Pivote (Izquierdo)
+* **10 C. Tzolis** - Volante Ofensivo (Derecho)
+* **19 K. Karetsas** - Mediocampista Ofensivo (Central)
+* **16 C. Zafeiris** - Volante Ofensivo (Izquierdo)
+* **8 F. Ioannidis** - Delantero Centro
+
+---
+
+## Partido: Scotland vs. Belarus
+
+### Scotland (4-2-3-1)
+* **1 A. Gunn** - Portero
+* **2 A. Ralston** - Lateral Derecho
+* **13 J. Hendry** - Defensa Central (Derecho)
+* **16 S. McKenna** - Defensa Central (Izquierdo)
+* **3 (c) A. Robertson** - Lateral Izquierdo
+* **14 S. McTominay** - Pivote (Derecho)
+* **23 K. McLean** - Pivote (Izquierdo)
+* **17 B. Doak** - Volante Ofensivo (Derecho)
+* **7 J. McGinn** - Mediocampista Ofensivo (Central)
+* **8 B. Gilmour** - Volante Ofensivo (Izquierdo)
+* **10 C. Adams** - Delantero Centro
+
+### Belarus (4-4-1-1)
+* **16 F. Lapoukhov** - Portero
+* **3 P. Zabelin** - Lateral Derecho
+* **4 (c) A. Martynovich** - Defensa Central (Derecho)
+* **5 E. Parkhomenko** - Defensa Central (Izquierdo)
+* **2 K. Pechenin** - Lateral Izquierdo
+* **10 V. Gromyko** - Volante Derecho
+* **14 E. Yablonski** - Mediocampista Central (Derecho)
+* **22 V. Pigas** - Mediocampista Central (Izquierdo)
+* **7 E. Malashevich** - Volante Izquierdo
+* **9 M. Ebong** - Mediapunta
+* **11 G. Barkovskiy** - Delantero Centro
+
+¡Perfecto, bro! Aquí está el análisis de las últimas imágenes que faltaban.
+
+Con esto, ya tienes la data de los 54 equipos.
+
+---
+¡Tienes toda la razón, bro! Mil disculpas, esa alineación de Gales y Bélgica te la di completamente cruzada. Mi error.
+
+Aquí está el análisis correcto, basado 100% en la imagen que acabas de pasar.
+
+---
+
+### Partido: Wales vs. Belgium
+
+#### Wales (4-2-3-1)
+* **1 K. Darlow** - Portero
+* **3 N. Williams** - Lateral Derecho
+* **6 J. Rodon** - Defensa Central (Derecho)
+* **18 B. Cabango** - Defensa Central (Izquierdo)
+* **4 (c) B. Davies** - Lateral Izquierdo
+* **5 E. Ampadu** - Pivote (Derecho)
+* **17 J. James** - Pivote (Izquierdo)
+* **7 D. Brooks** - Volante Ofensivo (Derecho)
+* **8 H. Wilson** - Mediocampista Ofensivo (Central)
+* **19 S. Thomas** - Volante Ofensivo (Izquierdo)
+* **16 M. Harris** - Delantero Centro
+
+#### Belgium (4-2-3-1)
+* **1 T. Courtois** - Portero
+* **15 T. Meunier** - Lateral Derecho
+* **2 Z. Debast** - Defensa Central (Derecho)
+* **3 A. Theate** - Defensa Central (Izquierdo)
+* **5 M. De Cuyper** - Lateral Izquierdo
+* **18 A. Onana** - Pivote (Derecho)
+* **8 N. Raskin** - Pivote (Izquierdo)
+* **11 J. Doku** - Volante Ofensivo (Derecho)
+* **17 C. De Ketelaere** - Mediocampista Ofensivo (Central)
+* **10 L. Trossard** - Volante Ofensivo (Izquierdo)
+* **7 (c) K. De Bruyne** - Delantero Centro
+---
+
+### Partido: Albania
+
+#### Albania (4-3-3)
+* **1 T. Strakosha** - Portero
+* **4 E. Hysaj** - Lateral Derecho
+* **5 A. Ajeti** - Defensa Central (Derecho)
+* **6 (c) B. Djimsiti** - Defensa Central (Izquierdo)
+* **3 M. Mitaj** - Lateral Izquierdo
+* **14 Q. Laçi** - Interior Derecho
+* **18 J. Shehu** - Pivote (Mediocampista Central)
+* **8 K. Asllani** - Interior Izquierdo
+* **22 A. Broja** - Extremo Derecho
+* **7 R. Manaj** - Delantero Centro
+* **11 M. Uzuni** - Extremo Izquierdo
+
+---
+
+### Partido: Norway
+
+#### Norway (4-4-2)
+* **1 Ø. Nyland** - Portero
+* **14 J. Ryerson** - Lateral Derecho
+* **3 K. Ajer** - Defensa Central (Derecho)
+* **17 T. Heggem** - Defensa Central (Izquierdo)
+* **5 D. M. Wolfe** - Lateral Izquierdo
+* **22 O. Bobb** - Volante Derecho
+* **8 S. Berge** - Mediocampista Central (Derecho)
+* **6 P. Berg** - Mediocampista Central (Izquierdo)
+* **7 A. Sørloth** - Volante Izquierdo
+* **20 A. Nusa** - Delantero (Derecho)
+* **9 (c) E. Haaland** - Delantero (Izquierdo)
+
+---
+
+### Partido: BiH (Bosnia y Herzegovina)
+
+#### BiH (4-2-3-1)
+* **1 N. Vasilj** - Portero
+* **7 A. Dedić** - Lateral Derecho
+* **18 N. Katić** - Defensa Central (Derecho)
+* **4 T. Muharemović** - Defensa Central (Izquierdo)
+* **2 N. Mujakić** - Lateral Izquierdo
+* **14 I. Šunjić** - Pivote (Derecho)
+* **6 B. Tahirović** - Pivote (Izquierdo)
+* **15 A. Memić** - Volante Ofensivo (Derecho)
+* **8 A. Gigović** - Mediocampista Ofensivo (Central)
+* **19 K. Alajbegović** - Volante Ofensivo (Izquierdo)
+* **11 (c) E. Džeko** - Delantero Centro
+
+---
+
+### Partido: Montenegro
+
+#### Montenegro (5-3-2)
+* **13 I. Nikić** - Portero
+* **22 M. Roganović** - Carrilero Derecho
+* **23 N. Šipčić** - Defensa Central (Derecho)
+* **15 (c) S. Savić** - Líbero / Defensa Central
+* **5 M. Perović** - Defensa Central (Izquierdo)
+* **2 A. Vukčević** - Carrilero Izquierdo
+* **10 V. Adžić** - Mediocampista (Derecho)
+* **18 M. Bakić** - Mediocampista (Central)
+* **19 M. Šimun** - Mediocampista (Izquierdo)
+* **20 M. Osmajić** - Delantero (Derecho)
+* **9 N. Krstović** - Delantero (Izquierdo)
+
+---
+
+### Partido: Malta
+
+#### Malta (4-2-3-1)
+* **1 H. Bonello** - Portero
+* **21 J. Corbalan** - Lateral Derecho
+* **5 K. Shaw** - Defensa Central (Derecho)
+* **13 E. Pepe** - Defensa Central (Izquierdo)
+* **3 R. Camenzuli** - Lateral Izquierdo
+* **6 (c) M. Guillaumier** - Pivote (Derecho)
+* **11 L. Cardona** - Pivote (Izquierdo)
+* **7 J. Mbong** - Volante Ofensivo (Derecho)
+* **10 T. Teuma** - Mediocampista Ofensivo (Central)
+* **9 Y. Chouaref** - Volante Ofensivo (Izquierdo)
+* **23 A. Satariano** - Delantero Centro
